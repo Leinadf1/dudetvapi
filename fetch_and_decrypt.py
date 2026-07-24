@@ -336,7 +336,7 @@ def main():
                             print(f"    [{i+1}/{len(decrypted_json)}] Fetching subcategory: {title} ({cat_link})...")
                             try:
                                 relative_path = f"cats/{cat_link}.json"
-                                sub_url = f"https://streamtvapp.top/{relative_path}"
+                                sub_url = f"https://modi-home.top/{relative_path}"
                                 sub_req = urllib.request.Request(sub_url, headers={"User-Agent": "Mozilla/5.0"})
                                 with urllib.request.urlopen(sub_req, timeout=15) as sub_res:
                                     sub_json = json.loads(sub_res.read().decode("utf-8"))
@@ -395,7 +395,7 @@ def main():
 
                         # 1. Fetch main ID channels
                         try:
-                            ch_url = f"https://streamtvapp.top/channels/{event_id}.json"
+                            ch_url = f"https://modi-home.top/channels/{event_id}.json"
                             ch_req = urllib.request.Request(ch_url, headers={"User-Agent": "Mozilla/5.0"})
                             with urllib.request.urlopen(ch_req, timeout=15) as ch_res:
                                 ch_json = json.loads(ch_res.read().decode("utf-8"))
@@ -412,7 +412,7 @@ def main():
 
                         # 2. Fetch fallback ID 'e' channels
                         try:
-                            ch_url = f"https://streamtvapp.top/channels/{event_id}e.json"
+                            ch_url = f"https://modi-home.top/channels/{event_id}e.json"
                             ch_req = urllib.request.Request(ch_url, headers={"User-Agent": "Mozilla/5.0"})
                             with urllib.request.urlopen(ch_req, timeout=15) as ch_res:
                                 ch_json = json.loads(ch_res.read().decode("utf-8"))
@@ -536,7 +536,7 @@ def main():
     for idx, ch_id in enumerate(sorted(list(tv_channel_ids))):
         print(f"    [{idx+1}/{len(tv_channel_ids)}] Fetching TV channel ID: {ch_id}...")
         try:
-            ch_url = f"https://streamtvapp.top/channels/{ch_id}.json"
+            ch_url = f"https://modi-home.top/channels/{ch_id}.json"
             ch_req = urllib.request.Request(ch_url, headers={"User-Agent": "Mozilla/5.0"})
             with urllib.request.urlopen(ch_req, timeout=12) as ch_res:
                 ch_json = json.loads(ch_res.read().decode("utf-8"))
