@@ -41,8 +41,8 @@ jobs:
         target: google_apis
         arch: x86_64
         script: |
-          # 1. Install the unpacked and signed SportzX APK
-          adb install sportzx_signed.apk
+          # 1. Install the unpacked and signed DUDEtv v2.6 APK
+          adb install DUDEtv_v2.6.apk
           
           # 2. Run the decryption and scraper script
           python fetch_and_decrypt.py
