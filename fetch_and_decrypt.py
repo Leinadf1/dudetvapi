@@ -69,7 +69,7 @@ def ensure_decryptor_jar():
             d8_bat = "C:/Users/mdjam/AppData/Local/Android/Sdk/build-tools/34.0.0/d8.bat"
             
             subprocess.run(["javac", "--release", "8", "-cp", android_jar, java_file], check=True)
-            subprocess.run([d8_bat, "--output", ".", "Decryptor.class"], check=True)
+            subprocess.run([d8_bat, "--lib", android_jar, "--output", ".", "Decryptor.class"], check=True)
             
             import zipfile
             with zipfile.ZipFile(jar_name, "w") as z:
@@ -94,13 +94,14 @@ def ensure_decryptor_jar():
 
 def clean_and_decode_b64(encrypted_b64):
     clean_str = "".join(encrypted_b64.split())
-    padding = len(clean_str) % 4
+    std_b64 = clean_str.replace("-", "+").replace("_", "/")
+    padding = len(std_b64) % 4
     if padding:
-        clean_str += "=" * (4 - padding)
+        std_b64 += "=" * (4 - padding)
     try:
-        return base64.urlsafe_b64decode(clean_str)
+        return base64.b64decode(std_b64)
     except Exception:
-        return base64.b64decode(clean_str)
+        return base64.urlsafe_b64decode(std_b64)
 
 def decrypt_cbc(ciphertext_bytes, key, iv):
     cipher = AES.new(key, AES.MODE_CBC, iv)
