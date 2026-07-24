@@ -17,16 +17,15 @@ def replace_sportzx_with_dudetv(data):
     return data
 
 def clean_and_decode_b64(encrypted_b64):
-    # Remove any whitespaces/newlines
     clean_str = "".join(encrypted_b64.split())
-    # Add proper base64 URL-safe padding
-    padding = len(clean_str) % 4
+    std_b64 = clean_str.replace("-", "+").replace("_", "/")
+    padding = len(std_b64) % 4
     if padding:
-        clean_str += "=" * (4 - padding)
+        std_b64 += "=" * (4 - padding)
     try:
-        return base64.urlsafe_b64decode(clean_str)
+        return base64.b64decode(std_b64)
     except Exception:
-        return base64.b64decode(clean_str)
+        return base64.urlsafe_b64decode(std_b64)
 
 def decrypt_cbc(ciphertext_bytes, key, iv):
     cipher = Cipher(algorithms.AES(key), modes.CBC(iv), backend=default_backend())

@@ -1,22 +1,22 @@
-# DUDE TV API Scraper & Decryptor Template
+# DUDE TV API Scraper & Decryptor
 
-This repository automatically fetches, decrypts, and hosts static JSON feeds from the `streamtvapp.top` domain using GitHub Actions.
+This repository automatically fetches, decrypts, and hosts static JSON feeds from the DUDE TV API endpoints using GitHub Actions.
 
 ## How it Works
 
-The scraper runs in a hybrid decryption mode:
-1. **Local Python Decryption**: Standard endpoints (like categories and channel lists) are decrypted instantly using static keys and IVs.
-2. **Dynamic JNI Decryption**: Secure endpoints (like events, highlights, and stream links) that use dynamic IVs and signature-based encryption are decrypted by running a headless Android Emulator in the GitHub Actions runner, installing the original app, and calling its native JNI library via ADB.
+The scraper runs automated decryption:
+1. **Automated Python Decryption**: Endpoints (categories, events, live matches, channel lists, and DRM headers) are fetched and decrypted directly using AES decryption with static credentials and dynamic IV handling.
+2. **Branding & Sanitization**: All content is sanitized to replace legacy "SportzX" branding with "DUDE Tv".
+3. **Consolidated Feeds**: Generates `events_with_channels.json`, a merged database of live events with active stream links, alongside dedicated subfolders (`cats/`, `channels/`).
 
-All decrypted outputs are saved in the `public_decrypted/` directory, which can be hosted directly via GitHub Pages to serve as a clean, independent API.
+All decrypted outputs are saved in the `public_decrypted/` directory, hosted via GitHub Pages to serve as a clean API.
 
 ## Repository Structure
 
-- `fetch_and_decrypt.py`: The main automation script that fetches and decrypts all feeds.
-- `Decryptor.java`: The Java helper injected into the Android JVM via ADB to invoke JNI decryption.
-- `DUDEtv_v2.5.apk`: The original Android application APK used for JNI decryption.
+- `fetch_and_decrypt.py`: Main automation script that fetches and decrypts all API feeds.
 - `config.json`: Configuration specifying the target API URLs.
-- `.github/workflows/scheduler.yml`: The GitHub Actions workflow that schedules the run every 6 hours on a macOS cloud runner.
+- `.github/workflows/scheduler.yml`: GitHub Actions workflow that runs the decryption script on a schedule and pushes updated data.
+- `public_decrypted/`: Directory containing all decrypted static JSON files.
 
 ## Setup Instructions
 
@@ -27,7 +27,7 @@ For the GitHub Actions workflow to push the decrypted feeds back to your reposit
 3. Scroll down to **Workflow permissions**.
 4. Select **"Read and write permissions"** and click **Save**.
 
-### 2. Enable GitHub Pages (Optional but Recommended)
+### 2. Enable GitHub Pages
 To host the decrypted JSON feeds as a public API:
 1. Go to your repository **Settings** > **Pages**.
 2. Under **Build and deployment**, set **Source** to `Deploy from a branch`.
@@ -35,13 +35,12 @@ To host the decrypted JSON feeds as a public API:
 4. Your API will be live at: `https://<username>.github.io/<repo>/public_decrypted/`
 
 ### 3. Local Execution
-If you want to run it on your local PC:
-1. Keep an Android emulator running (with the DUDEtv app installed).
-2. Install the Python requirements:
+To run on your local PC:
+1. Install Python requirements:
    ```bash
    pip install -r requirements.txt
    ```
-3. Run the script:
+2. Run the script:
    ```bash
    python fetch_and_decrypt.py
    ```

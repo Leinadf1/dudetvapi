@@ -7,16 +7,10 @@ on:
 
 jobs:
   run-processor:
-    runs-on: ubuntu-latest # Fast Linux runner with KVM nested virtualization
+    runs-on: ubuntu-latest
     steps:
     - name: Checkout Code
       uses: actions/checkout@v3
-
-    - name: Set up Java
-      uses: actions/setup-java@v3
-      with:
-        distribution: 'zulu'
-        java-version: '17'
 
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -28,29 +22,14 @@ jobs:
       run: |
         pip install -r requirements.txt
 
-    - name: Enable KVM group perms
+    - name: Run Decryption and Scraper
       run: |
-        echo 'KERNEL=="kvm", GROUP="kvm", MODE="0666", OPTIONS+="static_node=kvm"' | sudo tee /etc/udev/rules.d/99-kvm4all.rules
-        sudo udevadm control --reload-rules
-        sudo udevadm trigger --name-match=kvm
-
-    - name: Run Emulator and Decrypt
-      uses: reactivecircus/android-emulator-runner@v2
-      with:
-        api-level: 33
-        target: google_apis
-        arch: x86_64
-        script: |
-          # 1. Install the unpacked and signed DUDEtv v2.6 APK
-          adb install DUDEtv_v2.6.apk
-          
-          # 2. Run the decryption and scraper script
-          python fetch_and_decrypt.py
+        python fetch_and_decrypt.py
 
     - name: Commit and Push Decrypted Files
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git add -f public_decrypted/
+        git add public_decrypted/
         git commit -m "chore: update decrypted data feeds [skip ci]" || exit 0
         git push

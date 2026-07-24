@@ -1,6 +1,3 @@
-# Generated outputs (should not be committed locally, GitHub actions will generate/host them)
-public_decrypted/
-
 # Python caching & bytecode
 __pycache__/
 *.pyc
@@ -12,7 +9,7 @@ __pycache__/
 *.dex
 classes.dex
 
-# Logs
+# Logs & temp files
 *.log
 temp_payload.txt
 
