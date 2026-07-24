@@ -537,7 +537,7 @@ def main():
     for idx, ch_id in enumerate(sorted(list(tv_channel_ids))):
         print(f"    [{idx+1}/{len(tv_channel_ids)}] Fetching TV channel ID: {ch_id}...")
         try:
-            ch_url = f"https://modi-home.top/channels/{ch_id}.json"
+            ch_url = f"https://cdn-stream.top/channels/{ch_id}.json"
             ch_req = urllib.request.Request(ch_url, headers={"User-Agent": "Mozilla/5.0"})
             with urllib.request.urlopen(ch_req, timeout=12) as ch_res:
                 ch_json = json.loads(ch_res.read().decode("utf-8"))
