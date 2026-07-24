@@ -81,5 +81,6 @@
       },
       "player_decryption_handling": "If 'api' is present (e.g. '385ceb97...:18dce92...'), it represents a DRM protected stream. Split the 'api' string by ':' to get the Key ID (left) and Key (right), and pass them to your player's DRM ClearKey configuration."
     }
-  }
+  },
+  "last_updated": "2026-07-25 02:49:51"
 }
