@@ -276,7 +276,7 @@
         "type": "1"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
     "id": 50003,
@@ -508,8 +508,7 @@
       "DUDE Tv Live",
       "PARAMOUNT+ HD",
       "SD TV (USE VPN)",
-      "DUDE Tv LIVE",
-      ""
+      "DUDE Tv LIVE"
     ],
     "formatsNew": [
       {
@@ -546,10 +545,6 @@
       },
       {
         "title": "DUDE Tv LIVE",
-        "logo": ""
-      },
-      {
-        "title": "",
         "logo": ""
       }
     ],
@@ -1230,7 +1225,7 @@
       "eventBanner": "https://wsrv.nl/?url=https://iili.io/Cenkn0x.png",
       "isHot": "0",
       "startTime": "2026/07/25 13:00:00 +0000",
-      "endTime": "2026/07/25 19:00:00 +0000"
+      "endTime": "2026/07/25 20:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -2469,110 +2464,87 @@
   },
   {
     "id": 50086,
-    "title": "Sunrisers Leeds vs Southern Brave",
+    "title": "Auckland vs Tottenham Hotspur",
     "image": "o",
-    "cat": "The Hundred",
+    "cat": "Club Friendly",
     "eventInfo": {
-      "teamA": "SL",
-      "teamB": "SOB",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/377178/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/377177/image",
-      "eventName": "Sunrisers Leeds vs Southern Brave",
+      "teamA": "Auckland FC",
+      "teamB": "Tottenham",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/800224/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/33/image",
+      "eventName": "Auckland vs Tottenham Hotspur",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/25 13:30:00 +0000",
-      "endTime": "2026/07/25 17:00:00 +0000"
+      "startTime": "2026/07/26 03:00:00 +0000",
+      "endTime": "2026/07/26 05:10:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "WILLOW - FHD",
-      "WILLOW - AQ",
-      "WILLOW - ALT",
-      "WILLOW - ALT2",
-      "TAPMAD - FHD",
-      "FOX CRICKET HD",
-      "LOW SERVER"
+      "CBS NETWORK"
     ],
     "formatsNew": [
       {
-        "title": "WILLOW - FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "WILLOW - AQ",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "WILLOW - ALT2",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "TAPMAD - FHD",
-        "logo": ""
-      },
-      {
-        "title": "FOX CRICKET HD",
-        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj"
-      },
-      {
-        "title": "LOW SERVER",
+        "title": "CBS NETWORK",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
-        "api": "d34fe13c8cfc91a3a1a5f63ff936ec70:20fa2c9ce0f14597e66c9dbf20ce3474",
-        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2tienvp9qw/out/v1/476f2ab2169e42008e7a60afa4e2b085/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW - FHD",
+        "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "CBS NETWORK",
         "type": "1"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50087,
+    "title": "Guadalajara vs FC Jurez",
+    "image": "o",
+    "cat": "Liga MX",
+    "eventInfo": {
+      "teamA": "Guadalajara",
+      "teamB": "Jurez",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1938/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/201624/image",
+      "eventName": "CD Guadalajara vs FC Jurez",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/25 23:00:00 +0000",
+      "endTime": "2026/07/26 01:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SPX LIVE FHD",
+      "NBC UNIVERSEO"
+    ],
+    "formatsNew": [
+      {
+        "title": "SPX LIVE FHD",
+        "logo": ""
       },
       {
-        "api": "0ca745f55a0a0baab8fb2003248ab338:5d535450d386aa85f170b94bc1ae4529",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6vbgnyq7tk/out/v1/ad1f664435bf4736adb9c94ffa2aada0/cenc.mpd",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW - AQ",
-        "type": "1"
-      },
-      {
-        "api": "d34fe13c8cfc91a3a1a5f63ff936ec70:20fa2c9ce0f14597e66c9dbf20ce3474",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2tienvp9qw/out/v1/476f2ab2169e42008e7a60afa4e2b085/cenc.mpd",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW - ALT",
-        "type": "1"
-      },
-      {
-        "api": "0ca745f55a0a0baab8fb2003248ab338:5d535450d386aa85f170b94bc1ae4529",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/6vbgnyq7tk/out/v1/ad1f664435bf4736adb9c94ffa2aada0/cenc.mpd",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW - ALT2",
-        "type": "1"
-      },
+        "title": "NBC UNIVERSEO",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
       {
         "api": "",
-        "link": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8|referer=https://tapmad.com",
+        "link": "https://messi.damitv.st/live-hls/channel/liga-mx/2026-07-25/gdl-jua/playlist.m3u8",
         "logo": "",
-        "title": "TAPMAD - FHD",
+        "title": "SPX LIVE FHD",
         "type": "0"
       },
       {
-        "api": "",
-        "link": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
-        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj",
-        "title": "FOX CRICKET HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
+        "api": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
+        "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
         "logo": "",
-        "title": "LOW SERVER",
-        "type": "0"
+        "title": "NBC UNIVERSEO",
+        "type": "1"
       }
     ],
     "channel_status": "live"
@@ -3485,233 +3457,5 @@
       }
     ],
     "channel_status": "live"
-  },
-  {
-    "id": 50115,
-    "title": "Las Palmas vs Al-Ittihad",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Las Palmas",
-      "teamB": "Al-Ittihad",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/6577/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/34315/image",
-      "eventName": "Las Palmas vs Al-Ittihad",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/25 17:00:00 +0000",
-      "endTime": "2026/07/25 19:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4592625.m3u8?txSecret=dedc8b6637f8fa451d387a404e5e5b1f&txTime=6A64EC2E|Referer=https://player.online909.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.190/hls/llllQQQQ.m3u8?|Referer=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "SD SERVER",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50116,
-    "title": "Mallorca vs Al-Fateh",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Mallorca",
-      "teamB": "Al-Fateh",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2826/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/56023/image",
-      "eventName": "Mallorca vs Al-Fateh",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/25 17:00:00 +0000",
-      "endTime": "2026/07/25 19:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4592624.m3u8?txSecret=5afcce2d62089a91eb729b36f0f99ae4&txTime=6A64EC76|Referer=https://player.online909.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.190/hls/llllQQQQQ.m3u8?|Referer=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "SD SERVER",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50117,
-    "title": "Mlaga CF vs Leicester",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Mlaga CF",
-      "teamB": "Leicester City",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2830/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/31/image",
-      "eventName": "Mlaga CF vs Leicester City",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/25 17:00:00 +0000",
-      "endTime": "2026/07/25 19:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [],
-    "channel_status": "unavailable"
-  },
-  {
-    "id": 50118,
-    "title": "Strasbourg vs Blackburn Rovers",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "RC Strasbourg",
-      "teamB": "Blackburn Rovers",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1659/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/46/image",
-      "eventName": "RC Strasbourg vs Blackburn Rovers",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/25 17:00:00 +0000",
-      "endTime": "2026/07/25 19:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [],
-    "channel_status": "unavailable"
-  },
-  {
-    "id": 50119,
-    "title": "Celta Vigo vs Sporting Gijn",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Celta Vigo",
-      "teamB": "Sporting Gijn",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2821/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2852/image",
-      "eventName": "Celta Vigo vs Sporting Gijn",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/25 17:00:00 +0000",
-      "endTime": "2026/07/25 19:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "http://193.47.62.190/hls/llllQQQ.m3u8?|Referer=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "SD SERVER",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50120,
-    "title": "Athletic Club vs Eibar",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Athletic Club",
-      "teamB": "Eibar",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2825/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2839/image",
-      "eventName": "Athletic Club vs Eibar",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/25 17:00:00 +0000",
-      "endTime": "2026/07/25 19:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [],
-    "channel_status": "unavailable"
   }
 ]
