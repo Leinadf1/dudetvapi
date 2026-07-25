@@ -29,3 +29,6 @@ HOW_IT_WORKS.md
 # APK files (too large for git)
 *.apk
 *.apk.idsig
+
+# Generated output data (pushed by GitHub Actions only)
+public_decrypted/
