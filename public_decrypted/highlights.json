@@ -1,6 +1,6 @@
 [
   {
-    "id": 100001,
+    "id": 1,
     "title": "WWE Smackdown",
     "cat": "WWE",
     "eventInfo": {
@@ -29,7 +29,7 @@
     ]
   },
   {
-    "id": 100027,
+    "id": 27,
     "title": "PSG vs Arsenal",
     "cat": "UCL",
     "eventInfo": {
@@ -92,556 +92,35 @@
     ]
   },
   {
-    "id": 100029,
-    "title": "South Korea vs Czechia",
-    "cat": "FIFA World Cup",
+    "id": 29,
+    "title": "Formula 1",
+    "cat": "F1",
     "eventInfo": {
-      "teamA": "South Korea",
-      "teamB": "Czechia",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4735/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4714/image",
-      "eventName": "South Korea vs Czechia",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/06/12 02:00:00 +0000",
-      "endTime": "2026/06/12 04:00:00 +0000"
-    },
-    "catImage": "To",
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "MINI MATCH",
-      "HIGHLIGHTS",
-      "FULL MATCH [EN]",
-      "FULL MATCH [RU]",
-      "EXTENDED HIGH [EN]"
-    ],
-    "formatsNew": [
-      {
-        "title": "MINI MATCH",
-        "logo": ""
-      },
-      {
-        "title": "HIGHLIGHTS",
-        "logo": ""
-      },
-      {
-        "title": "FULL MATCH [EN]",
-        "logo": ""
-      },
-      {
-        "title": "FULL MATCH [RU]",
-        "logo": ""
-      },
-      {
-        "title": "EXTENDED HIGH [EN]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 100031,
-    "title": "USA vs Paraguay",
-    "cat": "FIFA World Cup",
-    "eventInfo": {
-      "teamA": "USA",
-      "teamB": "Paraguay",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4724/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4789/image",
-      "eventName": "USA vs Paraguay",
+      "teamA": "Formula 1",
+      "teamB": "Formula 1",
+      "teamAFlag": "https://scdnmain.net/assets/tournament/40-c.png",
+      "teamBFlag": "https://scdnmain.net/assets/tournament/40-c.png",
+      "eventName": "Formula 1",
       "eventType": "null",
       "isHot": "1",
-      "startTime": "2026/06/13 01:00:00 +0000",
-      "endTime": "2026/06/13 03:00:00 +0000"
+      "startTime": "2026/12/30 18:00:00 +0000",
+      "endTime": "2026/12/30 19:00:00 +0000"
     },
     "catImage": "To",
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "EXTENDED HIG.",
-      "FULL MATCH [TSN]",
-      "FULL MATCH [RU]"
+      "BELGIAN GRAND PRIX - RACE"
     ],
     "formatsNew": [
       {
-        "title": "EXTENDED HIG.",
-        "logo": ""
-      },
-      {
-        "title": "FULL MATCH [TSN]",
-        "logo": ""
-      },
-      {
-        "title": "FULL MATCH [RU]",
+        "title": "BELGIAN GRAND PRIX - RACE",
         "logo": ""
       }
     ]
   },
   {
-    "id": 100034,
-    "title": "Netherlands vs Japan",
-    "cat": "FIFA World Cup",
-    "eventInfo": {
-      "teamA": "Netherlands",
-      "teamB": "Japan",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4705/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4770/image",
-      "eventName": "Netherlands vs Japan",
-      "eventType": "null",
-      "isHot": "1",
-      "startTime": "2026/06/14 20:00:00 +0000",
-      "endTime": "2026/06/14 22:00:00 +0000"
-    },
-    "catImage": "To",
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "HIGHLIGHTS [BBC]",
-      "FULL MATCH [DE]",
-      "FULL MATCH [UK]"
-    ],
-    "formatsNew": [
-      {
-        "title": "HIGHLIGHTS [BBC]",
-        "logo": ""
-      },
-      {
-        "title": "FULL MATCH [DE]",
-        "logo": ""
-      },
-      {
-        "title": "FULL MATCH [UK]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 100035,
-    "title": "Cte d'Ivoire vs Ecuador",
-    "cat": "FIFA World Cup",
-    "eventInfo": {
-      "teamA": "Cte d'Ivoire",
-      "teamB": "Ecuador",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4768/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4757/image",
-      "eventName": "Cte d'Ivoire vs Ecuador",
-      "eventType": "null",
-      "isHot": "1",
-      "startTime": "2026/06/14 23:00:00 +0000",
-      "endTime": "2026/06/15 01:00:00 +0000"
-    },
-    "catImage": "To",
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "HIGHLIGHTS",
-      "FULL MATCH [EN]",
-      "FULL MATCH [RU]",
-      "MINI MATCH"
-    ],
-    "formatsNew": [
-      {
-        "title": "HIGHLIGHTS",
-        "logo": ""
-      },
-      {
-        "title": "FULL MATCH [EN]",
-        "logo": ""
-      },
-      {
-        "title": "FULL MATCH [RU]",
-        "logo": ""
-      },
-      {
-        "title": "MINI MATCH",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 100042,
-    "title": "Ghana vs Panama",
-    "cat": "FIFA World Cup",
-    "eventInfo": {
-      "teamA": "Ghana",
-      "teamB": "Panama",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4764/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/5164/image",
-      "eventName": "Ghana vs Panama",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/06/17 23:00:00 +0000",
-      "endTime": "2026/06/18 01:00:00 +0000"
-    },
-    "catImage": "To",
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "HIGHLIGHTS",
-      "HIGHLIGHTS",
-      "FULL MATCH"
-    ],
-    "formatsNew": [
-      {
-        "title": "HIGHLIGHTS",
-        "logo": ""
-      },
-      {
-        "title": "HIGHLIGHTS",
-        "logo": ""
-      },
-      {
-        "title": "FULL MATCH",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 100048,
-    "title": "USA vs Australia",
-    "cat": "FIFA World Cup",
-    "eventInfo": {
-      "teamA": "USA",
-      "teamB": "Australia",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4724/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4741/image",
-      "eventName": "USA vs Australia",
-      "eventType": "null",
-      "isHot": "1",
-      "startTime": "2026/06/19 19:00:00 +0000",
-      "endTime": "2026/06/19 21:00:00 +0000"
-    },
-    "catImage": "To",
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "HIGHLIGHTS [EN]",
-      "HIGHLIGHTS [RU]",
-      "FULL MATCH [EN]",
-      "FULL MATC [RU]"
-    ],
-    "formatsNew": [
-      {
-        "title": "HIGHLIGHTS [EN]",
-        "logo": ""
-      },
-      {
-        "title": "HIGHLIGHTS [RU]",
-        "logo": ""
-      },
-      {
-        "title": "FULL MATCH [EN]",
-        "logo": ""
-      },
-      {
-        "title": "FULL MATC [RU]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 100051,
-    "title": "Trkiye vs Paraguay",
-    "cat": "FIFA World Cup",
-    "eventInfo": {
-      "teamA": "Trkiye",
-      "teamB": "Paraguay",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4700/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4789/image",
-      "eventName": "Trkiye vs Paraguay",
-      "eventType": "null",
-      "isHot": "1",
-      "startTime": "2026/06/20 03:00:00 +0000",
-      "endTime": "2026/06/20 05:00:00 +0000"
-    },
-    "catImage": "To",
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "HIGHLIGHTS [BBC]",
-      "HIGHLIGHTS [RU]",
-      "FULL MATCH [EN]",
-      "FULL MATCH [RU]"
-    ],
-    "formatsNew": [
-      {
-        "title": "HIGHLIGHTS [BBC]",
-        "logo": ""
-      },
-      {
-        "title": "HIGHLIGHTS [RU]",
-        "logo": ""
-      },
-      {
-        "title": "FULL MATCH [EN]",
-        "logo": ""
-      },
-      {
-        "title": "FULL MATCH [RU]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 100053,
-    "title": "Tunisia vs Japan",
-    "cat": "FIFA World Cup",
-    "eventInfo": {
-      "teamA": "Tunisia",
-      "teamB": "Japan",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4729/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4770/image",
-      "eventName": "Tunisia vs Japan",
-      "eventType": "null",
-      "isHot": "1",
-      "startTime": "2026/06/21 04:00:00 +0000",
-      "endTime": "2026/06/21 06:00:00 +0000"
-    },
-    "catImage": "To",
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "HIGHLIGHTS",
-      "HIGHLIGHTS",
-      "FULL MATCH [TSN]",
-      "FULL MATCH [BBC]",
-      "FULL MATCH [RU]"
-    ],
-    "formatsNew": [
-      {
-        "title": "HIGHLIGHTS",
-        "logo": ""
-      },
-      {
-        "title": "HIGHLIGHTS",
-        "logo": ""
-      },
-      {
-        "title": "FULL MATCH [TSN]",
-        "logo": ""
-      },
-      {
-        "title": "FULL MATCH [BBC]",
-        "logo": ""
-      },
-      {
-        "title": "FULL MATCH [RU]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 100056,
-    "title": "Uruguay vs Cabo Verde",
-    "cat": "FIFA World Cup",
-    "eventInfo": {
-      "teamA": "Uruguay",
-      "teamB": "Cabo Verde",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4725/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4753/image",
-      "eventName": "Uruguay vs Cabo Verde",
-      "eventType": "null",
-      "isHot": "1",
-      "startTime": "2026/06/21 22:00:00 +0000",
-      "endTime": "2026/06/22 00:00:00 +0000"
-    },
-    "catImage": "To",
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "HIGHLIGHTS",
-      "MINI MATCH"
-    ],
-    "formatsNew": [
-      {
-        "title": "HIGHLIGHTS",
-        "logo": ""
-      },
-      {
-        "title": "MINI MATCH",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 100060,
-    "title": "Jordan vs Algeria",
-    "cat": "FIFA World Cup",
-    "eventInfo": {
-      "teamA": "Jordan",
-      "teamB": "Algeria",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4771/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4691/image",
-      "eventName": "Jordan vs Algeria",
-      "eventType": "null",
-      "isHot": "1",
-      "startTime": "2026/06/23 03:00:00 +0000",
-      "endTime": "2026/06/23 05:00:00 +0000"
-    },
-    "catImage": "To",
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "HIGHLIGHTS",
-      "MINI MATCH",
-      "FULL MATCH [RU]"
-    ],
-    "formatsNew": [
-      {
-        "title": "HIGHLIGHTS",
-        "logo": ""
-      },
-      {
-        "title": "MINI MATCH",
-        "logo": ""
-      },
-      {
-        "title": "FULL MATCH [RU]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 100064,
-    "title": "Bosnia vs Qatar",
-    "cat": "FIFA World Cup",
-    "eventInfo": {
-      "teamA": "BiH",
-      "teamB": "Qatar",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4479/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4792/image",
-      "eventName": "Bosnia vs Qatar",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/06/24 19:00:00 +0000",
-      "endTime": "2026/06/24 21:00:00 +0000"
-    },
-    "catImage": "To",
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "HIGHLIGHTS",
-      "HIGHLIGHTS",
-      "FULL MATCH [EN]",
-      "FULL MATCH [GE]",
-      "FULL MATCH [RU]"
-    ],
-    "formatsNew": [
-      {
-        "title": "HIGHLIGHTS",
-        "logo": ""
-      },
-      {
-        "title": "HIGHLIGHTS",
-        "logo": ""
-      },
-      {
-        "title": "FULL MATCH [EN]",
-        "logo": ""
-      },
-      {
-        "title": "FULL MATCH [GE]",
-        "logo": ""
-      },
-      {
-        "title": "FULL MATCH [RU]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 100067,
-    "title": "South Africa vs South Korea",
-    "cat": "FIFA World Cup",
-    "eventInfo": {
-      "teamA": "South Africa",
-      "teamB": "South Korea",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4736/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4735/image",
-      "eventName": "South Africa vs South Korea",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/06/25 01:00:00 +0000",
-      "endTime": "2026/06/25 03:00:00 +0000"
-    },
-    "catImage": "To",
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "HIGHLIGHTS",
-      "HIGHLIGHTS [RU]",
-      "FULL MATCH",
-      "FULL MATCH",
-      "FULL MATCH"
-    ],
-    "formatsNew": [
-      {
-        "title": "HIGHLIGHTS",
-        "logo": ""
-      },
-      {
-        "title": "HIGHLIGHTS [RU]",
-        "logo": ""
-      },
-      {
-        "title": "FULL MATCH",
-        "logo": ""
-      },
-      {
-        "title": "FULL MATCH",
-        "logo": ""
-      },
-      {
-        "title": "FULL MATCH",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 100069,
-    "title": "Paraguay vs Australia",
-    "cat": "FIFA World Cup",
-    "eventInfo": {
-      "teamA": "Paraguay",
-      "teamB": "Australia",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4789/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4741/image",
-      "eventName": "Paraguay vs Australia",
-      "eventType": "null",
-      "isHot": "1",
-      "startTime": "2026/06/26 02:00:00 +0000",
-      "endTime": "2026/06/26 04:00:00 +0000"
-    },
-    "catImage": "To",
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "HIGHLIGHTS",
-      "HIGHLIGHTS [EN]",
-      "FULL MATCH",
-      "FULL MATCH"
-    ],
-    "formatsNew": [
-      {
-        "title": "HIGHLIGHTS",
-        "logo": ""
-      },
-      {
-        "title": "HIGHLIGHTS [EN]",
-        "logo": ""
-      },
-      {
-        "title": "FULL MATCH",
-        "logo": ""
-      },
-      {
-        "title": "FULL MATCH",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 100070,
+    "id": 70,
     "title": "Trkiye vs USA",
     "cat": "FIFA World Cup",
     "eventInfo": {
@@ -689,7 +168,7 @@
     ]
   },
   {
-    "id": 100072,
+    "id": 72,
     "title": "Senegal vs Iraq",
     "cat": "FIFA World Cup",
     "eventInfo": {
@@ -737,7 +216,7 @@
     ]
   },
   {
-    "id": 100074,
+    "id": 74,
     "title": "Cabo Verde vs Saudi Arabia",
     "cat": "FIFA World Cup",
     "eventInfo": {
@@ -785,7 +264,7 @@
     ]
   },
   {
-    "id": 100075,
+    "id": 75,
     "title": "Egypt vs Iran",
     "cat": "FIFA World Cup",
     "eventInfo": {
@@ -823,7 +302,7 @@
     ]
   },
   {
-    "id": 100076,
+    "id": 76,
     "title": "New Zealand vs Belgium",
     "cat": "FIFA World Cup",
     "eventInfo": {
@@ -861,7 +340,7 @@
     ]
   },
   {
-    "id": 100078,
+    "id": 78,
     "title": "Croatia vs Ghana",
     "cat": "FIFA World Cup",
     "eventInfo": {
@@ -914,7 +393,7 @@
     ]
   },
   {
-    "id": 100080,
+    "id": 80,
     "title": "DR Congo vs Uzbekistan",
     "cat": "FIFA World Cup",
     "eventInfo": {
@@ -962,55 +441,7 @@
     ]
   },
   {
-    "id": 100081,
-    "title": "Jordan vs Argentina",
-    "cat": "FIFA World Cup",
-    "eventInfo": {
-      "teamA": "Jordan",
-      "teamB": "Argentina",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4771/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4819/image",
-      "eventName": "Jordan vs Argentina",
-      "eventType": "null",
-      "isHot": "1",
-      "startTime": "2026/06/28 02:00:00 +0000",
-      "endTime": "2026/06/28 04:00:00 +0000"
-    },
-    "catImage": "To",
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "HIGHLIGHTS [EN]",
-      "HIGHLIGHTS [BBC]",
-      "MINI MATCH",
-      "FULL MATCH [FOX]",
-      "FULL MATCH [RU]"
-    ],
-    "formatsNew": [
-      {
-        "title": "HIGHLIGHTS [EN]",
-        "logo": ""
-      },
-      {
-        "title": "HIGHLIGHTS [BBC]",
-        "logo": ""
-      },
-      {
-        "title": "MINI MATCH",
-        "logo": ""
-      },
-      {
-        "title": "FULL MATCH [FOX]",
-        "logo": ""
-      },
-      {
-        "title": "FULL MATCH [RU]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 100082,
+    "id": 82,
     "title": "Algeria vs Austria",
     "cat": "FIFA World Cup",
     "eventInfo": {
@@ -1053,7 +484,7 @@
     ]
   },
   {
-    "id": 100083,
+    "id": 83,
     "title": "South Africa vs Canada",
     "cat": "FIFA World Cup",
     "eventInfo": {
@@ -1101,7 +532,7 @@
     ]
   },
   {
-    "id": 100084,
+    "id": 84,
     "title": "Brazil vs Japan",
     "cat": "FIFA World Cup",
     "eventInfo": {
@@ -1159,7 +590,7 @@
     ]
   },
   {
-    "id": 100085,
+    "id": 85,
     "title": "Germany vs Paraguay",
     "cat": "FIFA World Cup",
     "eventInfo": {
@@ -1222,7 +653,7 @@
     ]
   },
   {
-    "id": 100086,
+    "id": 86,
     "title": "Netherlands vs Morocco",
     "cat": "FIFA World Cup",
     "eventInfo": {
@@ -1275,45 +706,7 @@
     ]
   },
   {
-    "id": 100088,
-    "title": "France vs Sweden",
-    "cat": "FIFA World Cup",
-    "eventInfo": {
-      "teamA": "France",
-      "teamB": "Sweden",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4481/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4688/image",
-      "eventName": "France vs Sweden",
-      "eventType": "null",
-      "isHot": "1",
-      "startTime": "2026/06/30 21:00:00 +0000",
-      "endTime": "2026/06/30 23:00:00 +0000"
-    },
-    "catImage": "To",
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "HIGHLIGHTS [EN]",
-      "FULL MATCH [EN]",
-      "FULL MATCH [EN]"
-    ],
-    "formatsNew": [
-      {
-        "title": "HIGHLIGHTS [EN]",
-        "logo": ""
-      },
-      {
-        "title": "FULL MATCH [EN]",
-        "logo": ""
-      },
-      {
-        "title": "FULL MATCH [EN]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 100089,
+    "id": 89,
     "title": "Mexico vs Ecuador",
     "cat": "FIFA World Cup",
     "eventInfo": {
@@ -1356,7 +749,7 @@
     ]
   },
   {
-    "id": 100090,
+    "id": 90,
     "title": "England vs DR Congo",
     "cat": "FIFA World Cup",
     "eventInfo": {
@@ -1394,7 +787,7 @@
     ]
   },
   {
-    "id": 100091,
+    "id": 91,
     "title": "Belgium vs Senegal",
     "cat": "FIFA World Cup",
     "eventInfo": {
@@ -1427,7 +820,7 @@
     ]
   },
   {
-    "id": 100092,
+    "id": 92,
     "title": "Spain vs Austria",
     "cat": "FIFA World Cup",
     "eventInfo": {
@@ -1480,7 +873,7 @@
     ]
   },
   {
-    "id": 100093,
+    "id": 93,
     "title": "Portugal vs Croatia",
     "cat": "FIFA World Cup",
     "eventInfo": {
@@ -1513,7 +906,7 @@
     ]
   },
   {
-    "id": 100094,
+    "id": 94,
     "title": "Argentina vs Cabo Verde",
     "cat": "FIFA World Cup",
     "eventInfo": {
@@ -1561,7 +954,7 @@
     ]
   },
   {
-    "id": 100095,
+    "id": 95,
     "title": "Canada vs Morocco",
     "cat": "FIFA World Cup",
     "eventInfo": {
@@ -1594,7 +987,7 @@
     ]
   },
   {
-    "id": 100096,
+    "id": 96,
     "title": "Paraguay vs France",
     "cat": "FIFA World Cup",
     "eventInfo": {
@@ -1632,7 +1025,7 @@
     ]
   },
   {
-    "id": 100097,
+    "id": 97,
     "title": "Brazil vs Norway",
     "cat": "FIFA World Cup",
     "eventInfo": {
@@ -1680,7 +1073,7 @@
     ]
   },
   {
-    "id": 100098,
+    "id": 98,
     "title": "Mexico vs England",
     "cat": "FIFA World Cup",
     "eventInfo": {
@@ -1723,7 +1116,7 @@
     ]
   },
   {
-    "id": 100099,
+    "id": 99,
     "title": "Portugal vs Spain",
     "cat": "FIFA World Cup",
     "eventInfo": {
@@ -1771,7 +1164,7 @@
     ]
   },
   {
-    "id": 100100,
+    "id": 100,
     "title": "Argentina vs Egypt",
     "cat": "FIFA World Cup",
     "eventInfo": {
@@ -1814,7 +1207,7 @@
     ]
   },
   {
-    "id": 100101,
+    "id": 101,
     "title": "Switzerland vs Colombia",
     "cat": "FIFA World Cup",
     "eventInfo": {
@@ -1862,7 +1255,7 @@
     ]
   },
   {
-    "id": 100102,
+    "id": 102,
     "title": "France vs Morocco",
     "cat": "FIFA World Cup",
     "eventInfo": {
@@ -1910,7 +1303,7 @@
     ]
   },
   {
-    "id": 100103,
+    "id": 103,
     "title": "Spain vs Belgium",
     "cat": "FIFA World Cup",
     "eventInfo": {
@@ -1953,7 +1346,7 @@
     ]
   },
   {
-    "id": 100105,
+    "id": 105,
     "title": "South Africa vs Scotland",
     "cat": "Rugby",
     "eventInfo": {
@@ -1986,7 +1379,7 @@
     ]
   },
   {
-    "id": 100106,
+    "id": 106,
     "title": "Norway vs England",
     "cat": "FIFA World Cup",
     "eventInfo": {
@@ -2008,7 +1401,9 @@
       "1st HALF",
       "2nd HALF",
       "EXTRA TIME",
-      "FULL TIME"
+      "FULL MATCH [TSN]",
+      "FULL MATCH [FOX]",
+      "FULL MATCH [GE]"
     ],
     "formatsNew": [
       {
@@ -2028,37 +1423,88 @@
         "logo": ""
       },
       {
-        "title": "FULL TIME",
+        "title": "FULL MATCH [TSN]",
+        "logo": ""
+      },
+      {
+        "title": "FULL MATCH [FOX]",
+        "logo": ""
+      },
+      {
+        "title": "FULL MATCH [GE]",
         "logo": ""
       }
     ]
   },
   {
-    "id": 100107,
-    "title": "Argentina vs Switzerland",
+    "id": 108,
+    "title": "France vs Spain",
     "cat": "FIFA World Cup",
     "eventInfo": {
-      "teamA": "Argentina",
-      "teamB": "Switzerland",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4819/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4699/image",
-      "eventName": "Argentina vs Switzerland",
+      "teamA": "France",
+      "teamB": "Spain",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4481/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4698/image",
+      "eventName": "France vs Spain",
       "eventType": "null",
       "isHot": "1",
-      "startTime": "2026/07/12 01:00:00 +0000",
-      "endTime": "2026/07/12 03:00:00 +0000"
+      "startTime": "2026/07/14 19:00:00 +0000",
+      "endTime": "2026/07/14 21:00:00 +0000"
+    },
+    "catImage": "To",
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "EXTENDED in EN.",
+      "FULL MATCH [AR]",
+      "FULL MATCH [RU]"
+    ],
+    "formatsNew": [
+      {
+        "title": "EXTENDED in EN.",
+        "logo": ""
+      },
+      {
+        "title": "FULL MATCH [AR]",
+        "logo": ""
+      },
+      {
+        "title": "FULL MATCH [RU]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "title": "England vs Argentina",
+    "cat": "FIFA World Cup",
+    "eventInfo": {
+      "teamA": "England",
+      "teamB": "Argentina",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4713/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4819/image",
+      "eventName": "England vs Argentina",
+      "eventType": "null",
+      "isHot": "1",
+      "startTime": "2026/07/15 19:00:00 +0000",
+      "endTime": "2026/07/15 21:00:00 +0000"
     },
     "catImage": "To",
     "adsLimit": "0",
     "publish": "1",
     "formats": [
       "HIGHLIGHTS",
-      "HIGHLIGHTS [EN]",
-      "EXTENDED in EN.",
-      "EX & PN [FOX]",
-      "ET & PN [ITV]",
+      "FULL MATCH [FOX]",
+      "FULL MATCH [TSN]",
+      "FULL MATCH [BBC]",
+      "FULL MATCH [NOW]",
+      "FULL MATCH [ES]",
+      "FULL MATCH [FR]",
+      "FULL MATCH [ITA]",
+      "FULL MATCH [GE]",
       "FULL MATCH [EN]",
-      "FULL MATCH [ITV]"
+      "1st HALF",
+      "2nd HALF"
     ],
     "formatsNew": [
       {
@@ -2066,19 +1512,35 @@
         "logo": ""
       },
       {
-        "title": "HIGHLIGHTS [EN]",
+        "title": "FULL MATCH [FOX]",
         "logo": ""
       },
       {
-        "title": "EXTENDED in EN.",
+        "title": "FULL MATCH [TSN]",
         "logo": ""
       },
       {
-        "title": "EX & PN [FOX]",
+        "title": "FULL MATCH [BBC]",
         "logo": ""
       },
       {
-        "title": "ET & PN [ITV]",
+        "title": "FULL MATCH [NOW]",
+        "logo": ""
+      },
+      {
+        "title": "FULL MATCH [ES]",
+        "logo": ""
+      },
+      {
+        "title": "FULL MATCH [FR]",
+        "logo": ""
+      },
+      {
+        "title": "FULL MATCH [ITA]",
+        "logo": ""
+      },
+      {
+        "title": "FULL MATCH [GE]",
         "logo": ""
       },
       {
@@ -2086,7 +1548,182 @@
         "logo": ""
       },
       {
-        "title": "FULL MATCH [ITV]",
+        "title": "1st HALF",
+        "logo": ""
+      },
+      {
+        "title": "2nd HALF",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "title": "France vs England",
+    "cat": "FIFA World Cup",
+    "eventInfo": {
+      "teamA": "France",
+      "teamB": "England",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4481/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4713/image",
+      "eventName": "France vs England",
+      "eventType": "null",
+      "isHot": "1",
+      "startTime": "2026/07/18 21:00:00 +0000",
+      "endTime": "2026/07/18 23:00:00 +0000"
+    },
+    "catImage": "To",
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "HIGHLIGHTS",
+      "HIGHLIGHTS [ITV]",
+      "HIGHTLIGTS [DE]",
+      "EXTENDED in EN",
+      "MINI MATCH",
+      "FULL MATCH [TSN]",
+      "FULL MATCH [BBC]",
+      "1st HALF",
+      "2nd HALF"
+    ],
+    "formatsNew": [
+      {
+        "title": "HIGHLIGHTS",
+        "logo": ""
+      },
+      {
+        "title": "HIGHLIGHTS [ITV]",
+        "logo": ""
+      },
+      {
+        "title": "HIGHTLIGTS [DE]",
+        "logo": ""
+      },
+      {
+        "title": "EXTENDED in EN",
+        "logo": ""
+      },
+      {
+        "title": "MINI MATCH",
+        "logo": ""
+      },
+      {
+        "title": "FULL MATCH [TSN]",
+        "logo": ""
+      },
+      {
+        "title": "FULL MATCH [BBC]",
+        "logo": ""
+      },
+      {
+        "title": "1st HALF",
+        "logo": ""
+      },
+      {
+        "title": "2nd HALF",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "title": "Spain vs Argentina",
+    "cat": "FIFA World Cup",
+    "eventInfo": {
+      "teamA": "Spain",
+      "teamB": "Argentina",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4698/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4819/image",
+      "eventName": "Spain vs Argentina",
+      "eventType": "null",
+      "isHot": "1",
+      "startTime": "2026/07/19 19:00:00 +0000",
+      "endTime": "2026/07/19 21:00:00 +0000"
+    },
+    "catImage": "To",
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "HIGHLIGHTS",
+      "EXTENDED in EN",
+      "EXTENDED in EN",
+      "PRE MATCH EN",
+      "1st HALF",
+      "HALF TIME SHOW",
+      "2nd HALF",
+      "EXTRA TIME",
+      "EXTRA TIME [AR]",
+      "CEREMONY",
+      "CEREMONY [BBC]",
+      "FULL MATCH [TSN]",
+      "FULL MATCH [FOX]",
+      "FULL MATCH [ES]",
+      "FULL MATCH [FR]",
+      "FULL MATCH [RU]"
+    ],
+    "formatsNew": [
+      {
+        "title": "HIGHLIGHTS",
+        "logo": ""
+      },
+      {
+        "title": "EXTENDED in EN",
+        "logo": ""
+      },
+      {
+        "title": "EXTENDED in EN",
+        "logo": ""
+      },
+      {
+        "title": "PRE MATCH EN",
+        "logo": ""
+      },
+      {
+        "title": "1st HALF",
+        "logo": ""
+      },
+      {
+        "title": "HALF TIME SHOW",
+        "logo": ""
+      },
+      {
+        "title": "2nd HALF",
+        "logo": ""
+      },
+      {
+        "title": "EXTRA TIME",
+        "logo": ""
+      },
+      {
+        "title": "EXTRA TIME [AR]",
+        "logo": ""
+      },
+      {
+        "title": "CEREMONY",
+        "logo": ""
+      },
+      {
+        "title": "CEREMONY [BBC]",
+        "logo": ""
+      },
+      {
+        "title": "FULL MATCH [TSN]",
+        "logo": ""
+      },
+      {
+        "title": "FULL MATCH [FOX]",
+        "logo": ""
+      },
+      {
+        "title": "FULL MATCH [ES]",
+        "logo": ""
+      },
+      {
+        "title": "FULL MATCH [FR]",
+        "logo": ""
+      },
+      {
+        "title": "FULL MATCH [RU]",
         "logo": ""
       }
     ]
