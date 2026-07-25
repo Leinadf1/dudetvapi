@@ -239,7 +239,7 @@ def decrypt_via_emulator(payload, apk_path, lib_path):
         stderr_output = ""
         try:
             # Run frida and let it time out after 7 seconds
-            res = subprocess.run(frida_cmd, capture_output=True, timeout=7)
+            res = subprocess.run(frida_cmd, capture_output=True, stdin=subprocess.DEVNULL, timeout=7)
             output = res.stdout.decode("utf-8", errors="ignore") if res.stdout else ""
             stderr_output = res.stderr.decode("utf-8", errors="ignore") if res.stderr else ""
         except subprocess.TimeoutExpired as te:

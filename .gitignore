@@ -22,3 +22,10 @@ frida-server
 *.njsproj
 *.sln
 *.swp
+
+# Local documentation (not for git)
+HOW_IT_WORKS.md
+
+# APK files (too large for git)
+*.apk
+*.apk.idsig
