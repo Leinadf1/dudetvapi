@@ -147,15 +147,15 @@ def decrypt_via_emulator(payload, apk_path, lib_path):
                 return res.stdout
 
         # 1. Make sure App is running and SELinux is Permissive
-        ps_res = subprocess.run(["adb", "shell", "ps | grep sportzx"], capture_output=True, text=True)
-        if "com.sportzx.live" not in ps_res.stdout:
+        pid_check = subprocess.run(["adb", "shell", "pidof com.sportzx.live"], capture_output=True, text=True)
+        if not pid_check.stdout.strip():
             print("      [Frida Fallback] App is not running. Launching SportzX...")
             run_root_cmd("setenforce 0")
             subprocess.run(["adb", "shell", "am start -n com.sportzx.live/com.sportzx.live.activities.SplashActivity"], capture_output=True)
             # Wait up to 12 seconds for the process to register
             for _ in range(12):
-                check_ps = subprocess.run(["adb", "shell", "ps | grep sportzx"], capture_output=True, text=True)
-                if "com.sportzx.live" in check_ps.stdout:
+                pid_check = subprocess.run(["adb", "shell", "pidof com.sportzx.live"], capture_output=True, text=True)
+                if pid_check.stdout.strip():
                     break
                 time.sleep(1)
             time.sleep(4)
@@ -223,12 +223,15 @@ def decrypt_via_emulator(payload, apk_path, lib_path):
             # Fallback to process/package name
             frida_cmd = ["frida", "-U", "-n", "com.sportzx.live", "-l", "decrypt_script.js"]
         output = ""
+        stderr_output = ""
         try:
             # Run frida and let it time out after 7 seconds
             res = subprocess.run(frida_cmd, capture_output=True, text=True, timeout=7)
             output = res.stdout or ""
+            stderr_output = res.stderr or ""
         except subprocess.TimeoutExpired as te:
             output = te.stdout or ""
+            stderr_output = te.stderr or ""
         except Exception as fe:
             print(f"      [Frida Fallback] process error: {fe}")
                 
@@ -244,6 +247,8 @@ def decrypt_via_emulator(payload, apk_path, lib_path):
             
         if not success or not saved_path:
             print("      [Frida Fallback] Frida decryption failed or output path not parsed.")
+            print(f"      [Frida Debug] stdout: {output}")
+            print(f"      [Frida Debug] stderr: {stderr_output}")
             saved_path = "/data/user/0/com.sportzx.live/cache/decrypted_raw.bin" # fallback
             
         # 5. Retrieve output bytes directly from private folder
