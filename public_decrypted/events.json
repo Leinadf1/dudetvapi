@@ -12,7 +12,7 @@
       "eventName": "Formula 1 - HUNGARIAN GRAND PRIX",
       "eventType": "null",
       "eventBanner": "https://iili.io/Cwq8C7I.png",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/07/26 12:45:00 +0000",
       "endTime": "2026/07/26 15:30:00 +0000"
     },
@@ -229,7 +229,8 @@
       "DUDE Tv Live",
       "PARAMOUNT+ HD",
       "SD TV (USE VPN)",
-      "DUDE Tv LIVE"
+      "DUDE Tv LIVE",
+      ""
     ],
     "formatsNew": [
       {
@@ -266,6 +267,10 @@
       },
       {
         "title": "DUDE Tv LIVE",
+        "logo": ""
+      },
+      {
+        "title": "",
         "logo": ""
       }
     ]
@@ -596,7 +601,7 @@
       "eventBanner": "https://wsrv.nl/?url=https://iili.io/Cenkn0x.png",
       "isHot": "0",
       "startTime": "2026/07/25 13:00:00 +0000",
-      "endTime": "2026/07/25 17:59:00 +0000"
+      "endTime": "2026/07/25 19:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -761,14 +766,9 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv MLB",
       "DUDE Tv Live"
     ],
     "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1118,9 +1118,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1656,7 +1661,8 @@
     "publish": "1",
     "formats": [
       "beIN SPORTS",
-      "FOX DEPORTES"
+      "FOX DEPORTES",
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
@@ -1665,6 +1671,10 @@
       },
       {
         "title": "FOX DEPORTES",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
@@ -1716,11 +1726,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "PREMIER SPORTS"
+      "PREMIER SPORTS",
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "PREMIER SPORTS",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -2133,11 +2153,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -2161,11 +2186,128 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50117,
+    "title": "Mlaga CF vs Leicester",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "Mlaga CF",
+      "teamB": "Leicester City",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2830/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/31/image",
+      "eventName": "Mlaga CF vs Leicester City",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/25 17:00:00 +0000",
+      "endTime": "2026/07/25 19:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SD SERVER"
+    ],
+    "formatsNew": [
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50118,
+    "title": "Strasbourg vs Blackburn Rovers",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "RC Strasbourg",
+      "teamB": "Blackburn Rovers",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1659/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/46/image",
+      "eventName": "RC Strasbourg vs Blackburn Rovers",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/25 17:00:00 +0000",
+      "endTime": "2026/07/25 19:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SD SERVER"
+    ],
+    "formatsNew": [
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50119,
+    "title": "Celta Vigo vs Sporting Gijn",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "Celta Vigo",
+      "teamB": "Sporting Gijn",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2821/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2852/image",
+      "eventName": "Celta Vigo vs Sporting Gijn",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/25 17:00:00 +0000",
+      "endTime": "2026/07/25 19:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SD SERVER"
+    ],
+    "formatsNew": [
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50120,
+    "title": "Athletic Club vs Eibar",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "Athletic Club",
+      "teamB": "Eibar",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2825/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2839/image",
+      "eventName": "Athletic Club vs Eibar",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/25 17:00:00 +0000",
+      "endTime": "2026/07/25 19:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SD SERVER"
+    ],
+    "formatsNew": [
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
