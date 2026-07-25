@@ -207,8 +207,21 @@ def decrypt_via_emulator(payload, apk_path, lib_path):
                     break
                 time.sleep(1.5)
             
-        # 4. Run Frida CLI to invoke decrypt_script.js
-        frida_cmd = ["frida", "-U", "-n", "SportzX", "-l", "decrypt_script.js"]
+        # 4. Get the PID of com.sportzx.live and run Frida
+        pid_res = subprocess.run(["adb", "shell", "pidof com.sportzx.live"], capture_output=True, text=True)
+        pid = pid_res.stdout.strip()
+        if not pid:
+            # Try parsing from ps
+            ps_cmd = subprocess.run(["adb", "shell", "ps | grep com.sportzx.live"], capture_output=True, text=True)
+            match = re.search(r'\s+(\d+)\s+', ps_cmd.stdout)
+            if match:
+                pid = match.group(1)
+        
+        if pid:
+            frida_cmd = ["frida", "-U", "-p", pid, "-l", "decrypt_script.js"]
+        else:
+            # Fallback to process/package name
+            frida_cmd = ["frida", "-U", "-n", "com.sportzx.live", "-l", "decrypt_script.js"]
         output = ""
         try:
             # Run frida and let it time out after 7 seconds
