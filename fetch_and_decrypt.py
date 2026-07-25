@@ -104,6 +104,8 @@ def clean_and_decode_b64(encrypted_b64):
         return base64.urlsafe_b64decode(std_b64)
 
 def decrypt_cbc(ciphertext_bytes, key, iv):
+    if len(ciphertext_bytes) % 16 != 0:
+        ciphertext_bytes = ciphertext_bytes[:len(ciphertext_bytes) - (len(ciphertext_bytes) % 16)]
     cipher = AES.new(key, AES.MODE_CBC, iv)
     decrypted = cipher.decrypt(ciphertext_bytes)
     if len(decrypted) > 0:
@@ -146,25 +148,43 @@ def decrypt_via_emulator(payload, apk_path, lib_path):
 def decrypt_data(payload, apk_path=None, lib_path=None):
     try:
         enc_bytes = clean_and_decode_b64(payload)
-        # Check for DEADBEEF format (starts with \xde\xad\xbe\xef)
+        
+        # 1. DEADBEEF format (magic 0xdeadbeef at byte 0 or byte 1)
         if len(enc_bytes) >= 20 and enc_bytes[:4] == b'\xde\xad\xbe\xef':
-            if apk_path and lib_path:
-                print("      [DEADBEEF] Decrypting via emulator JNI...")
-                return decrypt_via_emulator(payload, apk_path, lib_path)
-            else:
-                print("      [DEADBEEF] Emulator not available. Decrypting locally with static key...")
-                iv = enc_bytes[4:20]
-                ciphertext = enc_bytes[20:]
-                dec = decrypt_cbc(ciphertext, STATIC_KEY, iv)
-                dec_str = dec.decode("utf-8", errors="ignore")
-                dec_str = dec_str.rstrip('\x00\x01\x02\x03\x04\x05\x06\x07\x08\x09\x0a\x0b\x0c\x0d\x0e\x0f\x10')
-                return json.loads(dec_str)
+            iv = enc_bytes[4:20]
+            ciphertext = enc_bytes[20:]
+            dec = decrypt_cbc(ciphertext, STATIC_KEY, iv)
+        elif len(enc_bytes) >= 21 and enc_bytes[1:5] == b'\xde\xad\xbe\xef':
+            iv = enc_bytes[5:21]
+            ciphertext = enc_bytes[21:]
+            dec = decrypt_cbc(ciphertext, STATIC_KEY, iv)
+            
+        # 2. Dynamic IV Format starting with 0x02 (1 byte flag + 16 bytes IV + ciphertext)
+        elif len(enc_bytes) >= 17 and enc_bytes[0] == 2:
+            iv = enc_bytes[1:17]
+            ciphertext = enc_bytes[17:]
+            dec = decrypt_cbc(ciphertext, STATIC_KEY, iv)
+            
+        # 3. Static IV Format
         else:
-            print("      [Static Format] Decrypting locally...")
             dec = decrypt_cbc(enc_bytes, STATIC_KEY, b"HsjJTCA7jJztpL2w")
-            dec_str = dec.decode("utf-8", errors="ignore")
-            dec_str = dec_str.rstrip('\x00\x01\x02\x03\x04\x05\x06\x07\x08\x09\x0a\x0b\x0c\x0d\x0e\x0f\x10')
-            return json.loads(dec_str)
+            
+        dec_str = dec.decode("utf-8", errors="ignore").strip().rstrip('\x00\x01\x02\x03\x04\x05\x06\x07\x08\x09\x0a\x0b\x0c\x0d\x0e\x0f\x10').strip()
+        
+        # Clean JSON string boundary
+        if dec_str.startswith('[') and not dec_str.endswith(']'):
+            last_bracket = dec_str.rfind(']')
+            if last_bracket >= 0:
+                dec_str = dec_str[:last_bracket + 1]
+
+        try:
+            return json.loads(dec_str, strict=False)
+        except Exception:
+            last_bracket = dec_str.rfind(']')
+            if last_bracket >= 0:
+                clean_json = dec_str[:last_bracket + 1]
+                return json.loads(clean_json, strict=False)
+                
     except Exception as e:
         print(f"      Decryption attempt failed: {e}")
         if apk_path and lib_path:
