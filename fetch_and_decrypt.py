@@ -487,7 +487,7 @@ def main():
                 print("    Launching SportzX on emulator to trigger Remote Config fetch...")
                 subprocess.run(["adb", "shell", "am force-stop com.sportzx.live"], capture_output=True)
                 subprocess.run(["adb", "shell", "am start -n com.sportzx.live/com.sportzx.live.activities.SplashActivity"], capture_output=True)
-                time.sleep(6)
+                time.sleep(12)
                 subprocess.run(["adb", "shell", "am force-stop com.sportzx.live"], capture_output=True)
                 
                 # 2. Copy and pull appPref.xml binary-safely
@@ -497,6 +497,10 @@ def main():
                     
                 # Clean up any stale files on device first
                 subprocess.run(["adb", "shell", "rm -f /data/local/tmp/appPref.xml"], capture_output=True)
+                
+                # Force adb root state again just in case
+                subprocess.run(["adb", "root"], capture_output=True)
+                subprocess.run(["adb", "wait-for-device"], capture_output=True)
                     
                 whoami_res = subprocess.run(["adb", "shell", "whoami"], capture_output=True)
                 whoami_out = whoami_res.stdout.decode("utf-8", errors="ignore")
