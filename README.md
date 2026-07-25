@@ -13,7 +13,7 @@ This repository provides an automated, high-performance solution that fetches, d
 * **Dynamic Domain Resolution**: Automatically parses `appPref.xml` from the running emulator to identify the active Firebase Remote Config domain (e.g., `cdn-stream.top`), ensuring zero-downtime when API endpoints change.
 * **Dual-Stage Decryption**: Handles both standard AES-CBC `0x02` dynamic IV encryption directly in Python and custom `DEADBEEF` format payloads via a native JNI emulation fallback.
 * **High-Speed Caching**: Features parallel HTTP payloads retrieval and hash-based caching to skip unchanged channel payloads, dropping processing times by up to 70%.
-* **Automatic Sanitization**: Cleans and replaces all legacy "SportzX" branding with "DUDE Tv" automatically in the JSON responses.
+* **Automatic Sanitization**: Cleans and replaces all legacy branding with "DUDE Tv" automatically in the JSON responses.
 * **DRM clearKey Extractor**: Extracts playback licenses and Key-ID mapping for encrypted live events and premium streams.
 
 ---
