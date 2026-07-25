@@ -75,6 +75,8 @@ public class Decryptor implements InvocationHandler {
     @Override
     public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
         String methodName = method.getName();
+        System.out.println("IPackageManager method called: " + methodName + " args: " + java.util.Arrays.toString(args));
+        
         if ("getPackageInfo".equals(methodName) && args.length >= 2) {
             String packageName = (String) args[0];
             if ("com.sportzx.live".equals(packageName)) {
@@ -85,15 +87,20 @@ public class Decryptor implements InvocationHandler {
                     
                     if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.P) {
                         try {
+                            Class<?> signingDetailsClass = Class.forName("android.content.pm.SigningDetails");
+                            java.lang.reflect.Constructor<?> signingDetailsConstructor = signingDetailsClass.getConstructor(Signature[].class, int.class);
+                            Object signingDetails = signingDetailsConstructor.newInstance((Object) info.signatures, 1);
+                            
                             Class<?> signingInfoClass = Class.forName("android.content.pm.SigningInfo");
-                            Object signingInfo = signingInfoClass.getDeclaredConstructor().newInstance();
-                            Field mSigningDetailsField = signingInfoClass.getDeclaredField("mSigningDetails");
-                            mSigningDetailsField.setAccessible(true);
+                            java.lang.reflect.Constructor<?> signingInfoConstructor = signingInfoClass.getConstructor(signingDetailsClass);
+                            Object signingInfo = signingInfoConstructor.newInstance(signingDetails);
                             
                             Field signingInfoField = PackageInfo.class.getField("signingInfo");
                             signingInfoField.setAccessible(true);
                             signingInfoField.set(info, signingInfo);
-                        } catch (Exception ignored) {}
+                        } catch (Exception e) {
+                            System.out.println("Failed to mock signingInfo: " + e.getMessage());
+                        }
                     }
                 }
                 return info;
@@ -152,13 +159,16 @@ public class Decryptor implements InvocationHandler {
             Context systemContext = (Context) activityThreadClass.getMethod("getSystemContext").invoke(activityThread);
             System.out.println("System context: " + systemContext);
             
-            System.out.println("Creating Package Context for com.sportzx.live...");
-            Context context = systemContext.createPackageContext("com.sportzx.live", 
+            String packageName = (args.length >= 3) ? args[2] : "com.sportzx.live";
+            System.out.println("Creating Package Context for " + packageName + "...");
+            Context context = systemContext.createPackageContext(packageName, 
                 Context.CONTEXT_INCLUDE_CODE | Context.CONTEXT_IGNORE_SECURITY);
             System.out.println("Package Context package name: " + context.getPackageName());
             
-            // Load DataHelper class using app classloader BEFORE loading native lib
-            ClassLoader appClassLoader = context.getClassLoader();
+            // Load DataHelper class using Decryptor's classloader (CLASSPATH = Decryptor.jar + APK)
+            // This finds our DataHelper STUB in Decryptor.jar; the JNI native methods will be
+            // registered against this class when the native lib is loaded below.
+            ClassLoader appClassLoader = Decryptor.class.getClassLoader();
             System.out.println("App ClassLoader: " + appClassLoader);
             Class<?> dataHelperClass = Class.forName("com.sportzx.live.helpers.DataHelper", true, appClassLoader);
             System.out.println("DataHelper class loaded: " + dataHelperClass);
@@ -196,10 +206,57 @@ public class Decryptor implements InvocationHandler {
             Object instance = dataHelperClass.getField("INSTANCE").get(null);
             Method helpMethod = dataHelperClass.getMethod("help", Context.class, String.class);
             
-            System.out.println("Invoking DataHelper.help...");
-            String decrypted = (String) helpMethod.invoke(instance, context, encryptedData);
+            // Initialization call (mirrors be/p constructor behavior)
+            String initToken = "3q2-7wZ1MCLV9YNJ0uDf2LSDrnLkU3g3UTlr";
+            System.out.println("Calling init token on DataHelper.help...");
+            String initResult = (String) helpMethod.invoke(instance, context, initToken);
+            System.out.println("Init result length: " + (initResult != null ? initResult.length() : 0));
+            
+            // Iterative decryption: call help() until result is stable (or JSON found)
+            // Some formats use double-stage: help(help(payload)) -> JSON
+            String current = encryptedData;
+            String previous = null;
+            String finalResult = null;
+            
+            for (int stage = 1; stage <= 5; stage++) {
+                System.out.println("Stage " + stage + " help() call, input length=" + current.length());
+                String result = (String) helpMethod.invoke(instance, context, current);
+                int resultLen = (result != null ? result.length() : 0);
+                System.out.println("Stage " + stage + " result length: " + resultLen);
+                
+                if (result == null || result.length() == 0) {
+                    System.out.println("Stage " + stage + ": empty result, stopping");
+                    break;
+                }
+                
+                // Check if result starts with [ or { (JSON)
+                char firstChar = result.charAt(0);
+                if (firstChar == '[' || firstChar == '{') {
+                    System.out.println("Stage " + stage + ": RESULT IS JSON! (starts with " + firstChar + ")");
+                    finalResult = result;
+                    break;
+                }
+                
+                // Check if result is same as input (passthrough = failed decryption)
+                if (result.equals(current)) {
+                    System.out.println("Stage " + stage + ": result == input (passthrough), stopping");
+                    finalResult = result;
+                    break;
+                }
+                
+                previous = current;
+                current = result;
+                finalResult = result;
+            }
+            
+            if (finalResult == null) finalResult = current;
+            
+            // ISO-8859-1 maps Java char code-point (0-255) 1:1 to bytes,
+            // preserving ALL bytes including 0x00 (null) without truncation.
+            byte[] rawBytes = finalResult.getBytes("ISO-8859-1");
+            String b64 = android.util.Base64.encodeToString(rawBytes, android.util.Base64.NO_WRAP);
             System.out.println("DECRYPTION RESULT START");
-            System.out.println(decrypted);
+            System.out.println(b64);
             System.out.println("DECRYPTION RESULT END");
         } catch (Exception e) {
             e.printStackTrace();

@@ -264,8 +264,29 @@ def decrypt_via_emulator(payload, apk_path, lib_path):
             print(f"      [Frida Debug] stderr: {stderr_output}")
             saved_path = "/data/user/0/com.sportzx.live/cache/decrypted_raw.bin" # fallback
             
-        # 5. Retrieve output bytes directly from private folder
-        raw_bytes = run_root_cmd_bytes(f"cat {saved_path}")
+        # 5. Retrieve output bytes directly from private folder using binary-safe adb pull
+        local_temp = os.path.join(os.getcwd(), "temp_decrypted.bin")
+        if os.path.exists(local_temp):
+            os.remove(local_temp)
+            
+        if is_root:
+            subprocess.run(["adb", "shell", f"cp {saved_path} /data/local/tmp/decrypted_raw.bin"], capture_output=True)
+        else:
+            res = subprocess.run(["adb", "shell", f"su -c 'cp {saved_path} /data/local/tmp/decrypted_raw.bin'"], capture_output=True)
+            res_err = res.stderr.decode("utf-8", errors="ignore")
+            res_out = res.stdout.decode("utf-8", errors="ignore")
+            if "invalid uid/gid" in res_err or "invalid uid/gid" in res_out:
+                subprocess.run(["adb", "shell", f"su root cp {saved_path} /data/local/tmp/decrypted_raw.bin"], capture_output=True)
+                
+        subprocess.run(["adb", "shell", "chmod 666 /data/local/tmp/decrypted_raw.bin"], capture_output=True)
+        subprocess.run(["adb", "pull", "/data/local/tmp/decrypted_raw.bin", local_temp], capture_output=True)
+        
+        raw_bytes = b""
+        if os.path.exists(local_temp):
+            with open(local_temp, "rb") as lf:
+                raw_bytes = lf.read()
+            os.remove(local_temp)
+        subprocess.run(["adb", "shell", "rm -f /data/local/tmp/decrypted_raw.bin"], capture_output=True)
         
         if len(raw_bytes) == 0:
             print("      [Frida Fallback] Decrypted file is empty or not readable.")
@@ -276,7 +297,7 @@ def decrypt_via_emulator(payload, apk_path, lib_path):
         text = low_bytes.decode("utf-8", errors="ignore").strip()
         
         if '{"' in text or '["' in text or text.startswith('[') or text.startswith('{'):
-            return json.loads(text)
+            return json.loads(text, strict=False)
         else:
             print("      [Frida Fallback] Output does not look like JSON.")
             return None
