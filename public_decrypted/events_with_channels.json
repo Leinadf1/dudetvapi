@@ -2205,9 +2205,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2250,9 +2255,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2295,9 +2305,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2312,7 +2327,7 @@
         "type": "0"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
     "id": 50083,
@@ -2536,10 +2551,20 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "SPX HD LIVE",
+      "DUDE Tv Live",
       "SPX LIVE FHD",
       "NBC UNIVERSEO"
     ],
     "formatsNew": [
+      {
+        "title": "SPX HD LIVE",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
       {
         "title": "SPX LIVE FHD",
         "logo": ""
@@ -2550,6 +2575,20 @@
       }
     ],
     "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/53735/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "SPX HD LIVE",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://live.vivo200.com/live/sd-1-4553809.m3u8?txSecret=feccaead8869ee77f89dbc8b30404596&txTime=6A6544AB|Referer=https://player.online909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
       {
         "api": "",
         "link": "https://messi.damitv.st/live-hls/channel/liga-mx/2026-07-25/gdl-jua/playlist.m3u8",
@@ -2788,32 +2827,35 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live",
       "LFC TV HD",
-      "SD SERVER"
+      "DUDE Tv Live",
+      "SPX FHD LIVE",
+      "SPX HD LIVE",
+      "SPX SD LIVE"
     ],
     "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
       {
         "title": "LFC TV HD",
         "logo": ""
       },
       {
-        "title": "SD SERVER",
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SPX FHD LIVE",
+        "logo": ""
+      },
+      {
+        "title": "SPX HD LIVE",
+        "logo": ""
+      },
+      {
+        "title": "SPX SD LIVE",
         "logo": ""
       }
     ],
     "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://messi.damitv.st/live-hls/channel/friendly/2026-07-25/liv-sun/playlist.m3u8",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
       {
         "api": "",
         "link": "https://chatgpt.hereisman.net/playlist/53797/load-playlist?|Referer=https://gooz.aapmains.net",
@@ -2823,9 +2865,30 @@
       },
       {
         "api": "",
+        "link": "https://hls.streamhub.media/hls/thesport-api-bfc7146df8f1c8365e3d/master.m3u8",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://messi.damitv.st/live-hls/channel/friendly/2026-07-25/liv-sun/playlist.m3u8",
+        "logo": "",
+        "title": "SPX FHD LIVE",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://hoofoot.ru/stream?seg=250d4ae49acefebc322fa446137e367f%3A3a0e7709ca007a6390ff33d4b4ab5965e33e4acb29720f2043f54f709887695386263aa8ff5bcb4ca2332a18e130b4796c33cb25124ad0b67178a1d0fba67a9cb9b5b0e87bc7e45152abaecc24e37822188a132344de30da7b214af777bfd1efa37d06cb8fc238e1614eb1faa7612ce4efde059b25946a23c5399aa62cffa001",
+        "logo": "",
+        "title": "SPX HD LIVE",
+        "type": "0"
+      },
+      {
+        "api": "",
         "link": "http://193.47.62.193/hls/YYIIIq.m3u8?|Referer=http://www.fawanews.sc/",
         "logo": "",
-        "title": "SD SERVER",
+        "title": "SPX SD LIVE",
         "type": "0"
       }
     ],

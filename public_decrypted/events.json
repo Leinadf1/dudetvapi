@@ -1250,9 +1250,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1278,9 +1283,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1306,9 +1316,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1471,10 +1486,20 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "SPX HD LIVE",
+      "DUDE Tv Live",
       "SPX LIVE FHD",
       "NBC UNIVERSEO"
     ],
     "formatsNew": [
+      {
+        "title": "SPX HD LIVE",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
       {
         "title": "SPX LIVE FHD",
         "logo": ""
@@ -1640,21 +1665,31 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live",
       "LFC TV HD",
-      "SD SERVER"
+      "DUDE Tv Live",
+      "SPX FHD LIVE",
+      "SPX HD LIVE",
+      "SPX SD LIVE"
     ],
     "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
       {
         "title": "LFC TV HD",
         "logo": ""
       },
       {
-        "title": "SD SERVER",
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SPX FHD LIVE",
+        "logo": ""
+      },
+      {
+        "title": "SPX HD LIVE",
+        "logo": ""
+      },
+      {
+        "title": "SPX SD LIVE",
         "logo": ""
       }
     ]
