@@ -152,6 +152,12 @@ def decrypt_via_emulator(payload, apk_path, lib_path):
             print("      [Frida Fallback] App is not running. Launching SportzX...")
             run_root_cmd("setenforce 0")
             subprocess.run(["adb", "shell", "am start -n com.sportzx.live/com.sportzx.live.activities.SplashActivity"], capture_output=True)
+            # Wait up to 12 seconds for the process to register
+            for _ in range(12):
+                check_ps = subprocess.run(["adb", "shell", "ps | grep sportzx"], capture_output=True, text=True)
+                if "com.sportzx.live" in check_ps.stdout:
+                    break
+                time.sleep(1)
             time.sleep(4)
         
         # 2. Write payload and push it
@@ -194,7 +200,12 @@ def decrypt_via_emulator(payload, apk_path, lib_path):
                 else:
                     subprocess.Popen(["adb", "shell", "su -mm -c 'nohup /data/local/tmp/frida-server > /dev/null 2>&1 &'"],
                                      stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
-            time.sleep(2)
+            # Wait up to 10 seconds for frida-server to start up and respond
+            for _ in range(10):
+                res = subprocess.run(["frida-ps", "-U"], capture_output=True)
+                if res.returncode == 0:
+                    break
+                time.sleep(1.5)
             
         # 4. Run Frida CLI to invoke decrypt_script.js
         frida_cmd = ["frida", "-U", "-n", "SportzX", "-l", "decrypt_script.js"]
