@@ -84,10 +84,15 @@ If this API Scraper helps you maintain your projects, streams, or apps, consider
 
 ### 🪙 Supported Cryptocurrencies
 
-| Platform / Network | Wallet Address / Pay ID |
-| :--- | :--- |
-| **Bitcoin (BTC)** <br> *Bitcoin Mainnet Network* | `12zBsP3LBp352tqCsENS997j1AoCybtW6M` |
-| **Binance Pay** <br> *Direct User-to-User Transfer* | **Pay ID:** `1247002770` |
+* **Bitcoin (BTC)** *(Bitcoin Mainnet Network)*
+  ```text
+  12zBsP3LBp352tqCsENS997j1AoCybtW6M
+  ```
+
+* **Binance Pay** *(Direct User-to-User Transfer)*
+  ```text
+  1247002770
+  ```
 
 ---
 *Created and maintained by developers, for developers.*
