@@ -124,11 +124,33 @@ def decrypt_via_emulator(payload, apk_path, lib_path):
     temp_file = "temp_payload.txt"
     device_file = "/data/local/tmp/payload.txt"
     try:
+        # Try running adb root to see if we can get native root shell access
+        subprocess.run(["adb", "root"], capture_output=True)
+        whoami_res = subprocess.run(["adb", "shell", "whoami"], capture_output=True, text=True)
+        is_root = "root" in whoami_res.stdout
+        
+        def run_root_cmd(cmd):
+            if is_root:
+                subprocess.run(["adb", "shell", cmd], capture_output=True)
+            else:
+                res = subprocess.run(["adb", "shell", f"su -c '{cmd}'"], capture_output=True)
+                if b"invalid uid/gid" in res.stderr or b"invalid uid/gid" in res.stdout:
+                    subprocess.run(["adb", "shell", f"su root {cmd}"], capture_output=True)
+
+        def run_root_cmd_bytes(cmd):
+            if is_root:
+                return subprocess.run(["adb", "shell", cmd], capture_output=True).stdout
+            else:
+                res = subprocess.run(["adb", "shell", f"su -c '{cmd}'"], capture_output=True)
+                if b"invalid uid/gid" in res.stderr or b"invalid uid/gid" in res.stdout:
+                    return subprocess.run(["adb", "shell", f"su root {cmd}"], capture_output=True).stdout
+                return res.stdout
+
         # 1. Make sure App is running and SELinux is Permissive
         ps_res = subprocess.run(["adb", "shell", "ps | grep sportzx"], capture_output=True, text=True)
         if "com.sportzx.live" not in ps_res.stdout:
             print("      [Frida Fallback] App is not running. Launching SportzX...")
-            subprocess.run(["adb", "shell", "su -c 'setenforce 0'"], capture_output=True)
+            run_root_cmd("setenforce 0")
             subprocess.run(["adb", "shell", "am start -n com.sportzx.live/com.sportzx.live.activities.SplashActivity"], capture_output=True)
             time.sleep(4)
         
@@ -138,7 +160,7 @@ def decrypt_via_emulator(payload, apk_path, lib_path):
         subprocess.run(["adb", "push", temp_file, device_file], check=True, capture_output=True)
         
         # Remove old output file
-        subprocess.run(["adb", "shell", "su -c 'rm -f /data/user/0/com.sportzx.live/cache/decrypted_raw.bin'"], capture_output=True)
+        run_root_cmd("rm -f /data/user/0/com.sportzx.live/cache/decrypted_raw.bin")
         
         # 3. Start frida-server in mount master namespace if not running
         frida_ps = subprocess.run(["adb", "shell", "ps | grep frida-server"], capture_output=True, text=True)
@@ -158,11 +180,20 @@ def decrypt_via_emulator(payload, apk_path, lib_path):
                     subprocess.run(["adb", "push", "frida-server", "/data/local/tmp/frida-server"], check=True)
                 else:
                     print("      [Frida Fallback] Warning: frida-server binary or xz archive not found locally.")
-                subprocess.run(["adb", "shell", "su -c 'chmod 755 /data/local/tmp/frida-server'"], check=True)
+                run_root_cmd("chmod 755 /data/local/tmp/frida-server")
 
             print("      [Frida Fallback] Starting frida-server...")
-            subprocess.Popen(["adb", "shell", "su -mm -c 'nohup /data/local/tmp/frida-server > /dev/null 2>&1 &'"],
-                             stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+            if is_root:
+                subprocess.Popen(["adb", "shell", "nohup /data/local/tmp/frida-server > /dev/null 2>&1 &"],
+                                 stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+            else:
+                test_mm = subprocess.run(["adb", "shell", "su -mm -c 'id'"], capture_output=True, text=True)
+                if "invalid uid/gid" in test_mm.stderr or "invalid uid/gid" in test_mm.stdout:
+                    subprocess.Popen(["adb", "shell", "su root nohup /data/local/tmp/frida-server > /dev/null 2>&1 &"],
+                                     stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+                else:
+                    subprocess.Popen(["adb", "shell", "su -mm -c 'nohup /data/local/tmp/frida-server > /dev/null 2>&1 &'"],
+                                     stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
             time.sleep(2)
             
         # 4. Run Frida CLI to invoke decrypt_script.js
@@ -191,9 +222,8 @@ def decrypt_via_emulator(payload, apk_path, lib_path):
             print("      [Frida Fallback] Frida decryption failed or output path not parsed.")
             saved_path = "/data/user/0/com.sportzx.live/cache/decrypted_raw.bin" # fallback
             
-        # 5. Retrieve output bytes directly from private folder via su
-        cat_res = subprocess.run(["adb", "shell", f"su -c 'cat {saved_path}'"], capture_output=True)
-        raw_bytes = cat_res.stdout
+        # 5. Retrieve output bytes directly from private folder
+        raw_bytes = run_root_cmd_bytes(f"cat {saved_path}")
         
         if len(raw_bytes) == 0:
             print("      [Frida Fallback] Decrypted file is empty or not readable.")

@@ -12,6 +12,7 @@ classes.dex
 # Logs & temp files
 *.log
 temp_payload.txt
+frida-server
 
 # IDE settings
 .vscode/
