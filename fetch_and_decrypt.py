@@ -455,7 +455,7 @@ def main():
     out_dir = config.get("output_directory", "public_decrypted")
     os.makedirs(out_dir, exist_ok=True)
     
-    # Parse base domain from config cats endpoint
+    # Parse base domain from config cats endpoint (default fallback)
     import urllib.parse
     cats_url = config["endpoints"]["cats"]["url"]
     parsed_url = urllib.parse.urlparse(cats_url)
@@ -475,6 +475,77 @@ def main():
             emulator_available = True
             ensure_decryptor_jar()
             print("Emulator decryption engine is READY!")
+            
+            # --- Dynamic Domain Resolution ---
+            print("\n=== Resolving Active API Domain from Emulator ===")
+            try:
+                # 1. Force stop and restart app to force Remote Config fetch
+                print("    Launching SportzX on emulator to trigger Remote Config fetch...")
+                subprocess.run(["adb", "shell", "am force-stop com.sportzx.live"], capture_output=True)
+                subprocess.run(["adb", "shell", "am start -n com.sportzx.live/com.sportzx.live.activities.SplashActivity"], capture_output=True)
+                time.sleep(6)
+                subprocess.run(["adb", "shell", "am force-stop com.sportzx.live"], capture_output=True)
+                
+                # 2. Copy and pull appPref.xml binary-safely
+                local_xml = os.path.join(os.getcwd(), "temp_appPref.xml")
+                if os.path.exists(local_xml):
+                    os.remove(local_xml)
+                    
+                # Clean up any stale files on device first
+                subprocess.run(["adb", "shell", "rm -f /data/local/tmp/appPref.xml"], capture_output=True)
+                    
+                whoami_res = subprocess.run(["adb", "shell", "whoami"], capture_output=True)
+                whoami_out = whoami_res.stdout.decode("utf-8", errors="ignore")
+                is_root = "root" in whoami_out
+                
+                shared_prefs_path = "/data/data/com.sportzx.live/shared_prefs/appPref.xml"
+                if is_root:
+                    subprocess.run(["adb", "shell", f"cp {shared_prefs_path} /data/local/tmp/appPref.xml"], capture_output=True)
+                else:
+                    res = subprocess.run(["adb", "shell", f"su -c 'cp {shared_prefs_path} /data/local/tmp/appPref.xml'"], capture_output=True)
+                    res_err = res.stderr.decode("utf-8", errors="ignore")
+                    res_out = res.stdout.decode("utf-8", errors="ignore")
+                    if "invalid uid/gid" in res_err or "invalid uid/gid" in res_out:
+                        subprocess.run(["adb", "shell", f"su root cp {shared_prefs_path} /data/local/tmp/appPref.xml"], capture_output=True)
+                
+                subprocess.run(["adb", "shell", "chmod 666 /data/local/tmp/appPref.xml"], capture_output=True)
+                pull_res = subprocess.run(["adb", "pull", "/data/local/tmp/appPref.xml", local_xml], capture_output=True)
+                subprocess.run(["adb", "shell", "rm -f /data/local/tmp/appPref.xml"], capture_output=True)
+                
+                if os.path.exists(local_xml):
+                    with open(local_xml, "r", encoding="utf-8", errors="ignore") as xf:
+                        xml_content = xf.read()
+                    os.remove(local_xml)
+                    
+                    import re
+                    match = re.search(r'<string name="last_success_api_url">(https?://[^<]+)</string>', xml_content)
+                    if match:
+                        detected_url = match.group(1).strip()
+                        if detected_url.endswith("/"):
+                            detected_url = detected_url[:-1]
+                        print(f"    [Auto Domain] Detected active API base domain: {detected_url}")
+                        
+                        # Update base_domain
+                        base_domain = detected_url
+                        
+                        # Update config endpoints dynamically
+                        for ep_name in config["endpoints"]:
+                            old_url = config["endpoints"][ep_name]["url"]
+                            parsed_ep = urllib.parse.urlparse(old_url)
+                            new_url = f"{base_domain}{parsed_ep.path}"
+                            config["endpoints"][ep_name]["url"] = new_url
+                            
+                        # Save updated config.json
+                        with open("config.json", "w", encoding="utf-8") as f:
+                            json.dump(config, f, indent=2, ensure_ascii=False)
+                        print("    [Auto Domain] Updated config.json with active domain URLs.")
+                    else:
+                        print("    [Auto Domain] last_success_api_url not found in appPref.xml.")
+                else:
+                    print("    [Auto Domain] Failed to pull appPref.xml from emulator.")
+                    print("                  Make sure you have granted Superuser (root) permission to 'Shell' in your emulator's GUI.")
+            except Exception as ade:
+                print(f"    [Auto Domain] Error resolving domain: {ade}")
             
     for name, ep_info in config["endpoints"].items():
         url = ep_info["url"]
