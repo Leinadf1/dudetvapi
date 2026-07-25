@@ -143,6 +143,23 @@ def decrypt_via_emulator(payload, apk_path, lib_path):
         # 3. Start frida-server in mount master namespace if not running
         frida_ps = subprocess.run(["adb", "shell", "ps | grep frida-server"], capture_output=True, text=True)
         if "frida-server" not in frida_ps.stdout:
+            # Check if frida-server exists on the device
+            check_fs = subprocess.run(["adb", "shell", "ls /data/local/tmp/frida-server"], capture_output=True, text=True)
+            if "No such file" in check_fs.stderr or "frida-server" not in check_fs.stdout:
+                print("      [Frida Fallback] frida-server not found on device. Preparing push...")
+                if os.path.exists("frida-server"):
+                    subprocess.run(["adb", "push", "frida-server", "/data/local/tmp/frida-server"], check=True)
+                elif os.path.exists("frida-server.xz"):
+                    print("      [Frida Fallback] Extracting frida-server.xz on host...")
+                    import lzma
+                    with lzma.open("frida-server.xz", "rb") as f_in:
+                        with open("frida-server", "wb") as f_out:
+                            f_out.write(f_in.read())
+                    subprocess.run(["adb", "push", "frida-server", "/data/local/tmp/frida-server"], check=True)
+                else:
+                    print("      [Frida Fallback] Warning: frida-server binary or xz archive not found locally.")
+                subprocess.run(["adb", "shell", "su -c 'chmod 755 /data/local/tmp/frida-server'"], check=True)
+
             print("      [Frida Fallback] Starting frida-server...")
             subprocess.Popen(["adb", "shell", "su -mm -c 'nohup /data/local/tmp/frida-server > /dev/null 2>&1 &'"],
                              stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
