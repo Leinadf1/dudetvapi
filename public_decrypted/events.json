@@ -207,16 +207,16 @@
     "image": "o",
     "cat": "UFC",
     "eventInfo": {
-      "teamA": "M. Ankalaev",
-      "teamB": "B. Guskov",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/461502/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/471452/image",
-      "eventName": "UFC Fight Night: Ankalaev vs Guskov",
+      "teamA": "U. Medi\u0007",
+      "teamB": "D. Rodriguez",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/474608/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/461990/image",
+      "eventName": "UFC Fight Night: Medic vs. Rodriguez",
       "eventType": "null",
       "eventBanner": "null",
-      "isHot": "1",
-      "startTime": "2026/07/25 13:00:00 +0000",
-      "endTime": "2026/07/25 21:00:00 +0000"
+      "isHot": "0",
+      "startTime": "2026/08/02 16:00:00 +0000",
+      "endTime": "2026/08/01 23:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -541,8 +541,8 @@
       "eventType": "null",
       "eventBanner": "https://iili.io/Cj06Rqv.png",
       "isHot": "0",
-      "startTime": "2026/07/25 09:30:00 +0000",
-      "endTime": "2026/07/25 16:30:00 +0000"
+      "startTime": "2026/07/26 14:15:00 +0000",
+      "endTime": "2026/07/26 19:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -596,7 +596,7 @@
       "eventBanner": "https://wsrv.nl/?url=https://iili.io/Cenkn0x.png",
       "isHot": "0",
       "startTime": "2026/07/25 13:00:00 +0000",
-      "endTime": "2026/07/25 20:30:00 +0000"
+      "endTime": "2026/07/25 22:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -818,11 +818,16 @@
     "publish": "1",
     "formats": [
       "TSN SPORTS",
+      "DUDE Tv WNBA",
       "DUDE Tv Live"
     ],
     "formatsNew": [
       {
         "title": "TSN SPORTS",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv WNBA",
         "logo": ""
       },
       {
@@ -902,8 +907,8 @@
       "eventName": "Lanka Premier League",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/25 14:00:00 +0000",
-      "endTime": "2026/07/25 17:59:00 +0000"
+      "startTime": "2026/07/26 09:30:00 +0000",
+      "endTime": "2026/07/26 17:59:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -938,15 +943,15 @@
     "image": "o",
     "cat": "The Hundred",
     "eventInfo": {
-      "teamA": "WEF",
-      "teamB": "MIL",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/377179/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/377172/image",
-      "eventName": "Welsh Fire vs MI London",
+      "teamA": "TRT",
+      "teamB": "LNS",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/377176/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/377175/image",
+      "eventName": "Trent Rockets vs London Spirit",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/25 17:00:00 +0000",
-      "endTime": "2026/07/25 20:30:00 +0000"
+      "startTime": "2026/07/26 17:00:00 +0000",
+      "endTime": "2026/07/26 20:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1001,15 +1006,15 @@
     "image": "o",
     "cat": "The Hundred",
     "eventInfo": {
-      "teamA": "The Hundred Women",
-      "teamB": "The Hundred Women",
+      "teamA": "Hundred Women",
+      "teamB": "Hundred Women",
       "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/16717/image",
       "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/16717/image",
       "eventName": "The Hundred Women",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/25 13:30:00 +0000",
-      "endTime": "2026/07/25 16:30:00 +0000"
+      "startTime": "2026/07/26 10:00:00 +0000",
+      "endTime": "2026/07/26 16:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1095,39 +1100,6 @@
     ]
   },
   {
-    "id": 50075,
-    "title": "Detroit Tigers vs Royals",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Tigers",
-      "teamB": "Royals",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3648/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3651/image",
-      "eventName": "Detroit Tigers vs Kansas City Royals",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/25 17:10:00 +0000",
-      "endTime": "2026/07/25 20:10:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv MLB",
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50076,
     "title": "Giants vs Angels",
     "image": "o",
@@ -1146,9 +1118,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1174,9 +1151,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1202,9 +1184,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1230,9 +1217,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1602,148 +1594,6 @@
     ]
   },
   {
-    "id": 50098,
-    "title": "PSV Eindhoven vs Villarreal",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "PSV",
-      "teamB": "Villarreal",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2952/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2819/image",
-      "eventName": "PSV Eindhoven vs Villarreal",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/25 16:00:00 +0000",
-      "endTime": "2026/07/25 18:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "ARENA SPORTS",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "ARENA SPORTS",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50099,
-    "title": "Standard Lige vs Juventus",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Standard Lige",
-      "teamB": "Juventus",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2901/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2687/image",
-      "eventName": "Standard Lige vs Juventus",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/25 18:00:00 +0000",
-      "endTime": "2026/07/25 20:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN SPORTS",
-      "FOX DEPORTES",
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN SPORTS",
-        "logo": ""
-      },
-      {
-        "title": "FOX DEPORTES",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50100,
-    "title": "Sporting CP vs AS Monaco",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Sporting",
-      "teamB": "AS Monaco",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3001/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1653/image",
-      "eventName": "Sporting CP vs AS Monaco",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/25 18:30:00 +0000",
-      "endTime": "2026/07/25 20:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50101,
-    "title": "Porto vs Aston Villa",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Porto",
-      "teamB": "Aston Villa",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3002/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/40/image",
-      "eventName": "FC Porto vs Aston Villa",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/25 19:00:00 +0000",
-      "endTime": "2026/07/25 21:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PREMIER SPORTS",
-      "DUDE Tv Live",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "PREMIER SPORTS",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50102,
     "title": "Leeds United vs Wrexham",
     "image": "o",
@@ -1790,11 +1640,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "LFC TV HD",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LFC TV HD",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1819,7 +1679,8 @@
     "publish": "1",
     "formats": [
       "PREMIERER BR",
-      "SporTV BR FHD"
+      "SporTV BR FHD",
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
@@ -1828,6 +1689,10 @@
       },
       {
         "title": "SporTV BR FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
@@ -1912,11 +1777,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TSN SPORTS"
+      "TSN SPORTS",
+      "APPLE TV HD"
     ],
     "formatsNew": [
       {
         "title": "TSN SPORTS",
+        "logo": ""
+      },
+      {
+        "title": "APPLE TV HD",
         "logo": ""
       }
     ]
@@ -1955,110 +1825,26 @@
     ]
   },
   {
-    "id": 50109,
-    "title": "Schalke 04 vs Fagiano Okayama",
+    "id": 50115,
+    "title": "Athletico vs Internacional",
     "image": "o",
-    "cat": "Club Friendly",
+    "cat": "Brasileiro",
     "eventInfo": {
-      "teamA": "Schalke",
-      "teamB": "Okayama",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2530/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/34034/image",
-      "eventName": "Schalke 04 vs Fagiano Okayama",
+      "teamA": "Athletico",
+      "teamB": "Internacional",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1967/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1966/image",
+      "eventName": "Athletico vs Internacional",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/25 14:00:00 +0000",
-      "endTime": "2026/07/25 16:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50110,
-    "title": "Queens Park Rangers vs Fiorentina",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "QPR",
-      "teamB": "Fiorentina",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2693/image",
-      "eventName": "Queens Park vs Fiorentina",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/25 14:00:00 +0000",
-      "endTime": "2026/07/25 16:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50111,
-    "title": "Konyaspor vs Hull City",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Konyaspor",
-      "teamB": "Hull City",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3085/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/96/image",
-      "eventName": "Konyaspor vs Hull City",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/25 15:30:00 +0000",
-      "endTime": "2026/07/25 17:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50112,
-    "title": "Stade Rennais vs Club Brugge KV",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Stade Rennais",
-      "teamB": "Club Brugge KV",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1658/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2888/image",
-      "eventName": "Stade Rennais vs Club Brugge",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/25 16:00:00 +0000",
-      "endTime": "2026/07/25 18:05:00 +0000"
+      "startTime": "2026/07/25 21:30:00 +0000",
+      "endTime": "2026/07/25 23:35:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
       "DUDE Tv Live",
-      "SD SERVER"
+      "PRIME VIDEO HD"
     ],
     "formatsNew": [
       {
@@ -2066,68 +1852,7 @@
         "logo": ""
       },
       {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50113,
-    "title": "Wolverhampton vs Real Sociedad",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Wolverhampton",
-      "teamB": "Real Sociedad",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2824/image",
-      "eventName": "Wolverhampton vs Real Sociedad",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/25 16:00:00 +0000",
-      "endTime": "2026/07/25 18:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50114,
-    "title": "Olympique de Marseille vs Nice",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Olympique de Marseille",
-      "teamB": "Nice",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1641/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1661/image",
-      "eventName": "Olympique de Marseille vs Nice",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/25 16:00:00 +0000",
-      "endTime": "2026/07/25 18:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
+        "title": "PRIME VIDEO HD",
         "logo": ""
       }
     ]

@@ -276,7 +276,7 @@
         "type": "1"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50003,
@@ -486,16 +486,16 @@
     "image": "o",
     "cat": "UFC",
     "eventInfo": {
-      "teamA": "M. Ankalaev",
-      "teamB": "B. Guskov",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/461502/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/471452/image",
-      "eventName": "UFC Fight Night: Ankalaev vs Guskov",
+      "teamA": "U. Medi\u0007",
+      "teamB": "D. Rodriguez",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/474608/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/461990/image",
+      "eventName": "UFC Fight Night: Medic vs. Rodriguez",
       "eventType": "null",
       "eventBanner": "null",
-      "isHot": "1",
-      "startTime": "2026/07/25 13:00:00 +0000",
-      "endTime": "2026/07/25 21:00:00 +0000"
+      "isHot": "0",
+      "startTime": "2026/08/02 16:00:00 +0000",
+      "endTime": "2026/08/01 23:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1125,8 +1125,8 @@
       "eventType": "null",
       "eventBanner": "https://iili.io/Cj06Rqv.png",
       "isHot": "0",
-      "startTime": "2026/07/25 09:30:00 +0000",
-      "endTime": "2026/07/25 16:30:00 +0000"
+      "startTime": "2026/07/26 14:15:00 +0000",
+      "endTime": "2026/07/26 19:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1225,7 +1225,7 @@
       "eventBanner": "https://wsrv.nl/?url=https://iili.io/Cenkn0x.png",
       "isHot": "0",
       "startTime": "2026/07/25 13:00:00 +0000",
-      "endTime": "2026/07/25 20:30:00 +0000"
+      "endTime": "2026/07/25 22:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1526,11 +1526,16 @@
     "publish": "1",
     "formats": [
       "TSN SPORTS",
+      "DUDE Tv WNBA",
       "DUDE Tv Live"
     ],
     "formatsNew": [
       {
         "title": "TSN SPORTS",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv WNBA",
         "logo": ""
       },
       {
@@ -1545,6 +1550,13 @@
         "logo": "",
         "title": "TSN SPORTS",
         "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/53794/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv WNBA",
+        "type": "0"
       },
       {
         "api": "",
@@ -1679,8 +1691,8 @@
       "eventName": "Lanka Premier League",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/25 14:00:00 +0000",
-      "endTime": "2026/07/25 17:59:00 +0000"
+      "startTime": "2026/07/26 09:30:00 +0000",
+      "endTime": "2026/07/26 17:59:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1739,15 +1751,15 @@
     "image": "o",
     "cat": "The Hundred",
     "eventInfo": {
-      "teamA": "WEF",
-      "teamB": "MIL",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/377179/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/377172/image",
-      "eventName": "Welsh Fire vs MI London",
+      "teamA": "TRT",
+      "teamB": "LNS",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/377176/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/377175/image",
+      "eventName": "Trent Rockets vs London Spirit",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/25 17:00:00 +0000",
-      "endTime": "2026/07/25 20:30:00 +0000"
+      "startTime": "2026/07/26 17:00:00 +0000",
+      "endTime": "2026/07/26 20:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1861,15 +1873,15 @@
     "image": "o",
     "cat": "The Hundred",
     "eventInfo": {
-      "teamA": "The Hundred Women",
-      "teamB": "The Hundred Women",
+      "teamA": "Hundred Women",
+      "teamB": "Hundred Women",
       "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/16717/image",
       "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/16717/image",
       "eventName": "The Hundred Women",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/25 13:30:00 +0000",
-      "endTime": "2026/07/25 16:30:00 +0000"
+      "startTime": "2026/07/26 10:00:00 +0000",
+      "endTime": "2026/07/26 16:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1997,20 +2009,20 @@
     "channel_status": "unavailable"
   },
   {
-    "id": 50075,
-    "title": "Detroit Tigers vs Royals",
+    "id": 50076,
+    "title": "Giants vs Angels",
     "image": "o",
     "cat": "MLB",
     "eventInfo": {
-      "teamA": "Tigers",
-      "teamB": "Royals",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3648/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3651/image",
-      "eventName": "Detroit Tigers vs Kansas City Royals",
+      "teamA": "Giants",
+      "teamB": "Angels",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3634/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/5929/image",
+      "eventName": "San Francisco Giants vs Angels",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/25 17:10:00 +0000",
-      "endTime": "2026/07/25 20:10:00 +0000"
+      "startTime": "2026/07/25 20:05:00 +0000",
+      "endTime": "2026/07/25 23:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -2031,49 +2043,11 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/53782/load-playlist?|Referer=https://gooz.aapmains.net",
+        "link": "https://chatgpt.hereisman.net/playlist/53786/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "",
         "title": "DUDE Tv MLB",
         "type": "0"
       },
-      {
-        "api": "",
-        "link": "https://edgestream3.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50076,
-    "title": "Giants vs Angels",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Giants",
-      "teamB": "Angels",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3634/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/5929/image",
-      "eventName": "San Francisco Giants vs Angels",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/25 20:05:00 +0000",
-      "endTime": "2026/07/25 23:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
       {
         "api": "",
         "link": "https://edgestream3.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
@@ -2103,15 +2077,27 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
       }
     ],
     "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/53788/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv MLB",
+        "type": "0"
+      },
       {
         "api": "",
         "link": "https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
@@ -2141,9 +2127,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2158,7 +2149,7 @@
         "type": "0"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
     "id": 50079,
@@ -2179,9 +2170,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2217,8 +2213,23 @@
         "logo": ""
       }
     ],
-    "decoded_channels": [],
-    "channel_status": "unavailable"
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/53803/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv MLB",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://edgestream2.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
   },
   {
     "id": 50081,
@@ -2248,6 +2259,13 @@
       }
     ],
     "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/53806/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv MLB",
+        "type": "0"
+      },
       {
         "api": "",
         "link": "https://edgestream3.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
@@ -2715,229 +2733,6 @@
     "channel_status": "live"
   },
   {
-    "id": 50098,
-    "title": "PSV Eindhoven vs Villarreal",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "PSV",
-      "teamB": "Villarreal",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2952/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2819/image",
-      "eventName": "PSV Eindhoven vs Villarreal",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/25 16:00:00 +0000",
-      "endTime": "2026/07/25 18:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "ARENA SPORTS",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "ARENA SPORTS",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4593987.m3u8?txSecret=0616c6424965b2fb7e396a53574a2cba&txTime=6A64EB7C|Referer=https://player.online909.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://hoofoot.ru/stream?seg=e16b829431016753aa3bb3cdbe47648d%3Afa67ec2637fe7217a35c49fba75b6291ee348c3730f29e8efd27f667eaaa37a3348b9c8ca988eae67d0737f06c6141b9a417d45dc9ef71382c4f9ab8602ca8f53f5f68f344293cbd00c7a755c0283d943903c8586bd7072f2875214c249978eedfc76d05667cd6ef1e88604be4890e8b36d18ddd3fc3b601acac461a84b2e788",
-        "logo": "",
-        "title": "ARENA SPORTS",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.190/hls/ymmmqq.m3u8?|Referer=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "SD SERVER",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50099,
-    "title": "Standard Lige vs Juventus",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Standard Lige",
-      "teamB": "Juventus",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2901/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2687/image",
-      "eventName": "Standard Lige vs Juventus",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/25 18:00:00 +0000",
-      "endTime": "2026/07/25 20:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN SPORTS",
-      "FOX DEPORTES",
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN SPORTS",
-        "logo": ""
-      },
-      {
-        "title": "FOX DEPORTES",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "beIN SPORTS",
-        "type": "1"
-      },
-      {
-        "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-        "logo": "",
-        "title": "FOX DEPORTES",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4547862.m3u8?txSecret=f66e37c8de78cbc891356d965601023b&txTime=6A650082|Referer=https://player.online909.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50100,
-    "title": "Sporting CP vs AS Monaco",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Sporting",
-      "teamB": "AS Monaco",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3001/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1653/image",
-      "eventName": "Sporting CP vs AS Monaco",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/25 18:30:00 +0000",
-      "endTime": "2026/07/25 20:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "cached"
-  },
-  {
-    "id": 50101,
-    "title": "Porto vs Aston Villa",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Porto",
-      "teamB": "Aston Villa",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3002/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/40/image",
-      "eventName": "FC Porto vs Aston Villa",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/25 19:00:00 +0000",
-      "endTime": "2026/07/25 21:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PREMIER SPORTS",
-      "DUDE Tv Live",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "PREMIER SPORTS",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "PREMIER SPORTS",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4593988.m3u8?txSecret=5d546ebe871e7acb3f58925921a0bba7&txTime=6A651580|Referer=https://player.online909.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.190/hls/gagagaqqq.m3u8?|Referer=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "SD SERVER",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
     "id": 50102,
     "title": "Leeds United vs Wrexham",
     "image": "o",
@@ -2993,19 +2788,44 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "LFC TV HD",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LFC TV HD",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "link": "https://messi.damitv.st/live-hls/channel/friendly/2026-07-25/liv-sun/playlist.m3u8",
+        "logo": "",
         "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/53797/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "LFC TV HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.193/hls/YYIIIq.m3u8?|Referer=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "SD SERVER",
         "type": "0"
       }
     ],
@@ -3031,7 +2851,8 @@
     "publish": "1",
     "formats": [
       "PREMIERER BR",
-      "SporTV BR FHD"
+      "SporTV BR FHD",
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
@@ -3041,20 +2862,33 @@
       {
         "title": "SporTV BR FHD",
         "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
       }
     ],
     "decoded_channels": [
       {
         "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
         "title": "PREMIERER BR",
         "type": "1"
       },
       {
         "api": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
         "link": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
         "title": "SporTV BR FHD",
         "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://live.vivo200.com/live/sd-1-4465718.m3u8?txSecret=8b709dede9f6ebc01b3a5be15d3385a8&txTime=6A653286|Referer=https://player.online909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
       }
     ],
     "channel_status": "live"
@@ -3163,11 +2997,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TSN SPORTS"
+      "TSN SPORTS",
+      "APPLE TV HD"
     ],
     "formatsNew": [
       {
         "title": "TSN SPORTS",
+        "logo": ""
+      },
+      {
+        "title": "APPLE TV HD",
         "logo": ""
       }
     ],
@@ -3175,8 +3014,16 @@
       {
         "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
         "title": "TSN SPORTS",
         "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://rdcstream.life/live/cf-montreal-x-inter-miami/index.m3u8?|Referer=https://playerembed.xyz/",
+        "logo": "",
+        "title": "APPLE TV HD",
+        "type": "0"
       }
     ],
     "channel_status": "live"
@@ -3230,132 +3077,26 @@
     "channel_status": "live"
   },
   {
-    "id": 50109,
-    "title": "Schalke 04 vs Fagiano Okayama",
+    "id": 50115,
+    "title": "Athletico vs Internacional",
     "image": "o",
-    "cat": "Club Friendly",
+    "cat": "Brasileiro",
     "eventInfo": {
-      "teamA": "Schalke",
-      "teamB": "Okayama",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2530/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/34034/image",
-      "eventName": "Schalke 04 vs Fagiano Okayama",
+      "teamA": "Athletico",
+      "teamB": "Internacional",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1967/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1966/image",
+      "eventName": "Athletico vs Internacional",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/25 14:00:00 +0000",
-      "endTime": "2026/07/25 16:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4595928.m3u8?txSecret=0c44eae7ff54e5cf0103525e8e1f37f8&txTime=6A64D024|Referer=https://player.online909.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50110,
-    "title": "Queens Park Rangers vs Fiorentina",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "QPR",
-      "teamB": "Fiorentina",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2693/image",
-      "eventName": "Queens Park vs Fiorentina",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/25 14:00:00 +0000",
-      "endTime": "2026/07/25 16:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [],
-    "channel_status": "unavailable"
-  },
-  {
-    "id": 50111,
-    "title": "Konyaspor vs Hull City",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Konyaspor",
-      "teamB": "Hull City",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3085/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/96/image",
-      "eventName": "Konyaspor vs Hull City",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/25 15:30:00 +0000",
-      "endTime": "2026/07/25 17:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4595950.m3u8?txSecret=191434614ee79f376953a63ee6581f91&txTime=6A64EAA1|Referer=https://player.online909.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50112,
-    "title": "Stade Rennais vs Club Brugge KV",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Stade Rennais",
-      "teamB": "Club Brugge KV",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1658/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2888/image",
-      "eventName": "Stade Rennais vs Club Brugge",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/25 16:00:00 +0000",
-      "endTime": "2026/07/25 18:05:00 +0000"
+      "startTime": "2026/07/25 21:30:00 +0000",
+      "endTime": "2026/07/25 23:35:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
       "DUDE Tv Live",
-      "SD SERVER"
+      "PRIME VIDEO HD"
     ],
     "formatsNew": [
       {
@@ -3363,96 +3104,23 @@
         "logo": ""
       },
       {
-        "title": "SD SERVER",
+        "title": "PRIME VIDEO HD",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4592621.m3u8?txSecret=82575e9893f775cb3c0505340f8183e3&txTime=6A64EB28|Referer=https://player.online909.com/",
+        "link": "https://live.vivo200.com/live/sd-1-4465753.m3u8?txSecret=d08b123bdb10332878a7a92617545e71&txTime=6A65324F|Referer=https://player.online909.com/",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "http://193.47.62.190/hls/ymmmqqq.m3u8?|Referer=http://www.fawanews.sc/",
+        "link": "https://rdcstream.life/live/primevideo/index.m3u8?|Referer=https://playerembed.xyz/",
         "logo": "",
-        "title": "SD SERVER",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50113,
-    "title": "Wolverhampton vs Real Sociedad",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Wolverhampton",
-      "teamB": "Real Sociedad",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2824/image",
-      "eventName": "Wolverhampton vs Real Sociedad",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/25 16:00:00 +0000",
-      "endTime": "2026/07/25 18:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [],
-    "channel_status": "unavailable"
-  },
-  {
-    "id": 50114,
-    "title": "Olympique de Marseille vs Nice",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Olympique de Marseille",
-      "teamB": "Nice",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1641/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1661/image",
-      "eventName": "Olympique de Marseille vs Nice",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/25 16:00:00 +0000",
-      "endTime": "2026/07/25 18:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4592620.m3u8?txSecret=2f29aaaeccb1a97208b89d5bc4700170&txTime=6A64EBE2|Referer=https://player.online909.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
+        "title": "PRIME VIDEO HD",
         "type": "0"
       }
     ],
