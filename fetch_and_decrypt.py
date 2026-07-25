@@ -784,26 +784,105 @@ def main():
             
     print(f"Found {len(tv_channel_ids)} unique TV channel/highlight IDs in subcategories.")
     
-    # Fetch and decrypt each TV channel stream info
-    for idx, ch_id in enumerate(sorted(list(tv_channel_ids))):
-        print(f"    [{idx+1}/{len(tv_channel_ids)}] Fetching TV channel ID: {ch_id}...")
+    import hashlib
+    from concurrent.futures import ThreadPoolExecutor, as_completed
+    
+    # Load payload hash cache (to skip unchanged channels)
+    cache_file = os.path.join(out_dir, ".payload_cache.json")
+    payload_cache = {}
+    if os.path.exists(cache_file):
+        try:
+            with open(cache_file, "r", encoding="utf-8") as cf:
+                payload_cache = json.load(cf)
+        except Exception:
+            payload_cache = {}
+    
+    # ── Phase 1: Parallel HTTP Fetch (all channels at once) ──────────────────────
+    print(f"\n  [Phase 1] Fetching {len(tv_channel_ids)} channel payloads in parallel...")
+    
+    def fetch_channel_payload(ch_id):
+        """Fetch encrypted payload for a single channel. Returns (ch_id, payload_str or None, error)."""
         try:
             ch_url = f"{base_domain}/channels/{ch_id}.json"
             ch_req = urllib.request.Request(ch_url, headers={"User-Agent": "Mozilla/5.0"})
             with urllib.request.urlopen(ch_req, timeout=12) as ch_res:
                 ch_json = json.loads(ch_res.read().decode("utf-8"))
-            
-            ch_payload = ch_json.get("data")
-            if ch_payload:
-                dec_ch = decrypt_data(ch_payload, apk_path, lib_path)
-                if dec_ch:
-                    dec_ch = replace_sportzx_with_dudetv(dec_ch)
-                    ch_out_file = os.path.join(ch_dir, f"{ch_id}.json")
-                    with open(ch_out_file, "w", encoding="utf-8") as ch_f:
-                        json.dump(dec_ch, ch_f, indent=2, ensure_ascii=False)
-                    print(f"      Saved: {ch_out_file} ({len(dec_ch)} channels)")
+            payload = ch_json.get("data")
+            return (ch_id, payload, None)
+        except Exception as e:
+            return (ch_id, None, str(e))
+    
+    fetched_payloads = {}   # ch_id → payload string
+    fetch_errors = {}       # ch_id → error message
+    
+    sorted_ids = sorted(list(tv_channel_ids))
+    with ThreadPoolExecutor(max_workers=12) as executor:
+        futures = {executor.submit(fetch_channel_payload, ch_id): ch_id for ch_id in sorted_ids}
+        done_count = 0
+        for future in as_completed(futures):
+            ch_id, payload, err = future.result()
+            done_count += 1
+            if payload:
+                fetched_payloads[ch_id] = payload
+            elif err:
+                fetch_errors[ch_id] = err
+            # Print progress every 20 channels
+            if done_count % 20 == 0 or done_count == len(sorted_ids):
+                print(f"    Downloaded {done_count}/{len(sorted_ids)} channels...")
+    
+    print(f"  [Phase 1 done] {len(fetched_payloads)} payloads fetched, {len(fetch_errors)} errors.")
+    
+    # ── Phase 2 & 3: Cache check + Sequential JNI decrypt ────────────────────────
+    print(f"\n  [Phase 2&3] Checking cache and decrypting changed channels...")
+    
+    new_cache = dict(payload_cache)  # start with old cache, update as we go
+    skipped = 0
+    decrypted_count = 0
+    
+    for idx, ch_id in enumerate(sorted_ids):
+        ch_out_file = os.path.join(ch_dir, f"{ch_id}.json")
+        
+        if ch_id not in fetched_payloads:
+            # Fetch failed — use cached file if it exists
+            if ch_id in fetch_errors:
+                err = fetch_errors[ch_id]
+                if not any(skip_kw in err for skip_kw in ["404", "Not Found"]):
+                    print(f"    [{idx+1}/{len(sorted_ids)}] Channel {ch_id}: fetch error — {err}")
+            continue
+        
+        ch_payload = fetched_payloads[ch_id]
+        
+        # Phase 2: Hash check
+        payload_hash = hashlib.sha256(ch_payload.encode("utf-8", errors="ignore")).hexdigest()
+        
+        if (payload_cache.get(ch_id) == payload_hash) and os.path.exists(ch_out_file):
+            # Payload unchanged — skip decryption
+            skipped += 1
+            continue
+        
+        # Phase 3: Payload changed → decrypt
+        print(f"    [{idx+1}/{len(sorted_ids)}] Decrypting channel {ch_id} (payload changed)...")
+        try:
+            dec_ch = decrypt_data(ch_payload, apk_path, lib_path)
+            if dec_ch:
+                dec_ch = replace_sportzx_with_dudetv(dec_ch)
+                with open(ch_out_file, "w", encoding="utf-8") as ch_f:
+                    json.dump(dec_ch, ch_f, indent=2, ensure_ascii=False)
+                new_cache[ch_id] = payload_hash
+                decrypted_count += 1
+                print(f"      Saved: {ch_out_file} ({len(dec_ch)} channels)")
         except Exception as ce:
-            print(f"      Failed to process TV channel {ch_id}: {ce}")
+            print(f"      Failed to decrypt channel {ch_id}: {ce}")
+    
+    # Save updated cache
+    try:
+        with open(cache_file, "w", encoding="utf-8") as cf:
+            json.dump(new_cache, cf, ensure_ascii=False)
+    except Exception:
+        pass
+    
+    print(f"\n  [Done] Decrypted: {decrypted_count} | Cached (skipped): {skipped} | Errors: {len(fetch_errors)}")
+
 
     # Write the API specification JSON file
     write_api_specification(out_dir)

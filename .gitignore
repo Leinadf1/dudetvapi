@@ -32,3 +32,6 @@ HOW_IT_WORKS.md
 
 # Generated output data (pushed by GitHub Actions only)
 public_decrypted/
+
+# Runtime cache files
+.payload_cache.json
