@@ -126,6 +126,7 @@ def decrypt_via_emulator(payload, apk_path, lib_path):
     try:
         # Try running adb root to see if we can get native root shell access
         subprocess.run(["adb", "root"], capture_output=True)
+        subprocess.run(["adb", "wait-for-device"], capture_output=True)
         whoami_res = subprocess.run(["adb", "shell", "whoami"], capture_output=True)
         whoami_out = whoami_res.stdout.decode("utf-8", errors="ignore")
         is_root = "root" in whoami_out
@@ -176,7 +177,7 @@ def decrypt_via_emulator(payload, apk_path, lib_path):
         run_root_cmd("rm -f /data/user/0/com.sportzx.live/cache/decrypted_raw.bin")
         
         # 3. Start frida-server in mount master namespace if not running
-        frida_ps = subprocess.run(["adb", "shell", "ps | grep frida-server"], capture_output=True)
+        frida_ps = subprocess.run(["adb", "shell", "ps -A | grep frida-server"], capture_output=True)
         frida_ps_out = frida_ps.stdout.decode("utf-8", errors="ignore")
         if "frida-server" not in frida_ps_out:
             # Check if frida-server exists on the device
@@ -470,6 +471,9 @@ def main():
         print("Continuing with local decryption only. 'deadbeef' format files (events, cats, highlights) will be skipped.")
     else:
         print(f"Connected devices: {devices}")
+        print("Ensuring adb runs as root...")
+        subprocess.run(["adb", "root"], capture_output=True)
+        subprocess.run(["adb", "wait-for-device"], capture_output=True)
         apk_path, lib_path = get_device_paths()
         if apk_path and lib_path:
             emulator_available = True
