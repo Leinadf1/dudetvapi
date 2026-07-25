@@ -44,8 +44,14 @@ jobs:
         disable-animations: true
         emulator-options: -no-window -gpu swiftshader_indirect -noaudio -no-boot-anim -camera-back none
         script: |
-          # 1. Install official SportzX v3.0 APK
-          adb install SportzX_3.0v.apk
+          # Unlock emulator screen
+          adb shell wm dismiss-keyguard
+          
+          # 1. Install official SportzX v3.0 APK granting all permissions
+          adb install -g SportzX_3.0v.apk
+          
+          # Explicitly grant POST_NOTIFICATIONS for Android 13+ safety
+          adb shell pm grant com.sportzx.live android.permission.POST_NOTIFICATIONS || true
           
           # 2. Run the decryption and scraper script
           python fetch_and_decrypt.py
