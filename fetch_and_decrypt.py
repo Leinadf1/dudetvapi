@@ -6,6 +6,7 @@ import urllib.request
 import subprocess
 import re
 from Crypto.Cipher import AES
+import time
 
 # Set terminal encoding to UTF-8
 sys.stdout.reconfigure(encoding="utf-8")
@@ -123,24 +124,77 @@ def decrypt_via_emulator(payload, apk_path, lib_path):
     temp_file = "temp_payload.txt"
     device_file = "/data/local/tmp/payload.txt"
     try:
+        # 1. Make sure App is running and SELinux is Permissive
+        ps_res = subprocess.run(["adb", "shell", "ps | grep sportzx"], capture_output=True, text=True)
+        if "com.sportzx.live" not in ps_res.stdout:
+            print("      [Frida Fallback] App is not running. Launching SportzX...")
+            subprocess.run(["adb", "shell", "su -c 'setenforce 0'"], capture_output=True)
+            subprocess.run(["adb", "shell", "am start -n com.sportzx.live/com.sportzx.live.activities.SplashActivity"], capture_output=True)
+            time.sleep(4)
+        
+        # 2. Write payload and push it
         with open(temp_file, "w", encoding="utf-8") as f:
             f.write(payload)
         subprocess.run(["adb", "push", temp_file, device_file], check=True, capture_output=True)
         
-        classpath = f"/data/local/tmp/Decryptor.jar:{apk_path}"
-        cmd = [
-            "adb", "shell",
-            f"export CLASSPATH={classpath}; app_process /data/local/tmp Decryptor {lib_path} '@{device_file}'"
-        ]
-        res = subprocess.run(cmd, capture_output=True, text=True)
-        output = res.stdout
+        # Remove old output file
+        subprocess.run(["adb", "shell", "su -c 'rm -f /data/user/0/com.sportzx.live/cache/decrypted_raw.bin'"], capture_output=True)
         
-        if "DECRYPTION RESULT START" in output:
-            decrypted_str = output.split("DECRYPTION RESULT START")[1].split("DECRYPTION RESULT END")[0].strip()
-            return json.loads(decrypted_str)
-        else:
-            print(f"Decryption failed: {res.stderr}")
+        # 3. Start frida-server in mount master namespace if not running
+        frida_ps = subprocess.run(["adb", "shell", "ps | grep frida-server"], capture_output=True, text=True)
+        if "frida-server" not in frida_ps.stdout:
+            print("      [Frida Fallback] Starting frida-server...")
+            subprocess.Popen(["adb", "shell", "su -mm -c 'nohup /data/local/tmp/frida-server > /dev/null 2>&1 &'"],
+                             stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+            time.sleep(2)
+            
+        # 4. Run Frida CLI to invoke decrypt_script.js
+        frida_cmd = ["frida", "-U", "-n", "SportzX", "-l", "decrypt_script.js"]
+        output = ""
+        try:
+            # Run frida and let it time out after 7 seconds
+            res = subprocess.run(frida_cmd, capture_output=True, text=True, timeout=7)
+            output = res.stdout or ""
+        except subprocess.TimeoutExpired as te:
+            output = te.stdout or ""
+        except Exception as fe:
+            print(f"      [Frida Fallback] process error: {fe}")
+                
+        success = False
+        saved_path = None
+        for line in output.splitlines():
+            if "SUCCESS!" in line:
+                success = True
+                parts = line.split("saved to:")
+                if len(parts) > 1:
+                    saved_path = parts[1].strip()
+                break
+            
+        if not success or not saved_path:
+            print("      [Frida Fallback] Frida decryption failed or output path not parsed.")
+            saved_path = "/data/user/0/com.sportzx.live/cache/decrypted_raw.bin" # fallback
+            
+        # 5. Retrieve output bytes directly from private folder via su
+        cat_res = subprocess.run(["adb", "shell", f"su -c 'cat {saved_path}'"], capture_output=True)
+        raw_bytes = cat_res.stdout
+        
+        if len(raw_bytes) == 0:
+            print("      [Frida Fallback] Decrypted file is empty or not readable.")
             return None
+            
+        # 6. Extract low bytes from UTF-16BE encoding
+        low_bytes = bytes(raw_bytes[i+1] for i in range(0, len(raw_bytes)-1, 2))
+        text = low_bytes.decode("utf-8", errors="ignore").strip()
+        
+        if '{"' in text or '["' in text or text.startswith('[') or text.startswith('{'):
+            return json.loads(text)
+        else:
+            print("      [Frida Fallback] Output does not look like JSON.")
+            return None
+            
+    except Exception as e:
+        print(f"      [Frida Fallback] Unexpected error: {e}")
+        return None
     finally:
         if os.path.exists(temp_file):
             os.remove(temp_file)
@@ -291,6 +345,12 @@ def main():
     out_dir = config.get("output_directory", "public_decrypted")
     os.makedirs(out_dir, exist_ok=True)
     
+    # Parse base domain from config cats endpoint
+    import urllib.parse
+    cats_url = config["endpoints"]["cats"]["url"]
+    parsed_url = urllib.parse.urlparse(cats_url)
+    base_domain = f"{parsed_url.scheme}://{parsed_url.netloc}"
+    
     devices = check_adb_devices()
     emulator_available = False
     apk_path, lib_path = None, None
@@ -357,24 +417,14 @@ def main():
                             print(f"    [{i+1}/{len(decrypted_json)}] Fetching subcategory: {title} ({cat_link})...")
                             try:
                                 relative_path = f"cats/{cat_link}.json"
-                                sub_url = f"https://cdn-stream.top/{relative_path}"
+                                sub_url = f"{base_domain}/{relative_path}"
                                 sub_req = urllib.request.Request(sub_url, headers={"User-Agent": "Mozilla/5.0"})
                                 with urllib.request.urlopen(sub_req, timeout=15) as sub_res:
                                     sub_json = json.loads(sub_res.read().decode("utf-8"))
                                 
                                 sub_payload = sub_json.get("data")
                                 if sub_payload:
-                                    sub_bytes = clean_and_decode_b64(sub_payload)
-                                    # Use the correct static IV to prevent first block corruption and keep true IDs
-                                    iv_bytes = b"HsjJTCA7jJztpL2w"
-                                    dec = decrypt_cbc(sub_bytes, STATIC_KEY, iv_bytes)
-                                    dec_str = dec.decode("utf-8", errors="ignore")
-                                     
-                                    sub_data = None
-                                    try:
-                                        sub_data = json.loads(dec_str)
-                                    except Exception as je:
-                                        print(f"      Failed to parse decrypted JSON for {cat_link}: {je}")
+                                    sub_data = decrypt_data(sub_payload, apk_path, lib_path)
                                                 
                                     if sub_data:
                                         sub_data = replace_sportzx_with_dudetv(sub_data)
@@ -416,7 +466,7 @@ def main():
 
                         # 1. Fetch main ID channels
                         try:
-                            ch_url = f"https://cdn-stream.top/channels/{event_id}.json"
+                            ch_url = f"{base_domain}/channels/{event_id}.json"
                             ch_req = urllib.request.Request(ch_url, headers={"User-Agent": "Mozilla/5.0"})
                             with urllib.request.urlopen(ch_req, timeout=15) as ch_res:
                                 ch_json = json.loads(ch_res.read().decode("utf-8"))
@@ -433,7 +483,7 @@ def main():
 
                         # 2. Fetch fallback ID 'e' channels
                         try:
-                            ch_url = f"https://cdn-stream.top/channels/{event_id}e.json"
+                            ch_url = f"{base_domain}/channels/{event_id}e.json"
                             ch_req = urllib.request.Request(ch_url, headers={"User-Agent": "Mozilla/5.0"})
                             with urllib.request.urlopen(ch_req, timeout=15) as ch_res:
                                 ch_json = json.loads(ch_res.read().decode("utf-8"))
@@ -557,7 +607,7 @@ def main():
     for idx, ch_id in enumerate(sorted(list(tv_channel_ids))):
         print(f"    [{idx+1}/{len(tv_channel_ids)}] Fetching TV channel ID: {ch_id}...")
         try:
-            ch_url = f"https://cdn-stream.top/channels/{ch_id}.json"
+            ch_url = f"{base_domain}/channels/{ch_id}.json"
             ch_req = urllib.request.Request(ch_url, headers={"User-Agent": "Mozilla/5.0"})
             with urllib.request.urlopen(ch_req, timeout=12) as ch_res:
                 ch_json = json.loads(ch_res.read().decode("utf-8"))
