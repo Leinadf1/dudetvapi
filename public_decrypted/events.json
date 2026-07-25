@@ -649,9 +649,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv LIVE"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv LIVE",
         "logo": ""
@@ -705,9 +710,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -733,9 +743,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -761,9 +776,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1377,9 +1397,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1695,44 +1720,6 @@
     ]
   },
   {
-    "id": 50104,
-    "title": "Santos vs Chapecoense",
-    "image": "o",
-    "cat": "Brasileiro",
-    "eventInfo": {
-      "teamA": "Santos",
-      "teamB": "Chapecoense",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1968/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/21845/image",
-      "eventName": "Santos vs Chapecoense",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/25 21:30:00 +0000",
-      "endTime": "2026/07/25 23:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PREMIERER BR",
-      "SporTV BR FHD",
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "PREMIERER BR",
-        "logo": ""
-      },
-      {
-        "title": "SporTV BR FHD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50105,
     "title": "Vasco da Gama vs Mirassol",
     "image": "o",
@@ -1813,11 +1800,16 @@
     "publish": "1",
     "formats": [
       "TSN SPORTS",
+      "APPLE TV+ HD",
       "APPLE TV HD"
     ],
     "formatsNew": [
       {
         "title": "TSN SPORTS",
+        "logo": ""
+      },
+      {
+        "title": "APPLE TV+ HD",
         "logo": ""
       },
       {
@@ -1855,39 +1847,6 @@
       },
       {
         "title": "FOX SPORTS",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50115,
-    "title": "Athletico vs Internacional",
-    "image": "o",
-    "cat": "Brasileiro",
-    "eventInfo": {
-      "teamA": "Athletico",
-      "teamB": "Internacional",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1967/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1966/image",
-      "eventName": "Athletico vs Internacional",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/25 21:30:00 +0000",
-      "endTime": "2026/07/25 23:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "PRIME VIDEO HD"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "PRIME VIDEO HD",
         "logo": ""
       }
     ]
