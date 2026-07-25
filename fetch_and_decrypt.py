@@ -126,15 +126,18 @@ def decrypt_via_emulator(payload, apk_path, lib_path):
     try:
         # Try running adb root to see if we can get native root shell access
         subprocess.run(["adb", "root"], capture_output=True)
-        whoami_res = subprocess.run(["adb", "shell", "whoami"], capture_output=True, text=True)
-        is_root = "root" in whoami_res.stdout
+        whoami_res = subprocess.run(["adb", "shell", "whoami"], capture_output=True)
+        whoami_out = whoami_res.stdout.decode("utf-8", errors="ignore")
+        is_root = "root" in whoami_out
         
         def run_root_cmd(cmd):
             if is_root:
                 subprocess.run(["adb", "shell", cmd], capture_output=True)
             else:
                 res = subprocess.run(["adb", "shell", f"su -c '{cmd}'"], capture_output=True)
-                if b"invalid uid/gid" in res.stderr or b"invalid uid/gid" in res.stdout:
+                res_err = res.stderr.decode("utf-8", errors="ignore")
+                res_out = res.stdout.decode("utf-8", errors="ignore")
+                if "invalid uid/gid" in res_err or "invalid uid/gid" in res_out:
                     subprocess.run(["adb", "shell", f"su root {cmd}"], capture_output=True)
 
         def run_root_cmd_bytes(cmd):
@@ -142,20 +145,24 @@ def decrypt_via_emulator(payload, apk_path, lib_path):
                 return subprocess.run(["adb", "shell", cmd], capture_output=True).stdout
             else:
                 res = subprocess.run(["adb", "shell", f"su -c '{cmd}'"], capture_output=True)
-                if b"invalid uid/gid" in res.stderr or b"invalid uid/gid" in res.stdout:
+                res_err = res.stderr.decode("utf-8", errors="ignore")
+                res_out = res.stdout.decode("utf-8", errors="ignore")
+                if "invalid uid/gid" in res_err or "invalid uid/gid" in res_out:
                     return subprocess.run(["adb", "shell", f"su root {cmd}"], capture_output=True).stdout
                 return res.stdout
 
         # 1. Make sure App is running and SELinux is Permissive
-        pid_check = subprocess.run(["adb", "shell", "pidof com.sportzx.live"], capture_output=True, text=True)
-        if not pid_check.stdout.strip():
+        pid_check = subprocess.run(["adb", "shell", "pidof com.sportzx.live"], capture_output=True)
+        pid_out = pid_check.stdout.decode("utf-8", errors="ignore").strip()
+        if not pid_out:
             print("      [Frida Fallback] App is not running. Launching SportzX...")
             run_root_cmd("setenforce 0")
             subprocess.run(["adb", "shell", "am start -n com.sportzx.live/com.sportzx.live.activities.SplashActivity"], capture_output=True)
             # Wait up to 12 seconds for the process to register
             for _ in range(12):
-                pid_check = subprocess.run(["adb", "shell", "pidof com.sportzx.live"], capture_output=True, text=True)
-                if pid_check.stdout.strip():
+                pid_check = subprocess.run(["adb", "shell", "pidof com.sportzx.live"], capture_output=True)
+                pid_out = pid_check.stdout.decode("utf-8", errors="ignore").strip()
+                if pid_out:
                     break
                 time.sleep(1)
             time.sleep(4)
@@ -169,11 +176,14 @@ def decrypt_via_emulator(payload, apk_path, lib_path):
         run_root_cmd("rm -f /data/user/0/com.sportzx.live/cache/decrypted_raw.bin")
         
         # 3. Start frida-server in mount master namespace if not running
-        frida_ps = subprocess.run(["adb", "shell", "ps | grep frida-server"], capture_output=True, text=True)
-        if "frida-server" not in frida_ps.stdout:
+        frida_ps = subprocess.run(["adb", "shell", "ps | grep frida-server"], capture_output=True)
+        frida_ps_out = frida_ps.stdout.decode("utf-8", errors="ignore")
+        if "frida-server" not in frida_ps_out:
             # Check if frida-server exists on the device
-            check_fs = subprocess.run(["adb", "shell", "ls /data/local/tmp/frida-server"], capture_output=True, text=True)
-            if "No such file" in check_fs.stderr or "frida-server" not in check_fs.stdout:
+            check_fs = subprocess.run(["adb", "shell", "ls /data/local/tmp/frida-server"], capture_output=True)
+            check_fs_err = check_fs.stderr.decode("utf-8", errors="ignore")
+            check_fs_out = check_fs.stdout.decode("utf-8", errors="ignore")
+            if "No such file" in check_fs_err or "frida-server" not in check_fs_out:
                 print("      [Frida Fallback] frida-server not found on device. Preparing push...")
                 if os.path.exists("frida-server"):
                     subprocess.run(["adb", "push", "frida-server", "/data/local/tmp/frida-server"], check=True)
@@ -193,8 +203,10 @@ def decrypt_via_emulator(payload, apk_path, lib_path):
                 subprocess.Popen(["adb", "shell", "nohup /data/local/tmp/frida-server > /dev/null 2>&1 &"],
                                  stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
             else:
-                test_mm = subprocess.run(["adb", "shell", "su -mm -c 'id'"], capture_output=True, text=True)
-                if "invalid uid/gid" in test_mm.stderr or "invalid uid/gid" in test_mm.stdout:
+                test_mm = subprocess.run(["adb", "shell", "su -mm -c 'id'"], capture_output=True)
+                test_mm_err = test_mm.stderr.decode("utf-8", errors="ignore")
+                test_mm_out = test_mm.stdout.decode("utf-8", errors="ignore")
+                if "invalid uid/gid" in test_mm_err or "invalid uid/gid" in test_mm_out:
                     subprocess.Popen(["adb", "shell", "su root nohup /data/local/tmp/frida-server > /dev/null 2>&1 &"],
                                      stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
                 else:
@@ -208,12 +220,13 @@ def decrypt_via_emulator(payload, apk_path, lib_path):
                 time.sleep(1.5)
             
         # 4. Get the PID of com.sportzx.live and run Frida
-        pid_res = subprocess.run(["adb", "shell", "pidof com.sportzx.live"], capture_output=True, text=True)
-        pid = pid_res.stdout.strip()
+        pid_res = subprocess.run(["adb", "shell", "pidof com.sportzx.live"], capture_output=True)
+        pid = pid_res.stdout.decode("utf-8", errors="ignore").strip()
         if not pid:
             # Try parsing from ps
-            ps_cmd = subprocess.run(["adb", "shell", "ps | grep com.sportzx.live"], capture_output=True, text=True)
-            match = re.search(r'\s+(\d+)\s+', ps_cmd.stdout)
+            ps_cmd = subprocess.run(["adb", "shell", "ps | grep com.sportzx.live"], capture_output=True)
+            ps_out = ps_cmd.stdout.decode("utf-8", errors="ignore")
+            match = re.search(r'\s+(\d+)\s+', ps_out)
             if match:
                 pid = match.group(1)
         
@@ -226,12 +239,12 @@ def decrypt_via_emulator(payload, apk_path, lib_path):
         stderr_output = ""
         try:
             # Run frida and let it time out after 7 seconds
-            res = subprocess.run(frida_cmd, capture_output=True, text=True, timeout=7)
-            output = res.stdout or ""
-            stderr_output = res.stderr or ""
+            res = subprocess.run(frida_cmd, capture_output=True, timeout=7)
+            output = res.stdout.decode("utf-8", errors="ignore") if res.stdout else ""
+            stderr_output = res.stderr.decode("utf-8", errors="ignore") if res.stderr else ""
         except subprocess.TimeoutExpired as te:
-            output = te.stdout or ""
-            stderr_output = te.stderr or ""
+            output = te.stdout.decode("utf-8", errors="ignore") if te.stdout else ""
+            stderr_output = te.stderr.decode("utf-8", errors="ignore") if te.stderr else ""
         except Exception as fe:
             print(f"      [Frida Fallback] process error: {fe}")
                 
