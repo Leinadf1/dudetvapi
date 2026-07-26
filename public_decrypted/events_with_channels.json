@@ -39,7 +39,8 @@
       "F1 ITALY SD",
       "ELEVEN SPORTS",
       "Fox Sports - AQ",
-      "FANCODE FHD"
+      "FANCODE FHD",
+      "F1 FHD"
     ],
     "formatsNew": [
       {
@@ -125,6 +126,10 @@
       {
         "title": "FANCODE FHD",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
+        "title": "F1 FHD",
+        "logo": ""
       }
     ],
     "decoded_channels": [
@@ -274,6 +279,13 @@
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
         "title": "FANCODE FHD",
         "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://cdnfan.site/live.php?id=20d9a608e5c90f90&token=guest__f85c4Ita_zPIiiEhyal4MMWURjng9y-w3V1ih2NeYK0xcN8J8H5cgFXIDEpyURsl0cucoIog_mEM0zOPhIGbKPg_W2eZbSCPBStREAHneeQ19TP9lADT8LFnQbOGOrrejppRdfoIpquCkNtxDLpy8X5yb5EP1PsD-WUlPd37eG9Pm-JkVZNVP9aJEpIF7i43cz-F7goUSGSLv12hue3hflP6cka2xJTxGiwL_P_eWekAJRsoo4QOv75LSp1t0Rq81DRY&format=.m3u8|Referer=https://cdnfan.site/",
+        "logo": "",
+        "title": "F1 FHD",
+        "type": "0"
       }
     ],
     "channel_status": "live"
@@ -1112,41 +1124,6 @@
     "channel_status": "live"
   },
   {
-    "id": 50015,
-    "title": "BKFC FIGHT NIGHT",
-    "image": "o",
-    "cat": "BKFC",
-    "eventInfo": {
-      "teamA": "Gaston Reyno",
-      "teamB": "Josh Krejci",
-      "teamAFlag": "https://bkfc-cdn.gigcasters.com/a/881f5d0d-02d9-493b-b7ba-bced0210f9d9/39d1e984-6f40-4d73-a661-ad11c69477db/1745429006/o/GASTON_REYNO_400x533.png",
-      "teamBFlag": "https://bkfc-cdn.gigcasters.com/a/881f5d0d-02d9-493b-b7ba-bced0210f9d9/39d1e984-6f40-4d73-a661-ad11c69477db/1744598992/o/1744598992321_67cf5f1ab7918b6be9bfd548_JOSH_KREJCI_AVATAR_400x533_compressed.png",
-      "eventName": "BKFC Fight Night Uruguay",
-      "eventType": "null",
-      "isHot": "1",
-      "startTime": "2026/07/26 00:00:00 +0000",
-      "endTime": "2026/07/26 04:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "BKFC HD LIVE",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "BKFC HD LIVE",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [],
-    "channel_status": "unavailable"
-  },
-  {
     "id": 50019,
     "title": "Tour de France",
     "image": "o",
@@ -1258,9 +1235,9 @@
       "eventName": "Errol Spence Jr vs Tim Tszyu",
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://iili.io/CeVdokg.png",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/07/26 01:00:00 +0000",
-      "endTime": "2026/07/26 04:30:00 +0000"
+      "endTime": "2026/07/26 05:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1364,31 +1341,26 @@
   },
   {
     "id": 50032,
-    "title": "Milwaukee Brewers",
+    "title": "Minnesota Twins",
     "image": "o",
     "cat": "MLB",
     "eventInfo": {
-      "teamA": "Brewers",
-      "teamB": "Rockies",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3630/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3628/image",
-      "eventName": "Milwaukee Brewers vs Colorado Rockies",
+      "teamA": "Twins",
+      "teamB": "Athletics",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3649/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3645/image",
+      "eventName": "Minnesota Twins vs Athletics",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/25 23:10:00 +0000",
-      "endTime": "2026/07/26 02:10:00 +0000"
+      "startTime": "2026/07/26 18:10:00 +0000",
+      "endTime": "2026/07/26 21:10:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv MLB",
       "DUDE Tv LIVE"
     ],
     "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
       {
         "title": "DUDE Tv LIVE",
         "logo": ""
@@ -1410,23 +1382,23 @@
         "type": "0"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
     "id": 50033,
-    "title": "Minnesota Twins",
+    "title": "Cincinnati Reds",
     "image": "o",
     "cat": "MLB",
     "eventInfo": {
-      "teamA": "Twins",
-      "teamB": "Athletics",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3649/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3645/image",
-      "eventName": "Minnesota Twins vs Athletics",
+      "teamA": "Cardinals",
+      "teamB": "Reds",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3632/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3633/image",
+      "eventName": "St. Louis Cardinals vs Cincinnati Reds",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/25 23:10:00 +0000",
-      "endTime": "2026/07/26 02:10:00 +0000"
+      "startTime": "2026/07/26 18:15:00 +0000",
+      "endTime": "2026/07/26 21:15:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1439,36 +1411,39 @@
         "logo": ""
       }
     ],
-    "decoded_channels": [],
-    "channel_status": "unavailable"
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://edgestream2.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
   },
   {
     "id": 50034,
-    "title": "New York Mets",
+    "title": "Texas Rangers",
     "image": "o",
     "cat": "MLB",
     "eventInfo": {
-      "teamA": "Mets",
-      "teamB": "Dodgers",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3629/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3638/image",
-      "eventName": "New York Mets vs Los Angeles Dodgers",
+      "teamA": "Rangers",
+      "teamB": "Mariners",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3647/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3641/image",
+      "eventName": "Texas Rangers vs Seattle Mariners",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/25 23:15:00 +0000",
-      "endTime": "2026/07/26 02:15:00 +0000"
+      "startTime": "2026/07/26 18:35:00 +0000",
+      "endTime": "2026/07/26 21:35:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv MLB",
       "DUDE Tv Live"
     ],
     "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1487,31 +1462,26 @@
   },
   {
     "id": 50052,
-    "title": "Cincinnati Reds",
+    "title": "San Francisco Giants",
     "image": "o",
     "cat": "MLB",
     "eventInfo": {
-      "teamA": "Cardinals",
-      "teamB": "Reds",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3632/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3633/image",
-      "eventName": "St. Louis Cardinals vs Cincinnati Reds",
+      "teamA": "Giants",
+      "teamB": "Angels",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3634/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/5929/image",
+      "eventName": "San Francisco Giants vs Los Angeles Angels",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/25 23:15:00 +0000",
-      "endTime": "2026/07/26 02:15:00 +0000"
+      "startTime": "2026/07/26 20:05:00 +0000",
+      "endTime": "2026/07/26 23:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv MLB",
       "DUDE Tv Live"
     ],
     "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1533,35 +1503,30 @@
         "type": "0"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
     "id": 50053,
-    "title": "Seattle Mariners",
+    "title": "Philadelphia Phillies",
     "image": "o",
     "cat": "MLB",
     "eventInfo": {
-      "teamA": "Rangers",
-      "teamB": "Mariners",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3647/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3641/image",
-      "eventName": "Texas Rangers vs Seattle Mariners",
+      "teamA": "Phillies",
+      "teamB": "Yankees",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3635/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3654/image",
+      "eventName": "Philadelphia Phillies vs New York Yankees",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/25 23:15:00 +0000",
-      "endTime": "2026/07/26 02:15:00 +0000"
+      "startTime": "2026/07/26 23:20:00 +0000",
+      "endTime": "2026/07/27 02:20:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv MLB",
       "DUDE Tv Live"
     ],
     "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1570,15 +1535,7 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/53819/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv MLB",
-        "type": "0"
-      },
-      {
-        "api": "",
         "link": "https://edgestream2.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       }
@@ -1591,15 +1548,15 @@
     "image": "o",
     "cat": "CFL",
     "eventInfo": {
-      "teamA": "BC",
-      "teamB": "Toronto",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4440/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4436/image",
-      "eventName": "BC Lions vs Toronto Argonauts",
+      "teamA": "Montral",
+      "teamB": "Hamilton",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4439/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4441/image",
+      "eventName": "Montreal vs Hamilton Tiger-Cats",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/25 23:00:00 +0000",
-      "endTime": "2026/07/26 02:00:00 +0000"
+      "startTime": "2026/07/26 23:00:00 +0000",
+      "endTime": "2026/07/27 02:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1618,68 +1575,6 @@
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "title": "TSN SPORTS",
         "type": "1"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50055,
-    "title": "WNBA All Star",
-    "image": "o",
-    "cat": "WNBA",
-    "eventInfo": {
-      "teamA": "Team Coop",
-      "teamB": "Team Spoon",
-      "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/1329/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/1329/image",
-      "eventName": "Team Coop vs Team Spoon",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/26 00:30:00 +0000",
-      "endTime": "2026/07/26 03:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "TSN SPORTS",
-      "DUDE Tv WNBA",
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "TSN SPORTS",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv WNBA",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "TSN SPORTS",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/53794/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv WNBA",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://edgestream1.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
       }
     ],
     "channel_status": "live"
@@ -2077,11 +1972,21 @@
     "publish": "1",
     "formats": [
       "DUDE Tv Live",
+      "ViX MEXICO FHD",
+      "ESPN MX HD",
       "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "ViX MEXICO FHD",
+        "logo": ""
+      },
+      {
+        "title": "ESPN MX HD",
         "logo": ""
       },
       {
@@ -2092,14 +1997,28 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "link": "https://live.vivo200.com/live/sd-1-4553810.m3u8?txSecret=b072763cdb0b4a5d20e2db1ad8a156e0&txTime=6A65898A|Referer=https://player.online909.com/",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "http://193.47.62.194/hls/GDDDQQQ.m3u8?|Referer=http://www.fawanews.sc/",
+        "link": "https://channels.forestgump.space/ky0/liga-mx-2026-07-25-san-ats?v=high|Referer=https://channels.forestgump.space/",
+        "logo": "",
+        "title": "ViX MEXICO FHD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://latestmovies.net/api/live/playlist/925",
+        "logo": "",
+        "title": "ESPN MX HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://hls.streamhub.media/hls/thesport-api-2ff4fa381f33ee20d2eb/master.m3u8",
         "logo": "",
         "title": "SD SERVER",
         "type": "0"
@@ -2126,12 +2045,32 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "FOX DEPORTES",
+      "FOX DEPORTES HD",
+      "DUDE Tv Live",
+      "PEACOCK FHD",
+      "TELEMUNDO HD",
+      "AZTECHA 7 HD",
       "SD SERVER"
     ],
     "formatsNew": [
       {
-        "title": "FOX DEPORTES",
+        "title": "FOX DEPORTES HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "PEACOCK FHD",
+        "logo": ""
+      },
+      {
+        "title": "TELEMUNDO HD",
+        "logo": ""
+      },
+      {
+        "title": "AZTECHA 7 HD",
         "logo": ""
       },
       {
@@ -2139,36 +2078,74 @@
         "logo": ""
       }
     ],
-    "decoded_channels": [],
-    "channel_status": "unavailable"
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/53833/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "FOX DEPORTES HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://live.vivo200.com/live/sd-1-4553806.m3u8?txSecret=29626bc908fe2db1ab46067b05245261&txTime=6A6588F9|Referer=https://player.online909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://channels.forestgump.space/ky0/liga-mx-2026-07-25-uanl-asl?v=high|Referer=https://channels.forestgump.space/",
+        "logo": "",
+        "title": "PEACOCK FHD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://latestmovies.net/api/live/playlist/131",
+        "logo": "",
+        "title": "TELEMUNDO HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://hoofoot.ru/stream?seg=7abce8c6e70370a633f24980854a674a%3Ae23fcf9263606acc44b91e4737d50962e365e62970c7c627889a288cacb575236d0930a1584c584d7d151f7a716ab249592f79543f43b40bf823d788d7b8d77e3b9d625eae34e1ba482cfdba082a4499edbfcd5c35fd35be12501d5bf9f62462b1619cb147b98ea2fd7f34fbeb12db0489db99513117db2e97622ca6f666dda4",
+        "logo": "",
+        "title": "AZTECHA 7 HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://hls.streamhub.media/hls/thesport-api-01ee28d468e007a916fa/master.m3u8",
+        "logo": "",
+        "title": "SD SERVER",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
   },
   {
-    "id": 50076,
-    "title": "Giants vs Angels",
+    "id": 50075,
+    "title": "Tampa Bay Rays vs Guardians",
     "image": "o",
     "cat": "MLB",
     "eventInfo": {
-      "teamA": "Giants",
-      "teamB": "Angels",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3634/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/5929/image",
-      "eventName": "San Francisco Giants vs Angels",
+      "teamA": "Rays",
+      "teamB": "Guardians",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3653/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3650/image",
+      "eventName": "Tampa Bay Rays vs Cleveland Guardians",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/25 20:05:00 +0000",
-      "endTime": "2026/07/25 23:05:00 +0000"
+      "startTime": "2026/07/26 16:15:00 +0000",
+      "endTime": "2026/07/26 19:15:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv MLB",
       "DUDE Tv Live"
     ],
     "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2177,15 +2154,44 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/53786/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv MLB",
+        "link": "https://edgestream3.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "title": "DUDE Tv Live",
         "type": "0"
-      },
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50076,
+    "title": "Orioles vs Atlanta Braves",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Orioles",
+      "teamB": "Braves",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3652/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3656/image",
+      "eventName": "Baltimore Orioles vs Atlanta Braves",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/26 17:35:00 +0000",
+      "endTime": "2026/07/26 20:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
       {
         "api": "",
         "link": "https://edgestream3.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       }
@@ -2194,56 +2200,6 @@
   },
   {
     "id": 50077,
-    "title": "Nationals vs Diamondbacks",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Nationals",
-      "teamB": "Diamondbacks",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/5930/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3640/image",
-      "eventName": "Washington Nationals vs Diamondbacks",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/25 20:05:00 +0000",
-      "endTime": "2026/07/25 23:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv MLB",
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/53788/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv MLB",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50078,
     "title": "Red Sox vs Blue Jays",
     "image": "o",
     "cat": "MLB",
@@ -2255,20 +2211,52 @@
       "eventName": "Boston Red Sox vs Blue Jays",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/25 20:10:00 +0000",
-      "endTime": "2026/07/25 23:10:00 +0000"
+      "startTime": "2026/07/26 17:35:00 +0000",
+      "endTime": "2026/07/26 20:35:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv MLB",
       "DUDE Tv Live"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv MLB",
+        "title": "DUDE Tv Live",
         "logo": ""
-      },
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50078,
+    "title": "Pirates vs Chicago Cubs",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Pirates",
+      "teamB": "Cubs",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3637/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3627/image",
+      "eventName": "Pittsburgh Pirates vs Chicago Cubs",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/26 17:35:00 +0000",
+      "endTime": "2026/07/26 20:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2278,40 +2266,34 @@
       {
         "api": "",
         "link": "https://edgestream1.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50079,
-    "title": "Miami Marlins vs Padres",
+    "title": "Nationals vs Diamondbacks",
     "image": "o",
     "cat": "MLB",
     "eventInfo": {
-      "teamA": "Marlins",
-      "teamB": "Padres",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3639/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3636/image",
-      "eventName": "Miami Marlins vs San Diego Padres",
+      "teamA": "Nationals",
+      "teamB": "Diamondbacks",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/5930/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3640/image",
+      "eventName": "Washington Nationals vs Diamondbacks",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/25 20:10:00 +0000",
-      "endTime": "2026/07/25 23:10:00 +0000"
+      "startTime": "2026/07/26 17:35:00 +0000",
+      "endTime": "2026/07/26 20:35:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv MLB",
       "DUDE Tv Live"
     ],
     "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2322,31 +2304,26 @@
   },
   {
     "id": 50080,
-    "title": "Phillies vs Yankees",
+    "title": "Detroit Tigers vs Royals",
     "image": "o",
     "cat": "MLB",
     "eventInfo": {
-      "teamA": "Phillies",
-      "teamB": "Yankees",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3635/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3654/image",
-      "eventName": "Philadelphia Phillies vs Yankees",
+      "teamA": "Tigers",
+      "teamB": "Royals",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3648/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3651/image",
+      "eventName": "Detroit Tigers vs Kansas City Royals",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/25 22:05:00 +0000",
-      "endTime": "2026/07/26 01:05:00 +0000"
+      "startTime": "2026/07/26 17:40:00 +0000",
+      "endTime": "2026/07/26 20:40:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv MLB",
       "DUDE Tv Live"
     ],
     "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2368,35 +2345,30 @@
         "type": "0"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
     "id": 50081,
-    "title": "Tampa Bay Rays vs Guardians",
+    "title": "Miami Marlins vs Padres",
     "image": "o",
     "cat": "MLB",
     "eventInfo": {
-      "teamA": "Rays",
-      "teamB": "Guardians",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3653/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3650/image",
-      "eventName": "Tampa Bay Rays vs Guardians",
+      "teamA": "Marlins",
+      "teamB": "Padres",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3639/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3636/image",
+      "eventName": "Miami Marlins vs San Diego Padres",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/25 22:10:00 +0000",
-      "endTime": "2026/07/26 01:10:00 +0000"
+      "startTime": "2026/07/26 17:40:00 +0000",
+      "endTime": "2026/07/26 20:40:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv MLB",
       "DUDE Tv Live"
     ],
     "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2405,15 +2377,7 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/53806/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv MLB",
-        "type": "0"
-      },
-      {
-        "api": "",
         "link": "https://edgestream3.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       }
@@ -2422,31 +2386,26 @@
   },
   {
     "id": 50082,
-    "title": "Pirates vs Chicago Cubs",
+    "title": "Mets vs Dodgers",
     "image": "o",
     "cat": "MLB",
     "eventInfo": {
-      "teamA": "Pirates",
-      "teamB": "Cubs",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3637/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3627/image",
-      "eventName": "Pittsburgh Pirates vs Chicago Cubs",
+      "teamA": "Mets",
+      "teamB": "Dodgers",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3629/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3638/image",
+      "eventName": "New York Mets vs Dodgers",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/25 22:40:00 +0000",
-      "endTime": "2026/07/26 01:40:00 +0000"
+      "startTime": "2026/07/26 17:40:00 +0000",
+      "endTime": "2026/07/26 20:40:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv MLB",
       "DUDE Tv Live"
     ],
     "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2465,19 +2424,19 @@
   },
   {
     "id": 50083,
-    "title": "Orioles vs Atlanta Braves",
+    "title": "White Sox vs Houston Astros",
     "image": "o",
     "cat": "MLB",
     "eventInfo": {
-      "teamA": "Orioles",
-      "teamB": "Braves",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3652/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3656/image",
-      "eventName": "Baltimore Orioles vs Atlanta Braves",
+      "teamA": "White Sox",
+      "teamB": "Astros",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3644/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3655/image",
+      "eventName": "Chicago White Sox vs Houston Astros",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/25 23:05:00 +0000",
-      "endTime": "2026/07/26 02:05:00 +0000"
+      "startTime": "2026/07/26 18:10:00 +0000",
+      "endTime": "2026/07/26 21:10:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -2495,31 +2454,26 @@
   },
   {
     "id": 50084,
-    "title": "White Sox vs Houston Astros",
+    "title": "Milwaukee Brewers vs Rockies",
     "image": "o",
     "cat": "MLB",
     "eventInfo": {
-      "teamA": "White Sox",
-      "teamB": "Astros",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3644/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3655/image",
-      "eventName": "Chicago White Sox vs Houston Astros",
+      "teamA": "Brewers",
+      "teamB": "Rockies",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3630/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3628/image",
+      "eventName": "Milwaukee Brewers vs Colorado Rockies",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/25 23:10:00 +0000",
-      "endTime": "2026/07/26 02:10:00 +0000"
+      "startTime": "2026/07/26 18:10:00 +0000",
+      "endTime": "2026/07/26 21:10:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv MLB",
       "DUDE Tv Live"
     ],
     "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2541,7 +2495,7 @@
         "type": "0"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
     "id": 50085,
@@ -2556,8 +2510,8 @@
       "eventName": "Global Super League",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/25 23:00:00 +0000",
-      "endTime": "2026/07/26 02:45:00 +0000"
+      "startTime": "2026/07/26 14:00:00 +0000",
+      "endTime": "2026/07/26 17:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -2661,7 +2615,10 @@
     "publish": "1",
     "formats": [
       "CBS NETWORK",
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "SPX FHD LIVE",
+      "Sport TV1 HD",
+      "HD SERVER"
     ],
     "formatsNew": [
       {
@@ -2670,6 +2627,18 @@
       },
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SPX FHD LIVE",
+        "logo": ""
+      },
+      {
+        "title": "Sport TV1 HD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
         "logo": ""
       }
     ],
@@ -2677,449 +2646,266 @@
       {
         "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
         "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
         "title": "CBS NETWORK",
         "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://live.vivo200.com/live/sd-1-4541776.m3u8?txSecret=b960dc4a9311cb51f6e5e657cd5bcb02&txTime=6A6589B7|Referer=https://player.online909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://channels.forestgump.space/ky0/friendly-2026-07-26-afc-tot?v=high|Referer=https://channels.forestgump.space/",
+        "logo": "",
+        "title": "SPX FHD LIVE",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/53832/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "Sport TV1 HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://hls.streamhub.media/hls/thesport-api-af04d581562cadf0feb5/master.m3u8",
+        "logo": "",
+        "title": "HD SERVER",
+        "type": "0"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50087,
-    "title": "Guadalajara vs FC Jurez",
+    "title": "Brisbane Lions vs Port Adelaide",
     "image": "o",
-    "cat": "Liga MX",
+    "cat": "AFL",
     "eventInfo": {
-      "teamA": "Guadalajara",
-      "teamB": "Jurez",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1938/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/201624/image",
-      "eventName": "CD Guadalajara vs FC Jurez",
+      "teamA": "Brisbane",
+      "teamB": "Port Adelaide",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4444/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4457/image",
+      "eventName": "Brisbane Lions vs Port Adelaide",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/25 23:00:00 +0000",
-      "endTime": "2026/07/26 01:00:00 +0000"
+      "startTime": "2026/07/26 03:10:00 +0000",
+      "endTime": "2026/07/26 05:40:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SPX HD LIVE",
-      "DUDE Tv Live",
-      "SPX HD LIVE",
-      "TELEMUNDO USA",
-      "SPX LIVE FHD",
-      "NBC UNIVERSEO"
+      "FOX 504 FHD",
+      "HD SERVER",
+      "TNT SPORTS"
     ],
     "formatsNew": [
       {
-        "title": "SPX HD LIVE",
+        "title": "FOX 504 FHD",
         "logo": ""
       },
       {
-        "title": "DUDE Tv Live",
+        "title": "HD SERVER",
         "logo": ""
       },
       {
-        "title": "SPX HD LIVE",
-        "logo": ""
-      },
-      {
-        "title": "TELEMUNDO USA",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE FHD",
-        "logo": ""
-      },
-      {
-        "title": "NBC UNIVERSEO",
+        "title": "TNT SPORTS",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/53735/load-playlist?|Referer=https://gooz.aapmains.net",
+        "link": "https://channels.forestgump.space/ky0/afl-2026-07-26-bl-port?v=high|Referer=https://channels.forestgump.space/",
         "logo": "",
-        "title": "SPX HD LIVE",
+        "title": "FOX 504 FHD",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4553809.m3u8?txSecret=7c1a636069605e1bd8b9748fcaa1997f&txTime=6A65629D|Referer=https://player.online909.com/",
+        "link": "https://tmaxapp.site/8wirwjs76erftg/tntsports1.m3u8",
         "logo": "",
-        "title": "DUDE Tv Live",
+        "title": "HD SERVER",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://hls.streamhub.media/hls/thesport-api-04dcec9dc470e3f17591/master.m3u8",
+        "link": "https://latestmovies.net/api/live/playlist/31",
         "logo": "",
-        "title": "SPX HD LIVE",
+        "title": "TNT SPORTS",
         "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://hoofoot.ru/stream?seg=8197ceebdbc215799ea4b4b6bdacf509%3A5b22b76d7ae742ee39874c5085e4a3afe298232aaa71722237a8225e72b3e0704d6c6527ca8cf3a96d5e969aef716ba292b658c92e6b2197a88f5a02b86340fda9c8c0a34d31fc7068c6d530b763fb3c8d351f09a1c3ea3e6f5a5b335bb553eb3088c92f1af5efb5265f8a047b3166a111a52b1fd77e148df1b549bba872cbb1",
-        "logo": "",
-        "title": "TELEMUNDO USA",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://messi.damitv.st/live-hls/channel/liga-mx/2026-07-25/gdl-jua/playlist.m3u8",
-        "logo": "",
-        "title": "SPX LIVE FHD",
-        "type": "0"
-      },
-      {
-        "api": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
-        "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd",
-        "logo": "",
-        "title": "NBC UNIVERSEO",
-        "type": "1"
       }
     ],
     "channel_status": "live"
   },
   {
     "id": 50088,
-    "title": "San Diego FC vs FC Dallas",
+    "title": "North Melbourne vs St Kilda Saints",
     "image": "o",
-    "cat": "MLS <<",
+    "cat": "AFL",
     "eventInfo": {
-      "teamA": "San Diego FC",
-      "teamB": "Dallas",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1043961/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2512/image",
-      "eventName": "San Diego FC vs FC Dallas",
+      "teamA": "North Melbourne",
+      "teamB": "St Kilda",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4454/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4453/image",
+      "eventName": "North Melbourne vs St Kilda Saints",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/26 01:30:00 +0000",
-      "endTime": "2026/07/26 03:40:00 +0000"
+      "startTime": "2026/07/26 05:15:00 +0000",
+      "endTime": "2026/07/26 07:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TSN SPORTS",
       "FOX SPORTS",
-      "APPLE TV HD",
-      "DUDE Tv Live"
+      "TNT SPORTS",
+      "FOX 503 FHD",
+      "HD SERVER"
     ],
     "formatsNew": [
-      {
-        "title": "TSN SPORTS",
-        "logo": ""
-      },
       {
         "title": "FOX SPORTS",
         "logo": ""
       },
       {
-        "title": "APPLE TV HD",
+        "title": "TNT SPORTS",
         "logo": ""
       },
       {
-        "title": "DUDE Tv Live",
+        "title": "FOX 503 FHD",
         "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "TSN SPORTS",
-        "type": "1"
       },
       {
-        "api": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "FOX SPORTS",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/53836/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "APPLE TV HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4460389.m3u8?txSecret=ac880c58532dbae4b39d260ee2ce83cf&txTime=6A656913|Referer=https://player.online909.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50102,
-    "title": "Leeds United vs Wrexham",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Leeds",
-      "teamB": "Wrexham",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/34/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/64/image",
-      "eventName": "Leeds United vs Wrexham",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/25 23:30:00 +0000",
-      "endTime": "2026/07/26 01:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PREMIER SPORTS"
-    ],
-    "formatsNew": [
-      {
-        "title": "PREMIER SPORTS",
+        "title": "HD SERVER",
         "logo": ""
       }
     ],
     "decoded_channels": [
-      {
-        "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "title": "PREMIER SPORTS",
-        "type": "1"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50103,
-    "title": "Liverpool vs Sunderland",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Liverpool",
-      "teamB": "Sunderland",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/44/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/41/image",
-      "eventName": "Liverpool FC vs Sunderland",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/25 22:00:00 +0000",
-      "endTime": "2026/07/26 00:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "LFC TV HD",
-      "DUDE Tv Live",
-      "SPX FHD LIVE",
-      "SPX HD LIVE",
-      "SPX SD LIVE"
-    ],
-    "formatsNew": [
-      {
-        "title": "LFC TV HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SPX FHD LIVE",
-        "logo": ""
-      },
-      {
-        "title": "SPX HD LIVE",
-        "logo": ""
-      },
-      {
-        "title": "SPX SD LIVE",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/53797/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "LFC TV HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://hls.streamhub.media/hls/thesport-api-bfc7146df8f1c8365e3d/master.m3u8",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://messi.damitv.st/live-hls/channel/friendly/2026-07-25/liv-sun/playlist.m3u8",
-        "logo": "",
-        "title": "SPX FHD LIVE",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://hoofoot.ru/stream?seg=250d4ae49acefebc322fa446137e367f%3A3a0e7709ca007a6390ff33d4b4ab5965e33e4acb29720f2043f54f709887695386263aa8ff5bcb4ca2332a18e130b4796c33cb25124ad0b67178a1d0fba67a9cb9b5b0e87bc7e45152abaecc24e37822188a132344de30da7b214af777bfd1efa37d06cb8fc238e1614eb1faa7612ce4efde059b25946a23c5399aa62cffa001",
-        "logo": "",
-        "title": "SPX HD LIVE",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.193/hls/YYIIIq.m3u8?|Referer=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "SPX SD LIVE",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50105,
-    "title": "Vasco da Gama vs Mirassol",
-    "image": "o",
-    "cat": "Brasileiro",
-    "eventInfo": {
-      "teamA": "Vasco",
-      "teamB": "Mirassol",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1974/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/21982/image",
-      "eventName": "Vasco da Gama vs Mirassol",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/25 23:30:00 +0000",
-      "endTime": "2026/07/26 01:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PREMIERER BR"
-    ],
-    "formatsNew": [
-      {
-        "title": "PREMIERER BR",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "title": "PREMIERER BR",
-        "type": "1"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50106,
-    "title": "Columbus Crew vs Cincinnati",
-    "image": "o",
-    "cat": "MLS <<",
-    "eventInfo": {
-      "teamA": "Columbus",
-      "teamB": "Cincinnati",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2504/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/215167/image",
-      "eventName": "Columbus Crew vs Cincinnati",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/25 23:15:00 +0000",
-      "endTime": "2026/07/26 01:25:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "FOX SPORTS 1",
-      "FOX SPORTS 2"
-    ],
-    "formatsNew": [
-      {
-        "title": "FOX SPORTS 1",
-        "logo": ""
-      },
-      {
-        "title": "FOX SPORTS 2",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "title": "FOX SPORTS 1",
-        "type": "1"
-      },
       {
         "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "title": "FOX SPORTS 2",
+        "title": "FOX SPORTS",
         "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://latestmovies.net/api/live/playlist/34",
+        "title": "TNT SPORTS",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://channels.forestgump.space/ky0/afl-2026-07-26-nmfc-stk?v=high|Referer=https://channels.forestgump.space/",
+        "title": "FOX 503 FHD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://tmaxapp.site/8wirwjs76erftg/tntsports4.m3u8",
+        "title": "HD SERVER",
+        "type": "0"
       }
     ],
     "channel_status": "live"
   },
   {
-    "id": 50107,
-    "title": "Montral vs Inter Miami",
+    "id": 50089,
+    "title": "Illawarra Dragons vs Gold Coast",
     "image": "o",
-    "cat": "MLS <<",
+    "cat": "NRL Rugby",
     "eventInfo": {
-      "teamA": "Montral",
-      "teamB": "Inter Miami",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/22006/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/337602/image",
-      "eventName": "Montral vs Inter Miami",
+      "teamA": "St. George Illawarra",
+      "teamB": "Gold Coast",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4265/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/7313/image",
+      "eventName": "St. George Illawarra Dragons vs Gold Coast",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/25 23:30:00 +0000",
-      "endTime": "2026/07/26 01:40:00 +0000"
+      "startTime": "2026/07/26 04:00:00 +0000",
+      "endTime": "2026/07/26 06:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TSN SPORTS",
-      "APPLE TV+ HD",
-      "APPLE TV HD"
+      "FOX 502 FHD",
+      "HD SERVER"
     ],
     "formatsNew": [
       {
-        "title": "TSN SPORTS",
+        "title": "FOX 502 FHD",
         "logo": ""
       },
       {
-        "title": "APPLE TV+ HD",
-        "logo": ""
-      },
-      {
-        "title": "APPLE TV HD",
+        "title": "HD SERVER",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
-        "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "TSN SPORTS",
-        "type": "1"
-      },
-      {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/53825/load-playlist?|Referer=https://gooz.aapmains.net",
+        "link": "https://messi.damitv.st/live-hls/channel/afl/2026-07-25/wb-rich/playlist.m3u8",
         "logo": "",
-        "title": "APPLE TV+ HD",
+        "title": "FOX 504 FHD",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://rdcstream.life/live/cf-montreal-x-inter-miami/index.m3u8?|Referer=https://playerembed.xyz/",
+        "link": "https://hoofoot.ru/stream?seg=8319bc84b915f96c662d02c1a1f8addd%3A1e1ebdc365f4db24b8e31176109b38b82ad112a9e3a0dc8b962e90830babe4cecef91e9c70552adf915fe0425b04a47633d4abeea9abae13991caf580fc3fdf2e9cf7852f86abc349d36b6570081d9c60dc6fd31957d14ed735d0ea933ac08bcffbc9cb6f131d4ecf6d807af143e73989caa8872cbfc79e5579a187726aeba32?|Referer=https://hoofoot.ru/",
         "logo": "",
-        "title": "APPLE TV HD",
+        "title": "FOX SPORTS",
+        "type": "0"
+      }
+    ],
+    "channel_status": "cached"
+  },
+  {
+    "id": 50091,
+    "title": "Manly Sea Eagles vs Cronulla Sharks",
+    "image": "o",
+    "cat": "NRL Rugby",
+    "eventInfo": {
+      "teamA": "Manly",
+      "teamB": "Cronulla",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4259/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4266/image",
+      "eventName": "Manly Sea Eagles vs Cronulla Sharks",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/26 06:05:00 +0000",
+      "endTime": "2026/07/26 08:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "FOX 502 FHD",
+      "HD SERVER"
+    ],
+    "formatsNew": [
+      {
+        "title": "FOX 502 FHD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://channels.forestgump.space/ky0/nrl-2026-07-26-man-cro?v=high|Referer=https://channels.forestgump.space/",
+        "title": "FOX 502 FHD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8",
+        "title": "HD SERVER",
         "type": "0"
       }
     ],
