@@ -71,9 +71,30 @@
   },
   {
     "api": "",
+    "link": "https://embedindia.st/embed/f1/2026/hungary/race",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+    "title": "SKY SPORTS [FHD]",
+    "type": "2"
+  },
+  {
+    "api": "",
     "link": "https://embedindia.st/embed/f1/2026/hungary/race/f1tv",
     "logo": "",
     "title": "APPLE TV [FHD]",
+    "type": "2"
+  },
+  {
+    "api": "",
+    "link": "https://embedindia.st/embed/f1/2026/hungary/race/viaplay-nl",
+    "logo": "",
+    "title": "VIAPLAY NL [FHD]",
+    "type": "2"
+  },
+  {
+    "api": "",
+    "link": "https://embedindia.st/embed/f1/2026/hungary/race/dazn-f1-es",
+    "logo": "",
+    "title": "DAZN ESP [FHD]",
     "type": "2"
   },
   {
@@ -103,26 +124,5 @@
     "logo": "",
     "title": "F1 ITALY SD",
     "type": "0"
-  },
-  {
-    "api": "69021095220f3c0eae9bc24215fd692b:eb58cfe0458ed0b48f7351fa3393ad59",
-    "link": "https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd",
-    "logo": "",
-    "title": "ELEVEN SPORTS",
-    "type": "1"
-  },
-  {
-    "api": "2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f",
-    "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd",
-    "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png",
-    "title": "Fox Sports - AQ",
-    "type": "1"
-  },
-  {
-    "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-    "title": "FANCODE FHD",
-    "type": "1"
   }
 ]
