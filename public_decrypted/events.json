@@ -838,33 +838,33 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "WILLOW - Ad Free",
-      "WILLOW FHD",
-      "TAPMAD FHD",
+      "WILLOW - AdFree",
       "WILLOW - ALT",
-      "LOW QUALITY",
+      "TAPMAD - FHD",
+      "WILLOW FHD",
+      "LOW SERVER",
       "FANCODE - IN",
       "FANCODE - BD"
     ],
     "formatsNew": [
       {
-        "title": "WILLOW - Ad Free",
+        "title": "WILLOW - AdFree",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "WILLOW FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "TAPMAD FHD",
-        "logo": ""
       },
       {
         "title": "WILLOW - ALT",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
-        "title": "LOW QUALITY",
+        "title": "TAPMAD - FHD",
+        "logo": ""
+      },
+      {
+        "title": "WILLOW FHD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       },
       {
@@ -890,7 +890,7 @@
       "eventName": "Lanka Premier League",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/26 09:30:00 +0000",
+      "startTime": "2026/07/26 14:00:00 +0000",
       "endTime": "2026/07/26 17:59:00 +0000"
     },
     "adsLimit": "0",
@@ -1001,18 +1001,14 @@
       "eventName": "The Hundred Women",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/26 10:00:00 +0000",
+      "startTime": "2026/07/26 13:30:00 +0000",
       "endTime": "2026/07/26 16:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
       "WILLOW - FHD",
-      "SKY CRICKET",
       "WILLOW - ALT",
-      "TAPMAD - FHD",
-      "SKY SPORT NZ",
-      "FOX CRICKET HD",
       "LOW SERVER"
     ],
     "formatsNew": [
@@ -1021,24 +1017,8 @@
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
-        "title": "SKY CRICKET",
-        "logo": ""
-      },
-      {
         "title": "WILLOW - ALT",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "TAPMAD - FHD",
-        "logo": ""
-      },
-      {
-        "title": "SKY SPORT NZ",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
-      },
-      {
-        "title": "FOX CRICKET HD",
-        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj"
       },
       {
         "title": "LOW SERVER",
@@ -1404,9 +1384,7 @@
       "WILLOW - FHD",
       "WILLOW - ALT",
       "FANCODE - IN",
-      "FANCODE - BD",
-      "WILLOW HD",
-      "LOW SERVER"
+      "FANCODE - BD"
     ],
     "formatsNew": [
       {
@@ -1424,14 +1402,6 @@
       {
         "title": "FANCODE - BD",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      },
-      {
-        "title": "WILLOW HD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
       }
     ]
   },
@@ -1995,6 +1965,59 @@
     "formatsNew": [
       {
         "title": "PREMIERER BR",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50106,
+    "title": "Manchester vs Birmingham Phoenix",
+    "image": "o",
+    "cat": "The Hundred",
+    "eventInfo": {
+      "teamA": "Manchester Super Giants",
+      "teamB": "Birmingham Phoenix",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/377173/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/377174/image",
+      "eventName": "Manchester vs Birmingham Phoenix",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/26 13:30:00 +0000",
+      "endTime": "2026/07/26 17:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "WILLOW - FHD",
+      "SKY CRICKET",
+      "WILLOW - ALT",
+      "SKY SPORT NZ",
+      "FOX CRICKET HD",
+      "LOW SERVER"
+    ],
+    "formatsNew": [
+      {
+        "title": "WILLOW - FHD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "SKY CRICKET",
+        "logo": ""
+      },
+      {
+        "title": "WILLOW - ALT",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "SKY SPORT NZ",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
+      },
+      {
+        "title": "FOX CRICKET HD",
+        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]

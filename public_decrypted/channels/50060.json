@@ -1,10 +1,24 @@
 [
   {
-    "api": "c5b7b0203dc35ab1d211ee4f2fb66bd8:ca686dc9183feebc0f4f9d1dd381c884",
-    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cxtveoewcu/out/v1/43bc3e77ac1d49aaa92ee6ba8844c396/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "api": "ff2d3d8ee3f01ca0186ab372d834a305:20554e3b2bb2a251be086a589087820a",
+    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tpsqlx4rhv/out/v1/1e46878c774c406a9fccb34af17fbc33/cenc.mpd",
     "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-    "title": "WILLOW - Ad Free",
+    "title": "WILLOW - AdFree",
     "type": "1"
+  },
+  {
+    "api": "ff2d3d8ee3f01ca0186ab372d834a305:20554e3b2bb2a251be086a589087820a",
+    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/tpsqlx4rhv/out/v1/1e46878c774c406a9fccb34af17fbc33/cenc.mpd",
+    "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+    "title": "WILLOW - ALT",
+    "type": "1"
+  },
+  {
+    "api": "",
+    "link": "https://saseries.akamaized.net/hls/live/2110097/PAKvsWI-TesT-tapmad/master.m3u8|referer=https://tapmad.com",
+    "logo": "",
+    "title": "TAPMAD - FHD",
+    "type": "0"
   },
   {
     "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
@@ -15,23 +29,9 @@
   },
   {
     "api": "",
-    "link": "https://saseries.akamaized.net/hls/live/2110097/PAKvsWI-TesT-tapmad/master.m3u8|referer=https://tapmad.com",
+    "link": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
     "logo": "",
-    "title": "TAPMAD FHD",
-    "type": "0"
-  },
-  {
-    "api": "c5b7b0203dc35ab1d211ee4f2fb66bd8:ca686dc9183feebc0f4f9d1dd381c884",
-    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cxtveoewcu/out/v1/43bc3e77ac1d49aaa92ee6ba8844c396/cenc.mpd?",
-    "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-    "title": "WILLOW - ALT",
-    "type": "1"
-  },
-  {
-    "api": "",
-    "link": "http://193.47.62.192/hls/SOOOQQQQ.m3u8?|Referer=http://www.fawanews.sc/",
-    "logo": "",
-    "title": "LOW QUALITY",
+    "title": "LOW SERVER",
     "type": "0"
   },
   {
