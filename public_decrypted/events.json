@@ -192,7 +192,7 @@
     "image": "o",
     "cat": "UFC",
     "eventInfo": {
-      "teamA": "U. Medi\u0007",
+      "teamA": "U. Medić",
       "teamB": "D. Rodriguez",
       "teamAFlag": "https://img.sofascore.com/api/v1/team/474608/image",
       "teamBFlag": "https://img.sofascore.com/api/v1/team/461990/image",
@@ -265,7 +265,7 @@
       "teamB": "NXT",
       "teamAFlag": "https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png",
       "teamBFlag": "https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png",
-      "eventName": ">J WWE NXT",
+      "eventName": "🥊 WWE NXT",
       "eventType": "null",
       "isHot": "0",
       "startTime": "2026/07/29 00:00:00 +0000",
@@ -415,7 +415,7 @@
       "teamB": "WWE",
       "teamAFlag": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fwrestling_on_fannation%2F01j7cr769n5sz41833rh.jpg",
       "teamBFlag": "https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/images%2FvoltaxMediaLibrary%2Fmmsport%2Fwrestling_on_fannation%2F01j7cr769n5sz41833rh.jpg",
-      "eventName": ">J WWE Monday Night RAW",
+      "eventName": "🥊 WWE Monday Night RAW",
       "eventType": "null",
       "isHot": "0",
       "startTime": "2026/07/29 00:00:00 +0000",
@@ -468,7 +468,7 @@
       "teamB": "WWE",
       "teamAFlag": "https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png",
       "teamBFlag": "https://www.wwe.com/f/styles/wwe_show_logo_l/public/all/2024/09/Smackdown_LOGO--c8e0b09904cb1356d309a8ea2acb0422.png",
-      "eventName": ">J WWE Friday Night SmackDown",
+      "eventName": "🥊 WWE Friday Night SmackDown",
       "eventType": "null",
       "eventBanner": "https://iili.io/B60OM3Q.gif",
       "isHot": "0",
@@ -712,7 +712,7 @@
     "image": "o",
     "cat": "CFL",
     "eventInfo": {
-      "teamA": "Montral",
+      "teamA": "Montréal",
       "teamB": "Hamilton",
       "teamAFlag": "https://img.sofascore.com/api/v1/team/4439/image",
       "teamBFlag": "https://img.sofascore.com/api/v1/team/4441/image",
@@ -922,19 +922,22 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "WILLOW FHD",
-      "WILLOW - AQ",
+      "WILLOW - FHD",
+      "SKY CRICKET",
       "WILLOW - ALT",
-      "TAPMAD - FHD"
+      "TAPMAD - FHD",
+      "SKY SPORT NZ",
+      "FOX CRICKET HD",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "WILLOW FHD",
+        "title": "WILLOW - FHD",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
-        "title": "WILLOW - AQ",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+        "title": "SKY CRICKET",
+        "logo": ""
       },
       {
         "title": "WILLOW - ALT",
@@ -942,6 +945,18 @@
       },
       {
         "title": "TAPMAD - FHD",
+        "logo": ""
+      },
+      {
+        "title": "SKY SPORT NZ",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
+      },
+      {
+        "title": "FOX CRICKET HD",
+        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -976,15 +991,15 @@
   },
   {
     "id": 50074,
-    "title": "CF Pachuca vs Quertaro",
+    "title": "CF Pachuca vs Querétaro",
     "image": "o",
     "cat": "Liga MX",
     "eventInfo": {
       "teamA": "Pachuca",
-      "teamB": "Quertaro",
+      "teamB": "Querétaro",
       "teamAFlag": "https://img.sofascore.com/api/v1/team/1936/image",
       "teamBFlag": "https://img.sofascore.com/api/v1/team/1951/image",
-      "eventName": "CF Pachuca vs Quertaro FC",
+      "eventName": "CF Pachuca vs Querétaro FC",
       "eventType": "null",
       "isHot": "0",
       "startTime": "2026/07/27 01:00:00 +0000",
@@ -1705,7 +1720,7 @@
     "id": 50099,
     "title": "Cruzeiro vs Botafogo",
     "image": "o",
-    "cat": "Brasileiro",
+    "cat": "Brasileirão",
     "eventInfo": {
       "teamA": "Cruzeiro",
       "teamB": "Botafogo",
@@ -1743,7 +1758,7 @@
     "id": 50100,
     "title": "Bahia vs Corinthians",
     "image": "o",
-    "cat": "Brasileiro",
+    "cat": "Brasileirão",
     "eventInfo": {
       "teamA": "Bahia",
       "teamB": "Corinthians",
@@ -1771,7 +1786,7 @@
     "id": 50101,
     "title": "RB Bragantino vs Coritiba",
     "image": "o",
-    "cat": "Brasileiro",
+    "cat": "Brasileirão",
     "eventInfo": {
       "teamA": "RB Bragantino",
       "teamB": "Coritiba",
@@ -1797,15 +1812,15 @@
   },
   {
     "id": 50102,
-    "title": "Grmio vs Fluminense",
+    "title": "Grêmio vs Fluminense",
     "image": "o",
-    "cat": "Brasileiro",
+    "cat": "Brasileirão",
     "eventInfo": {
-      "teamA": "Grmio",
+      "teamA": "Grêmio",
       "teamB": "Fluminense",
       "teamAFlag": "https://img.sofascore.com/api/v1/team/5926/image",
       "teamBFlag": "https://img.sofascore.com/api/v1/team/1961/image",
-      "eventName": "Grmio vs Fluminense",
+      "eventName": "Grêmio vs Fluminense",
       "eventType": "null",
       "isHot": "0",
       "startTime": "2026/07/26 21:30:00 +0000",
@@ -1835,15 +1850,15 @@
   },
   {
     "id": 50103,
-    "title": "Flamengo vs So Paulo",
+    "title": "Flamengo vs São Paulo",
     "image": "o",
-    "cat": "Brasileiro",
+    "cat": "Brasileirão",
     "eventInfo": {
       "teamA": "Flamengo",
-      "teamB": "So Paulo",
+      "teamB": "São Paulo",
       "teamAFlag": "https://img.sofascore.com/api/v1/team/5981/image",
       "teamBFlag": "https://img.sofascore.com/api/v1/team/1981/image",
-      "eventName": "Flamengo vs So Paulo",
+      "eventName": "Flamengo vs São Paulo",
       "eventType": "null",
       "isHot": "0",
       "startTime": "2026/07/26 21:30:00 +0000",
@@ -1863,15 +1878,15 @@
   },
   {
     "id": 50104,
-    "title": "Palmeiras vs Atltico Mineiro",
+    "title": "Palmeiras vs Atlético Mineiro",
     "image": "o",
-    "cat": "Brasileiro",
+    "cat": "Brasileirão",
     "eventInfo": {
       "teamA": "Palmeiras",
-      "teamB": "Atltico-MG",
+      "teamB": "Atlético-MG",
       "teamAFlag": "https://img.sofascore.com/api/v1/team/1963/image",
       "teamBFlag": "https://img.sofascore.com/api/v1/team/1977/image",
-      "eventName": "Palmeiras vs Atltico Mineiro",
+      "eventName": "Palmeiras vs Atlético Mineiro",
       "eventType": "null",
       "isHot": "0",
       "startTime": "2026/07/26 22:30:00 +0000",
@@ -1896,15 +1911,15 @@
   },
   {
     "id": 50105,
-    "title": "Remo vs Vitria",
+    "title": "Remo vs Vitória",
     "image": "o",
-    "cat": "Brasileiro",
+    "cat": "Brasileirão",
     "eventInfo": {
       "teamA": "Remo",
-      "teamB": "Vitria",
+      "teamB": "Vitória",
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2012/image",
       "teamBFlag": "https://img.sofascore.com/api/v1/team/1962/image",
-      "eventName": "Remo vs Vitria",
+      "eventName": "Remo vs Vitória",
       "eventType": "null",
       "isHot": "0",
       "startTime": "2026/07/26 22:30:00 +0000",
