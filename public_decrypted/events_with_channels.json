@@ -1,440 +1,5 @@
 [
   {
-    "id": 50002,
-    "title": "Formula 1",
-    "image": "o",
-    "cat": "F1",
-    "eventInfo": {
-      "teamA": "Formula 1",
-      "teamB": "Formula 1",
-      "teamAFlag": "https://scdnmain.net/assets/tournament/40-c.png",
-      "teamBFlag": "https://scdnmain.net/assets/tournament/40-c.png",
-      "eventName": "Formula 1 - HUNGARIAN GRAND PRIX",
-      "eventType": "null",
-      "eventBanner": "https://iili.io/Cwq8C7I.png",
-      "isHot": "0",
-      "startTime": "2026/07/26 12:45:00 +0000",
-      "endTime": "2026/07/26 15:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "TSN SPORTS",
-      "SKY via APPLE",
-      "DUDE Tv F1 HD",
-      "Sportscast FHD",
-      "APPLE TV HDR",
-      "SKY SPORTS UHD",
-      "DRIVER TRACKER",
-      "DRIVER DATA",
-      "APPLE TV FHD",
-      "RUSSIA FEED",
-      "SKY F1 DEU",
-      "DAZN ESPANOL",
-      "SKY ITALY FHD",
-      "LOW QUALITY",
-      "P1 DRIVER",
-      "P2 DRIVER",
-      "P3 DRIVER",
-      "MIXED ON BOARD",
-      "Driver: Max Verstappen",
-      "Driver: Lewis Hamilton",
-      "Driver: Lando Norris",
-      "Driver: Charles Leclerc",
-      "Driver: Kimi Antonelli",
-      "Driver: Oscar Piastri",
-      "Driver: George Russell",
-      "SKY SPORTS [FHD]",
-      "APPLE TV [FHD]",
-      "FOX 506 [FHD]",
-      "VIAPLAY NL [FHD]",
-      "DAZN ESP [FHD]",
-      "SKY SPORTS HD",
-      "SD SERVER",
-      "F1 GERMANY [USA]",
-      "F1 ITALY SD"
-    ],
-    "formatsNew": [
-      {
-        "title": "TSN SPORTS",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
-      },
-      {
-        "title": "SKY via APPLE",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv F1 HD",
-        "logo": ""
-      },
-      {
-        "title": "Sportscast FHD",
-        "logo": ""
-      },
-      {
-        "title": "APPLE TV HDR",
-        "logo": ""
-      },
-      {
-        "title": "SKY SPORTS UHD",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
-      },
-      {
-        "title": "DRIVER TRACKER",
-        "logo": ""
-      },
-      {
-        "title": "DRIVER DATA",
-        "logo": ""
-      },
-      {
-        "title": "APPLE TV FHD",
-        "logo": ""
-      },
-      {
-        "title": "RUSSIA FEED",
-        "logo": ""
-      },
-      {
-        "title": "SKY F1 DEU",
-        "logo": ""
-      },
-      {
-        "title": "DAZN ESPANOL",
-        "logo": ""
-      },
-      {
-        "title": "SKY ITALY FHD",
-        "logo": ""
-      },
-      {
-        "title": "LOW QUALITY",
-        "logo": ""
-      },
-      {
-        "title": "P1 DRIVER",
-        "logo": ""
-      },
-      {
-        "title": "P2 DRIVER",
-        "logo": ""
-      },
-      {
-        "title": "P3 DRIVER",
-        "logo": ""
-      },
-      {
-        "title": "MIXED ON BOARD",
-        "logo": ""
-      },
-      {
-        "title": "Driver: Max Verstappen",
-        "logo": ""
-      },
-      {
-        "title": "Driver: Lewis Hamilton",
-        "logo": ""
-      },
-      {
-        "title": "Driver: Lando Norris",
-        "logo": ""
-      },
-      {
-        "title": "Driver: Charles Leclerc",
-        "logo": ""
-      },
-      {
-        "title": "Driver: Kimi Antonelli",
-        "logo": ""
-      },
-      {
-        "title": "Driver: Oscar Piastri",
-        "logo": ""
-      },
-      {
-        "title": "Driver: George Russell",
-        "logo": ""
-      },
-      {
-        "title": "SKY SPORTS [FHD]",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
-      },
-      {
-        "title": "APPLE TV [FHD]",
-        "logo": ""
-      },
-      {
-        "title": "FOX 506 [FHD]",
-        "logo": ""
-      },
-      {
-        "title": "VIAPLAY NL [FHD]",
-        "logo": ""
-      },
-      {
-        "title": "DAZN ESP [FHD]",
-        "logo": ""
-      },
-      {
-        "title": "SKY SPORTS HD",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "F1 GERMANY [USA]",
-        "logo": ""
-      },
-      {
-        "title": "F1 ITALY SD",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
-        "title": "TSN SPORTS",
-        "type": "1"
-      },
-      {
-        "api": "73c6218fa797bce56ec12bf5cc7e2dae:ec14e4df9b165a3631251246242f0e91",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x6oqpug9mu/out/v1/502432e8607547b4a6278d3cc64d5b78/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "SKY via APPLE",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/53722/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv F1 HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/1bcd3c63-b6fb-436b-af37-21e34de6234b/master.m3u8",
-        "logo": "",
-        "title": "Sportscast FHD",
-        "type": "0"
-      },
-      {
-        "api": "6aa2dbe2528b97043a0eded15e59d713:73655e545e7da6135dbb94abab908572",
-        "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/s5abnqp0hh/out/v1/4a3f90f679244cbf94eba54386f291ec/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "APPLE TV HDR",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://g001.sadhoofiton.shop/out/v2/cc75a7584192385b3cdfcf871a074397/index.m3u8?|referer=https://pushembdz.store/",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-        "title": "SKY SPORTS UHD",
-        "type": "0"
-      },
-      {
-        "api": "24654a0a3ffb0964af9bed4c51efa8d7:4282ff5adbb69a90dff3c287cba36bf8",
-        "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/l1aov82zx6/out/v1/bb00837881b647b990b3446da2fd2082/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "DRIVER TRACKER",
-        "type": "1"
-      },
-      {
-        "api": "5bb7f3ae42be88488779e5046e884f36:429927f4462913ccae02ec755a75e05f",
-        "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/qnx9wmc6pw/out/v1/f81ebfa4cb054b30af2f47554d9ae2e0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "DRIVER DATA",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://g001.sadhoofiton.shop/out/v2/f7e084915a36d98fd570abe5785f1e00/index.m3u8?|referer=https://pushembdz.store/",
-        "logo": "",
-        "title": "APPLE TV FHD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://bl.rutube.ru/livestream/8d838029ed38ee3be92af7472ac078f4/index.m3u8?s=db9PB4LNQRpvmwwHW_8Jsg&e=1785156374&scheme=https|user-agent=Mozilla",
-        "logo": "",
-        "title": "RUSSIA FEED",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://g001.sadhoofiton.shop/out/v2/ff1b694fb9b98805eb70bb7dd74986a4/index.m3u8?|referer=https://pushembdz.store/",
-        "logo": "",
-        "title": "SKY F1 DEU",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://g001.sadhoofiton.shop/out/v2/ea464b1f66cfbd061183f8d20be86316/index.m3u8?|referer=https://pushembdz.store/",
-        "logo": "",
-        "title": "DAZN ESPANOL",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://g001.sadhoofiton.shop/out/v2/0fa855f86cbd9ec38d0164442a9863b1/index.m3u8?|referer=https://pushembdz.store/",
-        "logo": "",
-        "title": "SKY ITALY FHD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://g001.sadhoofiton.shop/out/v2/cc75a7584192385b3cdfcf871a074397/tracks-v2a0/mono.ts.m3u8?|referer=https://pushembdz.store/",
-        "logo": "",
-        "title": "LOW QUALITY",
-        "type": "0"
-      },
-      {
-        "api": "f56d56de2d2e9d7402b386e2d2ba64da:1eb5512a0582b5b2365303d64286611b",
-        "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/seokyq3vh1/out/v1/cdc4b78635504d65aede4e4c80413746/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "P1 DRIVER",
-        "type": "1"
-      },
-      {
-        "api": "617dafed2c24eddcb0d3f0978dc03f45:122cd103bf3f9537df552b655f9fffc2",
-        "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/g6ssuvaio5/out/v1/061a5659e0564c3bbe8bd6619a5931a5/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "P2 DRIVER",
-        "type": "1"
-      },
-      {
-        "api": "66f901e0531dac3c1b1a67d99e7c5f86:e03f3dc7a3628b495cda4d047c76c229",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ojhbld8mty/out/v1/939b1a9a672c440fa9af29e3911a45a1/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "P3 DRIVER",
-        "type": "1"
-      },
-      {
-        "api": "e644836e8b1e87ad5d684fd4ad58e375:b9601de9e150d514c20d19c20d922365",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/av9rryjmfh/out/v1/dc587d2edd254017a118ad8065a1d9ac/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "MIXED ON BOARD",
-        "type": "1"
-      },
-      {
-        "api": "cad123d3a86d41325016ee30a1f7b1f8:0b73247b015359e2d38fd5efafb6b18f",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/r5tprsdufn/out/v1/f47b9b8405bb471986161cff33a0b2b6/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "Driver: Max Verstappen",
-        "type": "1"
-      },
-      {
-        "api": "e42e8e1a58534eb5fdd44f60166b1027:579115df1241bc5ea2b71928591a2d2d",
-        "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/rdgsixtfki/out/v1/bcf746abf8254c54a4e557915d502c98/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "Driver: Lewis Hamilton",
-        "type": "1"
-      },
-      {
-        "api": "af2a72ee18da3181bee707fb4ed879b7:d2b574348c06090867fb01684391c32c",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jkpwofxvyg/out/v1/5f5f6576aa78472cbf2658cfc20e3a42/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "Driver: Lando Norris",
-        "type": "1"
-      },
-      {
-        "api": "2d6f02c24c86c458e4cee47ef629315c:65f744c4bdaba4799e5bbee2ca11f73b",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/abrcyqbclb/out/v1/2ed19fd867d44ec3b246c51304287bb7/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "Driver: Charles Leclerc",
-        "type": "1"
-      },
-      {
-        "api": "1544f9171a1c1dc9595f15651ae7dbcb:0c14c5c7d322d03a2c1e7cbcea627b2b",
-        "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/vcy5m4uy4n/out/v1/a2257868fb7742d581032d992cd75110/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "Driver: Kimi Antonelli",
-        "type": "1"
-      },
-      {
-        "api": "91f52b1e1e18a364b29a09f93530b956:0d18ce060562df4a42b01fa6aa4f50c1",
-        "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tdrxijayhy/out/v1/1f52712001be4f238822eac001379c8b/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "Driver: Oscar Piastri",
-        "type": "1"
-      },
-      {
-        "api": "32e1cf346fe62c46de292b76363fc9d5:bc5e48ef66f8d6a820ebffab9770e7fc",
-        "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mas3cwwzwv/out/v1/caf0bc8157d04ad1a2b441cc585bd52d/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "Driver: George Russell",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/f1/2026/hungary/race",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-        "title": "SKY SPORTS [FHD]",
-        "type": "2"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/f1/2026/hungary/race/f1tv",
-        "logo": "",
-        "title": "APPLE TV [FHD]",
-        "type": "2"
-      },
-      {
-        "api": "",
-        "link": "https://logic.icelanders.st/embed/fox-sports-506",
-        "logo": "",
-        "title": "FOX 506 [FHD]",
-        "type": "2"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/f1/2026/hungary/race/viaplay-nl",
-        "logo": "",
-        "title": "VIAPLAY NL [FHD]",
-        "type": "2"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/f1/2026/hungary/race/dazn-f1-es",
-        "logo": "",
-        "title": "DAZN ESP [FHD]",
-        "type": "2"
-      },
-      {
-        "api": "",
-        "link": "https://edgestream3.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-        "title": "SKY SPORTS HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.193/hls/ZLLLQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "SD SERVER",
-        "type": "0"
-      },
-      {
-        "api": "6695688f79dc36f7a41f7db13bff5aca:22ef689af2162aefbf745cba2adb4fe9",
-        "link": "https://simplitv-live.mdn.ors.at/live/eds/sky_sport_f1_hd/dash/sky_sport_f1_hd.mpd",
-        "logo": "",
-        "title": "F1 GERMANY [USA]",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://channels.forestgump.space/track/577?|referer=https://channels.forestgump.space/",
-        "logo": "",
-        "title": "F1 ITALY SD",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
     "id": 50003,
     "title": "MotoGP",
     "image": "o",
@@ -1736,59 +1301,27 @@
     ],
     "decoded_channels": [
       {
-        "api": "dd556956ecc559386bded0a96b25450c:d796fd9f63bd9676b575aa461fad6d35",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yfinvhk5he/out/v1/a2cc1989ec8a47a5b3a7ad0f7cb688e3/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "api": "5a0edfcd8c985f6bdb8982a7273ce729:449f298731e930a696cbca83c78d9f96",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vid7odmrih/out/v1/dffb4d3f96694b10bc2c1db3b7ac2472/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "title": "WILLOW - FHD",
         "type": "1"
       },
       {
         "api": "",
         "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-        "logo": "",
         "title": "CRICKET FHD",
         "type": "0"
       },
       {
-        "api": "dd556956ecc559386bded0a96b25450c:d796fd9f63bd9676b575aa461fad6d35",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/yfinvhk5he/out/v1/a2cc1989ec8a47a5b3a7ad0f7cb688e3/cenc.mpd",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "api": "5a0edfcd8c985f6bdb8982a7273ce729:449f298731e930a696cbca83c78d9f96",
+        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vid7odmrih/out/v1/dffb4d3f96694b10bc2c1db3b7ac2472/cenc.mpd",
         "title": "WILLOW - ALT",
         "type": "1"
       },
       {
         "api": "",
         "link": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8|referer=https://tapmad.com",
-        "logo": "",
         "title": "TAPMAD - FHD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.41/hls/ZKKKA.m3u8?|Referer=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "LOW SERVER",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.43/hls/vaaaa.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "SD SERVER",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-        "title": "Sky Sport NZ",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
-        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj",
-        "title": "FOX CRICKET HD",
         "type": "0"
       }
     ],
@@ -1807,8 +1340,8 @@
       "eventName": "The Hundred Women",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/26 13:30:00 +0000",
-      "endTime": "2026/07/26 16:30:00 +0000"
+      "startTime": "2026/07/27 14:00:00 +0000",
+      "endTime": "2026/07/27 17:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1949,20 +1482,45 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv MLB",
+      "DUDE Tv Live",
+      "MLB LIVE [FHD]"
     ],
     "formatsNew": [
       {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "MLB LIVE [FHD]",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
         "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/53846/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv MLB",
+        "type": "0"
+      },
+      {
+        "api": "",
         "link": "https://edgestream3.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/mlb/2026-07-26/cle-tb",
+        "logo": "",
+        "title": "MLB LIVE [FHD]",
+        "type": "2"
       }
     ],
     "channel_status": "live"
@@ -1986,11 +1544,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "MLB LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "MLB LIVE [FHD]",
         "logo": ""
       }
     ],
@@ -2002,7 +1565,7 @@
         "type": "0"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
     "id": 50077,
@@ -2023,11 +1586,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "MLB LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "MLB LIVE [FHD]",
         "logo": ""
       }
     ],
@@ -2035,8 +1603,16 @@
       {
         "api": "",
         "link": "https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/mlb/2026-07-26/tor-bos",
+        "logo": "",
+        "title": "MLB LIVE [FHD]",
+        "type": "2"
       }
     ],
     "channel_status": "live"
@@ -2060,20 +1636,33 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "MLB LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "MLB LIVE [FHD]",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream1.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream2.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/mlb/2026-07-26/chc-pit",
+        "logo": "",
+        "title": "MLB LIVE [FHD]",
+        "type": "2"
       }
     ],
     "channel_status": "live"
@@ -2379,33 +1968,28 @@
   },
   {
     "id": 50086,
-    "title": "Karlsruher SC vs Inter",
+    "title": "Algeria vs Senegal",
     "image": "o",
-    "cat": "Club Friendly",
+    "cat": "Womens AFCON",
     "eventInfo": {
-      "teamA": "Karlsruhe",
-      "teamB": "Inter",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2553/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2697/image",
-      "eventName": "Karlsruher SC vs Inter",
+      "teamA": "Algeria",
+      "teamB": "Senegal",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/180004/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/316945/image",
+      "eventName": "Algeria vs Senegal",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/26 14:30:00 +0000",
-      "endTime": "2026/07/26 16:35:00 +0000"
+      "startTime": "2026/07/26 17:00:00 +0000",
+      "endTime": "2026/07/26 19:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "PREMIER SPORTS",
-      "DUDE Tv Live"
+      "beIN SPORTS [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "PREMIER SPORTS",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
+        "title": "beIN SPORTS [FHD]",
         "logo": ""
       }
     ],
@@ -2425,7 +2009,97 @@
         "type": "0"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
+  },
+  {
+    "id": 50087,
+    "title": "Morocco vs Kenya",
+    "image": "o",
+    "cat": "Womens AFCON",
+    "eventInfo": {
+      "teamA": "Morocco",
+      "teamB": "Kenya",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/261908/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/237894/image",
+      "eventName": "Morocco vs Kenya",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/26 20:00:00 +0000",
+      "endTime": "2026/07/26 22:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "beIN SPORTS [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "beIN SPORTS [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://live.vivo200.com/live/sd-1-4594314.m3u8?txSecret=99e8de4fa76496a44e065f79405379f7&txTime=6A6609C4|Referer=https://player.online909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.190/hls/FFKKKQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "SD SERVER",
+        "type": "0"
+      }
+    ],
+    "channel_status": "cached"
+  },
+  {
+    "id": 50089,
+    "title": "Sevilla vs AD Ceuta",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "Sevilla",
+      "teamB": "Ceuta",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2833/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2869/image",
+      "eventName": "Sevilla vs AD Ceuta",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/26 19:00:00 +0000",
+      "endTime": "2026/07/26 21:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://messi.damitv.st/live-hls/channel/afl/2026-07-25/wb-rich/playlist.m3u8",
+        "logo": "",
+        "title": "FOX 504 FHD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://hoofoot.ru/stream?seg=8319bc84b915f96c662d02c1a1f8addd%3A1e1ebdc365f4db24b8e31176109b38b82ad112a9e3a0dc8b962e90830babe4cecef91e9c70552adf915fe0425b04a47633d4abeea9abae13991caf580fc3fdf2e9cf7852f86abc349d36b6570081d9c60dc6fd31957d14ed735d0ea933ac08bcffbc9cb6f131d4ecf6d807af143e73989caa8872cbfc79e5579a187726aeba32?|Referer=https://hoofoot.ru/",
+        "logo": "",
+        "title": "FOX SPORTS",
+        "type": "0"
+      }
+    ],
+    "channel_status": "cached"
   },
   {
     "id": 50095,

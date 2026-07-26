@@ -1,199 +1,5 @@
 [
   {
-    "id": 50002,
-    "title": "Formula 1",
-    "image": "o",
-    "cat": "F1",
-    "eventInfo": {
-      "teamA": "Formula 1",
-      "teamB": "Formula 1",
-      "teamAFlag": "https://scdnmain.net/assets/tournament/40-c.png",
-      "teamBFlag": "https://scdnmain.net/assets/tournament/40-c.png",
-      "eventName": "Formula 1 - HUNGARIAN GRAND PRIX",
-      "eventType": "null",
-      "eventBanner": "https://iili.io/Cwq8C7I.png",
-      "isHot": "0",
-      "startTime": "2026/07/26 12:45:00 +0000",
-      "endTime": "2026/07/26 15:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "TSN SPORTS",
-      "SKY via APPLE",
-      "DUDE Tv F1 HD",
-      "Sportscast FHD",
-      "APPLE TV HDR",
-      "SKY SPORTS UHD",
-      "DRIVER TRACKER",
-      "DRIVER DATA",
-      "APPLE TV FHD",
-      "RUSSIA FEED",
-      "SKY F1 DEU",
-      "DAZN ESPANOL",
-      "SKY ITALY FHD",
-      "LOW QUALITY",
-      "P1 DRIVER",
-      "P2 DRIVER",
-      "P3 DRIVER",
-      "MIXED ON BOARD",
-      "Driver: Max Verstappen",
-      "Driver: Lewis Hamilton",
-      "Driver: Lando Norris",
-      "Driver: Charles Leclerc",
-      "Driver: Kimi Antonelli",
-      "Driver: Oscar Piastri",
-      "Driver: George Russell",
-      "SKY SPORTS [FHD]",
-      "APPLE TV [FHD]",
-      "FOX 506 [FHD]",
-      "VIAPLAY NL [FHD]",
-      "DAZN ESP [FHD]",
-      "SKY SPORTS HD",
-      "SD SERVER",
-      "F1 GERMANY [USA]",
-      "F1 ITALY SD"
-    ],
-    "formatsNew": [
-      {
-        "title": "TSN SPORTS",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
-      },
-      {
-        "title": "SKY via APPLE",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv F1 HD",
-        "logo": ""
-      },
-      {
-        "title": "Sportscast FHD",
-        "logo": ""
-      },
-      {
-        "title": "APPLE TV HDR",
-        "logo": ""
-      },
-      {
-        "title": "SKY SPORTS UHD",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
-      },
-      {
-        "title": "DRIVER TRACKER",
-        "logo": ""
-      },
-      {
-        "title": "DRIVER DATA",
-        "logo": ""
-      },
-      {
-        "title": "APPLE TV FHD",
-        "logo": ""
-      },
-      {
-        "title": "RUSSIA FEED",
-        "logo": ""
-      },
-      {
-        "title": "SKY F1 DEU",
-        "logo": ""
-      },
-      {
-        "title": "DAZN ESPANOL",
-        "logo": ""
-      },
-      {
-        "title": "SKY ITALY FHD",
-        "logo": ""
-      },
-      {
-        "title": "LOW QUALITY",
-        "logo": ""
-      },
-      {
-        "title": "P1 DRIVER",
-        "logo": ""
-      },
-      {
-        "title": "P2 DRIVER",
-        "logo": ""
-      },
-      {
-        "title": "P3 DRIVER",
-        "logo": ""
-      },
-      {
-        "title": "MIXED ON BOARD",
-        "logo": ""
-      },
-      {
-        "title": "Driver: Max Verstappen",
-        "logo": ""
-      },
-      {
-        "title": "Driver: Lewis Hamilton",
-        "logo": ""
-      },
-      {
-        "title": "Driver: Lando Norris",
-        "logo": ""
-      },
-      {
-        "title": "Driver: Charles Leclerc",
-        "logo": ""
-      },
-      {
-        "title": "Driver: Kimi Antonelli",
-        "logo": ""
-      },
-      {
-        "title": "Driver: Oscar Piastri",
-        "logo": ""
-      },
-      {
-        "title": "Driver: George Russell",
-        "logo": ""
-      },
-      {
-        "title": "SKY SPORTS [FHD]",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
-      },
-      {
-        "title": "APPLE TV [FHD]",
-        "logo": ""
-      },
-      {
-        "title": "FOX 506 [FHD]",
-        "logo": ""
-      },
-      {
-        "title": "VIAPLAY NL [FHD]",
-        "logo": ""
-      },
-      {
-        "title": "DAZN ESP [FHD]",
-        "logo": ""
-      },
-      {
-        "title": "SKY SPORTS HD",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "F1 GERMANY [USA]",
-        "logo": ""
-      },
-      {
-        "title": "F1 ITALY SD",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50003,
     "title": "MotoGP",
     "image": "o",
@@ -932,8 +738,8 @@
       "eventName": "The Hundred Women",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/26 13:30:00 +0000",
-      "endTime": "2026/07/26 16:30:00 +0000"
+      "startTime": "2026/07/27 14:00:00 +0000",
+      "endTime": "2026/07/27 17:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1032,11 +838,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv MLB",
+      "DUDE Tv Live",
+      "MLB LIVE [FHD]"
     ],
     "formatsNew": [
       {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "MLB LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1060,11 +876,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "MLB LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "MLB LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1088,11 +909,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "MLB LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "MLB LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1116,11 +942,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "MLB LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "MLB LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1338,31 +1169,82 @@
   },
   {
     "id": 50086,
-    "title": "Karlsruher SC vs Inter",
+    "title": "Algeria vs Senegal",
     "image": "o",
-    "cat": "Club Friendly",
+    "cat": "Womens AFCON",
     "eventInfo": {
-      "teamA": "Karlsruhe",
-      "teamB": "Inter",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2553/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2697/image",
-      "eventName": "Karlsruher SC vs Inter",
+      "teamA": "Algeria",
+      "teamB": "Senegal",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/180004/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/316945/image",
+      "eventName": "Algeria vs Senegal",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/26 14:30:00 +0000",
-      "endTime": "2026/07/26 16:35:00 +0000"
+      "startTime": "2026/07/26 17:00:00 +0000",
+      "endTime": "2026/07/26 19:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "PREMIER SPORTS",
-      "DUDE Tv Live"
+      "beIN SPORTS [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "PREMIER SPORTS",
+        "title": "beIN SPORTS [FHD]",
         "logo": ""
-      },
+      }
+    ]
+  },
+  {
+    "id": 50087,
+    "title": "Morocco vs Kenya",
+    "image": "o",
+    "cat": "Womens AFCON",
+    "eventInfo": {
+      "teamA": "Morocco",
+      "teamB": "Kenya",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/261908/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/237894/image",
+      "eventName": "Morocco vs Kenya",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/26 20:00:00 +0000",
+      "endTime": "2026/07/26 22:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "beIN SPORTS [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "beIN SPORTS [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50089,
+    "title": "Sevilla vs AD Ceuta",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "Sevilla",
+      "teamB": "Ceuta",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2833/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2869/image",
+      "eventName": "Sevilla vs AD Ceuta",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/26 19:00:00 +0000",
+      "endTime": "2026/07/26 21:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
       {
         "title": "DUDE Tv Live",
         "logo": ""
