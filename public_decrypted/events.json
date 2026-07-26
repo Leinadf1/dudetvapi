@@ -528,6 +528,39 @@
     ]
   },
   {
+    "id": 50015,
+    "title": "BKFC FIGHT NIGHT",
+    "image": "o",
+    "cat": "BKFC",
+    "eventInfo": {
+      "teamA": "Gaston Reyno",
+      "teamB": "Josh Krejci",
+      "teamAFlag": "https://bkfc-cdn.gigcasters.com/a/881f5d0d-02d9-493b-b7ba-bced0210f9d9/39d1e984-6f40-4d73-a661-ad11c69477db/1745429006/o/GASTON_REYNO_400x533.png",
+      "teamBFlag": "https://bkfc-cdn.gigcasters.com/a/881f5d0d-02d9-493b-b7ba-bced0210f9d9/39d1e984-6f40-4d73-a661-ad11c69477db/1744598992/o/1744598992321_67cf5f1ab7918b6be9bfd548_JOSH_KREJCI_AVATAR_400x533_compressed.png",
+      "eventName": "BKFC Fight Night Uruguay",
+      "eventType": "null",
+      "isHot": "1",
+      "startTime": "2026/07/26 00:00:00 +0000",
+      "endTime": "2026/07/26 04:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "BKFC HD LIVE",
+      "SD SERVER"
+    ],
+    "formatsNew": [
+      {
+        "title": "BKFC HD LIVE",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50019,
     "title": "Tour de France",
     "image": "o",
@@ -583,27 +616,29 @@
   },
   {
     "id": 50023,
-    "title": "Anthony Joshua vs Kristian Prenga",
+    "title": "Errol Spence Jr vs Tim Tszyu",
     "image": "o",
     "cat": "Boxing",
     "eventInfo": {
-      "teamA": "A. Joshua",
-      "teamB": "K. Prenga",
+      "teamA": "Errol Spence Jr",
+      "teamB": "Tim Tszyu",
       "teamAFlag": "https://img.sofascore.com/api/v1/team/928176/image",
       "teamBFlag": "https://img.sofascore.com/api/v1/team/1250397/image",
-      "eventName": "Anthony Joshua vs Kristian Prenga",
+      "eventName": "Errol Spence Jr vs Tim Tszyu",
       "eventType": "null",
-      "eventBanner": "https://wsrv.nl/?url=https://iili.io/Cenkn0x.png",
-      "isHot": "0",
-      "startTime": "2026/07/25 13:00:00 +0000",
-      "endTime": "2026/07/25 22:30:00 +0000"
+      "eventBanner": "https://wsrv.nl/?url=https://iili.io/CeVdokg.png",
+      "isHot": "1",
+      "startTime": "2026/07/26 01:00:00 +0000",
+      "endTime": "2026/07/26 04:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
       "DUDE Tv PPV",
+      "DAZN PPV HD",
       "DAZN PPV FHD",
       "BOXING LIVE",
+      "SPX FHD LIVE",
       "HD SERVER",
       "SD SERVER"
     ],
@@ -613,11 +648,19 @@
         "logo": ""
       },
       {
+        "title": "DAZN PPV HD",
+        "logo": ""
+      },
+      {
         "title": "DAZN PPV FHD",
         "logo": ""
       },
       {
         "title": "BOXING LIVE",
+        "logo": ""
+      },
+      {
+        "title": "SPX FHD LIVE",
         "logo": ""
       },
       {
@@ -869,8 +912,8 @@
       "eventName": "West Indies vs Pakistan",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/25 14:00:00 +0000",
-      "endTime": "2026/07/25 21:30:00 +0000"
+      "startTime": "2026/07/26 14:00:00 +0000",
+      "endTime": "2026/07/26 21:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1082,11 +1125,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1110,11 +1158,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "FOX DEPORTES",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "FOX DEPORTES",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1483,11 +1536,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "CBS NETWORK"
+      "CBS NETWORK",
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
         "title": "CBS NETWORK",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
@@ -1513,6 +1571,8 @@
     "formats": [
       "SPX HD LIVE",
       "DUDE Tv Live",
+      "SPX HD LIVE",
+      "TELEMUNDO USA",
       "SPX LIVE FHD",
       "NBC UNIVERSEO"
     ],
@@ -1523,6 +1583,14 @@
       },
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SPX HD LIVE",
+        "logo": ""
+      },
+      {
+        "title": "TELEMUNDO USA",
         "logo": ""
       },
       {
@@ -1537,108 +1605,43 @@
   },
   {
     "id": 50088,
-    "title": "Namibia vs Netherlands",
+    "title": "San Diego FC vs FC Dallas",
     "image": "o",
-    "cat": "Cricket",
+    "cat": "MLS <<",
     "eventInfo": {
-      "teamA": "NAM",
-      "teamB": "NED",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/199275/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187840/image",
-      "eventName": "Namibia vs Netherlands",
+      "teamA": "San Diego FC",
+      "teamB": "Dallas",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1043961/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2512/image",
+      "eventName": "San Diego FC vs FC Dallas",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/25 09:00:00 +0000",
-      "endTime": "2026/07/25 12:45:00 +0000"
+      "startTime": "2026/07/26 01:30:00 +0000",
+      "endTime": "2026/07/26 03:40:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "ICC TV FHD"
+      "TSN SPORTS",
+      "FOX SPORTS",
+      "APPLE TV HD",
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
-        "title": "ICC TV FHD",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50089,
-    "title": "Bulldogs vs Richmond Tigers",
-    "image": "o",
-    "cat": "AFL",
-    "eventInfo": {
-      "teamA": "Bulldogs",
-      "teamB": "Richmond",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4455/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4451/image",
-      "eventName": "Western Bulldogs vs Richmond Tigers",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/25 09:40:00 +0000",
-      "endTime": "2026/07/25 12:10:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "FOX 504 FHD",
-      "FOX SPORTS"
-    ],
-    "formatsNew": [
-      {
-        "title": "FOX 504 FHD",
+        "title": "TSN SPORTS",
         "logo": ""
       },
       {
         "title": "FOX SPORTS",
         "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50090,
-    "title": "Commonwealth Games",
-    "image": "o",
-    "cat": "DUDE Tv Special",
-    "eventInfo": {
-      "teamA": "Commonwealth Games",
-      "teamB": "Commonwealth Games",
-      "teamAFlag": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/2026_Commonwealth_Games_logo.svg/500px-2026_Commonwealth_Games_logo.svg.png",
-      "teamBFlag": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/2026_Commonwealth_Games_logo.svg/500px-2026_Commonwealth_Games_logo.svg.png",
-      "eventName": "Commonwealth Games",
-      "eventType": "null",
-      "startTime": "2026/07/25 08:00:00 +0000",
-      "endTime": "2026/07/25 21:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "TNT SPORTS FHD",
-      "TNT SPORTS",
-      "SKY SPORTS",
-      "HD SERVER",
-      "SD SERVER"
-    ],
-    "formatsNew": [
+      },
       {
-        "title": "TNT SPORTS FHD",
+        "title": "APPLE TV HD",
         "logo": ""
       },
       {
-        "title": "TNT SPORTS",
-        "logo": ""
-      },
-      {
-        "title": "SKY SPORTS",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
@@ -1814,39 +1817,6 @@
       },
       {
         "title": "APPLE TV HD",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50108,
-    "title": "San Diego vs FC Dallas",
-    "image": "o",
-    "cat": "MLS <<",
-    "eventInfo": {
-      "teamA": "San Diego FC",
-      "teamB": "Dallas",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1043961/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2512/image",
-      "eventName": "San Diego vs FC Dallas",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/26 01:30:00 +0000",
-      "endTime": "2026/07/26 03:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "TSN SPORTS",
-      "FOX SPORTS"
-    ],
-    "formatsNew": [
-      {
-        "title": "TSN SPORTS",
-        "logo": ""
-      },
-      {
-        "title": "FOX SPORTS",
         "logo": ""
       }
     ]
