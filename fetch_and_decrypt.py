@@ -582,13 +582,34 @@ def main():
                 print(f"  Decrypting {name}...")
                 decrypted_json = decrypt_data(payload, apk_path, lib_path)
                 
+            if not decrypted_json:
+                output_file = os.path.join(out_dir, f"{name}.json")
+                cats_file = os.path.join(out_dir, "cats", f"{name}.json")
+                target = output_file if os.path.exists(output_file) else (cats_file if os.path.exists(cats_file) else None)
+                if target:
+                    try:
+                        with open(target, "r", encoding="utf-8") as cached_f:
+                            decrypted_json = json.load(cached_f)
+                        print(f"  [CACHED FALLBACK] Loaded existing decrypted data for '{name}' ({len(decrypted_json)} items)")
+                    except Exception as ce:
+                        print(f"  [CACHED FAIL] Could not read cached file for '{name}': {ce}")
+
             if decrypted_json:
                 decrypted_json = replace_sportzx_with_dudetv(decrypted_json)
                 output_file = os.path.join(out_dir, f"{name}.json")
                 with open(output_file, "w", encoding="utf-8") as out_f:
                     json.dump(decrypted_json, out_f, indent=2, ensure_ascii=False)
-                print(f"  [SUCCESS] Decrypted and saved to: {output_file} ({len(decrypted_json)} items)")
+                print(f"  [SUCCESS] Saved output: {output_file} ({len(decrypted_json)} items)")
                 
+                # If this is sports.json, also mirror it into subcategory directory (cats/sports.json)
+                if name == "sports":
+                    sub_dir = os.path.join(out_dir, "cats")
+                    os.makedirs(sub_dir, exist_ok=True)
+                    sports_sub_file = os.path.join(sub_dir, "sports.json")
+                    with open(sports_sub_file, "w", encoding="utf-8") as sf:
+                        json.dump(decrypted_json, sf, indent=2, ensure_ascii=False)
+                    print(f"  [SUCCESS] Mirrored sports.json to: {sports_sub_file}")
+
                 # If this is cats.json, process individual subcategory files
                 if name == "cats":
                     print("  Processing individual subcategories...")
@@ -603,9 +624,18 @@ def main():
                         
                         cat_copy = dict(cat)
                         if cat_link and not cat_link.startswith("http"):
-                            print(f"    [{i+1}/{len(decrypted_json)}] Fetching subcategory: {title} ({cat_link})...")
+                            # Normalize slug to avoid paths like 'cats/cats/bangla.json.json' or case mismatches like 'Sports'
+                            clean_slug = cat_link.strip()
+                            if clean_slug.startswith("cats/"):
+                                clean_slug = clean_slug[5:]
+                            if clean_slug.endswith(".json"):
+                                clean_slug = clean_slug[:-5]
+                            clean_slug = clean_slug.lower()
+
+                            print(f"    [{i+1}/{len(decrypted_json)}] Fetching subcategory: {title} ({clean_slug})...")
+                            sub_fetched = False
                             try:
-                                relative_path = f"cats/{cat_link}.json"
+                                relative_path = f"cats/{clean_slug}.json"
                                 sub_url = f"{base_domain}/{relative_path}"
                                 sub_req = urllib.request.Request(sub_url, headers={"User-Agent": "Mozilla/5.0"})
                                 with urllib.request.urlopen(sub_req, timeout=15) as sub_res:
@@ -617,15 +647,30 @@ def main():
                                                 
                                     if sub_data:
                                         sub_data = replace_sportzx_with_dudetv(sub_data)
-                                        sub_out_file = os.path.join(sub_dir, f"{cat_link}.json")
+                                        sub_out_file = os.path.join(sub_dir, f"{clean_slug}.json")
                                         with open(sub_out_file, "w", encoding="utf-8") as sub_f:
                                             json.dump(sub_data, sub_f, indent=2, ensure_ascii=False)
                                         print(f"      Saved: {sub_out_file} ({len(sub_data)} channels)")
-                                        cat_copy["catLink"] = f"cats/{cat_link}.json"
+                                        cat_copy["catLink"] = f"cats/{clean_slug}.json"
+                                        sub_fetched = True
+                                        
+                                        # If sports subcategory, also sync root sports.json
+                                        if clean_slug == "sports":
+                                            root_sports_file = os.path.join(out_dir, "sports.json")
+                                            with open(root_sports_file, "w", encoding="utf-8") as rsf:
+                                                json.dump(sub_data, rsf, indent=2, ensure_ascii=False)
+                                            print(f"      Synced root sports file: {root_sports_file}")
                                     else:
-                                        print(f"      Failed to parse decrypted JSON for {cat_link}")
+                                        print(f"      Failed to parse decrypted JSON for {clean_slug}")
                             except Exception as ce:
-                                print(f"      Failed to process subcategory {cat_link}: {ce}")
+                                print(f"      Failed to process subcategory {clean_slug}: {ce}")
+
+                            if not sub_fetched:
+                                sub_out_file = os.path.join(sub_dir, f"{clean_slug}.json")
+                                root_file = os.path.join(out_dir, f"{clean_slug}.json")
+                                if os.path.exists(sub_out_file) or os.path.exists(root_file):
+                                    cat_copy["catLink"] = f"cats/{clean_slug}.json"
+                                    print(f"      [CACHED LINK] Preserved subcategory catLink: cats/{clean_slug}.json")
                                 
                         updated_cats.append(cat_copy)
                         
