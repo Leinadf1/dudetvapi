@@ -22,9 +22,9 @@
       "TSN SPORTS",
       "DUDE Tv F1 HD",
       "Sportscast FHD",
+      "SKY SPORTS UHD",
       "RUSSIA FEED",
       "APPLE TV FHD",
-      "SKY SPORTS FHD",
       "SKY F1 DE",
       "DAZN ESPANOL",
       "SKY ITALY FHD",
@@ -52,16 +52,16 @@
         "logo": ""
       },
       {
+        "title": "SKY SPORTS UHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
+      },
+      {
         "title": "RUSSIA FEED",
         "logo": ""
       },
       {
         "title": "APPLE TV FHD",
         "logo": ""
-      },
-      {
-        "title": "SKY SPORTS FHD",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
       },
       {
         "title": "SKY F1 DE",
@@ -361,47 +361,52 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "FANCODE - FHD (IN)",
-      "FANCODE HIN (IN)",
-      "UNITE8 HINDI",
-      "DUDE Tv Live",
+      "FANCODE ENG",
+      "FANCODE HIN",
       "TAPMAD - FHD",
-      "FANCODE - IN",
-      "FANCODE HIN - IN",
-      "FANCODE - BD"
+      "UNITE8 HIN - AQ",
+      "HD SERVER",
+      "FANCODE - HIN",
+      "FANCODE - ENG",
+      "FANCODE - BD",
+      "HOTSTAR - IN"
     ],
     "formatsNew": [
       {
-        "title": "FANCODE - FHD (IN)",
+        "title": "FANCODE ENG",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       },
       {
-        "title": "FANCODE HIN (IN)",
+        "title": "FANCODE HIN",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      },
-      {
-        "title": "UNITE8 HINDI",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
       },
       {
         "title": "TAPMAD - FHD",
         "logo": ""
       },
       {
-        "title": "FANCODE - IN",
+        "title": "UNITE8 HIN - AQ",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "FANCODE - HIN",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       },
       {
-        "title": "FANCODE HIN - IN",
+        "title": "FANCODE - ENG",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       },
       {
         "title": "FANCODE - BD",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
+        "title": "HOTSTAR - IN",
+        "logo": ""
       }
     ]
   },
@@ -1397,11 +1402,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1539,11 +1549,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "SD SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
