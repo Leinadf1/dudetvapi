@@ -1,9 +1,16 @@
 [
   {
-    "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
     "title": "TSN SPORTS",
+    "type": "1"
+  },
+  {
+    "api": "73c6218fa797bce56ec12bf5cc7e2dae:ec14e4df9b165a3631251246242f0e91",
+    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x6oqpug9mu/out/v1/502432e8607547b4a6278d3cc64d5b78/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "SKY via APPLE",
     "type": "1"
   },
   {
@@ -15,10 +22,17 @@
   },
   {
     "api": "",
-    "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/a3e9ee45-11d3-485e-aa0c-18c3eee43c7a/master.m3u8",
+    "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/1bcd3c63-b6fb-436b-af37-21e34de6234b/master.m3u8",
     "logo": "",
     "title": "Sportscast FHD",
     "type": "0"
+  },
+  {
+    "api": "6aa2dbe2528b97043a0eded15e59d713:73655e545e7da6135dbb94abab908572",
+    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/s5abnqp0hh/out/v1/4a3f90f679244cbf94eba54386f291ec/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "APPLE TV HDR",
+    "type": "1"
   },
   {
     "api": "",
@@ -28,46 +42,137 @@
     "type": "0"
   },
   {
-    "api": "",
-    "link": "https://bl.rutube.ru/livestream/a1fd78e2a2feb33f0fef612d1e89d2fb/index.m3u8?s=dZh7JGBoPLF3dWOFCuCQ7Q&e=1785073158&scheme=https|user-agent=Mozilla",
+    "api": "24654a0a3ffb0964af9bed4c51efa8d7:4282ff5adbb69a90dff3c287cba36bf8",
+    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/l1aov82zx6/out/v1/bb00837881b647b990b3446da2fd2082/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "logo": "",
-    "title": "RUSSIA FEED",
-    "type": "0"
+    "title": "DRIVER TRACKER",
+    "type": "1"
+  },
+  {
+    "api": "5bb7f3ae42be88488779e5046e884f36:429927f4462913ccae02ec755a75e05f",
+    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/qnx9wmc6pw/out/v1/f81ebfa4cb054b30af2f47554d9ae2e0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "DRIVER DATA",
+    "type": "1"
   },
   {
     "api": "",
-    "link": "https://g001.sadhoofiton.shop/out/v2/26bceff8d461678521c0eed364a18657/index.m3u8?|referer=https://pushembdz.store/",
+    "link": "https://g001.sadhoofiton.shop/out/v2/f7e084915a36d98fd570abe5785f1e00/index.m3u8?|referer=https://pushembdz.store/",
     "logo": "",
     "title": "APPLE TV FHD",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://g001.sadhoofiton.shop/out/v2/3962b7903c64e97e8cc1316030ede9e4/index.m3u8?|referer=https://pushembdz.store/",
+    "link": "https://bl.rutube.ru/livestream/8d838029ed38ee3be92af7472ac078f4/index.m3u8?s=db9PB4LNQRpvmwwHW_8Jsg&e=1785156374&scheme=https|user-agent=Mozilla",
     "logo": "",
-    "title": "SKY F1 DE",
+    "title": "RUSSIA FEED",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://g001.sadhoofiton.shop/out/v2/76d6bed91471ee91c14ca8341efae087/index.m3u8?|referer=https://pushembdz.store/",
+    "link": "https://g001.sadhoofiton.shop/out/v2/ff1b694fb9b98805eb70bb7dd74986a4/index.m3u8?|referer=https://pushembdz.store/",
+    "logo": "",
+    "title": "SKY F1 DEU",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://g001.sadhoofiton.shop/out/v2/ea464b1f66cfbd061183f8d20be86316/index.m3u8?|referer=https://pushembdz.store/",
     "logo": "",
     "title": "DAZN ESPANOL",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://g001.sadhoofiton.shop/out/v2/8c0a231ac380c3a586a5c47cdbef7942/index.m3u8?|referer=https://pushembdz.store/",
+    "link": "https://g001.sadhoofiton.shop/out/v2/0fa855f86cbd9ec38d0164442a9863b1/index.m3u8?|referer=https://pushembdz.store/",
     "logo": "",
     "title": "SKY ITALY FHD",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://g001.sadhoofiton.shop/out/v2/1357d2f39dd2d2f5cb8e4082558b78c4/index.m3u8?|referer=https://pushembdz.store/",
+    "link": "https://g001.sadhoofiton.shop/out/v2/cc75a7584192385b3cdfcf871a074397/tracks-v2a0/mono.ts.m3u8?|referer=https://pushembdz.store/",
     "logo": "",
     "title": "LOW QUALITY",
     "type": "0"
+  },
+  {
+    "api": "f56d56de2d2e9d7402b386e2d2ba64da:1eb5512a0582b5b2365303d64286611b",
+    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/seokyq3vh1/out/v1/cdc4b78635504d65aede4e4c80413746/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "P1 DRIVER",
+    "type": "1"
+  },
+  {
+    "api": "617dafed2c24eddcb0d3f0978dc03f45:122cd103bf3f9537df552b655f9fffc2",
+    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/g6ssuvaio5/out/v1/061a5659e0564c3bbe8bd6619a5931a5/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "P2 DRIVER",
+    "type": "1"
+  },
+  {
+    "api": "66f901e0531dac3c1b1a67d99e7c5f86:e03f3dc7a3628b495cda4d047c76c229",
+    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ojhbld8mty/out/v1/939b1a9a672c440fa9af29e3911a45a1/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "P3 DRIVER",
+    "type": "1"
+  },
+  {
+    "api": "e644836e8b1e87ad5d684fd4ad58e375:b9601de9e150d514c20d19c20d922365",
+    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/av9rryjmfh/out/v1/dc587d2edd254017a118ad8065a1d9ac/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "MIXED ON BOARD",
+    "type": "1"
+  },
+  {
+    "api": "cad123d3a86d41325016ee30a1f7b1f8:0b73247b015359e2d38fd5efafb6b18f",
+    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/r5tprsdufn/out/v1/f47b9b8405bb471986161cff33a0b2b6/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "Driver: Max Verstappen",
+    "type": "1"
+  },
+  {
+    "api": "e42e8e1a58534eb5fdd44f60166b1027:579115df1241bc5ea2b71928591a2d2d",
+    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/rdgsixtfki/out/v1/bcf746abf8254c54a4e557915d502c98/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "Driver: Lewis Hamilton",
+    "type": "1"
+  },
+  {
+    "api": "af2a72ee18da3181bee707fb4ed879b7:d2b574348c06090867fb01684391c32c",
+    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jkpwofxvyg/out/v1/5f5f6576aa78472cbf2658cfc20e3a42/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "Driver: Lando Norris",
+    "type": "1"
+  },
+  {
+    "api": "2d6f02c24c86c458e4cee47ef629315c:65f744c4bdaba4799e5bbee2ca11f73b",
+    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/abrcyqbclb/out/v1/2ed19fd867d44ec3b246c51304287bb7/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "Driver: Charles Leclerc",
+    "type": "1"
+  },
+  {
+    "api": "1544f9171a1c1dc9595f15651ae7dbcb:0c14c5c7d322d03a2c1e7cbcea627b2b",
+    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/vcy5m4uy4n/out/v1/a2257868fb7742d581032d992cd75110/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "Driver: Kimi Antonelli",
+    "type": "1"
+  },
+  {
+    "api": "91f52b1e1e18a364b29a09f93530b956:0d18ce060562df4a42b01fa6aa4f50c1",
+    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tdrxijayhy/out/v1/1f52712001be4f238822eac001379c8b/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "Driver: Oscar Piastri",
+    "type": "1"
+  },
+  {
+    "api": "32e1cf346fe62c46de292b76363fc9d5:bc5e48ef66f8d6a820ebffab9770e7fc",
+    "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mas3cwwzwv/out/v1/caf0bc8157d04ad1a2b441cc585bd52d/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "Driver: George Russell",
+    "type": "1"
   },
   {
     "api": "",
@@ -81,6 +186,13 @@
     "link": "https://embedindia.st/embed/f1/2026/hungary/race/f1tv",
     "logo": "",
     "title": "APPLE TV [FHD]",
+    "type": "2"
+  },
+  {
+    "api": "",
+    "link": "https://logic.icelanders.st/embed/fox-sports-506",
+    "logo": "",
+    "title": "FOX 506 [FHD]",
     "type": "2"
   },
   {
@@ -106,7 +218,7 @@
   },
   {
     "api": "",
-    "link": "http://193.47.62.192/hls/ZLLLQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "link": "http://193.47.62.193/hls/ZLLLQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
     "logo": "",
     "title": "SD SERVER",
     "type": "0"

@@ -12,7 +12,7 @@
       "eventName": "Formula 1 - HUNGARIAN GRAND PRIX",
       "eventType": "null",
       "eventBanner": "https://iili.io/Cwq8C7I.png",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/07/26 12:45:00 +0000",
       "endTime": "2026/07/26 15:30:00 +0000"
     },
@@ -20,17 +20,33 @@
     "publish": "1",
     "formats": [
       "TSN SPORTS",
+      "SKY via APPLE",
       "DUDE Tv F1 HD",
       "Sportscast FHD",
+      "APPLE TV HDR",
       "SKY SPORTS UHD",
-      "RUSSIA FEED",
+      "DRIVER TRACKER",
+      "DRIVER DATA",
       "APPLE TV FHD",
-      "SKY F1 DE",
+      "RUSSIA FEED",
+      "SKY F1 DEU",
       "DAZN ESPANOL",
       "SKY ITALY FHD",
       "LOW QUALITY",
+      "P1 DRIVER",
+      "P2 DRIVER",
+      "P3 DRIVER",
+      "MIXED ON BOARD",
+      "Driver: Max Verstappen",
+      "Driver: Lewis Hamilton",
+      "Driver: Lando Norris",
+      "Driver: Charles Leclerc",
+      "Driver: Kimi Antonelli",
+      "Driver: Oscar Piastri",
+      "Driver: George Russell",
       "SKY SPORTS [FHD]",
       "APPLE TV [FHD]",
+      "FOX 506 [FHD]",
       "VIAPLAY NL [FHD]",
       "DAZN ESP [FHD]",
       "SKY SPORTS HD",
@@ -44,6 +60,10 @@
         "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       },
       {
+        "title": "SKY via APPLE",
+        "logo": ""
+      },
+      {
         "title": "DUDE Tv F1 HD",
         "logo": ""
       },
@@ -52,11 +72,19 @@
         "logo": ""
       },
       {
+        "title": "APPLE TV HDR",
+        "logo": ""
+      },
+      {
         "title": "SKY SPORTS UHD",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
       },
       {
-        "title": "RUSSIA FEED",
+        "title": "DRIVER TRACKER",
+        "logo": ""
+      },
+      {
+        "title": "DRIVER DATA",
         "logo": ""
       },
       {
@@ -64,7 +92,11 @@
         "logo": ""
       },
       {
-        "title": "SKY F1 DE",
+        "title": "RUSSIA FEED",
+        "logo": ""
+      },
+      {
+        "title": "SKY F1 DEU",
         "logo": ""
       },
       {
@@ -80,11 +112,59 @@
         "logo": ""
       },
       {
+        "title": "P1 DRIVER",
+        "logo": ""
+      },
+      {
+        "title": "P2 DRIVER",
+        "logo": ""
+      },
+      {
+        "title": "P3 DRIVER",
+        "logo": ""
+      },
+      {
+        "title": "MIXED ON BOARD",
+        "logo": ""
+      },
+      {
+        "title": "Driver: Max Verstappen",
+        "logo": ""
+      },
+      {
+        "title": "Driver: Lewis Hamilton",
+        "logo": ""
+      },
+      {
+        "title": "Driver: Lando Norris",
+        "logo": ""
+      },
+      {
+        "title": "Driver: Charles Leclerc",
+        "logo": ""
+      },
+      {
+        "title": "Driver: Kimi Antonelli",
+        "logo": ""
+      },
+      {
+        "title": "Driver: Oscar Piastri",
+        "logo": ""
+      },
+      {
+        "title": "Driver: George Russell",
+        "logo": ""
+      },
+      {
         "title": "SKY SPORTS [FHD]",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
       },
       {
         "title": "APPLE TV [FHD]",
+        "logo": ""
+      },
+      {
+        "title": "FOX 506 [FHD]",
         "logo": ""
       },
       {
@@ -1526,34 +1606,6 @@
       },
       {
         "title": "TEST",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50092,
-    "title": "Feyenoord vs Rayo Vallecano",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Feyenoord",
-      "teamB": "Rayo Vallecano",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2959/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2818/image",
-      "eventName": "Feyenoord vs Rayo Vallecano",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/26 12:00:00 +0000",
-      "endTime": "2026/07/26 14:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "SD SERVER",
         "logo": ""
       }
     ]
