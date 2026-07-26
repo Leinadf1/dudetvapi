@@ -335,55 +335,30 @@
     ]
   },
   {
-    "id": 50019,
-    "title": "Tour de France",
+    "id": 50023,
+    "title": "AEW REDEMPTION",
     "image": "o",
-    "cat": "Tour de France",
+    "cat": "WWE",
     "eventInfo": {
-      "teamA": "Tour de France",
-      "teamB": "Tour de France",
-      "teamAFlag": "https://www.sofascore.com/static/images/cycling/tour-de-france-dark.png",
-      "teamBFlag": "https://www.sofascore.com/static/images/cycling/tour-de-france-dark.png",
-      "eventName": "Tour de France",
+      "teamA": "AEW",
+      "teamB": "AEW",
+      "teamAFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/All_Elite_Wrestling_logo_2024.svg/500px-All_Elite_Wrestling_logo_2024.svg.png",
+      "teamBFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/All_Elite_Wrestling_logo_2024.svg/500px-All_Elite_Wrestling_logo_2024.svg.png",
+      "eventName": "AEW REDEMPTION",
       "eventType": "null",
-      "eventBanner": "https://iili.io/Cj06Rqv.png",
+      "eventBanner": "https://wsrv.nl/?url=https://iili.io/CkF18zv.png",
       "isHot": "0",
-      "startTime": "2026/07/26 14:15:00 +0000",
-      "endTime": "2026/07/26 19:00:00 +0000"
+      "startTime": "2026/07/26 23:00:00 +0000",
+      "endTime": "2026/07/27 02:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "EUROSPORT1 FHD",
-      "EUROSPORT2 FHD",
-      "TNT SPORTS [FHD]",
-      "PEACOCK ENG [FHD]",
-      "EUROSPORT1 FHD",
-      "EUROSPORT2 FHD"
+      "DAZN PPV [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "EUROSPORT1 FHD",
-        "logo": ""
-      },
-      {
-        "title": "EUROSPORT2 FHD",
-        "logo": ""
-      },
-      {
-        "title": "TNT SPORTS [FHD]",
-        "logo": ""
-      },
-      {
-        "title": "PEACOCK ENG [FHD]",
-        "logo": ""
-      },
-      {
-        "title": "EUROSPORT1 FHD",
-        "logo": ""
-      },
-      {
-        "title": "EUROSPORT2 FHD",
+        "title": "DAZN PPV [FHD]",
         "logo": ""
       }
     ]
@@ -516,10 +491,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -577,12 +557,17 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TSN SPORTS"
+      "TSN SPORTS",
+      "TSN4 SPORTS"
     ],
     "formatsNew": [
       {
         "title": "TSN SPORTS",
-        "logo": ""
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
+      {
+        "title": "TSN4 SPORTS",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       }
     ]
   },
@@ -657,8 +642,8 @@
       "eventName": "Lanka Premier League",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/26 14:00:00 +0000",
-      "endTime": "2026/07/26 17:59:00 +0000"
+      "startTime": "2026/07/27 14:00:00 +0000",
+      "endTime": "2026/07/27 17:59:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -802,11 +787,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "FOX DEPORTES",
+      "FOX ONE [MX VPN]",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "FOX DEPORTES",
+        "logo": ""
+      },
+      {
+        "title": "FOX ONE [MX VPN]",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -830,49 +825,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "FOX ONE [MX VPN]",
+      "TUDN MX [FHD]",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50075,
-    "title": "Tampa Bay Rays vs Guardians",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Rays",
-      "teamB": "Guardians",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3653/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3650/image",
-      "eventName": "Tampa Bay Rays vs Cleveland Guardians",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/26 16:15:00 +0000",
-      "endTime": "2026/07/26 19:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv MLB",
-      "DUDE Tv Live",
-      "MLB LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
+        "title": "FOX ONE [MX VPN]",
         "logo": ""
       },
       {
-        "title": "DUDE Tv Live",
+        "title": "TUDN MX [FHD]",
         "logo": ""
       },
       {
-        "title": "MLB LIVE [FHD]",
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1232,8 +1199,8 @@
       "eventName": "Global Super League",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/26 14:00:00 +0000",
-      "endTime": "2026/07/26 17:45:00 +0000"
+      "startTime": "2026/07/26 23:00:00 +0000",
+      "endTime": "2026/07/27 02:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1263,44 +1230,6 @@
     ]
   },
   {
-    "id": 50086,
-    "title": "Algeria vs Senegal",
-    "image": "o",
-    "cat": "Womens AFCON",
-    "eventInfo": {
-      "teamA": "Algeria",
-      "teamB": "Senegal",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/180004/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/316945/image",
-      "eventName": "Algeria vs Senegal",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/26 17:00:00 +0000",
-      "endTime": "2026/07/26 19:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN ENGLISH",
-      "beIN SPORTS [FHD]",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN ENGLISH",
-        "logo": ""
-      },
-      {
-        "title": "beIN SPORTS [FHD]",
-        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50087,
     "title": "Morocco vs Kenya",
     "image": "o",
@@ -1320,7 +1249,8 @@
     "publish": "1",
     "formats": [
       "beIN ENGLISH",
-      "beIN SPORTS [FHD]"
+      "beIN SPORTS [FHD]",
+      "beIN SPORTS [AQ]"
     ],
     "formatsNew": [
       {
@@ -1330,6 +1260,10 @@
       {
         "title": "beIN SPORTS [FHD]",
         "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
+      },
+      {
+        "title": "beIN SPORTS [AQ]",
+        "logo": ""
       }
     ]
   },
@@ -1362,34 +1296,6 @@
     ]
   },
   {
-    "id": 50095,
-    "title": "Rangers vs West Ham",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Rangers",
-      "teamB": "West Ham",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2351/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/37/image",
-      "eventName": "Rangers vs West Ham United",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/26 15:00:00 +0000",
-      "endTime": "2026/07/26 17:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50097,
     "title": "Lazio vs Flaminia",
     "image": "o",
@@ -1400,34 +1306,6 @@
       "teamAFlag": "https://img.sofascore.com/api/v1/team/2699/image",
       "teamBFlag": "https://img.sofascore.com/api/v1/team/296337/image",
       "eventName": "Lazio vs Flaminia",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/26 16:00:00 +0000",
-      "endTime": "2026/07/26 18:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50098,
-    "title": "Napoli vs Carrarese",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Napoli",
-      "teamB": "Carrarese",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2714/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2745/image",
-      "eventName": "SSC Napoli vs Carrarese",
       "eventType": "null",
       "isHot": "0",
       "startTime": "2026/07/26 16:00:00 +0000",

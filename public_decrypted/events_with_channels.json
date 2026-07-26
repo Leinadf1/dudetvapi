@@ -710,100 +710,46 @@
     "channel_status": "live"
   },
   {
-    "id": 50019,
-    "title": "Tour de France",
+    "id": 50023,
+    "title": "AEW REDEMPTION",
     "image": "o",
-    "cat": "Tour de France",
+    "cat": "WWE",
     "eventInfo": {
-      "teamA": "Tour de France",
-      "teamB": "Tour de France",
-      "teamAFlag": "https://www.sofascore.com/static/images/cycling/tour-de-france-dark.png",
-      "teamBFlag": "https://www.sofascore.com/static/images/cycling/tour-de-france-dark.png",
-      "eventName": "Tour de France",
+      "teamA": "AEW",
+      "teamB": "AEW",
+      "teamAFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/All_Elite_Wrestling_logo_2024.svg/500px-All_Elite_Wrestling_logo_2024.svg.png",
+      "teamBFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/All_Elite_Wrestling_logo_2024.svg/500px-All_Elite_Wrestling_logo_2024.svg.png",
+      "eventName": "AEW REDEMPTION",
       "eventType": "null",
-      "eventBanner": "https://iili.io/Cj06Rqv.png",
+      "eventBanner": "https://wsrv.nl/?url=https://iili.io/CkF18zv.png",
       "isHot": "0",
-      "startTime": "2026/07/26 14:15:00 +0000",
-      "endTime": "2026/07/26 19:00:00 +0000"
+      "startTime": "2026/07/26 23:00:00 +0000",
+      "endTime": "2026/07/27 02:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "EUROSPORT1 FHD",
-      "EUROSPORT2 FHD",
-      "TNT SPORTS [FHD]",
-      "PEACOCK ENG [FHD]",
-      "EUROSPORT1 FHD",
-      "EUROSPORT2 FHD"
+      "DAZN PPV [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "EUROSPORT1 FHD",
-        "logo": ""
-      },
-      {
-        "title": "EUROSPORT2 FHD",
-        "logo": ""
-      },
-      {
-        "title": "TNT SPORTS [FHD]",
-        "logo": ""
-      },
-      {
-        "title": "PEACOCK ENG [FHD]",
-        "logo": ""
-      },
-      {
-        "title": "EUROSPORT1 FHD",
-        "logo": ""
-      },
-      {
-        "title": "EUROSPORT2 FHD",
+        "title": "DAZN PPV [FHD]",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
-        "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-        "link": "https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd",
-        "logo": "",
-        "title": "EUROSPORT1 FHD",
-        "type": "1"
-      },
-      {
-        "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-        "link": "https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd",
-        "logo": "",
-        "title": "EUROSPORT2 FHD",
-        "type": "1"
-      },
-      {
         "api": "",
-        "link": "https://embedindia.st/embed/tour-de-france/2026/stage-21",
+        "link": "https://embedindia.st/embed/aew-redemption-2026",
         "logo": "",
-        "title": "TNT SPORTS [FHD]",
+        "title": "DAZN PPV [FHD]",
         "type": "2"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/tour-de-france/2026/stage-21/peacock-en",
-        "logo": "",
-        "title": "PEACOCK ENG [FHD]",
-        "type": "2"
-      },
-      {
-        "api": "0f4751abc997473d9138d17b5944be04:a0aefedd2376a54b8b50f9b7c2d50ac7",
-        "link": "https://cache01.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_ez/eurosport_1_hd.mpd",
-        "logo": "",
-        "title": "EUROSPORT1 FHD",
-        "type": "1"
-      },
-      {
-        "api": "e369d9ab101d4b60ba13c0384f503528:041e35e31381521b3398af5c6dd99414",
-        "link": "https://cache01.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_ez/eurosport_2_hd.mpd",
-        "logo": "",
-        "title": "EUROSPORT2 FHD",
-        "type": "1"
+        "link": "https://chatgpt.hereisman.net/playlist/53519/load-playlist?|Referer=https://gooz.aapmains.net",
+        "title": "DUDE Tv WWE",
+        "type": "0"
       }
     ],
     "channel_status": "live"
@@ -1001,10 +947,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1015,6 +966,13 @@
       }
     ],
     "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/53873/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv MLB",
+        "type": "0"
+      },
       {
         "api": "",
         "link": "https://edgestream1.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
@@ -1088,19 +1046,32 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TSN SPORTS"
+      "TSN SPORTS",
+      "TSN4 SPORTS"
     ],
     "formatsNew": [
       {
         "title": "TSN SPORTS",
-        "logo": ""
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
+      {
+        "title": "TSN4 SPORTS",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       }
     ],
     "decoded_channels": [
       {
         "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "title": "TSN SPORTS",
+        "type": "1"
+      },
+      {
+        "api": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+        "title": "TSN4 SPORTS",
         "type": "1"
       }
     ],
@@ -1229,8 +1200,8 @@
       "eventName": "Lanka Premier League",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/26 14:00:00 +0000",
-      "endTime": "2026/07/26 17:59:00 +0000"
+      "startTime": "2026/07/27 14:00:00 +0000",
+      "endTime": "2026/07/27 17:59:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1474,20 +1445,45 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "FOX DEPORTES",
+      "FOX ONE [MX VPN]",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "FOX DEPORTES",
+        "logo": ""
+      },
+      {
+        "title": "FOX ONE [MX VPN]",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
+        "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "FOX DEPORTES",
+        "type": "1"
+      },
+      {
+        "api": "3bd0bc0772acc1708445948f2c7bb25f:426afdc873d71265183d15cd7f9cb612",
+        "link": "https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOXONE3MX_HD)/manifest.mpd",
+        "logo": "",
+        "title": "FOX ONE [MX VPN]",
+        "type": "1"
+      },
+      {
         "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "title": "DUDE Tv Live",
-        "type": "0"
+        "link": "https://embedindia.st/embed/liga-mx/2026-07-26/ncx-mty",
+        "logo": "",
+        "title": "SPX LIVE [FHD]",
+        "type": "2"
       }
     ],
     "channel_status": "live"
@@ -1511,81 +1507,44 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "FOX ONE [MX VPN]",
+      "TUDN MX [FHD]",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "FOX ONE [MX VPN]",
+        "logo": ""
+      },
+      {
+        "title": "TUDN MX [FHD]",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
-        "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50075,
-    "title": "Tampa Bay Rays vs Guardians",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Rays",
-      "teamB": "Guardians",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3653/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3650/image",
-      "eventName": "Tampa Bay Rays vs Cleveland Guardians",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/26 16:15:00 +0000",
-      "endTime": "2026/07/26 19:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv MLB",
-      "DUDE Tv Live",
-      "MLB LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "MLB LIVE [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/53846/load-playlist?|Referer=https://gooz.aapmains.net",
+        "api": "3bd0bc0772acc1708445948f2c7bb25f:426afdc873d71265183d15cd7f9cb612",
+        "link": "https://mxlivechannelsvosdash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(FOXONE3MX_HD)/manifest.mpd",
         "logo": "",
-        "title": "DUDE Tv MLB",
-        "type": "0"
+        "title": "FOX ONE [MX VPN]",
+        "type": "1"
       },
       {
         "api": "",
-        "link": "https://edgestream3.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://logic.icelanders.st/embed/tudn-usa",
         "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
+        "title": "TUDN MX [FHD]",
+        "type": "2"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-07-26/cle-tb",
+        "link": "https://embedindia.st/embed/liga-mx/2026-07-26/pac-qro",
         "logo": "",
-        "title": "MLB LIVE [FHD]",
+        "title": "SPX LIVE [FHD]",
         "type": "2"
       }
     ],
@@ -2119,8 +2078,8 @@
       "eventName": "Global Super League",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/26 14:00:00 +0000",
-      "endTime": "2026/07/26 17:45:00 +0000"
+      "startTime": "2026/07/26 23:00:00 +0000",
+      "endTime": "2026/07/27 02:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -2181,68 +2140,6 @@
     "channel_status": "live"
   },
   {
-    "id": 50086,
-    "title": "Algeria vs Senegal",
-    "image": "o",
-    "cat": "Womens AFCON",
-    "eventInfo": {
-      "teamA": "Algeria",
-      "teamB": "Senegal",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/180004/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/316945/image",
-      "eventName": "Algeria vs Senegal",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/26 17:00:00 +0000",
-      "endTime": "2026/07/26 19:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN ENGLISH",
-      "beIN SPORTS [FHD]",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN ENGLISH",
-        "logo": ""
-      },
-      {
-        "title": "beIN SPORTS [FHD]",
-        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "beIN ENGLISH",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/womens-africa-cup-of-nations/2026-07-26/alg-sen",
-        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
-        "title": "beIN SPORTS [FHD]",
-        "type": "2"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.194/hls/RMMM.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "LOW SERVER",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
     "id": 50087,
     "title": "Morocco vs Kenya",
     "image": "o",
@@ -2262,7 +2159,8 @@
     "publish": "1",
     "formats": [
       "beIN ENGLISH",
-      "beIN SPORTS [FHD]"
+      "beIN SPORTS [FHD]",
+      "beIN SPORTS [AQ]"
     ],
     "formatsNew": [
       {
@@ -2272,6 +2170,10 @@
       {
         "title": "beIN SPORTS [FHD]",
         "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
+      },
+      {
+        "title": "beIN SPORTS [AQ]",
+        "logo": ""
       }
     ],
     "decoded_channels": [
@@ -2287,6 +2189,13 @@
         "link": "https://embedindia.st/embed/womens-africa-cup-of-nations/2026-07-26/mar-ken",
         "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
         "title": "beIN SPORTS [FHD]",
+        "type": "2"
+      },
+      {
+        "api": "",
+        "link": "https://embed.st/embed-low/admin/ppv-morocco-vs-kenya/1",
+        "logo": "",
+        "title": "beIN SPORTS [AQ]",
         "type": "2"
       }
     ],
@@ -2338,44 +2247,6 @@
     "channel_status": "cached"
   },
   {
-    "id": 50095,
-    "title": "Rangers vs West Ham",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Rangers",
-      "teamB": "West Ham",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2351/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/37/image",
-      "eventName": "Rangers vs West Ham United",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/26 15:00:00 +0000",
-      "endTime": "2026/07/26 17:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "http://193.47.62.191/hls/YMMMQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
     "id": 50097,
     "title": "Lazio vs Flaminia",
     "image": "o",
@@ -2406,44 +2277,6 @@
       {
         "api": "",
         "link": "http://193.47.62.193/hls/JUUUQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50098,
-    "title": "Napoli vs Carrarese",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Napoli",
-      "teamB": "Carrarese",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2714/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2745/image",
-      "eventName": "SSC Napoli vs Carrarese",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/26 16:00:00 +0000",
-      "endTime": "2026/07/26 18:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "http://193.47.62.193/hls/JUUUQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
