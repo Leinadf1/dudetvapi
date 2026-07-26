@@ -12,7 +12,7 @@
       "eventName": "Formula 1 - HUNGARIAN GRAND PRIX",
       "eventType": "null",
       "eventBanner": "https://iili.io/Cwq8C7I.png",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/07/26 12:45:00 +0000",
       "endTime": "2026/07/26 15:30:00 +0000"
     },
@@ -942,141 +942,6 @@
         "link": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/108087_HD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/",
         "logo": "",
         "title": "BACKUP SD",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50008,
-    "title": "Zimbabwe vs India",
-    "image": "o",
-    "cat": "Cricket",
-    "eventInfo": {
-      "teamA": "ZIM",
-      "teamB": "IND",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187745/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187765/image",
-      "eventName": "Zimbabwe vs India",
-      "eventType": "null",
-      "eventBanner": "null",
-      "isHot": "0",
-      "startTime": "2026/07/26 11:00:00 +0000",
-      "endTime": "2026/07/26 14:45:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "FANCODE ENG",
-      "FANCODE HIN",
-      "TAPMAD - FHD",
-      "UNITE8 HIN - AQ",
-      "HD SERVER",
-      "FANCODE - HIN",
-      "FANCODE - ENG",
-      "FANCODE - BD",
-      "HOTSTAR - IN"
-    ],
-    "formatsNew": [
-      {
-        "title": "FANCODE ENG",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      },
-      {
-        "title": "FANCODE HIN",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      },
-      {
-        "title": "TAPMAD - FHD",
-        "logo": ""
-      },
-      {
-        "title": "UNITE8 HIN - AQ",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "FANCODE - HIN",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      },
-      {
-        "title": "FANCODE - ENG",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      },
-      {
-        "title": "FANCODE - BD",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      },
-      {
-        "title": "HOTSTAR - IN",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "d271bd6480344bf5938574325cbbfcd7:88b68ebb9588d70ecef11f28c5099205",
-        "link": "https://in-mc-flive.fancode.com/mumbai/143353_english_dash_71145_1drmta-di_h264/index.mpd",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-        "title": "FANCODE ENG",
-        "type": "1"
-      },
-      {
-        "api": "c108e7b44a1d4e65bd9edf19b46e5ec1:8dca625e57fa0b4c71e991016373eee4",
-        "link": "https://in-mc-flive.fancode.com/mumbai/143353_hindi_dash_66824_1drmta-di_h264/index.mpd",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-        "title": "FANCODE HIN",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8?|referer=https://tapmad.com",
-        "logo": "",
-        "title": "TAPMAD - FHD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://vsd262.okcdn.ru/cmaf/18148930357767/sig/eYwCA6mY9NA/expires/1784886855882/srcIp/66.78.59.15/urls/178.237.29.13/clientType/36/srcAg/CHROME/mid/15665985898247/get/hls_15665985898247.El4GwuQfJW0.m3u8",
-        "logo": "",
-        "title": "UNITE8 HIN - AQ",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://hugh.cdn.rumble.cloud/live/hd37fm8g/slot-147/rb62-cgui/chunklist.m3u8",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://livecf.fancode.com/143353_hindi_hls_43373ac75166824_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-        "title": "FANCODE - HIN",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://livecf.fancode.com/143353_english_dash_71145_1drmta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-        "title": "FANCODE - ENG",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://bd-mc-pdlive.fancode.com/mumbai/143353_english_dash_71145_1drmta-di_h264/index.mpd|User-Agent=ReactNativeVideo/8.4.0 (Linux;Android 13) AndroidXMedia3/1.1.1&referer=https://fancode.com/&drmScheme=clearkey&drmLicense=d271bd6480344bf5938574325cbbfcd7:88b68ebb9588d70ecef11f28c5099205",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-        "title": "FANCODE - BD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://www.hotstar.com/ca/sports/cricket/zimbabwe-vs-india-3rd-t20i/1540074365/video/live/watch",
-        "logo": "",
-        "title": "HOTSTAR - IN",
         "type": "0"
       }
     ],
@@ -2531,11 +2396,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "PREMIER SPORTS"
+      "PREMIER SPORTS",
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
         "title": "PREMIER SPORTS",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ],
@@ -2543,312 +2413,14 @@
       {
         "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
         "title": "PREMIER SPORTS",
         "type": "1"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50087,
-    "title": "AFC Ajax vs Burnley",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Ajax",
-      "teamB": "Burnley",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2953/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/6/image",
-      "eventName": "AFC Ajax vs Burnley",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/26 12:00:00 +0000",
-      "endTime": "2026/07/26 14:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
       },
       {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
         "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4594314.m3u8?txSecret=99e8de4fa76496a44e065f79405379f7&txTime=6A6609C4|Referer=https://player.online909.com/",
+        "link": "https://pul-tenm.gkykp.com/live/sd-1-4561578.m3u8?txSecret=5c9cb72025635dfa302f399a0fe7c240&txTime=6A676C59",
         "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.190/hls/FFKKKQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "SD SERVER",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50088,
-    "title": "North Melbourne vs St Kilda Saints",
-    "image": "o",
-    "cat": "AFL",
-    "eventInfo": {
-      "teamA": "North Melbourne",
-      "teamB": "St Kilda",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4454/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4453/image",
-      "eventName": "North Melbourne vs St Kilda Saints",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/26 05:15:00 +0000",
-      "endTime": "2026/07/26 07:45:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "FOX SPORTS",
-      "TNT SPORTS",
-      "FOX 503 FHD",
-      "HD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "FOX SPORTS",
-        "logo": ""
-      },
-      {
-        "title": "TNT SPORTS",
-        "logo": ""
-      },
-      {
-        "title": "FOX 503 FHD",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "title": "FOX SPORTS",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://latestmovies.net/api/live/playlist/34",
-        "title": "TNT SPORTS",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://channels.forestgump.space/ky0/afl-2026-07-26-nmfc-stk?v=high|Referer=https://channels.forestgump.space/",
-        "title": "FOX 503 FHD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://tmaxapp.site/8wirwjs76erftg/tntsports4.m3u8",
-        "title": "HD SERVER",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50089,
-    "title": "Levante UD vs Al-Qadsiah",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Levante",
-      "teamB": "Al-Qadsiah",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2849/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/56027/image",
-      "eventName": "Levante UD vs Al-Qadsiah",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/26 08:00:00 +0000",
-      "endTime": "2026/07/26 10:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://messi.damitv.st/live-hls/channel/afl/2026-07-25/wb-rich/playlist.m3u8",
-        "logo": "",
-        "title": "FOX 504 FHD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://hoofoot.ru/stream?seg=8319bc84b915f96c662d02c1a1f8addd%3A1e1ebdc365f4db24b8e31176109b38b82ad112a9e3a0dc8b962e90830babe4cecef91e9c70552adf915fe0425b04a47633d4abeea9abae13991caf580fc3fdf2e9cf7852f86abc349d36b6570081d9c60dc6fd31957d14ed735d0ea933ac08bcffbc9cb6f131d4ecf6d807af143e73989caa8872cbfc79e5579a187726aeba32?|Referer=https://hoofoot.ru/",
-        "logo": "",
-        "title": "FOX SPORTS",
-        "type": "0"
-      }
-    ],
-    "channel_status": "cached"
-  },
-  {
-    "id": 50091,
-    "title": "Manly Sea Eagles vs Cronulla Sharks",
-    "image": "o",
-    "cat": "NRL Rugby",
-    "eventInfo": {
-      "teamA": "Manly",
-      "teamB": "Cronulla",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4259/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4266/image",
-      "eventName": "Manly Sea Eagles vs Cronulla Sharks",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/26 06:05:00 +0000",
-      "endTime": "2026/07/26 08:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "FOX 502 FHD",
-      "HD SERVER",
-      "Fox 502",
-      "TEST"
-    ],
-    "formatsNew": [
-      {
-        "title": "FOX 502 FHD",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "Fox 502",
-        "logo": ""
-      },
-      {
-        "title": "TEST",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://channels.forestgump.space/ky0/nrl-2026-07-26-man-cro?v=high|Referer=https://channels.forestgump.space/",
-        "logo": "",
-        "title": "FOX 502 FHD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/nrl/2026-07-26/man-cro",
-        "logo": "",
-        "title": "Fox 502",
-        "type": "2"
-      },
-      {
-        "api": "",
-        "link": "https://embed.st/embed/admin/ppv-sea-eagles-vs-sharks/1",
-        "logo": "",
-        "title": "TEST",
-        "type": "2"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50093,
-    "title": "PEC Zwolle vs AEK Athens",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Zwolle",
-      "teamB": "AEK",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2971/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3250/image",
-      "eventName": "PEC Zwolle vs AEK Athens",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/26 13:00:00 +0000",
-      "endTime": "2026/07/26 15:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [],
-    "channel_status": "unavailable"
-  },
-  {
-    "id": 50094,
-    "title": "Frankfurt vs Trabzonspor",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Frankfurt",
-      "teamB": "Trabzonspor",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2674/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3051/image",
-      "eventName": "Eintracht Frankfurt vs Trabzonspor",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/26 13:30:00 +0000",
-      "endTime": "2026/07/26 15:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
         "title": "DUDE Tv Live",
         "type": "0"
       }
@@ -2894,43 +2466,6 @@
     "channel_status": "live"
   },
   {
-    "id": 50096,
-    "title": "Cannes vs AS Roma",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Cannes",
-      "teamB": "Roma",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1755/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2702/image",
-      "eventName": "AS Cannes vs AS Roma",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/26 15:30:00 +0000",
-      "endTime": "2026/07/26 17:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
     "id": 50097,
     "title": "Lazio vs Flaminia",
     "image": "o",
@@ -2960,7 +2495,8 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "link": "http://193.47.62.193/hls/JUUUQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       }
@@ -2997,7 +2533,8 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "link": "http://193.47.62.193/hls/JUUUQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       }
@@ -3411,6 +2948,45 @@
         "link": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
         "logo": "",
         "title": "LOW SERVER",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50107,
+    "title": "AS Cannes vs AS Roma",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "AS Cannes",
+      "teamB": "AS Roma",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1755/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2702/image",
+      "eventName": "AS Cannes vs AS Roma",
+      "eventType": "null",
+      "eventBanner": "null",
+      "isHot": "0",
+      "startTime": "2026/07/26 15:30:00 +0000",
+      "endTime": "2026/07/26 17:45:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "Server 1"
+    ],
+    "formatsNew": [
+      {
+        "title": "Server 1",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "http://193.47.62.193/hls/JUUU.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "Server 1",
         "type": "0"
       }
     ],
