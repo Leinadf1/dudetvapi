@@ -293,15 +293,57 @@ def decrypt_via_emulator(payload, apk_path, lib_path):
             print("      [Frida Fallback] Decrypted file is empty or not readable.")
             return None
             
-        # 6. Extract low bytes from UTF-16BE encoding
-        low_bytes = bytes(raw_bytes[i+1] for i in range(0, len(raw_bytes)-1, 2))
-        text = low_bytes.decode("utf-8", errors="ignore").strip()
-        
-        if '{"' in text or '["' in text or text.startswith('[') or text.startswith('{'):
-            return json.loads(text, strict=False)
-        else:
-            print("      [Frida Fallback] Output does not look like JSON.")
+        # 6. Decode UTF-16BE directly from raw_bytes
+        try:
+            text = raw_bytes.decode("utf-16be", errors="ignore").strip()
+        except Exception:
+            low_bytes = bytes(raw_bytes[i+1] for i in range(0, len(raw_bytes)-1, 2))
+            text = low_bytes.decode("utf-8", errors="ignore").strip()
+
+        # Clean JSON boundaries
+        start_idx = -1
+        first_bracket = text.find('[')
+        first_brace = text.find('{')
+        if first_bracket != -1 and first_brace != -1:
+            start_idx = min(first_bracket, first_brace)
+        elif first_bracket != -1:
+            start_idx = first_bracket
+        elif first_brace != -1:
+            start_idx = first_brace
+
+        if start_idx != -1:
+            text = text[start_idx:]
+
+        last_bracket = text.rfind(']')
+        last_brace = text.rfind('}')
+        end_idx = max(last_bracket, last_brace)
+        if end_idx != -1:
+            text = text[:end_idx + 1]
+
+        if not text:
+            print("      [Frida Fallback] Output does not contain valid JSON boundaries.")
             return None
+
+        try:
+            return json.loads(text, strict=False)
+        except Exception as je:
+            print(f"      [Frida Fallback] json.loads initial attempt failed: {je}")
+            if last_bracket != -1 and text.startswith('['):
+                try:
+                    return json.loads(text[:last_bracket + 1], strict=False)
+                except Exception:
+                    pass
+            if last_brace != -1 and text.startswith('{'):
+                try:
+                    return json.loads(text[:last_brace + 1], strict=False)
+                except Exception:
+                    pass
+            cleaned_text = re.sub(r',(\s*[\]}])', r'\1', text)
+            try:
+                return json.loads(cleaned_text, strict=False)
+            except Exception as final_e:
+                print(f"      [Frida Fallback] JSON parsing recovery failed: {final_e}")
+                return None
             
     except Exception as e:
         print(f"      [Frida Fallback] Unexpected error: {e}")
