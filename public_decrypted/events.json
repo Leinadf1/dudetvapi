@@ -247,15 +247,19 @@
     "publish": "1",
     "formats": [
       "DUDE Tv WWE",
+      "WWE RAW [FHD]",
       "DUDE Tv RAW",
       "HD SERVER",
       "DUDE Tv HD",
-      "Backup SD",
-      "Tap Sport LQ"
+      "Backup SD"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv WWE",
+        "logo": ""
+      },
+      {
+        "title": "WWE RAW [FHD]",
         "logo": ""
       },
       {
@@ -272,10 +276,6 @@
       },
       {
         "title": "Backup SD",
-        "logo": ""
-      },
-      {
-        "title": "Tap Sport LQ",
         "logo": ""
       }
     ]
@@ -803,10 +803,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1280,11 +1285,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportDigital Fussball"
+      "SportDigital Fussball",
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
         "title": "SportDigital Fussball",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
