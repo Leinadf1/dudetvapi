@@ -367,7 +367,8 @@
       "SKY SPORTS 6",
       "SKY SPORTS 7",
       "SKY SPORTS 8",
-      "SKY SPORTS 9"
+      "SKY SPORTS 9",
+      "TEST"
     ],
     "formatsNew": [
       {
@@ -424,6 +425,10 @@
       },
       {
         "title": "SKY SPORTS 9",
+        "logo": ""
+      },
+      {
+        "title": "TEST",
         "logo": ""
       }
     ]
@@ -567,7 +572,8 @@
       "TAPMAD - FHD",
       "LOW SERVER",
       "FANCODE - IN",
-      "FANCODE - BD"
+      "FANCODE - BD",
+      "WILLOW [FHD]"
     ],
     "formatsNew": [
       {
@@ -597,6 +603,10 @@
       {
         "title": "FANCODE - BD",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
+        "title": "WILLOW [FHD]",
+        "logo": ""
       }
     ]
   },
@@ -668,9 +678,11 @@
     "publish": "1",
     "formats": [
       "WILLOW - FHD",
-      "CRICKET FHD",
+      "WILLOW - AdFree",
+      "SKY CRICKET",
       "WILLOW - ALT",
       "TAPMAD - FHD",
+      "SKY SPORT NZ",
       "FOX CRICKET HD",
       "LOW SERVER",
       "CRICKET LIVE [FHD]"
@@ -681,7 +693,11 @@
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
-        "title": "CRICKET FHD",
+        "title": "WILLOW - AdFree",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "SKY CRICKET",
         "logo": ""
       },
       {
@@ -691,6 +707,10 @@
       {
         "title": "TAPMAD - FHD",
         "logo": ""
+      },
+      {
+        "title": "SKY SPORT NZ",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
       },
       {
         "title": "FOX CRICKET HD",
@@ -1162,11 +1182,16 @@
     "publish": "1",
     "formats": [
       "beIN ENGLISH",
+      "DUDE Tv Live",
       "beIN SPORTS [FHD]"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       },
       {

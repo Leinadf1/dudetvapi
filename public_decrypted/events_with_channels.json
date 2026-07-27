@@ -742,7 +742,8 @@
       "SKY SPORTS 6",
       "SKY SPORTS 7",
       "SKY SPORTS 8",
-      "SKY SPORTS 9"
+      "SKY SPORTS 9",
+      "TEST"
     ],
     "formatsNew": [
       {
@@ -799,6 +800,10 @@
       },
       {
         "title": "SKY SPORTS 9",
+        "logo": ""
+      },
+      {
+        "title": "TEST",
         "logo": ""
       }
     ],
@@ -900,6 +905,13 @@
         "logo": "",
         "title": "SKY SPORTS 9",
         "type": "0"
+      },
+      {
+        "api": "a149cb226e699f7e427519f154e4704b:17b6fc45856e8c0bace2ba08b23bfe35",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/zazkjce1h3/out/v1/c18fb3e2dd7f420690bdc5a3122f847b/bbf9d88a-7661-4624-90cb-0a381d0f05c7-cenc.mpd",
+        "logo": "",
+        "title": "TEST",
+        "type": "1"
       },
       {
         "api": "MTEyMjMzNDQ1NTY2Nzc4ODk5MDAxMTIyMzM0NDU1NjY6NGI4MDcyNGQwZWY4NmJjYjJjMjFmN3o5OWG2NzczOWQ=",
@@ -1132,7 +1144,8 @@
       "TAPMAD - FHD",
       "LOW SERVER",
       "FANCODE - IN",
-      "FANCODE - BD"
+      "FANCODE - BD",
+      "WILLOW [FHD]"
     ],
     "formatsNew": [
       {
@@ -1162,6 +1175,10 @@
       {
         "title": "FANCODE - BD",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
+        "title": "WILLOW [FHD]",
+        "logo": ""
       }
     ],
     "decoded_channels": [
@@ -1213,6 +1230,13 @@
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
         "title": "FANCODE - BD",
         "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://streamfree.top/embed/cricket/willow?quality=1080p&category=cricket",
+        "logo": "",
+        "title": "WILLOW [FHD]",
+        "type": "2"
       }
     ],
     "channel_status": "live"
@@ -1316,9 +1340,11 @@
     "publish": "1",
     "formats": [
       "WILLOW - FHD",
-      "CRICKET FHD",
+      "WILLOW - AdFree",
+      "SKY CRICKET",
       "WILLOW - ALT",
       "TAPMAD - FHD",
+      "SKY SPORT NZ",
       "FOX CRICKET HD",
       "LOW SERVER",
       "CRICKET LIVE [FHD]"
@@ -1329,7 +1355,11 @@
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
-        "title": "CRICKET FHD",
+        "title": "WILLOW - AdFree",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "SKY CRICKET",
         "logo": ""
       },
       {
@@ -1339,6 +1369,10 @@
       {
         "title": "TAPMAD - FHD",
         "logo": ""
+      },
+      {
+        "title": "SKY SPORT NZ",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
       },
       {
         "title": "FOX CRICKET HD",
@@ -1355,22 +1389,29 @@
     ],
     "decoded_channels": [
       {
-        "api": "5a0edfcd8c985f6bdb8982a7273ce729:449f298731e930a696cbca83c78d9f96",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vid7odmrih/out/v1/dffb4d3f96694b10bc2c1db3b7ac2472/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "79f7c04fd3fa5f3cdb7671b440f4ca97:85ecfe2836a55f14ec3c8c1d9486c44e",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/krb4ywqglt/out/v1/0f91f1c928fe492ca9de3a2106b38969/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW - FHD",
+        "type": "1"
+      },
+      {
+        "api": "ab1c8a93dca4276f0e5c39b90af7b184:9b8faef3de7fd79f1be1641928c820f3",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mnkfqrxgjn/out/v1/2ba20da5eaa24cc7b06154a557b1b38d/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "title": "WILLOW - AdFree",
         "type": "1"
       },
       {
         "api": "",
         "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
         "logo": "",
-        "title": "CRICKET FHD",
+        "title": "SKY CRICKET",
         "type": "0"
       },
       {
-        "api": "5a0edfcd8c985f6bdb8982a7273ce729:449f298731e930a696cbca83c78d9f96",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vid7odmrih/out/v1/dffb4d3f96694b10bc2c1db3b7ac2472/cenc.mpd",
+        "api": "79f7c04fd3fa5f3cdb7671b440f4ca97:85ecfe2836a55f14ec3c8c1d9486c44e",
+        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/krb4ywqglt/out/v1/0f91f1c928fe492ca9de3a2106b38969/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW - ALT",
         "type": "1"
@@ -1380,6 +1421,13 @@
         "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com",
         "logo": "",
         "title": "TAPMAD - FHD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+        "title": "SKY SPORT NZ",
         "type": "0"
       },
       {
@@ -1551,13 +1599,15 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream3.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream1.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-07-26/cle-tb",
+        "link": "https://embedindia.st/embed/mlb/2026-07-27/sea-tex",
+        "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
       }
@@ -1656,13 +1706,15 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream1.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-07-26/tor-bos",
+        "link": "https://embedindia.st/embed/mlb/2026-07-27/phi-mia",
+        "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
       }
@@ -1704,13 +1756,15 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream2.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream1.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-07-26/chc-pit",
+        "link": "https://embedindia.st/embed/mlb/2026-07-27/ari-pit",
+        "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
       }
@@ -1763,7 +1817,7 @@
         "type": "2"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
     "id": 50080,
@@ -1800,13 +1854,15 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream3.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream3.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-07-26/kc-det",
+        "link": "https://embedindia.st/embed/mlb/2026-07-27/cle-cin",
+        "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
       }
@@ -1848,13 +1904,15 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream1.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream1.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-07-26/sd-mia",
+        "link": "https://embedindia.st/embed/mlb/2026-07-27/atl-nym",
+        "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
       }
@@ -2111,11 +2169,16 @@
     "publish": "1",
     "formats": [
       "beIN ENGLISH",
+      "DUDE Tv Live",
       "beIN SPORTS [FHD]"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       },
       {
@@ -2127,12 +2190,21 @@
       {
         "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
         "title": "beIN ENGLISH",
         "type": "1"
       },
       {
         "api": "",
+        "link": "https://live.vivo200.com/live/sd-1-4587718.flv?txSecret=3c5edf31026707da734e9a5559bad7fd&txTime=6A67A49E|Referer=https://player.online909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
         "link": "https://embedindia.st/embed/womens-africa-cup-of-nations/2026-07-26/alg-sen",
+        "logo": "",
         "title": "beIN SPORTS [FHD]",
         "type": "2"
       }
