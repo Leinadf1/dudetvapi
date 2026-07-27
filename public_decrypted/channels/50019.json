@@ -1,43 +1,111 @@
 [
   {
-    "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-    "link": "https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd",
-    "logo": "",
-    "title": "EUROSPORT1 FHD",
-    "type": "1"
-  },
-  {
-    "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-    "link": "https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd",
-    "logo": "",
-    "title": "EUROSPORT2 FHD",
-    "type": "1"
-  },
-  {
     "api": "",
-    "link": "https://embedindia.st/embed/tour-de-france/2026/stage-21",
+    "link": "https://logic.icelanders.st/embed/tntsports2-uk",
     "logo": "",
     "title": "TNT SPORTS [FHD]",
     "type": "2"
   },
   {
     "api": "",
-    "link": "https://embedindia.st/embed/tour-de-france/2026/stage-21/peacock-en",
+    "link": "https://latestmovies.net/api/live/playlist/32",
     "logo": "",
-    "title": "PEACOCK ENG [FHD]",
+    "title": "TNT SPORTS FHD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://cast.zlive.st/p/auto-tnt-sports-2-0/index.m3u8?|referer=https://zlive.st/",
+    "logo": "",
+    "title": "TNT SPORTS 2",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://messi.damitv.st/papi/ts/tntsports2-uk/playlist.m3u8",
+    "logo": "",
+    "title": "TNT SPORTS HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://logic.icelanders.st/embed/skysport4-nz",
+    "logo": "",
+    "title": "SKY SPORTS 4 [FHD]",
     "type": "2"
   },
   {
-    "api": "0f4751abc997473d9138d17b5944be04:a0aefedd2376a54b8b50f9b7c2d50ac7",
-    "link": "https://cache01.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_ez/eurosport_1_hd.mpd",
+    "api": "",
+    "link": "https://latestmovies.net/api/live/playlist/591",
     "logo": "",
-    "title": "EUROSPORT1 FHD",
+    "title": "SKY SPORTS 4 FHD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://cast.zlive.st/p/auto-sky-sport-4-nz-0/index.m3u8?|referer=https://zlive.st/",
+    "logo": "",
+    "title": "SKY SPORTS 4",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://logic.icelanders.st/embed/skysport3-nz",
+    "logo": "",
+    "title": "SKY SPORTS 3 [FHD]",
+    "type": "2"
+  },
+  {
+    "api": "",
+    "link": "https://cast.zlive.st/p/auto-sky-sport-3-nz-0/index.m3u8?|referer=https://zlive.st/",
+    "logo": "",
+    "title": "SKY SPORTS 3",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://cast.zlive.st/p/auto-sky-sport-5-nz-0/index.m3u8?|referer=https://zlive.st/",
+    "logo": "",
+    "title": "SKY SPORTS 5",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://cast.zlive.st/p/auto-sky-sport-6-nz-0/index.m3u8?|referer=https://zlive.st/",
+    "logo": "",
+    "title": "SKY SPORTS 6",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://cast.zlive.st/p/auto-sky-sport-7-nz-0/index.m3u8?|referer=https://zlive.st/",
+    "logo": "",
+    "title": "SKY SPORTS 7",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://cast.zlive.st/p/auto-sky-sport-8-nz-0/index.m3u8?|referer=https://zlive.st/",
+    "logo": "",
+    "title": "SKY SPORTS 8",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://cast.zlive.st/p/auto-sky-sport-9-nz-0/index.m3u8?|referer=https://zlive.st/",
+    "logo": "",
+    "title": "SKY SPORTS 9",
+    "type": "0"
+  },
+  {
+    "api": "MTEyMjMzNDQ1NTY2Nzc4ODk5MDAxMTIyMzM0NDU1NjY6NGI4MDcyNGQwZWY4NmJjYjJjMjFmN3o5OWG2NzczOWQ=",
+    "link": "https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd",
+    "title": "EUROSPORT FHD",
     "type": "1"
   },
   {
-    "api": "e369d9ab101d4b60ba13c0384f503528:041e35e31381521b3398af5c6dd99414",
-    "link": "https://cache01.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_ez/eurosport_2_hd.mpd",
-    "logo": "",
+    "api": "MTEyMjMzNDQ1NTY2Nzc4ODk5MDAxMTIyMzM0NDU1NjY6NGI4MDcyNGQwZWY4NmJjYjJjMjFmN3o5OWG2NzczOWQ=",
+    "link": "https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd",
     "title": "EUROSPORT2 FHD",
     "type": "1"
   }
