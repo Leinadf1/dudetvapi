@@ -1126,15 +1126,19 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "WILLOW - FHD",
       "WILLOW - AdFree",
       "WILLOW - ALT",
       "TAPMAD - FHD",
-      "WILLOW FHD",
       "LOW SERVER",
       "FANCODE - IN",
       "FANCODE - BD"
     ],
     "formatsNew": [
+      {
+        "title": "WILLOW - FHD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
       {
         "title": "WILLOW - AdFree",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
@@ -1146,10 +1150,6 @@
       {
         "title": "TAPMAD - FHD",
         "logo": ""
-      },
-      {
-        "title": "WILLOW FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
         "title": "LOW SERVER",
@@ -1166,50 +1166,50 @@
     ],
     "decoded_channels": [
       {
-        "api": "ff2d3d8ee3f01ca0186ab372d834a305:20554e3b2bb2a251be086a589087820a",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tpsqlx4rhv/out/v1/1e46878c774c406a9fccb34af17fbc33/cenc.mpd",
+        "api": "7ee97a3312f72c8b9cce83fb9cc44e6d:0457ab4b482d45e3102c1c64a3d1532d",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/d2m2cdamin/out/v1/8e534639428147c0b9e9589113e4e14b/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "title": "WILLOW - FHD",
+        "type": "1"
+      },
+      {
+        "api": "93e1e62b680676bd8ab5ad7ae3314cce:8af74962ecdff746cd019ba90935b215",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lgp77wdjaw/out/v1/9d70bc2c2c054c19a091dc3550ab5a1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW - AdFree",
         "type": "1"
       },
       {
-        "api": "ff2d3d8ee3f01ca0186ab372d834a305:20554e3b2bb2a251be086a589087820a",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/tpsqlx4rhv/out/v1/1e46878c774c406a9fccb34af17fbc33/cenc.mpd",
+        "api": "7ee97a3312f72c8b9cce83fb9cc44e6d:0457ab4b482d45e3102c1c64a3d1532d",
+        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/d2m2cdamin/out/v1/8e534639428147c0b9e9589113e4e14b/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW - ALT",
         "type": "1"
       },
       {
         "api": "",
-        "link": "https://saseries.akamaized.net/hls/live/2110097/PAKvsWI-TesT-tapmad/master.m3u8|referer=https://tapmad.com",
+        "link": "https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8|referer=https://tapmad.com",
         "logo": "",
         "title": "TAPMAD - FHD",
         "type": "0"
       },
       {
-        "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW FHD",
-        "type": "1"
-      },
-      {
         "api": "",
-        "link": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
+        "link": "http://193.47.62.192/hls/SOOOQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "LOW SERVER",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://in-mc-pdlive.fancode.com/mumbai/143633_english_hls_37959550fb58134_1ta-di_h264/index.m3u8",
+        "link": "https://livecf.fancode.com/143633_english_hls_37959550fb21080_1ta-di_h264/index.m3u8",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
         "title": "FANCODE - IN",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://bd-mc-pdlive.fancode.com/mumbai/143633_english_hls_37959550fb58134_1ta-di_h264/index.m3u8",
+        "link": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/west_indies_vs_pakistan_143633_english.m3u8",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
         "title": "FANCODE - BD",
         "type": "0"
@@ -1230,8 +1230,8 @@
       "eventName": "Lanka Premier League",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/27 14:00:00 +0000",
-      "endTime": "2026/07/27 17:59:00 +0000"
+      "startTime": "2026/07/28 14:00:00 +0000",
+      "endTime": "2026/07/28 17:59:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1426,7 +1426,11 @@
     "publish": "1",
     "formats": [
       "WILLOW - FHD",
+      "SKY CRICKET",
       "WILLOW - ALT",
+      "TAPMAD - FHD",
+      "SKY SPORT NZ",
+      "FOX CRICKET HD",
       "LOW SERVER"
     ],
     "formatsNew": [
@@ -1435,8 +1439,24 @@
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
+        "title": "SKY CRICKET",
+        "logo": ""
+      },
+      {
         "title": "WILLOW - ALT",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "TAPMAD - FHD",
+        "logo": ""
+      },
+      {
+        "title": "SKY SPORT NZ",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
+      },
+      {
+        "title": "FOX CRICKET HD",
+        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj"
       },
       {
         "title": "LOW SERVER",
@@ -1445,18 +1465,46 @@
     ],
     "decoded_channels": [
       {
-        "api": "b49d185a9ea951cfe8eac1ad9d8f4c1e:4c570c0d8df53ca1070e371c0f549b7e",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yyb40bb0u7/out/v1/13609aedb80743d38243526164f40d8b/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "ed6ee371165b4b461e3731c3f43cfc65:5ecfb640507e9965abe4e68657a158ed",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/s0j8uhosdr/out/v1/75c45443b2ad43a6833b3c9b3aeb526a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW - FHD",
         "type": "1"
       },
       {
-        "api": "b49d185a9ea951cfe8eac1ad9d8f4c1e:4c570c0d8df53ca1070e371c0f549b7e",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/yyb40bb0u7/out/v1/13609aedb80743d38243526164f40d8b/cenc.mpd",
+        "api": "",
+        "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+        "logo": "",
+        "title": "SKY CRICKET",
+        "type": "0"
+      },
+      {
+        "api": "ed6ee371165b4b461e3731c3f43cfc65:5ecfb640507e9965abe4e68657a158ed",
+        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/s0j8uhosdr/out/v1/75c45443b2ad43a6833b3c9b3aeb526a/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW - ALT",
         "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com",
+        "logo": "",
+        "title": "TAPMAD - FHD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+        "title": "SKY SPORT NZ",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
+        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj",
+        "title": "FOX CRICKET HD",
+        "type": "0"
       },
       {
         "api": "",
@@ -2185,51 +2233,6 @@
       }
     ],
     "channel_status": "live"
-  },
-  {
-    "id": 50089,
-    "title": "Al-Riyadh vs Al-Gharafa",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Al-Riyadh",
-      "teamB": "Al-Gharafa",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/168088/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/34312/image",
-      "eventName": "Al-Riyadh vs Al-Gharafa",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/27 15:00:00 +0000",
-      "endTime": "2026/07/27 17:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://messi.damitv.st/live-hls/channel/afl/2026-07-25/wb-rich/playlist.m3u8",
-        "logo": "",
-        "title": "FOX 504 FHD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://hoofoot.ru/stream?seg=8319bc84b915f96c662d02c1a1f8addd%3A1e1ebdc365f4db24b8e31176109b38b82ad112a9e3a0dc8b962e90830babe4cecef91e9c70552adf915fe0425b04a47633d4abeea9abae13991caf580fc3fdf2e9cf7852f86abc349d36b6570081d9c60dc6fd31957d14ed735d0ea933ac08bcffbc9cb6f131d4ecf6d807af143e73989caa8872cbfc79e5579a187726aeba32?|Referer=https://hoofoot.ru/",
-        "logo": "",
-        "title": "FOX SPORTS",
-        "type": "0"
-      }
-    ],
-    "channel_status": "cached"
   },
   {
     "id": 50090,

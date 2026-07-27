@@ -561,15 +561,19 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "WILLOW - FHD",
       "WILLOW - AdFree",
       "WILLOW - ALT",
       "TAPMAD - FHD",
-      "WILLOW FHD",
       "LOW SERVER",
       "FANCODE - IN",
       "FANCODE - BD"
     ],
     "formatsNew": [
+      {
+        "title": "WILLOW - FHD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
       {
         "title": "WILLOW - AdFree",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
@@ -581,10 +585,6 @@
       {
         "title": "TAPMAD - FHD",
         "logo": ""
-      },
-      {
-        "title": "WILLOW FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
         "title": "LOW SERVER",
@@ -613,8 +613,8 @@
       "eventName": "Lanka Premier League",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/27 14:00:00 +0000",
-      "endTime": "2026/07/27 17:59:00 +0000"
+      "startTime": "2026/07/28 14:00:00 +0000",
+      "endTime": "2026/07/28 17:59:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -726,7 +726,11 @@
     "publish": "1",
     "formats": [
       "WILLOW - FHD",
+      "SKY CRICKET",
       "WILLOW - ALT",
+      "TAPMAD - FHD",
+      "SKY SPORT NZ",
+      "FOX CRICKET HD",
       "LOW SERVER"
     ],
     "formatsNew": [
@@ -735,8 +739,24 @@
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
+        "title": "SKY CRICKET",
+        "logo": ""
+      },
+      {
         "title": "WILLOW - ALT",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "TAPMAD - FHD",
+        "logo": ""
+      },
+      {
+        "title": "SKY SPORT NZ",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
+      },
+      {
+        "title": "FOX CRICKET HD",
+        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj"
       },
       {
         "title": "LOW SERVER",
@@ -1213,34 +1233,6 @@
       {
         "title": "ICC TV - FHD",
         "logo": "https://m.media-amazon.com/images/I/31F7ropt9OL.png"
-      }
-    ]
-  },
-  {
-    "id": 50089,
-    "title": "Al-Riyadh vs Al-Gharafa",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Al-Riyadh",
-      "teamB": "Al-Gharafa",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/168088/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/34312/image",
-      "eventName": "Al-Riyadh vs Al-Gharafa",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/27 15:00:00 +0000",
-      "endTime": "2026/07/27 17:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
       }
     ]
   },
