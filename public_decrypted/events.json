@@ -474,7 +474,7 @@
   },
   {
     "id": 50032,
-    "title": "Angels vs Houston Astros",
+    "title": "Houston Astros",
     "image": "o",
     "cat": "MLB",
     "eventInfo": {
@@ -623,11 +623,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "MLB LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "MLB LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1616,44 +1621,6 @@
     ]
   },
   {
-    "id": 50089,
-    "title": "Real Madrid vs Leganés",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Real Madrid",
-      "teamB": "Leganés",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2829/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2845/image",
-      "eventName": "Real Madrid vs Leganés",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/28 16:00:00 +0000",
-      "endTime": "2026/07/28 18:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "Server 2 (EN)",
-      "Real Madrid TV "
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "Server 2 (EN)",
-        "logo": ""
-      },
-      {
-        "title": "Real Madrid TV ",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50090,
     "title": "Cagliari vs Modena",
     "image": "o",
@@ -1710,11 +1677,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1732,8 +1704,8 @@
       "eventName": "Al-Ahli vs Fulham",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/28 16:00:00 +0000",
-      "endTime": "2026/07/28 18:00:00 +0000"
+      "startTime": "2026/07/28 17:00:00 +0000",
+      "endTime": "2026/07/28 19:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1794,11 +1766,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -2033,9 +2010,19 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv Live",
+      "HD SERVER",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
       {
         "title": "SPX LIVE [FHD]",
         "logo": ""

@@ -992,7 +992,7 @@
   },
   {
     "id": 50032,
-    "title": "Angels vs Houston Astros",
+    "title": "Houston Astros",
     "image": "o",
     "cat": "MLB",
     "eventInfo": {
@@ -1036,7 +1036,7 @@
         "type": "2"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
     "id": 50033,
@@ -1084,7 +1084,7 @@
         "type": "2"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
     "id": 50034,
@@ -1121,20 +1121,20 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream3.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream1.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-07-26/sea-tex",
+        "link": "https://embedindia.st/embed/mlb/2026-07-28/col-sd",
         "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50052,
@@ -1171,13 +1171,15 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream1.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream2.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-07-26/laa-sf",
+        "link": "https://embedindia.st/embed/mlb/2026-07-28/mil-sf",
+        "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
       }
@@ -1203,20 +1205,33 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "MLB LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "MLB LIVE [FHD]",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream2.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream1.pro/hls/JHDAJBDnjdna30.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/mlb/2026-07-28/sea-lad",
+        "logo": "",
+        "title": "MLB LIVE [FHD]",
+        "type": "2"
       }
     ],
     "channel_status": "live"
@@ -1801,15 +1816,15 @@
     ],
     "decoded_channels": [
       {
-        "api": "79f7c04fd3fa5f3cdb7671b440f4ca97:85ecfe2836a55f14ec3c8c1d9486c44e",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/krb4ywqglt/out/v1/0f91f1c928fe492ca9de3a2106b38969/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "6615ff061d534480dfcc882d7d109368:ddd6d8d903e12981d3b18801c9adc188",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kh6uiu6upv/out/v1/29112f3b523f413bad078505dfc67250/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW - FHD",
         "type": "1"
       },
       {
-        "api": "ab1c8a93dca4276f0e5c39b90af7b184:9b8faef3de7fd79f1be1641928c820f3",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mnkfqrxgjn/out/v1/2ba20da5eaa24cc7b06154a557b1b38d/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "6615ff061d534480dfcc882d7d109368:ddd6d8d903e12981d3b18801c9adc188",
+        "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/kh6uiu6upv/out/v1/29112f3b523f413bad078505dfc67250/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW - AdFree",
         "type": "1"
@@ -1822,8 +1837,8 @@
         "type": "0"
       },
       {
-        "api": "79f7c04fd3fa5f3cdb7671b440f4ca97:85ecfe2836a55f14ec3c8c1d9486c44e",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/krb4ywqglt/out/v1/0f91f1c928fe492ca9de3a2106b38969/cenc.mpd",
+        "api": "6615ff061d534480dfcc882d7d109368:ddd6d8d903e12981d3b18801c9adc188",
+        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kh6uiu6upv/out/v1/29112f3b523f413bad078505dfc67250/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW - ALT",
         "type": "1"
@@ -2381,7 +2396,7 @@
         "type": "2"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
     "id": 50081,
@@ -2526,12 +2541,14 @@
       {
         "api": "",
         "link": "https://edgestream1.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-07-27/chc-stl",
+        "link": "https://embedindia.st/embed/mlb/2026-07-28/kc-min",
+        "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
       }
@@ -2573,13 +2590,15 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream2.pro/hls/fskjanach24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream3.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-07-27/hou-laa",
+        "link": "https://embedindia.st/embed/mlb/2026-07-28/chc-stl",
+        "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
       }
@@ -2833,68 +2852,6 @@
     "channel_status": "live"
   },
   {
-    "id": 50089,
-    "title": "Real Madrid vs Leganés",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Real Madrid",
-      "teamB": "Leganés",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2829/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2845/image",
-      "eventName": "Real Madrid vs Leganés",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/28 16:00:00 +0000",
-      "endTime": "2026/07/28 18:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "Server 2 (EN)",
-      "Real Madrid TV "
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "Server 2 (EN)",
-        "logo": ""
-      },
-      {
-        "title": "Real Madrid TV ",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://edgestream1.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8",
-        "logo": "",
-        "title": "Server 2 (EN)",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/club-friendly/2026-07-28/rma-leg",
-        "logo": "",
-        "title": "SPX LIVE [FHD]",
-        "type": "2"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
     "id": 50090,
     "title": "Cagliari vs Modena",
     "image": "o",
@@ -2975,45 +2932,36 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://channels.forestgump.space/ky0/nrl-2026-07-26-man-cro?v=high|Referer=https://channels.forestgump.space/",
+        "link": "https://live.vivo200.com/live/sd-1-4596002.m3u8?txSecret=e8c75c15ffa03d3a40dea22259e8529f&txTime=6A68DDFE|Referer=https://player.online909.com/",
         "logo": "",
-        "title": "FOX 502 FHD",
+        "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8",
+        "link": "https://hls.live123.fans/live/4596002.m3u8",
         "logo": "",
-        "title": "HD SERVER",
+        "title": "SD SERVER",
         "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/nrl/2026-07-26/man-cro",
-        "logo": "",
-        "title": "Fox 502",
-        "type": "2"
-      },
-      {
-        "api": "",
-        "link": "https://embed.st/embed/admin/ppv-sea-eagles-vs-sharks/1",
-        "logo": "",
-        "title": "TEST",
-        "type": "2"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50092,
@@ -3028,8 +2976,8 @@
       "eventName": "Al-Ahli vs Fulham",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/28 16:00:00 +0000",
-      "endTime": "2026/07/28 18:00:00 +0000"
+      "startTime": "2026/07/28 17:00:00 +0000",
+      "endTime": "2026/07/28 19:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -3045,13 +2993,13 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "http://193.47.62.190/hls/FFKKK.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "https://live.vivo200.com/live/sd-1-4596014.m3u8?txSecret=767cd89f6ee04e3ed31b526d7d3bebcc&txTime=6A68E4D5|Referer=https://player.online909.com/",
         "logo": "",
-        "title": "SD SERVER",
+        "title": "DUDE Tv Live",
         "type": "0"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50093,
@@ -3083,7 +3031,8 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "link": "https://live.vivo200.com/live/sd-1-4600759.m3u8?txSecret=d812db1887aa2f32dedd074f78b611b1&txTime=6A68E4A2|Referer=https://player.online909.com/",
+        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       }
@@ -3109,11 +3058,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ],
@@ -3446,9 +3400,19 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv Live",
+      "HD SERVER",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
       {
         "title": "SPX LIVE [FHD]",
         "logo": ""
