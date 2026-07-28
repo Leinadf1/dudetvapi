@@ -533,6 +533,7 @@
     "formats": [
       "DUDE Tv WWE",
       "WWE RAW [FHD]",
+      "DUDE Tv Live",
       "DUDE Tv RAW",
       "HD SERVER",
       "DUDE Tv HD",
@@ -545,6 +546,10 @@
       },
       {
         "title": "WWE RAW [FHD]",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       },
       {
@@ -567,7 +572,7 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream2.pro/hls/zeuryuegn48.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://chatgpt.hereisman.net/playlist/53006/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "",
         "title": "DUDE Tv WWE",
         "type": "0"
@@ -578,6 +583,13 @@
         "logo": "",
         "title": "WWE RAW [FHD]",
         "type": "2"
+      },
+      {
+        "api": "",
+        "link": "https://edgestream2.pro/hls/zeuryuegn48.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
       },
       {
         "api": "",
@@ -1027,6 +1039,56 @@
     "channel_status": "live"
   },
   {
+    "id": 50054,
+    "title": "CFL",
+    "image": "o",
+    "cat": "CFL",
+    "eventInfo": {
+      "teamA": "Winnipeg",
+      "teamB": "BC",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4435/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4440/image",
+      "eventName": "Winnipeg Blue Bombers vs BC Lions",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/31 00:30:00 +0000",
+      "endTime": "2026/07/31 03:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "TSN SPORTS",
+      "TSN4 SPORTS"
+    ],
+    "formatsNew": [
+      {
+        "title": "TSN SPORTS",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
+      {
+        "title": "TSN4 SPORTS",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+        "title": "TSN SPORTS",
+        "type": "1"
+      },
+      {
+        "api": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+        "title": "TSN4 SPORTS",
+        "type": "1"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
     "id": 50059,
     "title": "Sri Lanka W vs Pakistan W",
     "image": "o",
@@ -1125,8 +1187,8 @@
       "eventName": "West Indies vs Pakistan",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/27 14:00:00 +0000",
-      "endTime": "2026/07/27 21:30:00 +0000"
+      "startTime": "2026/07/28 14:00:00 +0000",
+      "endTime": "2026/07/28 21:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1319,15 +1381,15 @@
     "image": "o",
     "cat": "The Hundred",
     "eventInfo": {
-      "teamA": "SOB",
-      "teamB": "MIL",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/377177/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/377172/image",
-      "eventName": "Southern Brave vs MI London",
+      "teamA": "SL",
+      "teamB": "MSG",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/377178/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/377173/image",
+      "eventName": "Sunrisers Leeds vs Manchester Super Giants",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/27 17:30:00 +0000",
-      "endTime": "2026/07/27 21:00:00 +0000"
+      "startTime": "2026/07/28 17:30:00 +0000",
+      "endTime": "2026/07/28 21:15:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1460,8 +1522,8 @@
       "eventName": "The Hundred Women",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/27 14:00:00 +0000",
-      "endTime": "2026/07/27 17:00:00 +0000"
+      "startTime": "2026/07/28 14:00:00 +0000",
+      "endTime": "2026/07/28 17:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1558,20 +1620,20 @@
     "channel_status": "live"
   },
   {
-    "id": 50075,
-    "title": "Rangers vs Seattle Mariners",
+    "id": 50076,
+    "title": "Detroit Tigers vs Orioles",
     "image": "o",
     "cat": "MLB",
     "eventInfo": {
-      "teamA": "Rangers",
-      "teamB": "Mariners",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3647/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3641/image",
-      "eventName": "Texas Rangers vs Seattle Mariners",
+      "teamA": "Tigers",
+      "teamB": "Orioles",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3648/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3652/image",
+      "eventName": "Detroit Tigers vs Baltimore Orioles",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/27 18:35:00 +0000",
-      "endTime": "2026/07/27 21:35:00 +0000"
+      "startTime": "2026/07/27 22:40:00 +0000",
+      "endTime": "2026/07/28 01:40:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1597,84 +1659,27 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/53879/load-playlist?|Referer=https://gooz.aapmains.net",
+        "link": "https://chatgpt.hereisman.net/playlist/53881/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "",
         "title": "DUDE Tv MLB",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://edgestream1.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-07-27/sea-tex",
+        "link": "https://embedindia.st/embed/mlb/2026-07-27/bal-det",
         "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
       }
     ],
     "channel_status": "live"
-  },
-  {
-    "id": 50076,
-    "title": "Detroit Tigers vs Orioles",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Tigers",
-      "teamB": "Orioles",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3648/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3652/image",
-      "eventName": "Detroit Tigers vs Baltimore Orioles",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/27 22:40:00 +0000",
-      "endTime": "2026/07/28 01:40:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "MLB LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "MLB LIVE [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/53849/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv MLB",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://edgestream1.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-07-26/atl-bal",
-        "logo": "",
-        "title": "MLB LIVE [FHD]",
-        "type": "2"
-      }
-    ],
-    "channel_status": "cached"
   },
   {
     "id": 50077,
@@ -1695,10 +1700,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1724,7 +1734,7 @@
         "type": "2"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
     "id": 50078,
@@ -1745,10 +1755,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1759,6 +1774,13 @@
       }
     ],
     "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/53880/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv MLB",
+        "type": "0"
+      },
       {
         "api": "",
         "link": "https://edgestream1.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
@@ -1795,10 +1817,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1811,18 +1838,27 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream3.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://chatgpt.hereisman.net/playlist/53885/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv MLB",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://edgestream1.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-07-26/ari-wsh",
+        "link": "https://embedindia.st/embed/mlb/2026-07-27/tor-wsh",
+        "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50080,
@@ -1843,10 +1879,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1857,6 +1898,13 @@
       }
     ],
     "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/53887/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv MLB",
+        "type": "0"
+      },
       {
         "api": "",
         "link": "https://edgestream3.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
@@ -1893,10 +1941,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1907,6 +1960,13 @@
       }
     ],
     "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/53889/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv MLB",
+        "type": "0"
+      },
       {
         "api": "",
         "link": "https://edgestream1.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
@@ -1943,10 +2003,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1957,6 +2022,13 @@
       }
     ],
     "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/53891/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv MLB",
+        "type": "0"
+      },
       {
         "api": "",
         "link": "https://edgestream3.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
@@ -1993,10 +2065,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2007,6 +2084,13 @@
       }
     ],
     "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/53894/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv MLB",
+        "type": "0"
+      },
       {
         "api": "",
         "link": "https://edgestream1.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
@@ -2093,19 +2177,24 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "WILLOW - HD",
+      "WILLOW - AdFree",
       "WILLOW - ALT",
+      "WILLOW - HD",
       "LOW SERVER",
       "FANCODE - IN",
       "FANCODE - BD"
     ],
     "formatsNew": [
       {
-        "title": "WILLOW - HD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+        "title": "WILLOW - AdFree",
+        "logo": ""
       },
       {
         "title": "WILLOW - ALT",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "WILLOW - HD",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
@@ -2123,17 +2212,24 @@
     ],
     "decoded_channels": [
       {
+        "api": "2362e3bf14adb50a0b1ba098370e0e3c:244ff12a1f95220b55f82d806ed579ea",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/j63vrmdvzq/out/v1/967ab88162da4df987d30ca6d319a0e1/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "WILLOW - AdFree",
+        "type": "1"
+      },
+      {
+        "api": "2362e3bf14adb50a0b1ba098370e0e3c:244ff12a1f95220b55f82d806ed579ea",
+        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/j63vrmdvzq/out/v1/967ab88162da4df987d30ca6d319a0e1/cenc.mpd",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "title": "WILLOW - ALT",
+        "type": "1"
+      },
+      {
         "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW - HD",
-        "type": "1"
-      },
-      {
-        "api": "a77dff256bef69d6b6b721c04a5449ba:2e67d9a402dbb469d8e106a61db4f83a",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/q5yltcsetz/out/v1/3db47bade24140e28c96c1fd4834ef70/cenc.mpd",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW - ALT",
         "type": "1"
       },
       {
@@ -2162,34 +2258,29 @@
   },
   {
     "id": 50086,
-    "title": "South Africa vs Tanzania",
+    "title": "Zambia vs Egypt",
     "image": "o",
     "cat": "Womens AFCON",
     "eventInfo": {
-      "teamA": "South Africa",
-      "teamB": "Tanzania",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/65336/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/291680/image",
-      "eventName": "South Africa vs Tanzania",
+      "teamA": "Zambia",
+      "teamB": "Egypt",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/288601/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/132930/image",
+      "eventName": "Zambia vs Egypt",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/27 17:00:00 +0000",
-      "endTime": "2026/07/27 19:05:00 +0000"
+      "startTime": "2026/07/28 17:00:00 +0000",
+      "endTime": "2026/07/28 19:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
       "beIN ENGLISH",
-      "DUDE Tv Live",
       "beIN SPORTS [FHD]"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
         "logo": ""
       },
       {
@@ -2199,22 +2290,15 @@
     ],
     "decoded_channels": [
       {
-        "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "",
         "title": "beIN ENGLISH",
         "type": "1"
       },
       {
         "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4587718.flv?txSecret=3c5edf31026707da734e9a5559bad7fd&txTime=6A67A49E|Referer=https://player.online909.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/womens-africa-cup-of-nations/2026-07-26/alg-sen",
+        "link": "https://embedindia.st/embed/womens-africa-cup-of-nations/2026-07-28/zam-egy",
         "logo": "",
         "title": "beIN SPORTS [FHD]",
         "type": "2"
@@ -2224,19 +2308,19 @@
   },
   {
     "id": 50087,
-    "title": "Cote dIvoire vs Burkina Faso",
+    "title": "Nigeria vs Malawi",
     "image": "o",
     "cat": "Womens AFCON",
     "eventInfo": {
-      "teamA": "Côte d'Ivoire",
-      "teamB": "Burkina Faso",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/186328/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/316668/image",
-      "eventName": "Côte d'Ivoire vs Burkina Faso",
+      "teamA": "Nigeria",
+      "teamB": "Malawi",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/7420/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/298498/image",
+      "eventName": "Nigeria vs Malawi",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/07/27 20:00:00 +0000",
-      "endTime": "2026/07/27 22:05:00 +0000"
+      "startTime": "2026/07/28 20:00:00 +0000",
+      "endTime": "2026/07/28 22:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -2256,113 +2340,16 @@
     ],
     "decoded_channels": [
       {
-        "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
+        "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "title": "beIN ENGLISH",
         "type": "1"
       },
       {
         "api": "",
         "link": "https://embedindia.st/embed/womens-africa-cup-of-nations/2026-07-26/mar-ken",
-        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
         "title": "beIN SPORTS [FHD]",
         "type": "2"
-      },
-      {
-        "api": "",
-        "link": "https://embed.st/embed-low/admin/ppv-morocco-vs-kenya/1",
-        "logo": "",
-        "title": "beIN SPORTS [AQ]",
-        "type": "2"
-      }
-    ],
-    "channel_status": "cached"
-  },
-  {
-    "id": 50088,
-    "title": "Namibia vs Nepal",
-    "image": "o",
-    "cat": "Cricket",
-    "eventInfo": {
-      "teamA": "NAM",
-      "teamB": "NEP",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/199275/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187772/image",
-      "eventName": "Namibia vs Nepal",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/27 09:00:00 +0000",
-      "endTime": "2026/07/27 16:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "ICC TV - FHD"
-    ],
-    "formatsNew": [
-      {
-        "title": "ICC TV - FHD",
-        "logo": "https://m.media-amazon.com/images/I/31F7ropt9OL.png"
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-        "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1785170737~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=268ce2f63a100df4424a63737022022c80f8fe84fe241b8bbbeedf6cf976d975/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-        "logo": "https://m.media-amazon.com/images/I/31F7ropt9OL.png",
-        "title": "ICC TV - FHD",
-        "type": "1"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50090,
-    "title": "Galatasaray vs Venezia",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Galatasaray",
-      "teamB": "Venezia",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3061/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2688/image",
-      "eventName": "Galatasaray vs Venezia",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/27 18:00:00 +0000",
-      "endTime": "2026/07/27 20:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportDigital Fussball",
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "SportDigital Fussball",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "SportDigital Fussball",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://hls.streamhub.media/hls/thesport-api-4d306b121bbf2fd2a54a/master.m3u8",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
       }
     ],
     "channel_status": "live"
