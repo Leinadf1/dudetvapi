@@ -1634,13 +1634,13 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "Server 1 (ES)",
+      "DUDE Tv Live",
       "Server 2 (EN)",
       "Real Madrid TV "
     ],
     "formatsNew": [
       {
-        "title": "Server 1 (ES)",
+        "title": "DUDE Tv Live",
         "logo": ""
       },
       {
@@ -1672,11 +1672,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1924,11 +1934,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER",
+      "SD SERVER",
+      "SD SERVER 2"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER 2",
         "logo": ""
       }
     ]
@@ -2107,11 +2132,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "M LIVE FHD"
+      "M LIVE FHD",
+      "DUDE Tv Live",
+      "HD SERVER"
     ],
     "formatsNew": [
       {
         "title": "M LIVE FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
         "logo": ""
       }
     ]
