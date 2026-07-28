@@ -247,6 +247,7 @@
     "publish": "1",
     "formats": [
       "DUDE Tv WWE",
+      "WWE RAW [HD]",
       "WWE RAW [FHD]",
       "DUDE Tv Live",
       "DUDE Tv RAW",
@@ -257,6 +258,10 @@
     "formatsNew": [
       {
         "title": "DUDE Tv WWE",
+        "logo": ""
+      },
+      {
+        "title": "WWE RAW [HD]",
         "logo": ""
       },
       {
@@ -353,8 +358,8 @@
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://iili.io/Ckolw5N.png",
       "isHot": "0",
-      "startTime": "2026/07/27 07:30:00 +0000",
-      "endTime": "2026/07/27 21:30:00 +0000"
+      "startTime": "2026/07/28 07:30:00 +0000",
+      "endTime": "2026/07/28 21:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -439,6 +444,35 @@
     ]
   },
   {
+    "id": 50023,
+    "title": "MLS All Stars vs Liga MX All Stars",
+    "image": "o",
+    "cat": "MLS 🇺🇸",
+    "eventInfo": {
+      "teamA": "MLS All Stars",
+      "teamB": "Liga MX All Stars",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/24000/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/337601/image",
+      "eventName": "MLS All Stars vs Liga MX All Stars",
+      "eventType": "null",
+      "eventBanner": "https://wsrv.nl/?url=https://iili.io/Cksss94.png",
+      "isHot": "0",
+      "startTime": "2026/07/30 00:00:00 +0000",
+      "endTime": "2026/07/30 02:10:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "APPLE TV [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "APPLE TV [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50032,
     "title": "Boston Red Sox",
     "image": "o",
@@ -457,10 +491,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv LIVE",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv LIVE",
         "logo": ""
@@ -490,10 +529,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -823,6 +867,72 @@
     ]
   },
   {
+    "id": 50073,
+    "title": "San Luis vs Club Tijuana",
+    "image": "o",
+    "cat": "Liga MX",
+    "eventInfo": {
+      "teamA": "San Luis",
+      "teamB": "Tijuana",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1950/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/36525/image",
+      "eventName": "Atlético San Luis vs Club Tijuana",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/01 03:00:00 +0000",
+      "endTime": "2026/08/01 05:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SPX LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "SPX LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50074,
+    "title": "Juárez vs Pumas UNAM",
+    "image": "o",
+    "cat": "Liga MX",
+    "eventInfo": {
+      "teamA": "Juárez",
+      "teamB": "Pumas",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/201624/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1933/image",
+      "eventName": "FC Juárez vs Pumas UNAM",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/01 03:00:00 +0000",
+      "endTime": "2026/08/01 05:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "FOX DEPORTES",
+      "FOX ONE [MX VPN]",
+      "SPX LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "FOX DEPORTES",
+        "logo": ""
+      },
+      {
+        "title": "FOX ONE [MX VPN]",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50076,
     "title": "Detroit Tigers vs Orioles",
     "image": "o",
@@ -951,44 +1061,6 @@
       "isHot": "0",
       "startTime": "2026/07/27 22:45:00 +0000",
       "endTime": "2026/07/28 01:45:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv MLB",
-      "DUDE Tv Live",
-      "MLB LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "MLB LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50080,
-    "title": "Cincinnati Reds vs Guardians",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Reds",
-      "teamB": "Guardians",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3633/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3650/image",
-      "eventName": "Cincinnati Reds vs Cleveland Guardians",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/07/27 23:10:00 +0000",
-      "endTime": "2026/07/28 02:10:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1145,10 +1217,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1274,6 +1351,525 @@
       },
       {
         "title": "beIN SPORTS [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50088,
+    "title": "Chelsea vs Western Sydney",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "Chelsea",
+      "teamB": "Western Sydney",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/38/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/72926/image",
+      "eventName": "Chelsea vs Western Sydney Wanderers",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/28 09:45:00 +0000",
+      "endTime": "2026/07/28 11:50:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "CBS NETWORK",
+      "SPX LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "CBS NETWORK",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50089,
+    "title": "Real Madrid vs Leganés",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "Real Madrid",
+      "teamB": "Leganés",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2829/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2845/image",
+      "eventName": "Real Madrid vs Leganés",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/28 16:00:00 +0000",
+      "endTime": "2026/07/28 18:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "Server 1 (ES)",
+      "Server 2 (EN)",
+      "Real Madrid TV "
+    ],
+    "formatsNew": [
+      {
+        "title": "Server 1 (ES)",
+        "logo": ""
+      },
+      {
+        "title": "Server 2 (EN)",
+        "logo": ""
+      },
+      {
+        "title": "Real Madrid TV ",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50090,
+    "title": "Cagliari vs Modena",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "Cagliari",
+      "teamB": "Modena",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2719/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2706/image",
+      "eventName": "Cagliari vs Modena",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/28 15:00:00 +0000",
+      "endTime": "2026/07/28 17:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50091,
+    "title": "Udinese vs Shabab Al-Ahli",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "Udinese",
+      "teamB": "Shabab Al-Ahli",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2695/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/264111/image",
+      "eventName": "Udinese vs Shabab Al-Ahli Dubai",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/28 15:30:00 +0000",
+      "endTime": "2026/07/28 17:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50092,
+    "title": "Al-Ahli vs Fulham",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "Al-Ahli",
+      "teamB": "Fulham",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/34469/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/43/image",
+      "eventName": "Al-Ahli vs Fulham",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/28 16:00:00 +0000",
+      "endTime": "2026/07/28 18:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50093,
+    "title": "Rizespor vs Hull City",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "Rizespor",
+      "teamB": "Hull",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3064/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/96/image",
+      "eventName": "Çaykur Rizespor vs Hull City",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/28 16:00:00 +0000",
+      "endTime": "2026/07/28 18:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50094,
+    "title": "Crystal Palace vs RC Lens",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "Crystal Palace",
+      "teamB": "Lens",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/7/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1648/image",
+      "eventName": "Crystal Palace vs RC Lens",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/28 17:00:00 +0000",
+      "endTime": "2026/07/28 19:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50095,
+    "title": "PSV Eindhoven vs Eindhoven",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "PSV",
+      "teamB": "Eindhoven",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2952/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2994/image",
+      "eventName": "PSV Eindhoven vs Eindhoven",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/28 18:00:00 +0000",
+      "endTime": "2026/07/28 20:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50096,
+    "title": "Aston Villa vs Real Sociedad",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "Aston Villa",
+      "teamB": "Real Sociedad",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/40/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2824/image",
+      "eventName": "Aston Villa vs Real Sociedad",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/28 18:30:00 +0000",
+      "endTime": "2026/07/28 20:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50097,
+    "title": "Famalicão vs Crystal Palace",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "Famalicão",
+      "teamB": "Crystal Palace",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/49531/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/7/image",
+      "eventName": "Famalicão vs Crystal Palace",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/28 18:30:00 +0000",
+      "endTime": "2026/07/28 20:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50098,
+    "title": "Stoke City vs Everton",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "Stoke",
+      "teamB": "Everton",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/29/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/48/image",
+      "eventName": "Stoke City vs Everton",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/28 18:45:00 +0000",
+      "endTime": "2026/07/28 20:45:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "beIN ENGLISH"
+    ],
+    "formatsNew": [
+      {
+        "title": "beIN ENGLISH",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50099,
+    "title": "KuPS vs Sabah FK",
+    "image": "o",
+    "cat": "UCL",
+    "eventInfo": {
+      "teamA": "KuPS",
+      "teamB": "Sabah",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2244/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/267828/image",
+      "eventName": "Kuopion Palloseura vs Sabah FK",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/28 15:00:00 +0000",
+      "endTime": "2026/07/28 17:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50100,
+    "title": "Dinamo Zagreb vs Thun",
+    "image": "o",
+    "cat": "UCL",
+    "eventInfo": {
+      "teamA": "Dinamo",
+      "teamB": "Thun",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2032/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2454/image",
+      "eventName": "GNK Dinamo Zagreb vs Thun",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/28 18:00:00 +0000",
+      "endTime": "2026/07/28 20:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SPX LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "SPX LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50101,
+    "title": "Hearts vs SK Sturm Graz",
+    "image": "o",
+    "cat": "UCL",
+    "eventInfo": {
+      "teamA": "Hearts",
+      "teamB": "Sturm",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2353/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2051/image",
+      "eventName": "Hearts vs SK Sturm Graz",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/28 18:45:00 +0000",
+      "endTime": "2026/07/28 20:45:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SPX LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "SPX LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50102,
+    "title": "Riga vs Vardar Skopje",
+    "image": "o",
+    "cat": "UEFA Conference",
+    "eventInfo": {
+      "teamA": "Riga",
+      "teamB": "Vardar",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/162368/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/5403/image",
+      "eventName": "Riga vs Vardar Skopje",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/28 17:00:00 +0000",
+      "endTime": "2026/07/28 19:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SPX LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "SPX LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50103,
+    "title": "CSKA 1948 Sofia vs Spartak Trnava",
+    "image": "o",
+    "cat": "UEFA Conference",
+    "eventInfo": {
+      "teamA": "CSKA 1948 Sofia",
+      "teamB": "FC Spartak Trnava",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/252080/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2406/image",
+      "eventName": "CSKA 1948 Sofia vs Spartak Trnava",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/28 17:30:00 +0000",
+      "endTime": "2026/07/28 19:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SPX LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "SPX LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50104,
+    "title": "Philippines vs Myanmar",
+    "image": "o",
+    "cat": "ASEAN Championship",
+    "eventInfo": {
+      "teamA": "Philippines",
+      "teamB": "Myanmar",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4791/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/23484/image",
+      "eventName": "Philippines vs Myanmar",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/28 10:00:00 +0000",
+      "endTime": "2026/07/28 12:10:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "M LIVE FHD"
+    ],
+    "formatsNew": [
+      {
+        "title": "M LIVE FHD",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50105,
+    "title": "Malaysia vs Laos",
+    "image": "o",
+    "cat": "ASEAN Championship",
+    "eventInfo": {
+      "teamA": "Malaysia",
+      "teamB": "Laos",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/6912/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/23486/image",
+      "eventName": "Malaysia vs Laos",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/07/28 13:00:00 +0000",
+      "endTime": "2026/07/28 15:10:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "M LIVE FHD"
+    ],
+    "formatsNew": [
+      {
+        "title": "M LIVE FHD",
         "logo": ""
       }
     ]
