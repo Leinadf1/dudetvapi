@@ -1459,7 +1459,7 @@
       "eventType": "null",
       "isHot": "0",
       "startTime": "2026/07/28 04:30:00 +0000",
-      "endTime": "2026/07/28 08:15:00 +0000"
+      "endTime": "2026/07/28 10:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -2780,11 +2780,16 @@
     "publish": "1",
     "formats": [
       "CBS NETWORK",
+      "DUDE Tv Live",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "CBS NETWORK",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       },
       {
@@ -2796,12 +2801,21 @@
       {
         "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
         "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+        "logo": "",
         "title": "CBS NETWORK",
         "type": "1"
       },
       {
         "api": "",
+        "link": "https://pul-tenm.gkykp.com/live/sd-1-4541773.m3u8?txSecret=98973c9a9a91489648084f425b763fbd&txTime=6A69BA80",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
         "link": "https://embedindia.st/embed/club-friendly/2026-07-28/che-wsw",
+        "logo": "",
         "title": "SPX LIVE [FHD]",
         "type": "2"
       }
@@ -3452,15 +3466,46 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv Live",
+      "SD SERVER",
       "M LIVE FHD"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
       {
         "title": "M LIVE FHD",
         "logo": ""
       }
     ],
     "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://hls.live123.fans/live/4546505.m3u8",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://hls.streamhub.media/hls/thesport-api-1ec8482c9786530f836a/master.m3u8",
+        "logo": "",
+        "title": "HD SERVER",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.190/hls/VVVV.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "SD SERVER",
+        "type": "0"
+      },
       {
         "api": "d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb",
         "link": "https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd",
