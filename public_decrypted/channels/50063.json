@@ -1,21 +1,42 @@
 [
   {
+<<<<<<< HEAD
     "api": "1edc619d2a59d202df46cf44697b09a1:c4621d2644854c372c6ef1c3dbd2532a",
     "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pl1ezqchyz/out/v1/605ef67735e2486abc1ba548e9ce0f7f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+=======
+    "api": "ba3d78e3e7c73a3a2908f1a925f0bafb:c491adc1955c5465164844a146d21637",
+    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8xtfwnjzur/out/v1/37a1032905864ada8843f41395aae624/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+>>>>>>> c5dcfae051d2dbe2ca947cc4acea2825630fe78f
     "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
     "title": "WILLOW - FHD",
     "type": "1"
   },
   {
+<<<<<<< HEAD
     "api": "1edc619d2a59d202df46cf44697b09a1:c4621d2644854c372c6ef1c3dbd2532a",
     "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pl1ezqchyz/out/v1/605ef67735e2486abc1ba548e9ce0f7f/cenc.mpd",
+=======
+    "api": "",
+    "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+    "logo": "",
+    "title": "SKY CRICKET",
+    "type": "0"
+  },
+  {
+    "api": "ba3d78e3e7c73a3a2908f1a925f0bafb:c491adc1955c5465164844a146d21637",
+    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/8xtfwnjzur/out/v1/37a1032905864ada8843f41395aae624/cenc.mpd",
+>>>>>>> c5dcfae051d2dbe2ca947cc4acea2825630fe78f
     "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
     "title": "WILLOW - ALT",
     "type": "1"
   },
   {
     "api": "",
+<<<<<<< HEAD
     "link": "https://sonydaimenew.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1785700667~acl=/*~id=13573232039797740448193093055663~hmac=12736d13be76fcce2ba622fe0e4a7b89ed4a7a9cf8fc2992838d2c9e4c816926|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
+=======
+    "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com",
+>>>>>>> c5dcfae051d2dbe2ca947cc4acea2825630fe78f
     "logo": "",
     "title": "SonyLiv",
     "type": "0"
@@ -32,6 +53,27 @@
     "link": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
     "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj",
     "title": "FOX CRICKET HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+    "title": "SKY SPORT NZ",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
+    "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj",
+    "title": "FOX CRICKET HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "http://193.47.62.192/hls/GGGGGQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "logo": "",
+    "title": "LOW SERVER",
     "type": "0"
   }
 ]
