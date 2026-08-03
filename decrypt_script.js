@@ -2,13 +2,30 @@ Java.perform(function() {
     try {
         console.log("[Frida JS] Running decryption...");
         
-        // 1. Load DataHelper
-        var DataHelper = Java.use("com.sportzx.live.helpers.DataHelper");
-        var instance = DataHelper.INSTANCE.value;
-        if (!instance) {
-            console.log("[Frida JS] Creating new DataHelper instance...");
-            instance = DataHelper.$new();
+        // Hook NativeGuard to bypass tamper and Frida detection (if needed, keep for safety)
+        try {
+            var NativeGuard = Java.use("com.sportzx.live.helpers.NativeGuard");
+            NativeGuard.detectTamper.implementation = function() {
+                console.log("[Frida JS] NativeGuard.detectTamper() -> false");
+                return false;
+            };
+            NativeGuard.detectFridaByMemPattern.implementation = function() {
+                console.log("[Frida JS] NativeGuard.detectFridaByMemPattern() -> false");
+                return false;
+            };
+            if (NativeGuard.detectPltHook) {
+                NativeGuard.detectPltHook.implementation = function() {
+                    return false;
+                };
+            }
+            console.log("[Frida JS] NativeGuard hooks installed successfully");
+        } catch (nge) {
+            console.log("[Frida JS] NativeGuard hook skipped: " + nge);
         }
+        
+        // 1. Load ApiDecoder
+        var ApiDecoder = Java.use("com.sportzx.live.helpers.ApiDecoder");
+        var instance = ApiDecoder.INSTANCE.value;
         
         // 2. Get Context
         var ActivityThread = Java.use("android.app.ActivityThread");
@@ -40,11 +57,11 @@ Java.perform(function() {
         var payload = sb.toString();
         console.log("[Frida JS] Loaded payload of length: " + payload.length);
         
-        // 4. Call JNI help
-        console.log("[Frida JS] Invoking JNI help()...");
-        var decryptedStr = instance.help(context, payload);
+        // 4. Call ApiDecoder.decode
+        console.log("[Frida JS] Invoking ApiDecoder.decode()...");
+        var decryptedStr = instance.decode(context, payload);
         if (decryptedStr === null) {
-            console.log("[Frida JS] ERROR: help() returned null");
+            console.log("[Frida JS] ERROR: decode() returned null");
             return;
         }
         console.log("[Frida JS] Decrypted string length: " + decryptedStr.length);

@@ -166,7 +166,7 @@ def decrypt_via_emulator(payload, apk_path, lib_path):
                 if pid_out:
                     break
                 time.sleep(1)
-            time.sleep(4)
+            time.sleep(12)
         
         # 2. Write payload and push it
         with open(temp_file, "w", encoding="utf-8") as f:
@@ -239,8 +239,8 @@ def decrypt_via_emulator(payload, apk_path, lib_path):
         output = ""
         stderr_output = ""
         try:
-            # Run frida and let it time out after 7 seconds
-            res = subprocess.run(frida_cmd, capture_output=True, stdin=subprocess.DEVNULL, timeout=7)
+            # Run frida and let it time out after 15 seconds
+            res = subprocess.run(frida_cmd, capture_output=True, stdin=subprocess.DEVNULL, timeout=15)
             output = res.stdout.decode("utf-8", errors="ignore") if res.stdout else ""
             stderr_output = res.stderr.decode("utf-8", errors="ignore") if res.stderr else ""
         except subprocess.TimeoutExpired as te:
@@ -272,14 +272,14 @@ def decrypt_via_emulator(payload, apk_path, lib_path):
             
         if is_root:
             subprocess.run(["adb", "shell", f"cp {saved_path} /data/local/tmp/decrypted_raw.bin"], capture_output=True)
+            subprocess.run(["adb", "shell", "chmod 666 /data/local/tmp/decrypted_raw.bin"], capture_output=True)
         else:
-            res = subprocess.run(["adb", "shell", f"su -c 'cp {saved_path} /data/local/tmp/decrypted_raw.bin'"], capture_output=True)
+            res = subprocess.run(["adb", "shell", f"su -c 'cp {saved_path} /data/local/tmp/decrypted_raw.bin && chmod 666 /data/local/tmp/decrypted_raw.bin'"], capture_output=True)
             res_err = res.stderr.decode("utf-8", errors="ignore")
             res_out = res.stdout.decode("utf-8", errors="ignore")
             if "invalid uid/gid" in res_err or "invalid uid/gid" in res_out:
-                subprocess.run(["adb", "shell", f"su root cp {saved_path} /data/local/tmp/decrypted_raw.bin"], capture_output=True)
+                subprocess.run(["adb", "shell", f"su root 'cp {saved_path} /data/local/tmp/decrypted_raw.bin && chmod 666 /data/local/tmp/decrypted_raw.bin'"], capture_output=True)
                 
-        subprocess.run(["adb", "shell", "chmod 666 /data/local/tmp/decrypted_raw.bin"], capture_output=True)
         subprocess.run(["adb", "pull", "/data/local/tmp/decrypted_raw.bin", local_temp], capture_output=True)
         
         raw_bytes = b""
@@ -551,14 +551,14 @@ def main():
                 shared_prefs_path = "/data/data/com.sportzx.live/shared_prefs/appPref.xml"
                 if is_root:
                     subprocess.run(["adb", "shell", f"cp {shared_prefs_path} /data/local/tmp/appPref.xml"], capture_output=True)
+                    subprocess.run(["adb", "shell", "chmod 666 /data/local/tmp/appPref.xml"], capture_output=True)
                 else:
-                    res = subprocess.run(["adb", "shell", f"su -c 'cp {shared_prefs_path} /data/local/tmp/appPref.xml'"], capture_output=True)
+                    res = subprocess.run(["adb", "shell", f"su -c 'cp {shared_prefs_path} /data/local/tmp/appPref.xml && chmod 666 /data/local/tmp/appPref.xml'"], capture_output=True)
                     res_err = res.stderr.decode("utf-8", errors="ignore")
                     res_out = res.stdout.decode("utf-8", errors="ignore")
                     if "invalid uid/gid" in res_err or "invalid uid/gid" in res_out:
-                        subprocess.run(["adb", "shell", f"su root cp {shared_prefs_path} /data/local/tmp/appPref.xml"], capture_output=True)
+                        subprocess.run(["adb", "shell", f"su root 'cp {shared_prefs_path} /data/local/tmp/appPref.xml && chmod 666 /data/local/tmp/appPref.xml'"], capture_output=True)
                 
-                subprocess.run(["adb", "shell", "chmod 666 /data/local/tmp/appPref.xml"], capture_output=True)
                 pull_res = subprocess.run(["adb", "pull", "/data/local/tmp/appPref.xml", local_xml], capture_output=True)
                 subprocess.run(["adb", "shell", "rm -f /data/local/tmp/appPref.xml"], capture_output=True)
                 

@@ -47,8 +47,8 @@ jobs:
           # Unlock emulator screen
           adb shell wm dismiss-keyguard
           
-          # 1. Install official DUDE Tv v3.0 APK granting all permissions
-          adb install -g DUDETv_3.0v.apk
+          # 1. Install official SportzX v3.2 APK (renamed to dudetv_3.2v.apk) granting all permissions
+          adb install -g dudetv_3.2v.apk
           
           # Explicitly grant POST_NOTIFICATIONS for Android 13+ safety
           adb shell pm grant com.sportzx.live android.permission.POST_NOTIFICATIONS || true
