@@ -513,6 +513,39 @@
     ]
   },
   {
+    "id": 50027,
+    "title": "Atlanta Dream vs Aces",
+    "image": "o",
+    "cat": "WNBA",
+    "eventInfo": {
+      "teamA": "Dream",
+      "teamB": "Aces",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/35545/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/35550/image",
+      "eventName": "Atlanta Dream vs Las Vegas Aces",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/03 23:00:00 +0000",
+      "endTime": "2026/08/04 01:45:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "WNBA LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "WNBA LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50054,
     "title": "CFL",
     "image": "o",
@@ -541,6 +574,72 @@
       },
       {
         "title": "SPX LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50055,
+    "title": "Liberty vs Seattle Storm",
+    "image": "o",
+    "cat": "WNBA",
+    "eventInfo": {
+      "teamA": "Liberty",
+      "teamB": "Storm",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3446/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3448/image",
+      "eventName": "New York Liberty vs Seattle Storm",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/03 23:00:00 +0000",
+      "endTime": "2026/08/04 01:45:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "WNBA LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "WNBA LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50056,
+    "title": "Chicago Sky vs Phoenix Mercury",
+    "image": "o",
+    "cat": "WNBA",
+    "eventInfo": {
+      "teamA": "Sky",
+      "teamB": "Mercury",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/35546/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3444/image",
+      "eventName": "Chicago Sky vs Phoenix Mercury",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/04 01:00:00 +0000",
+      "endTime": "2026/08/04 03:45:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "WNBA LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "WNBA LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -808,69 +907,6 @@
       {
         "title": "FOX CRICKET HD",
         "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj"
-      }
-    ]
-  },
-  {
-    "id": 50074,
-    "title": "CD Toluca vs Club Necaxa",
-    "image": "o",
-    "cat": "Liga MX",
-    "eventInfo": {
-      "teamA": "Toluca",
-      "teamB": "Necaxa",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1931/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1944/image",
-      "eventName": "CD Toluca vs Club Necaxa",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/03 01:05:00 +0000",
-      "endTime": "2026/08/03 03:10:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "CANAL5 FHD",
-      "SPX LIVE HD",
-      "FAST SERVER",
-      "DUDE Tv Live",
-      "TUDN USA FHD",
-      "TUDN SPORTS",
-      "FOX ONE [MX VPN]",
-      "SPX LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "CANAL5 FHD",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE HD",
-        "logo": ""
-      },
-      {
-        "title": "FAST SERVER",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "TUDN USA FHD",
-        "logo": ""
-      },
-      {
-        "title": "TUDN SPORTS",
-        "logo": ""
-      },
-      {
-        "title": "FOX ONE [MX VPN]",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
-        "logo": ""
       }
     ]
   },
@@ -1200,6 +1236,184 @@
       },
       {
         "title": "beIN SPORTS [HD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50088,
+    "title": "Athletico vs Vitória",
+    "image": "o",
+    "cat": "Copa do Brasil",
+    "eventInfo": {
+      "teamA": "Athletico",
+      "teamB": "Vitória",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1967/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1962/image",
+      "eventName": "Athletico vs Vitória",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/04 00:00:00 +0000",
+      "endTime": "2026/08/04 02:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "PREMIERER 1",
+      "SporTV BR"
+    ],
+    "formatsNew": [
+      {
+        "title": "PREMIERER 1",
+        "logo": ""
+      },
+      {
+        "title": "SporTV BR",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50089,
+    "title": "Vélez Sarsfield vs Independiente",
+    "image": "o",
+    "cat": "LPF",
+    "eventInfo": {
+      "teamA": "Vélez Sarsfield",
+      "teamB": "Independiente",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3208/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3209/image",
+      "eventName": "Vélez Sarsfield vs CA Independiente",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/03 22:00:00 +0000",
+      "endTime": "2026/08/04 00:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "FOX DEPORTES"
+    ],
+    "formatsNew": [
+      {
+        "title": "FOX DEPORTES",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50090,
+    "title": "Celtic vs Dundee",
+    "image": "o",
+    "cat": "Scottish Premiership",
+    "eventInfo": {
+      "teamA": "Celtic",
+      "teamB": "Dundee",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2352/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2357/image",
+      "eventName": "Celtic vs Dundee FC",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/03 18:30:00 +0000",
+      "endTime": "2026/08/03 20:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "beIN ENGLISH",
+      "SportDigital Fussball"
+    ],
+    "formatsNew": [
+      {
+        "title": "beIN ENGLISH",
+        "logo": ""
+      },
+      {
+        "title": "SportDigital Fussball",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50091,
+    "title": "Al-Hilal vs Al-Ahli Doha",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "Al-Hilal",
+      "teamB": "Al-Ahli Doha",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/21895/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/44443/image",
+      "eventName": "Al-Hilal vs Al-Ahli Doha",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/03 15:00:00 +0000",
+      "endTime": "2026/08/03 17:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50092,
+    "title": "Cambodia vs East Timor",
+    "image": "o",
+    "cat": "ASEAN Championship",
+    "eventInfo": {
+      "teamA": "Cambodia",
+      "teamB": "East Timor",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/7929/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/23497/image",
+      "eventName": "Cambodia vs East Timor",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/03 10:30:00 +0000",
+      "endTime": "2026/08/03 12:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50093,
+    "title": "Indonesia vs Vietnam",
+    "image": "o",
+    "cat": "ASEAN Championship",
+    "eventInfo": {
+      "teamA": "Indonesia",
+      "teamB": "Vietnam",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4829/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/7050/image",
+      "eventName": "Indonesia vs Vietnam",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/03 13:30:00 +0000",
+      "endTime": "2026/08/03 15:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
