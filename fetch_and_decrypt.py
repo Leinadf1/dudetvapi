@@ -20,7 +20,7 @@ def replace_sportzx_with_dudetv(data):
     elif isinstance(data, list):
         return [replace_sportzx_with_dudetv(item) for item in data]
     elif isinstance(data, str):
-        return re.sub(r'(?i)sportzx', 'DUDE Tv', data)
+        return data.replace("SportzX", "DUDE Tv").replace("sportzx", "dudetv")
     return data
 
 def load_config():
