@@ -281,7 +281,6 @@
     "publish": "1",
     "formats": [
       "DUDE Tv WWE",
-      "WWE RAW [HD]",
       "WWE RAW [FHD]",
       "DUDE Tv Live",
       "DUDE Tv RAW",
@@ -292,10 +291,6 @@
     "formatsNew": [
       {
         "title": "DUDE Tv WWE",
-        "logo": ""
-      },
-      {
-        "title": "WWE RAW [HD]",
         "logo": ""
       },
       {
@@ -1247,11 +1242,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "FOX DEPORTES"
+      "FOX DEPORTES",
+      "ESPN HD"
     ],
     "formatsNew": [
       {
         "title": "FOX DEPORTES",
+        "logo": ""
+      },
+      {
+        "title": "ESPN HD",
         "logo": ""
       }
     ]
@@ -1368,6 +1368,44 @@
       },
       {
         "title": "SPX LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50093,
+    "title": "Sarmiento vs Ind. Rivadavia",
+    "image": "o",
+    "cat": "LPF",
+    "eventInfo": {
+      "teamA": "Sarmiento",
+      "teamB": "Ind. Rivadavia",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/42338/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/36842/image",
+      "eventName": "Sarmiento vs Ind. Rivadavia",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/03 19:45:00 +0000",
+      "endTime": "2026/08/03 21:50:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "ESPN HD",
+      "ESPN PRM HD"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "ESPN HD",
+        "logo": ""
+      },
+      {
+        "title": "ESPN PRM HD",
         "logo": ""
       }
     ]

@@ -583,7 +583,6 @@
     "publish": "1",
     "formats": [
       "DUDE Tv WWE",
-      "WWE RAW [HD]",
       "WWE RAW [FHD]",
       "DUDE Tv Live",
       "DUDE Tv RAW",
@@ -594,10 +593,6 @@
     "formatsNew": [
       {
         "title": "DUDE Tv WWE",
-        "logo": ""
-      },
-      {
-        "title": "WWE RAW [HD]",
         "logo": ""
       },
       {
@@ -628,31 +623,17 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/53006/load-playlist?|Referer=https://gooz.aapmains.net",
+        "link": "https://edgestream1.pro/hls/zeuryuegn48.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "DUDE Tv WWE",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8",
-        "logo": "",
-        "title": "WWE RAW [HD]",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/wwe/raw/2026-07-27",
+        "link": "https://embedindia.st/embed/wwe/2026-08-03",
         "logo": "",
         "title": "WWE RAW [FHD]",
         "type": "2"
-      },
-      {
-        "api": "",
-        "link": "https://edgestream2.pro/hls/zeuryuegn48.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
       },
       {
         "api": "",
@@ -954,27 +935,20 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/53917/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv WNBA",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/wnba/2026-07-28/con-wsh",
-        "logo": "",
-        "title": "WNBA LIVE [FHD]",
-        "type": "2"
-      },
-      {
-        "api": "",
         "link": "https://edgestream2.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/wnba/2026-08-03/lv-atl",
+        "logo": "",
+        "title": "WNBA LIVE [FHD]",
+        "type": "2"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50054,
@@ -1072,7 +1046,7 @@
         "type": "2"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
     "id": 50056,
@@ -1107,6 +1081,20 @@
       }
     ],
     "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://edgestream2.pro/hls/pllmazjkdzajh72.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/wnba/2026-08-03/phx-chi",
+        "logo": "",
+        "title": "WNBA LIVE [FHD]",
+        "type": "2"
+      },
       {
         "api": "YTdlZDhkNGExZmEyZWI0NzFhNmJlNTVmZTJkMmQyNDg6MDE0NWJlYzY4YmM0MWE4YTBiOTUzM3E0NG80NGQzOWM=",
         "link": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9ursje3pdu/out/v1/b794975bb9304d08b362b47ed428f4f1/cenc.mpd",
@@ -2256,52 +2244,36 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "FOX DEPORTES"
+      "FOX DEPORTES",
+      "ESPN HD"
     ],
     "formatsNew": [
       {
         "title": "FOX DEPORTES",
         "logo": ""
+      },
+      {
+        "title": "ESPN HD",
+        "logo": ""
       }
     ],
     "decoded_channels": [
       {
-        "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+        "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "",
-        "title": "beIN ENGLISH FHD",
-        "type": "1"
-      },
-      {
-        "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "SportDigital Fussball",
-        "type": "1"
-      },
-      {
-        "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "D SPORTS ES",
+        "title": "FOX DEPORTES",
         "type": "1"
       },
       {
         "api": "",
-        "link": "https://pul-tenm.gkykp.com/live/sd-1-4546921.m3u8?txSecret=96b7260eff3bd9a11127959ec8bfa884&txTime=6A6A9A90",
+        "link": "https://messi.damitv.st/papi/tv/dlhd/387/playlist.m3u8?|Referer=https://ondemand.st",
         "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://live3.kinxie.com/live/71798272_7822ec6ae98ac915525dee7aa6680b2a.m3u8",
-        "logo": "",
-        "title": "beIN ESPANOL",
+        "title": "ESPN HD",
         "type": "0"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50090,
@@ -2519,6 +2491,68 @@
         "logo": "",
         "title": "SPX LIVE [FHD]",
         "type": "2"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50093,
+    "title": "Sarmiento vs Ind. Rivadavia",
+    "image": "o",
+    "cat": "LPF",
+    "eventInfo": {
+      "teamA": "Sarmiento",
+      "teamB": "Ind. Rivadavia",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/42338/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/36842/image",
+      "eventName": "Sarmiento vs Ind. Rivadavia",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/03 19:45:00 +0000",
+      "endTime": "2026/08/03 21:50:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "ESPN HD",
+      "ESPN PRM HD"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "ESPN HD",
+        "logo": ""
+      },
+      {
+        "title": "ESPN PRM HD",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://live.vivo200.com/live/sd-1-4539669.m3u8?txSecret=ee38ade3e5973ce31cd4426f27051edb&txTime=6A71029D|Referer=https://player.online909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://messi.damitv.st/papi/tv/dlhd/149/playlist.m3u8?|Referer=https://ondemand.st/",
+        "logo": "",
+        "title": "ESPN HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://messi.damitv.st/papi/tv/dlhd/387/playlist.m3u8?|Referer=https://ondemand.st/",
+        "logo": "",
+        "title": "ESPN PRM HD",
+        "type": "0"
       }
     ],
     "channel_status": "live"
