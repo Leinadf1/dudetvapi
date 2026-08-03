@@ -218,6 +218,50 @@
     ]
   },
   {
+    "id": 50009,
+    "title": "ONE Friday Fights",
+    "image": "o",
+    "cat": "Boxing",
+    "eventInfo": {
+      "teamA": "Friday Fights",
+      "teamB": "Friday Fights",
+      "teamAFlag": "https://iili.io/FDjaT1R.md.png",
+      "teamBFlag": "https://iili.io/FDjaT1R.md.png",
+      "eventName": "ONE Friday Fights",
+      "eventType": "null",
+      "eventBanner": "https://iili.io/BihxDjj.png",
+      "isHot": "0",
+      "startTime": "2026/07/24 12:30:00 +0000",
+      "endTime": "2026/07/24 16:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "One Fight FHD",
+      "Server 2",
+      "Server 3",
+      "Server 4"
+    ],
+    "formatsNew": [
+      {
+        "title": "One Fight FHD",
+        "logo": ""
+      },
+      {
+        "title": "Server 2",
+        "logo": ""
+      },
+      {
+        "title": "Server 3",
+        "logo": ""
+      },
+      {
+        "title": "Server 4",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50010,
     "title": "WWE Raw",
     "image": "o",
@@ -371,7 +415,9 @@
     "formats": [
       "beIN ENGLISH (ATP)",
       "beIN ENGLISH (WTA)",
-      "TENNIS 2 FHD"
+      "TENNIS 2 FHD",
+      "Montreal (ATP)",
+      "Toronto (WTA)"
     ],
     "formatsNew": [
       {
@@ -384,6 +430,14 @@
       },
       {
         "title": "TENNIS 2 FHD",
+        "logo": ""
+      },
+      {
+        "title": "Montreal (ATP)",
+        "logo": ""
+      },
+      {
+        "title": "Toronto (WTA)",
         "logo": ""
       }
     ]
@@ -689,7 +743,8 @@
       "TAPMAD - FHD",
       "SKY SPORT NZ",
       "FOX CRICKET HD",
-      "LOW SERVER"
+      "LOW SERVER",
+      "SonyLiv (ENG)"
     ],
     "formatsNew": [
       {
@@ -718,6 +773,10 @@
       },
       {
         "title": "LOW SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (ENG)",
         "logo": ""
       }
     ]
@@ -1064,17 +1123,32 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv Live",
       "SD SERVER",
-      "beIN SPORTS [FHD]"
+      "BEIN US TV",
+      "BEIN ESPANOL HD",
+      "ARABIC HD"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
       {
         "title": "SD SERVER",
         "logo": ""
       },
       {
-        "title": "beIN SPORTS [FHD]",
-        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
+        "title": "BEIN US TV",
+        "logo": ""
+      },
+      {
+        "title": "BEIN ESPANOL HD",
+        "logo": ""
+      },
+      {
+        "title": "ARABIC HD",
+        "logo": ""
       }
     ]
   },
@@ -1098,7 +1172,9 @@
     "publish": "1",
     "formats": [
       "SD SERVER",
-      "beIN SPORTS [HD]"
+      "MALAYSIA HD",
+      "SUPERSPORT HD",
+      "ARABIC HD"
     ],
     "formatsNew": [
       {
@@ -1106,7 +1182,15 @@
         "logo": ""
       },
       {
-        "title": "beIN SPORTS [HD]",
+        "title": "MALAYSIA HD",
+        "logo": ""
+      },
+      {
+        "title": "SUPERSPORT HD",
+        "logo": ""
+      },
+      {
+        "title": "ARABIC HD",
         "logo": ""
       }
     ]
@@ -1193,8 +1277,11 @@
     "formats": [
       "beIN ENGLISH",
       "SportDigital Fussball",
+      "SKY FOOTBALL HD",
+      "SKY MAIN EVENT",
       "DUDE Tv Live",
-      "SD SERVER"
+      "SD SERVER",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
@@ -1206,11 +1293,23 @@
         "logo": ""
       },
       {
+        "title": "SKY FOOTBALL HD",
+        "logo": ""
+      },
+      {
+        "title": "SKY MAIN EVENT",
+        "logo": ""
+      },
+      {
         "title": "DUDE Tv Live",
         "logo": ""
       },
       {
         "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1234,11 +1333,41 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "CBS NETWORK",
+      "EFL CUP FHD",
+      "DIEMA SPORTS HD",
+      "DUDE Tv Live",
+      "PARAMOUNT+ HD",
+      "SD SERVER",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
+        "title": "CBS NETWORK",
+        "logo": ""
+      },
+      {
+        "title": "EFL CUP FHD",
+        "logo": ""
+      },
+      {
+        "title": "DIEMA SPORTS HD",
+        "logo": ""
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "PARAMOUNT+ HD",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]

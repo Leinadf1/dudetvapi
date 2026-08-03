@@ -489,6 +489,81 @@
     "channel_status": "live"
   },
   {
+    "id": 50009,
+    "title": "ONE Friday Fights",
+    "image": "o",
+    "cat": "Boxing",
+    "eventInfo": {
+      "teamA": "Friday Fights",
+      "teamB": "Friday Fights",
+      "teamAFlag": "https://iili.io/FDjaT1R.md.png",
+      "teamBFlag": "https://iili.io/FDjaT1R.md.png",
+      "eventName": "ONE Friday Fights",
+      "eventType": "null",
+      "eventBanner": "https://iili.io/BihxDjj.png",
+      "isHot": "0",
+      "startTime": "2026/07/24 12:30:00 +0000",
+      "endTime": "2026/07/24 16:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "One Fight FHD",
+      "Server 2",
+      "Server 3",
+      "Server 4"
+    ],
+    "formatsNew": [
+      {
+        "title": "One Fight FHD",
+        "logo": ""
+      },
+      {
+        "title": "Server 2",
+        "logo": ""
+      },
+      {
+        "title": "Server 3",
+        "logo": ""
+      },
+      {
+        "title": "Server 4",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d",
+        "link": "https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "One Fight FHD",
+        "type": "1"
+      },
+      {
+        "api": "60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271",
+        "link": "https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd",
+        "logo": "",
+        "title": "Server 2",
+        "type": "1"
+      },
+      {
+        "api": "a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0",
+        "link": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561402/index.mpd",
+        "logo": "",
+        "title": "Server 3",
+        "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://fastly.live.brightcove.com/1850722103624061910/ap-southeast-1/6195549636001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaTE3dzIxLmVncmVzcy5zYjBmOGsiLCJhY2NvdW50X2lkIjoiNjE5NTU0OTYzNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MTk1NTQ5NjM2MDAxIl0sImp0aSI6IjE4NTA3MjIxMDM2MjQwNjE5MTAifQ.MQrZwY5puqZGRgWL843gOZ-Y7i2jUGB5McfZKwoOB1I/playlist-hls.m3u8",
+        "logo": "",
+        "title": "Server 4",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
     "id": 50010,
     "title": "WWE Raw",
     "image": "o",
@@ -767,7 +842,9 @@
     "formats": [
       "beIN ENGLISH (ATP)",
       "beIN ENGLISH (WTA)",
-      "TENNIS 2 FHD"
+      "TENNIS 2 FHD",
+      "Montreal (ATP)",
+      "Toronto (WTA)"
     ],
     "formatsNew": [
       {
@@ -780,6 +857,14 @@
       },
       {
         "title": "TENNIS 2 FHD",
+        "logo": ""
+      },
+      {
+        "title": "Montreal (ATP)",
+        "logo": ""
+      },
+      {
+        "title": "Toronto (WTA)",
         "logo": ""
       }
     ],
@@ -807,14 +892,14 @@
       },
       {
         "api": "",
-        "link": "https://messi.damitv.st/papi/tv/dlhd/40/playlist.m3u8?|Referer=https://ondemand.st/",
+        "link": "https://cast.zlive.st/p/auto-tennis-channel-0/index.m3u8?|referer=https://zlive.st/",
         "logo": "",
         "title": "Montreal (ATP)",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://messi.damitv.st/papi/tv/dlhd/46/playlist.m3u8?|Referer=https://ondemand.st/",
+        "link": "https://cast.zlive.st/p/auto-sky-sports-tennis-0/index.m3u8?|referer=https://zlive.st/",
         "logo": "",
         "title": "Toronto (WTA)",
         "type": "0"
@@ -1329,7 +1414,8 @@
       "TAPMAD - FHD",
       "SKY SPORT NZ",
       "FOX CRICKET HD",
-      "LOW SERVER"
+      "LOW SERVER",
+      "SonyLiv (ENG)"
     ],
     "formatsNew": [
       {
@@ -1358,6 +1444,10 @@
       },
       {
         "title": "LOW SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv (ENG)",
         "logo": ""
       }
     ],
@@ -1409,6 +1499,13 @@
         "link": "http://193.47.62.190/hls/NNNNAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "LOW SERVER",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1785786641~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=711c048e122274ac23c3ffb39a3b0766085ec4be25684362bb23825053d4b4b2|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
+        "logo": "",
+        "title": "SonyLiv (ENG)",
         "type": "0"
       }
     ],
@@ -1560,13 +1657,15 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream1.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream3.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-08-02/wsh-atl",
+        "link": "https://embedindia.st/embed/mlb/2026-08-03/wsh-phi",
+        "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
       }
@@ -1665,13 +1764,15 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream1.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-08-02/stl-tor",
+        "link": "https://embedindia.st/embed/mlb/2026-08-03/pit-mil",
+        "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
       }
@@ -1713,13 +1814,15 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream1.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream2.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-08-02/ari-cle",
+        "link": "https://embedindia.st/embed/mlb/2026-08-03/lad-chc",
+        "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
       }
@@ -1761,13 +1864,15 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream2.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream3.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-08-02/pit-cin",
+        "link": "https://embedindia.st/embed/mlb/2026-08-03/sf-tex",
+        "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
       }
@@ -1809,13 +1914,15 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream3.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream1.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-08-02/mia-nym",
+        "link": "https://embedindia.st/embed/mlb/2026-08-03/tor-hou",
+        "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
       }
@@ -1857,13 +1964,15 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream1.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream3.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-08-02/chw-tb",
+        "link": "https://embedindia.st/embed/mlb/2026-08-03/tb-col",
+        "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
       }
@@ -1906,12 +2015,14 @@
       {
         "api": "",
         "link": "https://edgestream2.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-08-02/tex-hou",
+        "link": "https://embedindia.st/embed/mlb/2026-08-03/sd-ari",
+        "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
       }
@@ -1937,33 +2048,69 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv Live",
       "SD SERVER",
-      "beIN SPORTS [FHD]"
+      "BEIN US TV",
+      "BEIN ESPANOL HD",
+      "ARABIC HD"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
       {
         "title": "SD SERVER",
         "logo": ""
       },
       {
-        "title": "beIN SPORTS [FHD]",
-        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
+        "title": "BEIN US TV",
+        "logo": ""
+      },
+      {
+        "title": "BEIN ESPANOL HD",
+        "logo": ""
+      },
+      {
+        "title": "ARABIC HD",
+        "logo": ""
       }
     ],
     "decoded_channels": [
       {
         "api": "",
-        "link": "http://162.251.160.53:8089/SUNFOT7/index.m3u8",
+        "link": "https://live.vivo200.com/live/sd-1-4587735.m3u8?txSecret=6ead05d511f107d314a20434d9fa0f41&txTime=6A70F941|Referer=https://player.online909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.191/hls/GSSSDD.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "SD SERVER",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/womens-africa-cup-of-nations/2026-07-30/sen-ken",
-        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
-        "title": "beIN SPORTS [FHD]",
-        "type": "2"
+        "link": "https://messi.damitv.st/papi/tv/dlhd/425/playlist.m3u8?|Referer=https://ondemand.st/",
+        "logo": "",
+        "title": "BEIN US TV",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://messi.damitv.st/papi/tv/dlhd/372/playlist.m3u8?|Referer=https://ondemand.st/",
+        "logo": "",
+        "title": "BEIN ESPANOL HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://messi.damitv.st/papi/tv/dlhd/96/playlist.m3u8?|Referer=https://ondemand.st/",
+        "logo": "",
+        "title": "ARABIC HD",
+        "type": "0"
       }
     ],
     "channel_status": "live"
@@ -1988,7 +2135,9 @@
     "publish": "1",
     "formats": [
       "SD SERVER",
-      "beIN SPORTS [HD]"
+      "MALAYSIA HD",
+      "SUPERSPORT HD",
+      "ARABIC HD"
     ],
     "formatsNew": [
       {
@@ -1996,25 +2145,49 @@
         "logo": ""
       },
       {
-        "title": "beIN SPORTS [HD]",
+        "title": "MALAYSIA HD",
+        "logo": ""
+      },
+      {
+        "title": "SUPERSPORT HD",
+        "logo": ""
+      },
+      {
+        "title": "ARABIC HD",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
-        "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "title": "beIN ENGLISH",
-        "type": "1"
+        "api": "",
+        "link": "http://193.47.62.191/hls/GSSSDDD.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "SD SERVER",
+        "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/womens-africa-cup-of-nations/2026-07-26/mar-ken",
-        "title": "beIN SPORTS [FHD]",
-        "type": "2"
+        "link": "https://messi.damitv.st/papi/tv/dlhd/713/playlist.m3u8?|Referer=https://ondemand.st/",
+        "logo": "",
+        "title": "MALAYSIA HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://messi.damitv.st/papi/tv/dlhd/415/playlist.m3u8?|Referer=https://ondemand.st/",
+        "logo": "",
+        "title": "SUPERSPORT HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://messi.damitv.st/papi/tv/dlhd/95/playlist.m3u8?|Referer=https://ondemand.st/",
+        "logo": "",
+        "title": "ARABIC HD",
+        "type": "0"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50088,
@@ -2151,8 +2324,11 @@
     "formats": [
       "beIN ENGLISH",
       "SportDigital Fussball",
+      "SKY FOOTBALL HD",
+      "SKY MAIN EVENT",
       "DUDE Tv Live",
-      "SD SERVER"
+      "SD SERVER",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
@@ -2164,11 +2340,23 @@
         "logo": ""
       },
       {
+        "title": "SKY FOOTBALL HD",
+        "logo": ""
+      },
+      {
+        "title": "SKY MAIN EVENT",
+        "logo": ""
+      },
+      {
         "title": "DUDE Tv Live",
         "logo": ""
       },
       {
         "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ],
@@ -2189,7 +2377,21 @@
       },
       {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/54154/load-playlist?|Referer=https://gooz.aapmains.net ",
+        "link": "https://chatgpt.hereisman.net/playlist/54154/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "SKY FOOTBALL HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://cast.zlive.st/p/auto-sky-sports-main-event-0/index.m3u8?|referer=https://zlive.st/",
+        "logo": "",
+        "title": "SKY MAIN EVENT",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://live.vivo200.com/live/sd-1-4557559.m3u8?txSecret=a0d196330a0cc1baf7412b6a558d09f8&txTime=6A70EE8B|Referer=https://player.online909.com/",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
@@ -2200,6 +2402,13 @@
         "logo": "",
         "title": "SD SERVER",
         "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/spfl-premiership/2026-08-03/cel-dun",
+        "logo": "",
+        "title": "SPX LIVE [FHD]",
+        "type": "2"
       }
     ],
     "channel_status": "live"
@@ -2223,20 +2432,93 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "CBS NETWORK",
+      "EFL CUP FHD",
+      "DIEMA SPORTS HD",
+      "DUDE Tv Live",
+      "PARAMOUNT+ HD",
+      "SD SERVER",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
+        "title": "CBS NETWORK",
+        "logo": ""
+      },
+      {
+        "title": "EFL CUP FHD",
+        "logo": ""
+      },
+      {
+        "title": "DIEMA SPORTS HD",
+        "logo": ""
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "PARAMOUNT+ HD",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
+        "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "CBS NETWORK",
+        "type": "1"
+      },
+      {
         "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "link": "https://hls.streamhub.media/hls/thesport-api-ee74594e615027b1eb33/master.m3u8",
+        "logo": "",
+        "title": "EFL CUP FHD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://messi.damitv.st/papi/tv/dlhd/466/playlist.m3u8?|Referer=https://ondemand.st/",
+        "logo": "",
+        "title": "DIEMA SPORTS HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://live.vivo200.com/live/sd-1-4550486.m3u8?txSecret=86c5d4697010836b54808a97bd849624&txTime=6A70F0C4|Referer=https://player.online909.com/",
+        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://messi.damitv.st/papi/tv/dlhd/15/playlist.m3u8?|Referer=https://ondemand.st/",
+        "logo": "",
+        "title": "PARAMOUNT+ HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.190/hls/GBBBDDDDD.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "SD SERVER",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/carabao-cup/2026-08-03/york-cra",
+        "logo": "",
+        "title": "SPX LIVE [FHD]",
+        "type": "2"
       }
     ],
     "channel_status": "live"
