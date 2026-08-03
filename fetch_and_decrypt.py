@@ -637,6 +637,14 @@ def main():
                         print(f"  [CACHED FAIL] Could not read cached file for '{name}': {ce}")
 
             if decrypted_json:
+                # Add 100000 offset to highlight IDs for compatibility
+                if name == "highlights" and isinstance(decrypted_json, list):
+                    for item in decrypted_json:
+                        if "id" in item:
+                            try:
+                                item["id"] = int(item["id"]) + 100000
+                            except Exception:
+                                pass
                 decrypted_json = replace_sportzx_with_dudetv(decrypted_json)
                 output_file = os.path.join(out_dir, f"{name}.json")
                 with open(output_file, "w", encoding="utf-8") as out_f:
@@ -898,7 +906,16 @@ def main():
     def fetch_channel_payload(ch_id):
         """Fetch encrypted payload for a single channel. Returns (ch_id, payload_str or None, error)."""
         try:
-            ch_url = f"{base_domain}/channels/{ch_id}.json"
+            # Map highlight ID (>= 100000) to actual server ID (id - 100000)
+            server_id = ch_id
+            try:
+                val = int(ch_id)
+                if val >= 100000:
+                    server_id = str(val - 100000)
+            except Exception:
+                pass
+                
+            ch_url = f"{base_domain}/channels/{server_id}.json"
             ch_req = urllib.request.Request(ch_url, headers={"User-Agent": "Mozilla/5.0"})
             with urllib.request.urlopen(ch_req, timeout=12) as ch_res:
                 ch_json = json.loads(ch_res.read().decode("utf-8"))

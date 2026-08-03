@@ -1,16 +1,32 @@
 [
   {
-    "api": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "ITV SPORTS FHD",
+    "api": "04c5eaf62cd75f2d947ab4d621f39256:76967598962e7a7314a2b251e9070725",
+    "link": "https://andi-cors-proxy-service-k8s.andisearch.com/https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd|Referer=https://mhdsports.nl/&Origin=https://mhdsports.nl",
+    "title": "V SPORT 1",
     "type": "1"
   },
   {
-    "api": "",
-    "link": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8",
-    "logo": "",
-    "title": "SKY SPORTS SD",
-    "type": "0"
+    "api": "eab13e69793756eda77d8d71fda90d5d:cd022e9bffa6a0d1523ee5d9fcda9ed4",
+    "link": "https://andi-cors-proxy-service-k8s.andisearch.com/https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd|Referer=https://mhdsports.nl/&Origin=https://mhdsports.nl",
+    "title": "V SPORT Premium ",
+    "type": "1"
+  },
+  {
+    "api": "c02b1c0a644d5aa4b7176ae585c572dc:5a7799ea89ea65e3bac9a10684e616bc",
+    "link": "https://andi-cors-proxy-service-k8s.andisearch.com/https://director.streaming.telia.com/tvm-packager-prod/group3/60b76e87baa9d5ddc9262457/manifest.mpd|Referer=https://mhdsports.nl/&Origin=https://mhdsports.nl",
+    "title": "VSPORT UHD",
+    "type": "1"
+  },
+  {
+    "api": "ce37e20374e55be6bb4d26837af27605:52cc532f748fcbf2b806dad4289bf84c",
+    "link": "https://andi-cors-proxy-service-k8s.andisearch.com/https://director.streaming.telia.com/tvm-packager-prod/group1/60896dfd47a23d7c065cd68c/manifest.mpd|Referer=https://mhdsports.nl/&Origin=https://mhdsports.nl",
+    "title": "V SPORT FOOTBALL ",
+    "type": "1"
+  },
+  {
+    "api": "bc972382f04c531983b7aab6bf642ad8:ddfd212680eb891b755610eac5becf85",
+    "link": "https://andi-cors-proxy-service-k8s.andisearch.com/https://director.streaming.telia.com/tvm-packager-prod/group3/60ae4f5e1522bd739f6959a1/manifest.mpd|Referer=https://mhdsports.nl/&Origin=https://mhdsports.nl",
+    "title": "V SPORT EXTRA",
+    "type": "1"
   }
 ]
