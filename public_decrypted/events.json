@@ -532,7 +532,7 @@
       "eventName": "West Indies vs Pakistan",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/03 14:00:00 +0000",
+      "startTime": "2026/08/03 13:45:00 +0000",
       "endTime": "2026/08/03 21:30:00 +0000"
     },
     "adsLimit": "0",
@@ -719,10 +719,12 @@
     "publish": "1",
     "formats": [
       "WILLOW - FHD",
+      "SKY CRICKET",
       "WILLOW - ALT",
-      "SonyLiv",
-      "SKY SPORTS FHD",
-      "FOX CRICKET HD"
+      "TAPMAD - FHD",
+      "SKY SPORT NZ",
+      "FOX CRICKET HD",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
@@ -730,20 +732,28 @@
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
+        "title": "SKY CRICKET",
+        "logo": ""
+      },
+      {
         "title": "WILLOW - ALT",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
-        "title": "SonyLiv",
+        "title": "TAPMAD - FHD",
         "logo": ""
       },
       {
-        "title": "SKY SPORTS FHD",
+        "title": "SKY SPORT NZ",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
       },
       {
         "title": "FOX CRICKET HD",
         "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "title": "LOW SERVER",
+        "logo": ""
       }
     ]
   },
@@ -1172,20 +1182,20 @@
     ]
   },
   {
-    "id": 50091,
-    "title": "Al-Hilal vs Al-Ahli Doha",
+    "id": 50092,
+    "title": "York City vs Crawley Town",
     "image": "o",
-    "cat": "Club Friendly",
+    "cat": "EFL Cup 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
     "eventInfo": {
-      "teamA": "Al-Hilal",
-      "teamB": "Al-Ahli Doha",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/21895/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/44443/image",
-      "eventName": "Al-Hilal vs Al-Ahli Doha",
+      "teamA": "York",
+      "teamB": "Crawley",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/73/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4875/image",
+      "eventName": "York City vs Crawley Town",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/03 15:00:00 +0000",
-      "endTime": "2026/08/03 17:00:00 +0000"
+      "startTime": "2026/08/03 18:30:00 +0000",
+      "endTime": "2026/08/03 20:35:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1195,44 +1205,6 @@
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50092,
-    "title": "Cambodia vs East Timor",
-    "image": "o",
-    "cat": "ASEAN Championship",
-    "eventInfo": {
-      "teamA": "Cambodia",
-      "teamB": "East Timor",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/7929/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/23497/image",
-      "eventName": "Cambodia vs East Timor",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/03 10:30:00 +0000",
-      "endTime": "2026/08/03 12:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "True Sports",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "True Sports",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1256,11 +1228,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
