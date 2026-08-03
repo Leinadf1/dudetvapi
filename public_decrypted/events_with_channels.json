@@ -746,6 +746,95 @@
     "channel_status": "live"
   },
   {
+    "id": 50019,
+    "title": "ATP & WTA",
+    "image": "o",
+    "cat": "Tennis",
+    "eventInfo": {
+      "teamA": "ATP",
+      "teamB": "WTA",
+      "teamAFlag": "https://img.sofascore.com/api/v1/category/3/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/category/6/image",
+      "eventName": "ATP & WTA TENNIS",
+      "eventType": "null",
+      "eventBanner": "https://wsrv.nl/?url=https://iili.io/CUvi3T7.png",
+      "isHot": "0",
+      "startTime": "2026/08/03 15:00:00 +0000",
+      "endTime": "2026/08/04 04:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "beIN ENGLISH (ATP)",
+      "beIN ENGLISH (WTA)",
+      "TENNIS 2 FHD"
+    ],
+    "formatsNew": [
+      {
+        "title": "beIN ENGLISH (ATP)",
+        "logo": ""
+      },
+      {
+        "title": "beIN ENGLISH (WTA)",
+        "logo": ""
+      },
+      {
+        "title": "TENNIS 2 FHD",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "beIN ENGLISH (ATP)",
+        "type": "1"
+      },
+      {
+        "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "beIN ENGLISH (WTA)",
+        "type": "1"
+      },
+      {
+        "api": "59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "TENNIS 2 FHD",
+        "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://messi.damitv.st/papi/tv/dlhd/40/playlist.m3u8?|Referer=https://ondemand.st/",
+        "logo": "",
+        "title": "Montreal (ATP)",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://messi.damitv.st/papi/tv/dlhd/46/playlist.m3u8?|Referer=https://ondemand.st/",
+        "logo": "",
+        "title": "Toronto (WTA)",
+        "type": "0"
+      },
+      {
+        "api": "MTEyMjMzNDQ1NTY2Nzc4ODk5MDAxMTIyMzM0NDU1NjY6NGI4MDcyNGQwZWY4NmJjYjJjMjFmN3o5OWG2NzczOWQ=",
+        "link": "https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd",
+        "title": "EUROSPORT FHD",
+        "type": "1"
+      },
+      {
+        "api": "MTEyMjMzNDQ1NTY2Nzc4ODk5MDAxMTIyMzM0NDU1NjY6NGI4MDcyNGQwZWY4NmJjYjJjMjFmN3o5OWG2NzczOWQ=",
+        "link": "https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd",
+        "title": "EUROSPORT2 FHD",
+        "type": "1"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
     "id": 50027,
     "title": "Atlanta Dream vs Aces",
     "image": "o",
@@ -1235,15 +1324,12 @@
     "publish": "1",
     "formats": [
       "WILLOW - FHD",
-      "WILLOW - AdFree",
-      "SKY CRICKET",
+      "SKY CRICKET - AQ",
       "WILLOW - ALT",
       "TAPMAD - FHD",
-      "SKY SPORTS HD",
-      "CRICKET LIVE [FHD]",
-      "WILLOW CRICKET",
+      "SKY SPORT NZ",
       "FOX CRICKET HD",
-      "SuperSport CRICKET"
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
@@ -1251,11 +1337,7 @@
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
-        "title": "WILLOW - AdFree",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "SKY CRICKET",
+        "title": "SKY CRICKET - AQ",
         "logo": ""
       },
       {
@@ -1267,51 +1349,36 @@
         "logo": ""
       },
       {
-        "title": "SKY SPORTS HD",
+        "title": "SKY SPORT NZ",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
-      },
-      {
-        "title": "CRICKET LIVE [FHD]",
-        "logo": ""
-      },
-      {
-        "title": "WILLOW CRICKET",
-        "logo": ""
       },
       {
         "title": "FOX CRICKET HD",
         "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj"
       },
       {
-        "title": "SuperSport CRICKET",
+        "title": "LOW SERVER",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
-        "api": "488f1e087ef08fde7bf01b963463d341:672611664799a02cd388ae17e4f0bfc7",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/65wmrzwreu/out/v1/a69f40a3fb1642f7ac58ab1458a00a65/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "f822ab5833682a8a33507774a31cfa13:7aaef11c2e4d4f0ddc2faa6d996a16ec",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uqlyxwabtw/out/v1/6b0bd05cc2744c2b8eca46759ee84057/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW - FHD",
-        "type": "1"
-      },
-      {
-        "api": "5ad84016120652d6db3a1d44e6e39b75:0747b1042966cdbccad3ebe00a6df438",
-        "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/rhb5ftjnab/out/v1/2ade0374925a40c68796752b4074be5e/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW - AdFree",
         "type": "1"
       },
       {
         "api": "",
         "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
         "logo": "",
-        "title": "SKY CRICKET",
+        "title": "SKY CRICKET - AQ",
         "type": "0"
       },
       {
-        "api": "488f1e087ef08fde7bf01b963463d341:672611664799a02cd388ae17e4f0bfc7",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/65wmrzwreu/out/v1/a69f40a3fb1642f7ac58ab1458a00a65/cenc.mpd",
+        "api": "f822ab5833682a8a33507774a31cfa13:7aaef11c2e4d4f0ddc2faa6d996a16ec",
+        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/uqlyxwabtw/out/v1/6b0bd05cc2744c2b8eca46759ee84057/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW - ALT",
         "type": "1"
@@ -1325,24 +1392,10 @@
       },
       {
         "api": "",
-        "link": "https://tmaxapp.site/8wirwjs76erftg/skysport3nz.m3u8",
+        "link": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-        "title": "SKY SPORTS HD",
+        "title": "SKY SPORT NZ",
         "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://streamfree.top/embed/cricket/skycricket?quality=1080p&category=cricket",
-        "logo": "",
-        "title": "CRICKET LIVE [FHD]",
-        "type": "2"
-      },
-      {
-        "api": "",
-        "link": "https://logic.icelanders.st/embed/willow-usa",
-        "logo": "",
-        "title": "WILLOW CRICKET",
-        "type": "2"
       },
       {
         "api": "",
@@ -1353,9 +1406,9 @@
       },
       {
         "api": "",
-        "link": "https://messi.damitv.st/papi/tv/dlhd/368/playlist.m3u8",
+        "link": "http://193.47.62.190/hls/NNNNAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
-        "title": "SuperSport CRICKET",
+        "title": "LOW SERVER",
         "type": "0"
       }
     ],
@@ -2097,7 +2150,9 @@
     "publish": "1",
     "formats": [
       "beIN ENGLISH",
-      "SportDigital Fussball"
+      "SportDigital Fussball",
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
@@ -2107,20 +2162,44 @@
       {
         "title": "SportDigital Fussball",
         "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
       }
     ],
     "decoded_channels": [
       {
         "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
         "title": "beIN ENGLISH",
         "type": "1"
       },
       {
         "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
         "title": "SportDigital Fussball",
         "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/54154/load-playlist?|Referer=https://gooz.aapmains.net ",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.192/hls/GSSSDDDD.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "SD SERVER",
+        "type": "0"
       }
     ],
     "channel_status": "live"
@@ -2161,47 +2240,5 @@
       }
     ],
     "channel_status": "live"
-  },
-  {
-    "id": 50093,
-    "title": "Indonesia vs Vietnam",
-    "image": "o",
-    "cat": "ASEAN Championship",
-    "eventInfo": {
-      "teamA": "Indonesia",
-      "teamB": "Vietnam",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4829/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/7050/image",
-      "eventName": "Indonesia vs Vietnam",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/03 13:30:00 +0000",
-      "endTime": "2026/08/03 15:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "cached"
   }
 ]
