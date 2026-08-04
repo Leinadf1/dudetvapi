@@ -1963,9 +1963,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv Live",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
       {
         "title": "SPX LIVE [FHD]",
         "logo": ""
@@ -1992,11 +1997,16 @@
     "publish": "1",
     "formats": [
       "FOX SPORTS FHD",
+      "DUDE Tv Live",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "FOX SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       },
       {

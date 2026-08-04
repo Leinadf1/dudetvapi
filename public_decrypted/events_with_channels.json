@@ -3404,9 +3404,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv Live",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
       {
         "title": "SPX LIVE [FHD]",
         "logo": ""
@@ -3415,12 +3420,20 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "link": "https://live.vivo200.com/live/sd-1-4515696.m3u8?txSecret=c5a88ab078ee82d33d42db896ef62400&txTime=6A7262FB|Referer=https://player.online909.com/",
+        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/leagues-cup/2026-08-04/clb-ats",
+        "logo": "",
+        "title": "SPX LIVE [FHD]",
+        "type": "2"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50103,
@@ -3442,11 +3455,16 @@
     "publish": "1",
     "formats": [
       "FOX SPORTS FHD",
+      "DUDE Tv Live",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "FOX SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       },
       {
@@ -3461,6 +3479,13 @@
         "logo": "",
         "title": "FOX SPORTS FHD",
         "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://live.vivo200.com/live/sd-1-4515697.m3u8?txSecret=e20f46d21948a5ec67184a8cb2b334f0&txTime=6A726384|Referer=https://player.online909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
       },
       {
         "api": "",
