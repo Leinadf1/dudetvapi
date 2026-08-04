@@ -1658,11 +1658,31 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER 1",
+      "HD SERVER 2",
+      "HD SERVER 3",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER 1",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER 2",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER 3",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -2027,6 +2047,67 @@
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50108,
+    "title": "Philippines vs Thailand",
+    "image": "o",
+    "cat": "ASEAN Championship",
+    "eventInfo": {
+      "teamA": "Philippines",
+      "teamB": "Thailand",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4791/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4730/image",
+      "eventName": "Philippines vs Thailand",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/04 13:00:00 +0000",
+      "endTime": "2026/08/04 15:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50109,
+    "title": "Myanmar vs Laos",
+    "image": "o",
+    "cat": "ASEAN Championship",
+    "eventInfo": {
+      "teamA": "Myanmar",
+      "teamB": "Laos",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/23484/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/23486/image",
+      "eventName": "Myanmar vs Laos",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/04 10:00:00 +0000",
+      "endTime": "2026/08/04 12:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "HD SERVER",
+      "SD SERVER"
+    ],
+    "formatsNew": [
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]

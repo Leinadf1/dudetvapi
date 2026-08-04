@@ -2973,23 +2973,72 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER 1",
+      "HD SERVER 2",
+      "HD SERVER 3",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER 1",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER 2",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER 3",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "link": "https://hls.streamhub.media/hls/thesport-api-ad76db78360aca86fee0/master.m3u8",
+        "logo": "",
         "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://hls.live123.fans/live/4541783.m3u8",
+        "logo": "",
+        "title": "HD SERVER 1",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://pul-tenm.gkykp.com/live/sd-1-4541783.m3u8?txSecret=35dff8599f37e4cd49842fb8154fbad0&txTime=6A731648",
+        "logo": "",
+        "title": "HD SERVER 2",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://xzbonlinepull.52kq.top/live/sd-1-4541783.m3u8?txSecret=d97d01ba0294544ad2990cc81db033dd&txTime=6a71cd9b|Referer=https://zhiboapi1001.bszb.me/",
+        "logo": "",
+        "title": "HD SERVER 3",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.190/hls/IOOOA.m3u8?|Referer=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "SD SERVER",
         "type": "0"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50095,
@@ -3479,5 +3528,85 @@
       }
     ],
     "channel_status": "live"
+  },
+  {
+    "id": 50108,
+    "title": "Philippines vs Thailand",
+    "image": "o",
+    "cat": "ASEAN Championship",
+    "eventInfo": {
+      "teamA": "Philippines",
+      "teamB": "Thailand",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4791/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4730/image",
+      "eventName": "Philippines vs Thailand",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/04 13:00:00 +0000",
+      "endTime": "2026/08/04 15:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50109,
+    "title": "Myanmar vs Laos",
+    "image": "o",
+    "cat": "ASEAN Championship",
+    "eventInfo": {
+      "teamA": "Myanmar",
+      "teamB": "Laos",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/23484/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/23486/image",
+      "eventName": "Myanmar vs Laos",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/04 10:00:00 +0000",
+      "endTime": "2026/08/04 12:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "HD SERVER",
+      "SD SERVER"
+    ],
+    "formatsNew": [
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      }
+    ],
+    "channel_status": "cached"
   }
 ]
