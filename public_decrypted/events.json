@@ -872,44 +872,6 @@
     ]
   },
   {
-    "id": 50059,
-    "title": "Sri Lanka W vs Pakistan W",
-    "image": "o",
-    "cat": "Cricket",
-    "eventInfo": {
-      "teamA": "SL-W",
-      "teamB": "PAK-W",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187806/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187808/image",
-      "eventName": "Sri Lanka W vs Pakistan W",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/04 04:30:00 +0000",
-      "endTime": "2026/08/04 08:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "WILLOW - FHD",
-      "TAPMAD - FHD",
-      "FANCODE - IN"
-    ],
-    "formatsNew": [
-      {
-        "title": "WILLOW - FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "TAPMAD - FHD",
-        "logo": ""
-      },
-      {
-        "title": "FANCODE - IN",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      }
-    ]
-  },
-  {
     "id": 50060,
     "title": "West Indies vs Pakistan",
     "image": "o",
@@ -1869,11 +1831,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
         "logo": ""
       }
     ]
@@ -1897,11 +1864,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
