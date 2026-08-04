@@ -901,6 +901,7 @@
     "formats": [
       "WILLOW - FHD",
       "WILLOW - ALT",
+      "TNT SPORTS FHD",
       "TAPMAD - FHD",
       "LOW SERVER",
       "FANCODE - IN",
@@ -914,6 +915,10 @@
       {
         "title": "WILLOW - ALT",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "TNT SPORTS FHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
       },
       {
         "title": "TAPMAD - FHD",
@@ -1658,6 +1663,7 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "SPORT TV HD",
       "DUDE Tv Live",
       "HD SERVER 1",
       "HD SERVER 2",
@@ -1665,6 +1671,10 @@
       "SD SERVER"
     ],
     "formatsNew": [
+      {
+        "title": "SPORT TV HD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1706,11 +1716,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -2070,40 +2090,12 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50109,
-    "title": "Myanmar vs Laos",
-    "image": "o",
-    "cat": "ASEAN Championship",
-    "eventInfo": {
-      "teamA": "Myanmar",
-      "teamB": "Laos",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/23484/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/23486/image",
-      "eventName": "Myanmar vs Laos",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/04 10:00:00 +0000",
-      "endTime": "2026/08/04 12:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "HD SERVER",
+      "DUDE Tv Live",
       "SD SERVER"
     ],
     "formatsNew": [
       {
-        "title": "HD SERVER",
+        "title": "DUDE Tv Live",
         "logo": ""
       },
       {
