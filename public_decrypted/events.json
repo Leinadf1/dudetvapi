@@ -1111,8 +1111,7 @@
       "TAPMAD - FHD",
       "SKY SPORT NZ",
       "FOX CRICKET HD",
-      "LOW SERVER",
-      "SonyLiv"
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
@@ -1141,10 +1140,6 @@
       },
       {
         "title": "LOW SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv",
         "logo": ""
       }
     ]
@@ -1238,19 +1233,19 @@
   },
   {
     "id": 50076,
-    "title": "Cincinnati Reds vs Athletics",
+    "title": "Chicago Cubs vs Dodgers",
     "image": "o",
     "cat": "MLB",
     "eventInfo": {
-      "teamA": "Reds",
-      "teamB": "Athletics",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3633/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3645/image",
-      "eventName": "Cincinnati Reds vs Athletics",
+      "teamA": "Chicago Cubs",
+      "teamB": "Dodgers",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3627/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3638/image",
+      "eventName": "Chicago Cubs vs Dodgers",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/05 22:40:00 +0000",
-      "endTime": "2026/08/06 01:40:00 +0000"
+      "startTime": "2026/08/05 18:20:00 +0000",
+      "endTime": "2026/08/05 21:20:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1862,154 +1857,104 @@
   },
   {
     "id": 50094,
-    "title": "AC Milan vs Inter",
+    "title": "Fortaleza vs Palmeiras",
     "image": "o",
-    "cat": "Club Friendly",
+    "cat": "Copa do Brasil",
     "eventInfo": {
-      "teamA": "Milan",
-      "teamB": "Inter",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2692/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2697/image",
-      "eventName": "AC Milan vs Inter",
+      "teamA": "Fortaleza",
+      "teamB": "Palmeiras",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2020/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1963/image",
+      "eventName": "Fortaleza vs Palmeiras",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/05 11:00:00 +0000",
-      "endTime": "2026/08/05 13:05:00 +0000"
+      "startTime": "2026/08/06 00:30:00 +0000",
+      "endTime": "2026/08/06 02:35:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "FOX DEPORTES",
-      "DAZN ZONA IT",
-      "DUDE Tv Live",
-      "DAZN SPORTS FHD",
-      "SD SERVER",
-      "SPX LIVE [FHD]"
+      "PREMIERER BR"
     ],
     "formatsNew": [
       {
-        "title": "FOX DEPORTES",
-        "logo": ""
-      },
-      {
-        "title": "DAZN ZONA IT",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "DAZN SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
+        "title": "PREMIERER BR",
         "logo": ""
       }
     ]
   },
   {
     "id": 50095,
-    "title": "Allstars vs Manchester City",
+    "title": "Fluminense vs Vasco",
     "image": "o",
-    "cat": "Club Friendly",
+    "cat": "Copa do Brasil",
     "eventInfo": {
-      "teamA": "K-League Allstars",
-      "teamB": "Man City",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/421734/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/17/image",
-      "eventName": "K-League Allstars vs Manchester City",
+      "teamA": "Fluminense",
+      "teamB": "Vasco",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1961/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1974/image",
+      "eventName": "Fluminense vs Vasco da Gama",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/05 11:00:00 +0000",
-      "endTime": "2026/08/05 13:05:00 +0000"
+      "startTime": "2026/08/06 00:30:00 +0000",
+      "endTime": "2026/08/06 02:35:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "ESPN BR HD",
-      "DUDE Tv Live",
-      "SPORT TV HD",
-      "CBS Network",
-      "SD SERVER"
+      "PREMIERER 1",
+      "Premier Sports 2",
+      "SporTV BR",
+      "FOX DEPORTES"
     ],
     "formatsNew": [
       {
-        "title": "ESPN BR HD",
+        "title": "PREMIERER 1",
         "logo": ""
       },
       {
-        "title": "DUDE Tv Live",
+        "title": "Premier Sports 2",
         "logo": ""
       },
       {
-        "title": "SPORT TV HD",
+        "title": "SporTV BR",
         "logo": ""
       },
       {
-        "title": "CBS Network",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
+        "title": "FOX DEPORTES",
         "logo": ""
       }
     ]
   },
   {
     "id": 50096,
-    "title": "Chelsea vs Juventus",
+    "title": "Cruzeiro vs Chapecoense",
     "image": "o",
-    "cat": "Club Friendly",
+    "cat": "Copa do Brasil",
     "eventInfo": {
-      "teamA": "Chelsea",
-      "teamB": "Juventus",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/38/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2687/image",
-      "eventName": "Chelsea vs Juventus",
+      "teamA": "Cruzeiro",
+      "teamB": "Chapecoense",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1954/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/21845/image",
+      "eventName": "Cruzeiro vs Chapecoense",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/05 11:30:00 +0000",
-      "endTime": "2026/08/05 13:35:00 +0000"
+      "startTime": "2026/08/05 22:00:00 +0000",
+      "endTime": "2026/08/06 00:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "CBS NETWORK",
-      "DAZN SPORTS FHD",
-      "DUDE Tv Live",
-      "FHD SERVER",
-      "SD SERVER",
-      "SPX LIVE [FHD]"
+      "PREMIERER 1",
+      "SporTV BR"
     ],
     "formatsNew": [
       {
-        "title": "CBS NETWORK",
+        "title": "PREMIERER 1",
         "logo": ""
       },
       {
-        "title": "DAZN SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "FHD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
+        "title": "SporTV BR",
         "logo": ""
       }
     ]
@@ -2165,6 +2110,72 @@
       },
       {
         "title": "SPX LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50106,
+    "title": "SC Schwaz vs FC Augsburg",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "SC Schwaz",
+      "teamB": "FC Augsburg",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/23832/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2600/image",
+      "eventName": "SC Schwaz vs FC Augsburg",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/05 17:00:00 +0000",
+      "endTime": "2026/08/05 19:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "HD SERVER",
+      "SD SERVER"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50107,
+    "title": "Sassuolo vs Celta Vigo",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "Sassuolo",
+      "teamB": "Celta Vigo",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2793/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2821/image",
+      "eventName": "Sassuolo vs Celta Vigo",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/05 18:00:00 +0000",
+      "endTime": "2026/08/05 20:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
