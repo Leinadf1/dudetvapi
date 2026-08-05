@@ -8,9 +8,30 @@
   },
   {
     "api": "",
+    "link": "https://hls.streamhub.media/hls/thesport-api-d63bd0836c5d1ebc416c/master.m3u8",
+    "logo": "",
+    "title": "DUDE Tv Live",
+    "type": "0"
+  },
+  {
+    "api": "",
     "link": "https://cast.zlive.st/p/auto-sport-tv1-0/index.m3u8|referer=https://zlive.st/",
     "logo": "",
     "title": "SPORT TV HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://cast.zlive.st/p/auto-cbs-sports-network-0/index.m3u8?|referer=https://zlive.st/",
+    "logo": "",
+    "title": "CBS Network",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "http://193.47.62.192/hls/RRRRAAA.m3u8?|Referer=http://www.fawanews.sc/",
+    "logo": "",
+    "title": "SD SERVER",
     "type": "0"
   }
 ]
