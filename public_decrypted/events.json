@@ -1003,7 +1003,6 @@
       "WILLOW - ALT",
       "TNT SPORTS FHD",
       "TAPMAD - FHD",
-      "LOW SERVER",
       "FANCODE - IN",
       "WILLOW [FHD]"
     ],
@@ -1022,10 +1021,6 @@
       },
       {
         "title": "TAPMAD - FHD",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
         "logo": ""
       },
       {
@@ -1168,19 +1163,18 @@
       "eventType": "null",
       "eventBanner": "null",
       "isHot": "0",
-      "startTime": "2026/08/05 10:30:00 +0000",
-      "endTime": "2026/08/05 17:15:00 +0000"
+      "startTime": "2026/08/05 14:00:00 +0000",
+      "endTime": "2026/08/05 17:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
       "WILLOW - FHD",
-      "SKY CRICKET",
       "WILLOW - ALT",
-      "TAPMAD - FHD",
       "SKY SPORT NZ",
       "FOX CRICKET HD",
-      "LOW SERVER"
+      "LOW SERVER",
+      "SonyLiv"
     ],
     "formatsNew": [
       {
@@ -1188,16 +1182,8 @@
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
-        "title": "SKY CRICKET",
-        "logo": ""
-      },
-      {
         "title": "WILLOW - ALT",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "TAPMAD - FHD",
-        "logo": ""
       },
       {
         "title": "SKY SPORT NZ",
@@ -1209,6 +1195,10 @@
       },
       {
         "title": "LOW SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv",
         "logo": ""
       }
     ]
@@ -1563,31 +1553,41 @@
     "publish": "1",
     "formats": [
       "WILLOW - FHD",
+      "SKY CRICKET",
       "WILLOW - ALT",
-      "SKY SPORTS HD",
       "WILLOW - HD",
-      "SKY SPORT NZ"
+      "TAPMAD - FHD",
+      "SKY SPORT NZ",
+      "FOX CRICKET HD"
     ],
     "formatsNew": [
       {
         "title": "WILLOW - FHD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "SKY CRICKET",
         "logo": ""
       },
       {
         "title": "WILLOW - ALT",
-        "logo": ""
-      },
-      {
-        "title": "SKY SPORTS HD",
-        "logo": ""
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
         "title": "WILLOW - HD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "TAPMAD - FHD",
         "logo": ""
       },
       {
         "title": "SKY SPORT NZ",
-        "logo": ""
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
+      },
+      {
+        "title": "FOX CRICKET HD",
+        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj"
       }
     ]
   },
@@ -1872,7 +1872,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2697/image",
       "eventName": "AC Milan vs Inter",
       "eventType": "null",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/08/05 11:00:00 +0000",
       "endTime": "2026/08/05 13:05:00 +0000"
     },
@@ -1925,7 +1925,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/17/image",
       "eventName": "K-League Allstars vs Manchester City",
       "eventType": "null",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/08/05 11:00:00 +0000",
       "endTime": "2026/08/05 13:05:00 +0000"
     },
@@ -1973,7 +1973,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2687/image",
       "eventName": "Chelsea vs Juventus",
       "eventType": "null",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/08/05 11:30:00 +0000",
       "endTime": "2026/08/05 13:35:00 +0000"
     },
