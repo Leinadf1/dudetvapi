@@ -952,16 +952,20 @@
     "publish": "1",
     "formats": [
       "WILLOW - FHD",
+      "SKY CRICKET",
       "WILLOW - ALT",
       "SKY SPORT NZ",
       "FOX CRICKET HD",
-      "LOW SERVER",
-      "SonyLiv"
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "WILLOW - FHD",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "SKY CRICKET",
+        "logo": ""
       },
       {
         "title": "WILLOW - ALT",
@@ -977,10 +981,6 @@
       },
       {
         "title": "LOW SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv",
         "logo": ""
       }
     ]
