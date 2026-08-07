@@ -375,44 +375,23 @@
     "adsLimit": "11",
     "publish": "1",
     "formats": [
-      "FANCODE FHD",
-      "SPOTV FHD",
-      "AUVIO SPORTS",
-      "NOW SPORTS FHD",
       "TNT SPORTS FHD",
-      "SKY SPORTS IT",
-      "DUDE Tv Live",
+      "SP0TV FHD",
       "MotoGP FHD",
-      "DAZN SPORTS",
-      "CANAL+ HD"
+      "DUDE Tv Live",
+      "TNT SPORTS HD",
+      "STREAM 1 (EN)",
+      "STREAM 2 (EN)",
+      "STREAM 3 (ITA)",
+      "STREAM 4 (ESP)"
     ],
     "formatsNew": [
       {
-        "title": "FANCODE FHD",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      },
-      {
-        "title": "SPOTV FHD",
-        "logo": "https://app.ksmctv.com/Content/MCTV/Image/Channel/31-SPOTV__2.png"
-      },
-      {
-        "title": "AUVIO SPORTS",
-        "logo": ""
-      },
-      {
-        "title": "NOW SPORTS FHD",
-        "logo": ""
-      },
-      {
         "title": "TNT SPORTS FHD",
-        "logo": ""
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
       },
       {
-        "title": "SKY SPORTS IT",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
+        "title": "SP0TV FHD",
         "logo": ""
       },
       {
@@ -420,11 +399,27 @@
         "logo": "https://img.sofascore.com/api/v1/category/1325/image"
       },
       {
-        "title": "DAZN SPORTS",
+        "title": "DUDE Tv Live",
         "logo": ""
       },
       {
-        "title": "CANAL+ HD",
+        "title": "TNT SPORTS HD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
+      {
+        "title": "STREAM 1 (EN)",
+        "logo": ""
+      },
+      {
+        "title": "STREAM 2 (EN)",
+        "logo": ""
+      },
+      {
+        "title": "STREAM 3 (ITA)",
+        "logo": ""
+      },
+      {
+        "title": "STREAM 4 (ESP)",
         "logo": ""
       }
     ],
@@ -493,53 +488,11 @@
         "type": "2"
       },
       {
-        "api": "MDY1MDUxYjk5YmY1Y2Y4ZDlhM2JkZTVjYmRlNmFhZjk6MjE0YmQxNzY4MzI4NzIzMzljZTE4dDMzO2MyMGY5YTI=",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-        "title": "FANCODE FHD",
-        "type": "1"
-      },
-      {
-        "api": "YjJkOGY2MzE1YzQ5NGUwN2E4MTI5ZjZhM2Q1YzIwNDg6NmI0MjQ3ZGVmMjFiYmQwZDA4NjI5UDNjYYRjNjJlZTk=",
-        "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd",
-        "logo": "https://app.ksmctv.com/Content/MCTV/Image/Channel/31-SPOTV__2.png",
-        "title": "SPOTV FHD",
-        "type": "1"
-      },
-      {
-        "api": "ODRmY2MxMDlmNmM3NDU1Y2FlZDA5MjFkNjJhNDA3OGU6ZmJhYzczMzA1ZDAwZWMwZDU0Nzg1UWI2M5IzOTQxZjQ=",
-        "link": "https://C9851Ec-rbm-hilv-fsly.cdn.redbee.live/L17/683e43d0/539a9e78.isml/.mpd?dvr_window_length=7200",
-        "logo": "",
-        "title": "AUVIO SPORTS",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://g001.sadhoofiton.shop/out/v2/d034a0e78615c3ea0a788fcd77ff5a43/index.m3u8?|referer=https://pushembdz.store/",
-        "logo": "",
-        "title": "NOW SPORTS FHD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://g001.sadhoofiton.shop/out/v2/b2b8384a84cc9d9ed14c07bd6b5d80bd/index.m3u8?|referer=https://pushembdz.store/",
-        "logo": "",
+        "api": "ZjNkZjc4NDMwODBhZTc0M2JmODY1ZGM1ZmRmNjRjNjg6NTY3Yzg2M2JjMTJlYjc0Nzg4ZWE3dDg4O5MwNDJlMWI=",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
         "title": "TNT SPORTS FHD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://g001.sadhoofiton.shop/out/v2/30d23277f2b4aac6e26ffff07299d799/index.m3u8?|referer=https://pushembdz.store/",
-        "logo": "",
-        "title": "SKY SPORTS IT",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://edge2caster.pro/hls/oeenzgezcz47.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
+        "type": "1"
       },
       {
         "api": "ZTAzZjMwMmVjNGRhYmNjY2NhODJjYzlmNzY3MzFlYzk6NTNlYTEwMjdkMmJmMjg5M2E1NTJjVTE1YbMwMzY2ZGU=",
@@ -550,9 +503,44 @@
       },
       {
         "api": "",
-        "link": "https://instreams.pro/bil1/motogpfr/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+        "link": "https://edgestream1.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
-        "title": "DAZN SPORTS",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://tmaxapp.site/8wirwjs76erftg/tntsports2.m3u8",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
+        "title": "TNT SPORTS HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://pushembdz.store/embed/a39870ed-7d7d-42f9-a592-f9df2a1a7c20",
+        "logo": "",
+        "title": "STREAM 1 (EN)",
+        "type": "2"
+      },
+      {
+        "api": "",
+        "link": "https://pushembdz.store/embed/f9342162-b18c-4631-9c5c-ed38038f9bed",
+        "logo": "",
+        "title": "STREAM 2 (EN)",
+        "type": "2"
+      },
+      {
+        "api": "",
+        "link": "https://pushembdz.store/embed/abd38757-7db5-4954-8cce-fb9973440c74",
+        "logo": "",
+        "title": "STREAM 3 (ITA)",
+        "type": "2"
+      },
+      {
+        "api": "",
+        "link": "https://pushembdz.store/embed/f493f351-fcaf-4ddb-b7f2-535d8e92f6e1",
+        "logo": "",
+        "title": "STREAM 4 (ESP)",
         "type": "0"
       }
     ],
@@ -890,11 +878,16 @@
     "publish": "1",
     "formats": [
       "WILLOW - FHD",
+      "WILLOW - AdFree",
       "WILLOW - ALT"
     ],
     "formatsNew": [
       {
         "title": "WILLOW - FHD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "WILLOW - AdFree",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
@@ -904,15 +897,22 @@
     ],
     "decoded_channels": [
       {
-        "api": "6bba14af87d4c612d2374935291b33bd:6ac0fef8b7181dac3862a82bc491cc1a",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mpk9tjbvih/out/v1/6e9b46389891440b856e60332a2b432f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "37c94f022a37999c54b64e0fc6f7dded:59c64dc640c75dd33d5126055a0c58ec",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xdbxk7bhe3/out/v1/c79dc89ca4cf474e85bec05a7d69adaa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW - FHD",
         "type": "1"
       },
       {
-        "api": "6bba14af87d4c612d2374935291b33bd:6ac0fef8b7181dac3862a82bc491cc1a",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mpk9tjbvih/out/v1/6e9b46389891440b856e60332a2b432f/cenc.mpd",
+        "api": "400e3a6fbb3142beda746fc6ab908dbd:596117ca9b94249b73d0fba6060aac8b",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zze2qgnuud/out/v1/7ed0272c46aa4980951173ca02a16033/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "title": "WILLOW - AdFree",
+        "type": "1"
+      },
+      {
+        "api": "37c94f022a37999c54b64e0fc6f7dded:59c64dc640c75dd33d5126055a0c58ec",
+        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xdbxk7bhe3/out/v1/c79dc89ca4cf474e85bec05a7d69adaa/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW - ALT",
         "type": "1"
@@ -1356,8 +1356,8 @@
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://iili.io/CUvi3T7.png",
       "isHot": "0",
-      "startTime": "2026/08/06 16:30:00 +0000",
-      "endTime": "2026/08/07 04:00:00 +0000"
+      "startTime": "2026/08/07 16:30:00 +0000",
+      "endTime": "2026/08/08 03:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
