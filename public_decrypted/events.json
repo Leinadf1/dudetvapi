@@ -704,77 +704,6 @@
     ]
   },
   {
-    "id": 50032,
-    "title": "San Diego Padres",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Diamondbacks",
-      "teamB": "Padres",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3640/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3636/image",
-      "eventName": "Diamondbacks vs San Diego Padres",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/07 01:40:00 +0000",
-      "endTime": "2026/08/07 04:40:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv MLB",
-      "DUDE Tv LIVE",
-      "MLB LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv LIVE",
-        "logo": ""
-      },
-      {
-        "title": "MLB LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50033,
-    "title": "Arizona Diamondbacks",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Diamondbacks",
-      "teamB": "Dodgers",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3640/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3638/image",
-      "eventName": "Arizona Diamondbacks vs Dodgers",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/08 01:40:00 +0000",
-      "endTime": "2026/08/08 04:40:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "MLB LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "MLB LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50034,
     "title": "San Diego Padres",
     "image": "o",
@@ -907,44 +836,6 @@
       },
       {
         "title": "SPX LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50056,
-    "title": "Portland Fire vs Toronto Tempo",
-    "image": "o",
-    "cat": "WNBA",
-    "eventInfo": {
-      "teamA": "Fire",
-      "teamB": "Tempo",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1166446/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1166445/image",
-      "eventName": "Portland Fire vs Toronto Tempo",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/07 02:00:00 +0000",
-      "endTime": "2026/08/07 04:45:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv WNBA",
-      "DUDE Tv Live",
-      "WNBA LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv WNBA",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "WNBA LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1110,82 +1001,6 @@
       },
       {
         "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50073,
-    "title": "Timbers vs Club Puebla",
-    "image": "o",
-    "cat": "Leagues Cup",
-    "eventInfo": {
-      "teamA": "Portland",
-      "teamB": "Puebla",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/22007/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1941/image",
-      "eventName": "Portland Timbers vs Club Puebla",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/07 02:30:00 +0000",
-      "endTime": "2026/08/07 04:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "APPLE TV HD",
-      "SPX LIVE HD",
-      "SPX LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "APPLE TV HD",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE HD",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50074,
-    "title": "Club América vs San Diego",
-    "image": "o",
-    "cat": "Leagues Cup",
-    "eventInfo": {
-      "teamA": "América",
-      "teamB": "San Diego FC",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1939/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1043961/image",
-      "eventName": "Club América vs San Diego FC",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/07 02:00:00 +0000",
-      "endTime": "2026/08/07 04:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "APPLE TV HD",
-      "SPX LIVE HD",
-      "SPX LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "APPLE TV HD",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE HD",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
