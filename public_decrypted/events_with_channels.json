@@ -369,8 +369,8 @@
       "eventName": "MotoGP - British Grand Prix",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/07 08:30:00 +0000",
-      "endTime": "2026/08/07 16:30:00 +0000"
+      "startTime": "2026/08/08 10:00:00 +0000",
+      "endTime": "2026/08/08 16:30:00 +0000"
     },
     "adsLimit": "11",
     "publish": "1",
@@ -1796,8 +1796,8 @@
     ],
     "decoded_channels": [
       {
-        "api": "56f46d806961b2b8b30d208b713c5061:dc474a96d57b2d143f477b4d5ade9ef0",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hmyciwvirh/out/v1/5e04c4a3116b4e848f99a37fefb996d0/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "5d528100f5052c5bbe18503ccf5dc845:ee73d720083412797646f90c64f10060",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/saq13g3n8i/out/v1/eca8b3190aab4da7ad62d849f3729eae/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW - FHD",
         "type": "1"
@@ -1811,7 +1811,7 @@
       },
       {
         "api": "56f46d806961b2b8b30d208b713c5061:dc474a96d57b2d143f477b4d5ade9ef0",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hmyciwvirh/out/v1/5e04c4a3116b4e848f99a37fefb996d0/cenc.mpd",
+        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/saq13g3n8i/out/v1/eca8b3190aab4da7ad62d849f3729eae/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW - ALT",
         "type": "1"
@@ -1825,7 +1825,7 @@
       },
       {
         "api": "",
-        "link": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8",
+        "link": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
         "title": "SKY SPORT NZ",
         "type": "0"
@@ -1839,7 +1839,7 @@
       },
       {
         "api": "",
-        "link": "http://193.47.62.190/hls/BBBB.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.190/hls/EPPP.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "LOW SERVER",
         "type": "0"
@@ -1861,8 +1861,8 @@
       "eventType": "null",
       "eventBanner": "null",
       "isHot": "0",
-      "startTime": "2026/08/07 14:00:00 +0000",
-      "endTime": "2026/08/07 17:30:00 +0000"
+      "startTime": "2026/08/08 09:30:00 +0000",
+      "endTime": "2026/08/08 17:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -2620,6 +2620,7 @@
     "formats": [
       "beIN ENGLISH",
       "CBS NETWORK",
+      "SportTV HD [PT]",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
@@ -2632,6 +2633,10 @@
         "logo": ""
       },
       {
+        "title": "SportTV HD [PT]",
+        "logo": ""
+      },
+      {
         "title": "SPX LIVE [FHD]",
         "logo": ""
       }
@@ -2640,18 +2645,28 @@
       {
         "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
         "title": "beIN ENGLISH",
         "type": "1"
       },
       {
         "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
         "title": "CBS NETWORK",
         "type": "1"
       },
       {
         "api": "",
+        "link": "https://rdcstream.life/live/sport-tv-3-pt/index.m3u8?|Referer=https://bolodechocolate.fit/",
+        "logo": "",
+        "title": "SportTV HD [PT]",
+        "type": "0"
+      },
+      {
+        "api": "",
         "link": "https://embedindia.st/embed/carabao-cup/2026-08-07/wol-ptv",
+        "logo": "",
         "title": "SPX LIVE [FHD]",
         "type": "0"
       }
@@ -2678,11 +2693,21 @@
     "publish": "1",
     "formats": [
       "beIN ENGLISH",
+      "ESPN HD [BR]",
+      "SportTV HD [PT]",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH",
+        "logo": ""
+      },
+      {
+        "title": "ESPN HD [BR]",
+        "logo": ""
+      },
+      {
+        "title": "SportTV HD [PT]",
         "logo": ""
       },
       {
@@ -2697,6 +2722,20 @@
         "logo": "",
         "title": "beIN ENGLISH",
         "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://rdcstream.life/live/espn4/index.m3u8?|Referer=https://bolodechocolate.fit/",
+        "logo": "",
+        "title": "ESPN HD [BR]",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://rdcstream.life/live/sport-tv-4-pt/index.m3u8?|Referer=https://bolodechocolate.fit/",
+        "logo": "",
+        "title": "SportTV HD [PT]",
+        "type": "0"
       },
       {
         "api": "",
@@ -2727,11 +2766,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportDigital Fussball"
+      "SportDigital Fussball",
+      "SportTV HD [PT]"
     ],
     "formatsNew": [
       {
         "title": "SportDigital Fussball",
+        "logo": ""
+      },
+      {
+        "title": "SportTV HD [PT]",
         "logo": ""
       }
     ],
@@ -2739,8 +2783,16 @@
       {
         "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
         "title": "SportDigital Fussball",
         "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://rdcstream.life/live/sport-tv-1-pt/index.m3u8?|Referer=https://bolodechocolate.fit/",
+        "logo": "",
+        "title": "SportTV HD [PT]",
+        "type": "0"
       }
     ],
     "channel_status": "live"
@@ -2780,7 +2832,7 @@
         "type": "0"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
     "id": 50097,
@@ -2813,44 +2865,6 @@
       {
         "api": "",
         "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50098,
-    "title": "Racing Club vs Deportivo Alavés",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Racing Club",
-      "teamB": "Deportivo Alavés",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2835/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2885/image",
-      "eventName": "R. Racing Club vs Deportivo Alavés",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/07 17:30:00 +0000",
-      "endTime": "2026/08/07 19:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       }

@@ -186,8 +186,8 @@
       "eventName": "MotoGP - British Grand Prix",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/07 08:30:00 +0000",
-      "endTime": "2026/08/07 16:30:00 +0000"
+      "startTime": "2026/08/08 10:00:00 +0000",
+      "endTime": "2026/08/08 16:30:00 +0000"
     },
     "adsLimit": "11",
     "publish": "1",
@@ -960,8 +960,8 @@
       "eventType": "null",
       "eventBanner": "null",
       "isHot": "0",
-      "startTime": "2026/08/07 14:00:00 +0000",
-      "endTime": "2026/08/07 17:30:00 +0000"
+      "startTime": "2026/08/08 09:30:00 +0000",
+      "endTime": "2026/08/08 17:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1431,6 +1431,7 @@
     "formats": [
       "beIN ENGLISH",
       "CBS NETWORK",
+      "SportTV HD [PT]",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
@@ -1440,6 +1441,10 @@
       },
       {
         "title": "CBS NETWORK",
+        "logo": ""
+      },
+      {
+        "title": "SportTV HD [PT]",
         "logo": ""
       },
       {
@@ -1468,11 +1473,21 @@
     "publish": "1",
     "formats": [
       "beIN ENGLISH",
+      "ESPN HD [BR]",
+      "SportTV HD [PT]",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH",
+        "logo": ""
+      },
+      {
+        "title": "ESPN HD [BR]",
+        "logo": ""
+      },
+      {
+        "title": "SportTV HD [PT]",
         "logo": ""
       },
       {
@@ -1500,11 +1515,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportDigital Fussball"
+      "SportDigital Fussball",
+      "SportTV HD [PT]"
     ],
     "formatsNew": [
       {
         "title": "SportDigital Fussball",
+        "logo": ""
+      },
+      {
+        "title": "SportTV HD [PT]",
         "logo": ""
       }
     ]
@@ -1552,34 +1572,6 @@
       "isHot": "0",
       "startTime": "2026/08/07 18:30:00 +0000",
       "endTime": "2026/08/07 20:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50098,
-    "title": "Racing Club vs Deportivo Alavés",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Racing Club",
-      "teamB": "Deportivo Alavés",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2835/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2885/image",
-      "eventName": "R. Racing Club vs Deportivo Alavés",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/07 17:30:00 +0000",
-      "endTime": "2026/08/07 19:35:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
