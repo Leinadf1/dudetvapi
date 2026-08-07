@@ -862,7 +862,6 @@
       "WILLOW - FHD",
       "WILLOW - ALT",
       "T SPORTS HD",
-      "A SPORTS - FHD",
       "FANCODE - IN",
       "WILLOW [FHD]"
     ],
@@ -877,10 +876,6 @@
       },
       {
         "title": "T SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "A SPORTS - FHD",
         "logo": ""
       },
       {
@@ -974,6 +969,7 @@
       "WILLOW - FHD",
       "SKY CRICKET",
       "WILLOW - ALT",
+      "TAPMAD - FHD",
       "SKY SPORT NZ",
       "FOX CRICKET HD",
       "LOW SERVER"
@@ -990,6 +986,10 @@
       {
         "title": "WILLOW - ALT",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "TAPMAD - FHD",
+        "logo": ""
       },
       {
         "title": "SKY SPORT NZ",
@@ -1660,133 +1660,6 @@
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50100,
-    "title": "Hoffenheim vs Borussia M'gladbach",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Hoffenheim",
-      "teamB": "M'gladbach",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2569/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2527/image",
-      "eventName": "Hoffenheim vs Borussia M'gladbach",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/07 14:00:00 +0000",
-      "endTime": "2026/08/07 16:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50101,
-    "title": "Brisbane Lions vs Hawthorn Hawks",
-    "image": "o",
-    "cat": "AFL",
-    "eventInfo": {
-      "teamA": "Brisbane Lions",
-      "teamB": "Hawthorn Hawks",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4444/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4445/image",
-      "eventName": "Brisbane Lions vs Hawthorn Hawks",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/07 09:40:00 +0000",
-      "endTime": "2026/08/07 12:10:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "TNT Sports 1",
-      "FOX SPORTS 2"
-    ],
-    "formatsNew": [
-      {
-        "title": "TNT Sports 1",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
-      },
-      {
-        "title": "FOX SPORTS 2",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50102,
-    "title": "Warriors vs Penrith Panthers",
-    "image": "o",
-    "cat": "NRL Rugby",
-    "eventInfo": {
-      "teamA": "New Zealand",
-      "teamB": "Penrith Panthers",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4267/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4262/image",
-      "eventName": "Warriors vs Penrith Panthers",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/07 08:00:00 +0000",
-      "endTime": "2026/08/07 10:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "FOX LEAGUE HD",
-      "SPX LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "FOX LEAGUE HD",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50103,
-    "title": "Sydney vs Canterbury Bulldogs",
-    "image": "o",
-    "cat": "NRL Rugby",
-    "eventInfo": {
-      "teamA": "Sydney Roosters",
-      "teamB": "Canterbury Bulldogs",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4264/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4253/image",
-      "eventName": "Sydney Roosters vs Canterbury Bulldogs",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/07 10:00:00 +0000",
-      "endTime": "2026/08/07 12:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "FOX LEAGUE HD",
-      "SPX LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "FOX LEAGUE HD",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
