@@ -1373,59 +1373,6 @@
     ]
   },
   {
-    "id": 50091,
-    "title": "Aston Villa vs Bayern München",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Aston Villa",
-      "teamB": "Bayern",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/40/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2672/image",
-      "eventName": "Aston Villa vs Bayern München",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/07 12:00:00 +0000",
-      "endTime": "2026/08/07 14:10:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN ENGLISH",
-      "FOX DEPORTES",
-      "CBS NETWORK",
-      "DUDE Tv Live",
-      "SD SERVER",
-      "SPX LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN ENGLISH",
-        "logo": ""
-      },
-      {
-        "title": "FOX DEPORTES",
-        "logo": ""
-      },
-      {
-        "title": "CBS NETWORK",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50092,
     "title": "Fulham vs Crystal Palace",
     "image": "o",
@@ -1444,9 +1391,19 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PALACE TV HD",
+      "LOW QUALITY",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "PALACE TV HD",
+        "logo": ""
+      },
+      {
+        "title": "LOW QUALITY",
+        "logo": ""
+      },
       {
         "title": "SPX LIVE [FHD]",
         "logo": ""
