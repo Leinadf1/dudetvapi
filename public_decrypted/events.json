@@ -186,8 +186,8 @@
       "eventName": "MotoGP - British Grand Prix",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/08 10:00:00 +0000",
-      "endTime": "2026/08/08 16:30:00 +0000"
+      "startTime": "2026/08/09 12:00:00 +0000",
+      "endTime": "2026/08/09 13:30:00 +0000"
     },
     "adsLimit": "11",
     "publish": "1",
@@ -254,7 +254,7 @@
       "eventName": "UFC Fight Night: Gamrot vs Salkilld",
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://iili.io/CrDQ6Rn.png",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/08/08 21:00:00 +0000",
       "endTime": "2026/08/09 05:00:00 +0000"
     },
@@ -263,13 +263,14 @@
     "formats": [
       "TNT Sports FHD",
       "PARAMOUNT+ HD",
+      "DUDE Tv LIVE",
       "PARAMOUNT+ FHD",
       "PARAMOUNT+ ES",
       "PARAMOUNT+ PT",
+      "DAZN DE [FHD]",
       "SportsNet FHD",
       "DUDE Tv Live",
-      "SD TV (USE VPN)",
-      "DUDE Tv LIVE"
+      "SD TV (USE VPN)"
     ],
     "formatsNew": [
       {
@@ -278,6 +279,10 @@
       },
       {
         "title": "PARAMOUNT+ HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv LIVE",
         "logo": ""
       },
       {
@@ -293,6 +298,10 @@
         "logo": ""
       },
       {
+        "title": "DAZN DE [FHD]",
+        "logo": ""
+      },
+      {
         "title": "SportsNet FHD",
         "logo": ""
       },
@@ -302,10 +311,6 @@
       },
       {
         "title": "SD TV (USE VPN)",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv LIVE",
         "logo": ""
       }
     ]
@@ -914,10 +919,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv WNBA",
       "DUDE Tv Live",
       "WNBA LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv WNBA",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -958,49 +968,6 @@
       {
         "title": "WNBA LIVE [FHD]",
         "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50061,
-    "title": "LPL",
-    "image": "o",
-    "cat": "Lanka Premier League",
-    "eventInfo": {
-      "teamA": "LPL",
-      "teamB": "LPL",
-      "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/16365/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/16365/image",
-      "eventName": "Lanka Premier League",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/08 14:00:00 +0000",
-      "endTime": "2026/08/08 17:45:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "WILLOW - FHD",
-      "WILLOW - ALT",
-      "T SPORTS HD",
-      "FANCODE - IN"
-    ],
-    "formatsNew": [
-      {
-        "title": "WILLOW - FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "T SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "FANCODE - IN",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       }
     ]
   },
@@ -1076,8 +1043,8 @@
       "eventType": "null",
       "eventBanner": "null",
       "isHot": "0",
-      "startTime": "2026/08/08 13:30:00 +0000",
-      "endTime": "2026/08/08 17:30:00 +0000"
+      "startTime": "2026/08/09 10:00:00 +0000",
+      "endTime": "2026/08/09 17:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1186,10 +1153,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1285,15 +1257,10 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TNT Sports",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
-      {
-        "title": "TNT Sports",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
-      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1504,9 +1471,9 @@
   },
   {
     "id": 50085,
-    "title": "Caribbean Premier League",
+    "title": "CPL",
     "image": "o",
-    "cat": "Cricket",
+    "cat": "Caribbean Premier League",
     "eventInfo": {
       "teamA": "CPL",
       "teamB": "CPL",
@@ -1521,37 +1488,65 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "WILLOW - FHD",
-      "TNT Sports FHD",
-      "SKY CRICKET",
+      "Willow HD",
+      "TNT SPORTS",
+      "FOX CRICKET",
+      "WILLOW HD",
       "TAPMAD - FHD",
-      "WILLOW - HD",
-      "FOX CRICKET HD"
+      "FANCODE - IN"
     ],
     "formatsNew": [
       {
-        "title": "WILLOW - FHD",
+        "title": "Willow HD",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
-        "title": "TNT Sports FHD",
+        "title": "TNT SPORTS",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
       },
       {
-        "title": "SKY CRICKET",
-        "logo": ""
+        "title": "FOX CRICKET",
+        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "title": "WILLOW HD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
         "title": "TAPMAD - FHD",
         "logo": ""
       },
       {
-        "title": "WILLOW - HD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
+        "title": "FANCODE - IN",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      }
+    ]
+  },
+  {
+    "id": 50086,
+    "title": "Morocco vs South Africa",
+    "image": "o",
+    "cat": "Womens AFCON",
+    "eventInfo": {
+      "teamA": "Morocco",
+      "teamB": "South Africa",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/261908/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/65336/image",
+      "eventName": "Morocco vs South Africa",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/08 20:00:00 +0000",
+      "endTime": "2026/08/08 22:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "beIN ENGLISH"
+    ],
+    "formatsNew": [
       {
-        "title": "FOX CRICKET HD",
-        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj"
+        "title": "beIN ENGLISH",
+        "logo": ""
       }
     ]
   },
@@ -1574,66 +1569,13 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "APPLE TV HD",
+      "DUDE Tv Live",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "SPX LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50091,
-    "title": "Ferencváros vs Real Madrid",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Ferencváros",
-      "teamB": "Real Madrid",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1925/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2829/image",
-      "eventName": "Ferencváros TC vs Real Madrid",
-      "eventType": "null",
-      "isHot": "1",
-      "startTime": "2026/08/08 17:00:00 +0000",
-      "endTime": "2026/08/08 19:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "RM TV ENGLISH",
-      "RM TV SPANISH",
-      "CBS NETWORK HD",
-      "D SPORTS - FHD",
-      "ESPN HD [BR]",
-      "HD SERVER",
-      "DUDE Tv Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "RM TV ENGLISH",
-        "logo": ""
-      },
-      {
-        "title": "RM TV SPANISH",
-        "logo": ""
-      },
-      {
-        "title": "CBS NETWORK HD",
-        "logo": ""
-      },
-      {
-        "title": "D SPORTS - FHD",
-        "logo": ""
-      },
-      {
-        "title": "ESPN HD [BR]",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
+        "title": "APPLE TV HD",
         "logo": ""
       },
       {
@@ -1641,40 +1583,7 @@
         "logo": ""
       },
       {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50092,
-    "title": "Udinese vs Nottingham Forest",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Udinese",
-      "teamB": "Forest",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2695/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/14/image",
-      "eventName": "Udinese vs Nottingham Forest",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/08 18:00:00 +0000",
-      "endTime": "2026/08/08 20:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "CBS NETWORK",
-      "FOREST TV HD"
-    ],
-    "formatsNew": [
-      {
-        "title": "CBS NETWORK",
-        "logo": ""
-      },
-      {
-        "title": "FOREST TV HD",
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1699,7 +1608,10 @@
     "publish": "1",
     "formats": [
       "CBS NETWORK",
-      "FOREST TV HD"
+      "FOREST TV HD",
+      "DUDE Tv Live",
+      "Sport TV4 HD",
+      "HD SERVER"
     ],
     "formatsNew": [
       {
@@ -1708,6 +1620,18 @@
       },
       {
         "title": "FOREST TV HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "Sport TV4 HD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
         "logo": ""
       }
     ]
@@ -1825,11 +1749,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "CBS NETWORK"
+      "CBS NETWORK",
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
         "title": "CBS NETWORK",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
@@ -1853,11 +1782,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "Sport TV1 HD [PT]"
+      "DUDE Tv Live",
+      "Sport TV1 HD [PT]",
+      "beIN ESPANOL HD"
     ],
     "formatsNew": [
       {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
         "title": "Sport TV1 HD [PT]",
+        "logo": ""
+      },
+      {
+        "title": "beIN ESPANOL HD",
         "logo": ""
       }
     ]
@@ -1905,6 +1844,34 @@
       "isHot": "0",
       "startTime": "2026/08/08 19:00:00 +0000",
       "endTime": "2026/08/08 21:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50102,
+    "title": "Galatasaray vs Villarreal",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "Galatasaray",
+      "teamB": "Villarreal",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3061/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2819/image",
+      "eventName": "Galatasaray vs Villarreal",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/08 18:00:00 +0000",
+      "endTime": "2026/08/08 20:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -2130,39 +2097,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "APPLE TV HD"
+      "APPLE TV HD",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "APPLE TV HD",
         "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50117,
-    "title": "Vitória SC vs FC Arouca",
-    "image": "o",
-    "cat": "Liga Portugal",
-    "eventInfo": {
-      "teamA": "Vitória SC",
-      "teamB": "FC Arouca",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3009/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/25777/image",
-      "eventName": "Vitória SC vs FC Arouca",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/08 17:00:00 +0000",
-      "endTime": "2026/08/08 19:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "Sport TV2 HD [PT]"
-    ],
-    "formatsNew": [
+      },
       {
-        "title": "Sport TV2 HD [PT]",
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
