@@ -511,7 +511,7 @@
       "eventName": "🥊 WWE Friday Night SmackDown",
       "eventType": "null",
       "eventBanner": "https://iili.io/B60OM3Q.gif",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/08/08 00:00:00 +0000",
       "endTime": "2026/08/08 03:00:00 +0000"
     },
@@ -678,10 +678,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv WNBA",
       "DUDE Tv Live",
       "WNBA LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv WNBA",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -711,10 +716,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv LIVE",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv LIVE",
         "logo": ""
@@ -914,10 +924,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv WNBA",
       "DUDE Tv Live",
       "WNBA LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv WNBA",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1348,10 +1363,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1381,10 +1401,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1414,10 +1439,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1447,10 +1477,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1479,17 +1514,37 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "WILLOW - FHD",
+      "TNT Sports FHD",
+      "SKY CRICKET",
+      "TAPMAD - FHD",
       "WILLOW - HD",
-      "SKY CRICKET"
+      "FOX CRICKET HD"
     ],
     "formatsNew": [
+      {
+        "title": "WILLOW - FHD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "TNT Sports FHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
+      {
+        "title": "SKY CRICKET",
+        "logo": ""
+      },
+      {
+        "title": "TAPMAD - FHD",
+        "logo": ""
+      },
       {
         "title": "WILLOW - HD",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
-        "title": "SKY CRICKET",
-        "logo": ""
+        "title": "FOX CRICKET HD",
+        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj"
       }
     ]
   },
