@@ -810,12 +810,42 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "Willow HD"
+      "WILLOW - FHD",
+      "SKY CRICKET - AQ",
+      "WILLOW - ALT",
+      "TAPMAD - FHD",
+      "FOX CRICKET HD",
+      "SKY SPORT",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "Willow HD",
+        "title": "WILLOW - FHD",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "SKY CRICKET - AQ",
+        "logo": ""
+      },
+      {
+        "title": "WILLOW - ALT",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "TAPMAD - FHD",
+        "logo": ""
+      },
+      {
+        "title": "FOX CRICKET HD",
+        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "title": "SKY SPORT",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
+      },
+      {
+        "title": "LOW SERVER",
+        "logo": ""
       }
     ]
   },
@@ -1011,8 +1041,7 @@
       "WILLOW - FHD",
       "WILLOW - ALT",
       "T SPORTS HD",
-      "FANCODE - IN",
-      "WILLOW [FHD]"
+      "FANCODE - IN"
     ],
     "formatsNew": [
       {
@@ -1030,10 +1059,6 @@
       {
         "title": "FANCODE - IN",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      },
-      {
-        "title": "WILLOW [FHD]",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       }
     ]
   },
@@ -1109,18 +1134,15 @@
       "eventType": "null",
       "eventBanner": "null",
       "isHot": "0",
-      "startTime": "2026/08/08 09:30:00 +0000",
+      "startTime": "2026/08/08 13:30:00 +0000",
       "endTime": "2026/08/08 17:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
       "WILLOW - FHD",
-      "SKY CRICKET",
       "WILLOW - ALT",
       "TAPMAD - FHD",
-      "SKY SPORT NZ",
-      "FOX CRICKET HD",
       "LOW SERVER"
     ],
     "formatsNew": [
@@ -1129,24 +1151,12 @@
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
-        "title": "SKY CRICKET",
-        "logo": ""
-      },
-      {
         "title": "WILLOW - ALT",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
         "title": "TAPMAD - FHD",
         "logo": ""
-      },
-      {
-        "title": "SKY SPORT NZ",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
-      },
-      {
-        "title": "FOX CRICKET HD",
-        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj"
       },
       {
         "title": "LOW SERVER",
@@ -1561,9 +1571,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv Live",
       "SD SERVER"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
       {
         "title": "SD SERVER",
         "logo": ""
@@ -1589,9 +1604,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv Live",
       "SD SERVER"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
       {
         "title": "SD SERVER",
         "logo": ""
@@ -1785,50 +1805,29 @@
   },
   {
     "id": 50095,
-    "title": "Juventus vs Inter",
+    "title": "Augsburg vs Sassuolo",
     "image": "o",
     "cat": "Club Friendly",
     "eventInfo": {
-      "teamA": "Juventus",
-      "teamB": "Inter",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2687/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2697/image",
-      "eventName": "Juventus vs Inter",
+      "teamA": "Augsburg",
+      "teamB": "Sassuolo",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2600/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2793/image",
+      "eventName": "Augsburg vs Sassuolo",
       "eventType": "null",
-      "isHot": "1",
-      "startTime": "2026/08/08 11:00:00 +0000",
-      "endTime": "2026/08/08 13:05:00 +0000"
+      "startTime": "2026/08/08 13:30:00 +0000",
+      "endTime": "2026/08/08 15:35:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "CBS NETWORK",
-      "D Sports FHD",
-      "DAZN SPORTS HD",
       "DUDE Tv Live",
-      "Sky Sports",
       "Low Quality"
     ],
     "formatsNew": [
       {
-        "title": "CBS NETWORK",
-        "logo": ""
-      },
-      {
-        "title": "D Sports FHD",
-        "logo": ""
-      },
-      {
-        "title": "DAZN SPORTS HD",
-        "logo": ""
-      },
-      {
         "title": "DUDE Tv Live",
         "logo": ""
-      },
-      {
-        "title": "Sky Sports",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
       },
       {
         "title": "Low Quality",
@@ -1855,11 +1854,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "SD SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1885,7 +1884,9 @@
     "formats": [
       "Premier Sports",
       "beIN ENGLISH",
-      "XSports HD"
+      "DUDE Tv Live",
+      "XSports HD",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
@@ -1897,7 +1898,15 @@
         "logo": ""
       },
       {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
         "title": "XSports HD",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1921,9 +1930,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "SD SERVER",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
       {
         "title": "SPX LIVE [FHD]",
         "logo": ""
@@ -1977,11 +1991,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "CBS NETWORK"
+      "CBS NETWORK",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "CBS NETWORK",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -2090,11 +2109,16 @@
     "publish": "1",
     "formats": [
       "beIN ENGLISH",
+      "SD SERVER",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       },
       {
@@ -2150,9 +2174,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "SD SERVER",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
       {
         "title": "SPX LIVE [FHD]",
         "logo": ""
@@ -2178,9 +2207,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "SD SERVER",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
       {
         "title": "SPX LIVE [FHD]",
         "logo": ""
@@ -2333,348 +2367,138 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "RED BULL TV HD",
-      "SD SERVER"
+      "SD SERVER",
+      "RED BULL TV HD"
     ],
     "formatsNew": [
       {
-        "title": "RED BULL TV HD",
+        "title": "SD SERVER",
         "logo": ""
       },
       {
-        "title": "SD SERVER",
+        "title": "RED BULL TV HD",
         "logo": ""
       }
     ]
   },
   {
     "id": 50114,
-    "title": "Geelong Cats vs Essendon",
+    "title": "Dundee FC vs Aberdeen",
     "image": "o",
-    "cat": "AFL",
+    "cat": "Scottish Premiership",
     "eventInfo": {
-      "teamA": "Geelong Cats",
-      "teamB": "Essendon Bombers",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4443/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4450/image",
-      "eventName": "Geelong Cats vs Essendon Bombers",
+      "teamA": "Dundee",
+      "teamB": "Aberdeen",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2357/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2355/image",
+      "eventName": "Dundee FC vs Aberdeen",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/08 06:35:00 +0000",
-      "endTime": "2026/08/08 09:05:00 +0000"
+      "startTime": "2026/08/08 14:00:00 +0000",
+      "endTime": "2026/08/08 16:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "FOX SPORTS FHD",
-      "SPX LIVE [FHD]"
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
-        "title": "FOX SPORTS FHD",
+        "title": "DUDE Tv Live",
         "logo": ""
       },
       {
-        "title": "SPX LIVE [FHD]",
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
   },
   {
     "id": 50115,
-    "title": "Adelaide Crows vs Richmond Tigers",
+    "title": "Mirren vs Johnstone",
     "image": "o",
-    "cat": "AFL",
+    "cat": "Scottish Premiership",
     "eventInfo": {
-      "teamA": "Adelaide Crows",
-      "teamB": "Richmond Tigers",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4442/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4451/image",
-      "eventName": "Adelaide Crows vs Richmond Tigers",
+      "teamA": "St. Mirren",
+      "teamB": "St. Johnstone",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2359/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2348/image",
+      "eventName": "St. Mirren vs St. Johnstone",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/08 09:35:00 +0000",
-      "endTime": "2026/08/08 12:05:00 +0000"
+      "startTime": "2026/08/08 14:00:00 +0000",
+      "endTime": "2026/08/08 16:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TNT Sports FHD",
-      "SPX LIVE [FHD]"
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
-        "title": "TNT Sports FHD",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+        "title": "DUDE Tv Live",
+        "logo": ""
       },
       {
-        "title": "SPX LIVE [FHD]",
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
   },
   {
     "id": 50116,
-    "title": "Melbourne Storm vs Manly Sea Eagles",
+    "title": "CS Marítimo vs Casa Pia",
     "image": "o",
-    "cat": "NRL Rugby",
+    "cat": "Liga Portugal",
     "eventInfo": {
-      "teamA": "Melbourne Storm",
-      "teamB": "Eagles",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4255/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4259/image",
-      "eventName": "Melbourne Storm vs Manly Sea Eagles",
+      "teamA": "Marítimo",
+      "teamB": "Casa Pia",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3007/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/36365/image",
+      "eventName": "Marítimo vs Casa Pia",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/08 05:00:00 +0000",
-      "endTime": "2026/08/08 07:30:00 +0000"
+      "startTime": "2026/08/08 14:30:00 +0000",
+      "endTime": "2026/08/08 16:35:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "NZ SPORTS HD",
-      "SKY SPORTS FHD",
-      "SD SERVER",
-      "SPX LIVE [FHD]"
+      "Sport TV1 HD [PT]"
     ],
     "formatsNew": [
       {
-        "title": "NZ SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "SKY SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
+        "title": "Sport TV1 HD [PT]",
         "logo": ""
       }
     ]
   },
   {
     "id": 50117,
-    "title": "Dolphins vs Brisbane Broncos",
+    "title": "Vitória SC vs FC Arouca",
     "image": "o",
-    "cat": "NRL Rugby",
+    "cat": "Liga Portugal",
     "eventInfo": {
-      "teamA": "Dolphins",
-      "teamB": "Brisbane Broncos",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/465010/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4258/image",
-      "eventName": "Dolphins vs Brisbane Broncos",
+      "teamA": "Vitória SC",
+      "teamB": "FC Arouca",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3009/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/25777/image",
+      "eventName": "Vitória SC vs FC Arouca",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/08 07:30:00 +0000",
-      "endTime": "2026/08/08 10:00:00 +0000"
+      "startTime": "2026/08/08 17:00:00 +0000",
+      "endTime": "2026/08/08 19:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "NZ SPORTS HD",
-      "SKY SPORTS FHD",
-      "SD SERVER",
-      "SPX LIVE [FHD]"
+      "Sport TV2 HD [PT]"
     ],
     "formatsNew": [
       {
-        "title": "NZ SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "SKY SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50118,
-    "title": "South Sydney vs Parramatta Eels",
-    "image": "o",
-    "cat": "NRL Rugby",
-    "eventInfo": {
-      "teamA": "South Sydney",
-      "teamB": "Parramatta Eels",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4263/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4261/image",
-      "eventName": "South Sydney vs Parramatta Eels",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/08 09:35:00 +0000",
-      "endTime": "2026/08/08 12:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "NZ SPORTS HD",
-      "SKY SPORTS FHD",
-      "SPX LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "NZ SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "SKY SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50119,
-    "title": "Darmstadt 98 vs Holstein Kiel",
-    "image": "o",
-    "cat": "2. Bundesliga",
-    "eventInfo": {
-      "teamA": "Darmstadt 98",
-      "teamB": "Holstein Kiel",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2576/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2573/image",
-      "eventName": "Darmstadt 98 vs Holstein Kiel",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/08 11:00:00 +0000",
-      "endTime": "2026/08/08 13:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN ENGLISH FHD",
-      "DUDE Tv Live",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN ENGLISH FHD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50120,
-    "title": "Heidenheim vs Osnabrück",
-    "image": "o",
-    "cat": "2. Bundesliga",
-    "eventInfo": {
-      "teamA": "Heidenheim",
-      "teamB": "Osnabrück",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/5885/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2581/image",
-      "eventName": "Heidenheim vs Osnabrück",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/08 11:00:00 +0000",
-      "endTime": "2026/08/08 13:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN ENGLISH FHD",
-      "DUDE Tv Live",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN ENGLISH FHD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50121,
-    "title": "Magdeburg vs Braunschweig",
-    "image": "o",
-    "cat": "2. Bundesliga",
-    "eventInfo": {
-      "teamA": "Magdeburg",
-      "teamB": "Braunschweig",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2591/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2557/image",
-      "eventName": "Magdeburg vs Eintracht Braunschweig",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/08 11:00:00 +0000",
-      "endTime": "2026/08/08 13:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50122,
-    "title": "Karlsruher vs Arminia Bielefeld",
-    "image": "o",
-    "cat": "2. Bundesliga",
-    "eventInfo": {
-      "teamA": "Karlsruher",
-      "teamB": "Bielefeld",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2553/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2540/image",
-      "eventName": "Karlsruher vs Arminia Bielefeld",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/08 11:00:00 +0000",
-      "endTime": "2026/08/08 13:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
+        "title": "Sport TV2 HD [PT]",
         "logo": ""
       }
     ]

@@ -1604,21 +1604,93 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "Willow HD"
+      "WILLOW - FHD",
+      "SKY CRICKET - AQ",
+      "WILLOW - ALT",
+      "TAPMAD - FHD",
+      "FOX CRICKET HD",
+      "SKY SPORT",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "Willow HD",
+        "title": "WILLOW - FHD",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "SKY CRICKET - AQ",
+        "logo": ""
+      },
+      {
+        "title": "WILLOW - ALT",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "TAPMAD - FHD",
+        "logo": ""
+      },
+      {
+        "title": "FOX CRICKET HD",
+        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "title": "SKY SPORT",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
+      },
+      {
+        "title": "LOW SERVER",
+        "logo": ""
       }
     ],
     "decoded_channels": [
       {
-        "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+        "api": "bd27c0daf95e9ed5d3b720578137c1f6:b564de023ff9e1564f89aabb5a9742f7",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5evskgy7ci/out/v1/8397c22a3e4644e48812bd16fceb53ae/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "Willow HD",
+        "title": "WILLOW - FHD",
         "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+        "logo": "",
+        "title": "SKY CRICKET - AQ",
+        "type": "0"
+      },
+      {
+        "api": "bd27c0daf95e9ed5d3b720578137c1f6:b564de023ff9e1564f89aabb5a9742f7",
+        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5evskgy7ci/out/v1/8397c22a3e4644e48812bd16fceb53ae/cenc.mpd",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "title": "WILLOW - ALT",
+        "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com",
+        "logo": "",
+        "title": "TAPMAD - FHD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
+        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj",
+        "title": "FOX CRICKET HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+        "title": "SKY SPORT",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.190/hls/HLLLAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "LOW SERVER",
+        "type": "0"
       }
     ],
     "channel_status": "live"
@@ -1917,8 +1989,7 @@
       "WILLOW - FHD",
       "WILLOW - ALT",
       "T SPORTS HD",
-      "FANCODE - IN",
-      "WILLOW [FHD]"
+      "FANCODE - IN"
     ],
     "formatsNew": [
       {
@@ -1936,23 +2007,19 @@
       {
         "title": "FANCODE - IN",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      },
-      {
-        "title": "WILLOW [FHD]",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       }
     ],
     "decoded_channels": [
       {
-        "api": "ac815b57bff62309e980fce77043dbe1:976ad666a1985b4951f838f025df50b2",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zqnxluzzwv/out/v1/52b97baddf4448a3ac8ab225a64b8999/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "68ed4e1c2ffeb7f9133a7624d126c0b1:9772b4fed3a42a93ffb622a8e4367e1b",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cftovojmaj/out/v1/33c94907d87b48538400edd92503d6d8/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW - FHD",
         "type": "1"
       },
       {
-        "api": "ac815b57bff62309e980fce77043dbe1:976ad666a1985b4951f838f025df50b2",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/zqnxluzzwv/out/v1/52b97baddf4448a3ac8ab225a64b8999/cenc.mpd",
+        "api": "68ed4e1c2ffeb7f9133a7624d126c0b1:9772b4fed3a42a93ffb622a8e4367e1b",
+        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cftovojmaj/out/v1/33c94907d87b48538400edd92503d6d8/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW - ALT",
         "type": "1"
@@ -1966,17 +2033,10 @@
       },
       {
         "api": "",
-        "link": "https://dai-fancode.pages.dev/mumbai/4246730_english_hls_2cd3c7f2c483767_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+        "link": "https://dai-fancode.pages.dev/mumbai/4246732_english_hls_f760b877e754174_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
         "title": "FANCODE - IN",
         "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embed.st/embed/admin/admin-willow-cricket/2",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW [FHD]",
-        "type": "2"
       }
     ],
     "channel_status": "live"
@@ -2105,28 +2165,21 @@
       "eventType": "null",
       "eventBanner": "null",
       "isHot": "0",
-      "startTime": "2026/08/08 09:30:00 +0000",
+      "startTime": "2026/08/08 13:30:00 +0000",
       "endTime": "2026/08/08 17:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
       "WILLOW - FHD",
-      "SKY CRICKET",
       "WILLOW - ALT",
       "TAPMAD - FHD",
-      "SKY SPORT NZ",
-      "FOX CRICKET HD",
       "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "WILLOW - FHD",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "SKY CRICKET",
-        "logo": ""
       },
       {
         "title": "WILLOW - ALT",
@@ -2137,36 +2190,21 @@
         "logo": ""
       },
       {
-        "title": "SKY SPORT NZ",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
-      },
-      {
-        "title": "FOX CRICKET HD",
-        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj"
-      },
-      {
         "title": "LOW SERVER",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
-        "api": "fe4a1bbfcf4147c8e38c241208232ad2:0e9258000b4216e095844163b5d1eb6d",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/aksnjpdam2/out/v1/a71e0bd938ca471c918443039af47dd1/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "e6f3749018344d8c1660e9546642c2de:6eda0463a5a0bb36944855353fcc2290",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zdj7qgaerx/out/v1/5683d35fda0b4e9086b8bc669416bcba/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW - FHD",
         "type": "1"
       },
       {
-        "api": "",
-        "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-        "logo": "",
-        "title": "SKY CRICKET",
-        "type": "0"
-      },
-      {
-        "api": "fe4a1bbfcf4147c8e38c241208232ad2:0e9258000b4216e095844163b5d1eb6d",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/aksnjpdam2/out/v1/a71e0bd938ca471c918443039af47dd1/cenc.mpd",
+        "api": "e6f3749018344d8c1660e9546642c2de:6eda0463a5a0bb36944855353fcc2290",
+        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/zdj7qgaerx/out/v1/5683d35fda0b4e9086b8bc669416bcba/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW - ALT",
         "type": "1"
@@ -2176,20 +2214,6 @@
         "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com",
         "logo": "",
         "title": "TAPMAD - FHD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-        "title": "SKY SPORT NZ",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
-        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj",
-        "title": "FOX CRICKET HD",
         "type": "0"
       },
       {
@@ -2850,15 +2874,27 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv Live",
       "SD SERVER"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
       {
         "title": "SD SERVER",
         "logo": ""
       }
     ],
     "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://live.vivo200.com/live/sd-1-4546512.m3u8?txSecret=e59b2628f1d7af62a6b32306b5e4cd5c&txTime=6A7738EE|Referer=https://player.online909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
       {
         "api": "",
         "link": "http://193.47.62.190/hls/gpppaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
@@ -2888,15 +2924,27 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv Live",
       "SD SERVER"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
       {
         "title": "SD SERVER",
         "logo": ""
       }
     ],
     "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://live.vivo200.com/live/sd-1-4546511.m3u8?txSecret=ad54ed5f13f8ea476237233fec5730ff&txTime=6A773925|Referer=https://player.online909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
       {
         "api": "",
         "link": "http://193.47.62.190/hls/gpppaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
@@ -3201,50 +3249,29 @@
   },
   {
     "id": 50095,
-    "title": "Juventus vs Inter",
+    "title": "Augsburg vs Sassuolo",
     "image": "o",
     "cat": "Club Friendly",
     "eventInfo": {
-      "teamA": "Juventus",
-      "teamB": "Inter",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2687/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2697/image",
-      "eventName": "Juventus vs Inter",
+      "teamA": "Augsburg",
+      "teamB": "Sassuolo",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2600/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2793/image",
+      "eventName": "Augsburg vs Sassuolo",
       "eventType": "null",
-      "isHot": "1",
-      "startTime": "2026/08/08 11:00:00 +0000",
-      "endTime": "2026/08/08 13:05:00 +0000"
+      "startTime": "2026/08/08 13:30:00 +0000",
+      "endTime": "2026/08/08 15:35:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "CBS NETWORK",
-      "D Sports FHD",
-      "DAZN SPORTS HD",
       "DUDE Tv Live",
-      "Sky Sports",
       "Low Quality"
     ],
     "formatsNew": [
       {
-        "title": "CBS NETWORK",
-        "logo": ""
-      },
-      {
-        "title": "D Sports FHD",
-        "logo": ""
-      },
-      {
-        "title": "DAZN SPORTS HD",
-        "logo": ""
-      },
-      {
         "title": "DUDE Tv Live",
         "logo": ""
-      },
-      {
-        "title": "Sky Sports",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
       },
       {
         "title": "Low Quality",
@@ -3253,43 +3280,15 @@
     ],
     "decoded_channels": [
       {
-        "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "CBS NETWORK",
-        "type": "1"
-      },
-      {
-        "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "D Sports FHD",
-        "type": "1"
-      },
-      {
         "api": "",
-        "link": "https://rdcstream.life/live/juventus-x-inter/index.m3u8?|Referer=https://bolodechocolate.fit/",
-        "logo": "",
-        "title": "DAZN SPORTS HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/54335/load-playlist?|Referer=https://gooz.aapmains.net",
+        "link": "https://live.vivo200.com/live/sd-1-4609926.m3u8?txSecret=29276959b45c213a53ab22a91e814927&txTime=6A773EE2|Referer=https://player.online909.com/",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://tmaxapp.site/8wirwjs76erftg/skysport4nz.m3u8",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-        "title": "Sky Sports",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.191/hls/GGGG.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "Low Quality",
         "type": "0"
@@ -3316,11 +3315,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "SD SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "SD SERVER",
         "logo": ""
       }
     ],
@@ -3363,7 +3362,9 @@
     "formats": [
       "Premier Sports",
       "beIN ENGLISH",
-      "XSports HD"
+      "DUDE Tv Live",
+      "XSports HD",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
@@ -3375,7 +3376,15 @@
         "logo": ""
       },
       {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
         "title": "XSports HD",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ],
@@ -3396,9 +3405,23 @@
       },
       {
         "api": "",
+        "link": "https://live.vivo200.com/live/sd-1-4609927.m3u8?txSecret=219bf53b282642543a58010597d99f6b&txTime=6A773C92|Referer=https://player.online909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
         "link": "https://ssl-images-cdn.site/live/xsports/index.m3u8?|Referer=https://bolodechocolate.fit/",
         "logo": "",
         "title": "XSports HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.190/hls/roooaaaaaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "SD SERVER",
         "type": "0"
       }
     ],
@@ -3423,9 +3446,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "SD SERVER",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
       {
         "title": "SPX LIVE [FHD]",
         "logo": ""
@@ -3434,7 +3462,15 @@
     "decoded_channels": [
       {
         "api": "",
+        "link": "http://193.47.62.192/hls/bnnnAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "SD SERVER",
+        "type": "0"
+      },
+      {
+        "api": "",
         "link": "https://embedindia.st/embed/friendly/2026-08-08/tot-get",
+        "logo": "",
         "title": "SPX LIVE [FHD]",
         "type": "2"
       }
@@ -3497,11 +3533,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "CBS NETWORK"
+      "CBS NETWORK",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "CBS NETWORK",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ],
@@ -3509,8 +3550,16 @@
       {
         "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
         "title": "CBS NETWORK",
         "type": "1"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.193/hls/LLLLAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "SD SERVER",
+        "type": "0"
       }
     ],
     "channel_status": "live"
@@ -3646,11 +3695,16 @@
     "publish": "1",
     "formats": [
       "beIN ENGLISH",
+      "SD SERVER",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       },
       {
@@ -3713,34 +3767,20 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://rdcstream.life/live/monterrey-x-orlando-city/index.m3u8?|Referer=https://bolodechocolate.fit/",
+        "link": "http://193.47.62.192/hls/FAFAFAZ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
-        "title": "APPLE TV+ HD",
+        "title": "SD SERVER",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4515704.m3u8?txSecret=49ea513b1cd906d43509ce45e1bd0145&txTime=6A73DBB0|Referer=https://player.online909.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://messi.damitv.st/live-hls/channel/leagues-cup/2026-08-05/mty-orl/playlist.m3u8?|Referer=https://ondemand.st/",
-        "logo": "",
-        "title": "FHD SERVER",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/leagues-cup/2026-08-05/mty-orl",
+        "link": "https://embedindia.st/embed/carabao-cup/2026-08-08/bur-nco",
         "logo": "",
         "title": "SPX LIVE [FHD]",
         "type": "2"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50106,
@@ -3761,9 +3801,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "SD SERVER",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
       {
         "title": "SPX LIVE [FHD]",
         "logo": ""
@@ -3772,27 +3817,20 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4608972.m3u8?txSecret=ec0a741bc50cd48aa2c36fe24cf00b70&txTime=6A7381D4|Referer=https://player.online909.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://hls.live123.fans/live/4608972.m3u8",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.190/hls/ttttaaaaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.193/hls/SIIIA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "SD SERVER",
         "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/carabao-cup/2026-08-08/der-lcn",
+        "logo": "",
+        "title": "SPX LIVE [FHD]",
+        "type": "2"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50107,
@@ -3813,9 +3851,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "SD SERVER",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
       {
         "title": "SPX LIVE [FHD]",
         "logo": ""
@@ -3824,7 +3867,15 @@
     "decoded_channels": [
       {
         "api": "",
+        "link": "http://193.47.62.191/hls/hrrraaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "SD SERVER",
+        "type": "0"
+      },
+      {
+        "api": "",
         "link": "https://embedindia.st/embed/carabao-cup/2026-08-08/lei-nht",
+        "logo": "",
         "title": "SPX LIVE [FHD]",
         "type": "2"
       }
@@ -3861,7 +3912,15 @@
     "decoded_channels": [
       {
         "api": "",
+        "link": "http://193.47.62.191/hls/tpppa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "SD SERVER",
+        "type": "0"
+      },
+      {
+        "api": "",
         "link": "https://embedindia.st/embed/carabao-cup/2026-08-08/swa-bir",
+        "logo": "",
         "title": "SPX LIVE [FHD]",
         "type": "2"
       }
@@ -3904,12 +3963,21 @@
       {
         "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
         "title": "beIN ENGLISH",
         "type": "1"
       },
       {
         "api": "",
+        "link": "http://193.47.62.192/hls/DDDDAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "SD SERVER",
+        "type": "0"
+      },
+      {
+        "api": "",
         "link": "https://embedindia.st/embed/carabao-cup/2026-08-08/whu-por",
+        "logo": "",
         "title": "SPX LIVE [FHD]",
         "type": "2"
       }
@@ -4031,32 +4099,32 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "RED BULL TV HD",
-      "SD SERVER"
+      "SD SERVER",
+      "RED BULL TV HD"
     ],
     "formatsNew": [
       {
-        "title": "RED BULL TV HD",
+        "title": "SD SERVER",
         "logo": ""
       },
       {
-        "title": "SD SERVER",
+        "title": "RED BULL TV HD",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://rdcstream.life/live/leeds-united-x-rb-leipzig/index.m3u8?|Referer=https://bolodechocolate.fit/",
+        "link": "http://193.47.62.190/hls/roooa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
-        "title": "RED BULL TV HD",
+        "title": "SD SERVER",
         "type": "0"
       },
       {
         "api": "",
-        "link": "http://193.47.62.190/hls/roooa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "https://rdcstream.life/live/leeds-united-x-rb-leipzig/index.m3u8?|Referer=https://bolodechocolate.fit/",
         "logo": "",
-        "title": "SD SERVER",
+        "title": "RED BULL TV HD",
         "type": "0"
       }
     ],
@@ -4064,143 +4132,128 @@
   },
   {
     "id": 50114,
-    "title": "Geelong Cats vs Essendon",
+    "title": "Dundee FC vs Aberdeen",
     "image": "o",
-    "cat": "AFL",
+    "cat": "Scottish Premiership",
     "eventInfo": {
-      "teamA": "Geelong Cats",
-      "teamB": "Essendon Bombers",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4443/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4450/image",
-      "eventName": "Geelong Cats vs Essendon Bombers",
+      "teamA": "Dundee",
+      "teamB": "Aberdeen",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2357/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2355/image",
+      "eventName": "Dundee FC vs Aberdeen",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/08 06:35:00 +0000",
-      "endTime": "2026/08/08 09:05:00 +0000"
+      "startTime": "2026/08/08 14:00:00 +0000",
+      "endTime": "2026/08/08 16:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "FOX SPORTS FHD",
-      "SPX LIVE [FHD]"
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
-        "title": "FOX SPORTS FHD",
+        "title": "DUDE Tv Live",
         "logo": ""
       },
       {
-        "title": "SPX LIVE [FHD]",
+        "title": "SD SERVER",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
-        "api": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "",
+        "link": "https://live.vivo200.com/live/sd-1-4557560.m3u8?txSecret=0d1834b40f41880a0e7c1866576e4618&txTime=6A7740F8|Referer=https://player.online909.com/",
         "logo": "",
-        "title": "FOX SPORTS FHD",
-        "type": "1"
+        "title": "DUDE Tv Live",
+        "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/afl/2026-08-08/geel-ess",
+        "link": "http://193.47.62.192/hls/bnnnAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
-        "title": "SPX LIVE [FHD]",
-        "type": "2"
+        "title": "SD SERVER",
+        "type": "0"
       }
     ],
     "channel_status": "live"
   },
   {
     "id": 50115,
-    "title": "Adelaide Crows vs Richmond Tigers",
+    "title": "Mirren vs Johnstone",
     "image": "o",
-    "cat": "AFL",
+    "cat": "Scottish Premiership",
     "eventInfo": {
-      "teamA": "Adelaide Crows",
-      "teamB": "Richmond Tigers",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4442/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4451/image",
-      "eventName": "Adelaide Crows vs Richmond Tigers",
+      "teamA": "St. Mirren",
+      "teamB": "St. Johnstone",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2359/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2348/image",
+      "eventName": "St. Mirren vs St. Johnstone",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/08 09:35:00 +0000",
-      "endTime": "2026/08/08 12:05:00 +0000"
+      "startTime": "2026/08/08 14:00:00 +0000",
+      "endTime": "2026/08/08 16:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TNT Sports FHD",
-      "SPX LIVE [FHD]"
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
-        "title": "TNT Sports FHD",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+        "title": "DUDE Tv Live",
+        "logo": ""
       },
       {
-        "title": "SPX LIVE [FHD]",
+        "title": "SD SERVER",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
-        "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
-        "title": "TNT Sports FHD",
-        "type": "1"
+        "api": "",
+        "link": "https://live.vivo200.com/live/sd-1-4557563.m3u8?txSecret=4fb7f76a16ffab6a3ac23af528304694&txTime=6A774124|Referer=https://player.online909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/afl/2026-08-08/adel-rich",
+        "link": "http://193.47.62.191/hls/frrraaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
-        "title": "SPX LIVE [FHD]",
-        "type": "2"
+        "title": "SD SERVER",
+        "type": "0"
       }
     ],
     "channel_status": "live"
   },
   {
     "id": 50116,
-    "title": "Melbourne Storm vs Manly Sea Eagles",
+    "title": "CS Marítimo vs Casa Pia",
     "image": "o",
-    "cat": "NRL Rugby",
+    "cat": "Liga Portugal",
     "eventInfo": {
-      "teamA": "Melbourne Storm",
-      "teamB": "Eagles",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4255/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4259/image",
-      "eventName": "Melbourne Storm vs Manly Sea Eagles",
+      "teamA": "Marítimo",
+      "teamB": "Casa Pia",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3007/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/36365/image",
+      "eventName": "Marítimo vs Casa Pia",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/08 05:00:00 +0000",
-      "endTime": "2026/08/08 07:30:00 +0000"
+      "startTime": "2026/08/08 14:30:00 +0000",
+      "endTime": "2026/08/08 16:35:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "NZ SPORTS HD",
-      "SKY SPORTS FHD",
-      "SD SERVER",
-      "SPX LIVE [FHD]"
+      "Sport TV1 HD [PT]"
     ],
     "formatsNew": [
       {
-        "title": "NZ SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "SKY SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
+        "title": "Sport TV1 HD [PT]",
         "logo": ""
       }
     ],
@@ -4234,363 +4287,41 @@
         "type": "2"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
     "id": 50117,
-    "title": "Dolphins vs Brisbane Broncos",
+    "title": "Vitória SC vs FC Arouca",
     "image": "o",
-    "cat": "NRL Rugby",
+    "cat": "Liga Portugal",
     "eventInfo": {
-      "teamA": "Dolphins",
-      "teamB": "Brisbane Broncos",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/465010/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4258/image",
-      "eventName": "Dolphins vs Brisbane Broncos",
+      "teamA": "Vitória SC",
+      "teamB": "FC Arouca",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3009/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/25777/image",
+      "eventName": "Vitória SC vs FC Arouca",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/08 07:30:00 +0000",
-      "endTime": "2026/08/08 10:00:00 +0000"
+      "startTime": "2026/08/08 17:00:00 +0000",
+      "endTime": "2026/08/08 19:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "NZ SPORTS HD",
-      "SKY SPORTS FHD",
-      "SD SERVER",
-      "SPX LIVE [FHD]"
+      "Sport TV2 HD [PT]"
     ],
     "formatsNew": [
       {
-        "title": "NZ SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "SKY SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
+        "title": "Sport TV2 HD [PT]",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://tmaxapp.site/8wirwjs76erftg/skysport3nz.m3u8",
+        "link": "https://rdcstream.life/live/sport-tv-2-pt/index.m3u8?|Referer=https://bolodechocolate.fit/",
         "logo": "",
-        "title": "NZ SPORTS HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://messi.damitv.st/papi/tv/dlhd/590/playlist.m3u8?|Referer=https://ondemand.st/",
-        "logo": "",
-        "title": "SKY SPORTS FHD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.190/hls/DFFFaAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "SD SERVER",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/nrl/2026-08-08/dol-bri",
-        "logo": "",
-        "title": "SPX LIVE [FHD]",
-        "type": "2"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50118,
-    "title": "South Sydney vs Parramatta Eels",
-    "image": "o",
-    "cat": "NRL Rugby",
-    "eventInfo": {
-      "teamA": "South Sydney",
-      "teamB": "Parramatta Eels",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4263/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4261/image",
-      "eventName": "South Sydney vs Parramatta Eels",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/08 09:35:00 +0000",
-      "endTime": "2026/08/08 12:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "NZ SPORTS HD",
-      "SKY SPORTS FHD",
-      "SPX LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "NZ SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "SKY SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8",
-        "logo": "",
-        "title": "NZ SPORTS HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://messi.damitv.st/papi/tv/dlhd/589/playlist.m3u8?|Referer=https://ondemand.st/",
-        "logo": "",
-        "title": "SKY SPORTS FHD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/nrl/2026-08-08/sou-par",
-        "logo": "",
-        "title": "SPX LIVE [FHD]",
-        "type": "2"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50119,
-    "title": "Darmstadt 98 vs Holstein Kiel",
-    "image": "o",
-    "cat": "2. Bundesliga",
-    "eventInfo": {
-      "teamA": "Darmstadt 98",
-      "teamB": "Holstein Kiel",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2576/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2573/image",
-      "eventName": "Darmstadt 98 vs Holstein Kiel",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/08 11:00:00 +0000",
-      "endTime": "2026/08/08 13:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN ENGLISH FHD",
-      "DUDE Tv Live",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN ENGLISH FHD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "beIN ENGLISH FHD",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://hls.streamhub.media/hls/thesport-api-2cb8efd0631abb554511/master.m3u8",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.190/hls/UAAAQQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "SD SERVER",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50120,
-    "title": "Heidenheim vs Osnabrück",
-    "image": "o",
-    "cat": "2. Bundesliga",
-    "eventInfo": {
-      "teamA": "Heidenheim",
-      "teamB": "Osnabrück",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/5885/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2581/image",
-      "eventName": "Heidenheim vs Osnabrück",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/08 11:00:00 +0000",
-      "endTime": "2026/08/08 13:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN ENGLISH FHD",
-      "DUDE Tv Live",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN ENGLISH FHD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "beIN ENGLISH FHD",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://hls.streamhub.media/hls/thesport-api-9d6822f8981b91a5eb54/master.m3u8",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.190/hls/UUUM.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "SD SERVER",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50121,
-    "title": "Magdeburg vs Braunschweig",
-    "image": "o",
-    "cat": "2. Bundesliga",
-    "eventInfo": {
-      "teamA": "Magdeburg",
-      "teamB": "Braunschweig",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2591/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2557/image",
-      "eventName": "Magdeburg vs Eintracht Braunschweig",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/08 11:00:00 +0000",
-      "endTime": "2026/08/08 13:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4566550.m3u8?txSecret=520d0e40a6a5cef903c9e7c5d1bee7e1&txTime=6A7724A8|Referer=https://player.online909.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.190/hls/UUUMQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "SD SERVER",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50122,
-    "title": "Karlsruher vs Arminia Bielefeld",
-    "image": "o",
-    "cat": "2. Bundesliga",
-    "eventInfo": {
-      "teamA": "Karlsruher",
-      "teamB": "Bielefeld",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2553/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2540/image",
-      "eventName": "Karlsruher vs Arminia Bielefeld",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/08 11:00:00 +0000",
-      "endTime": "2026/08/08 13:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4566583.m3u8?txSecret=c015c1807695898ca9d81b05d5bf1f83&txTime=6A7724DF|Referer=https://player.online909.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.190/hls/UUUMQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "SD SERVER",
+        "title": "Sport TV2 HD [PT]",
         "type": "0"
       }
     ],
