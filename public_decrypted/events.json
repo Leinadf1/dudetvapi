@@ -261,9 +261,8 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "StarzPlay SPORTS FHD",
+      "TNT Sports FHD",
       "PARAMOUNT+ HD",
-      "SPX LIVE FHD",
       "PARAMOUNT+ FHD",
       "PARAMOUNT+ ES",
       "PARAMOUNT+ PT",
@@ -274,32 +273,28 @@
     ],
     "formatsNew": [
       {
-        "title": "StarzPlay SPORTS FHD",
+        "title": "TNT Sports FHD",
         "logo": ""
       },
       {
         "title": "PARAMOUNT+ HD",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "SPX LIVE FHD",
         "logo": ""
       },
       {
         "title": "PARAMOUNT+ FHD",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+        "logo": ""
       },
       {
         "title": "PARAMOUNT+ ES",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+        "logo": ""
       },
       {
         "title": "PARAMOUNT+ PT",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+        "logo": ""
       },
       {
         "title": "SportsNet FHD",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+        "logo": ""
       },
       {
         "title": "DUDE Tv Live",
@@ -882,16 +877,16 @@
     "publish": "1",
     "formats": [
       "TSN SPORTS",
-      "DUDE Tv CFL",
+      "TSN3 SPORTS",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "TSN SPORTS",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+        "logo": ""
       },
       {
-        "title": "DUDE Tv CFL",
+        "title": "TSN3 SPORTS",
         "logo": ""
       },
       {
@@ -1670,18 +1665,23 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "CBS NETWORK",
+      "FOREST TV HD"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "CBS NETWORK",
+        "logo": ""
+      },
+      {
+        "title": "FOREST TV HD",
         "logo": ""
       }
     ]
   },
   {
     "id": 50093,
-    "title": "Barcelona vs Nottingham Forest",
+    "title": "Barcelona vs Nottingham",
     "image": "o",
     "cat": "Club Friendly",
     "eventInfo": {
@@ -1694,6 +1694,133 @@
       "isHot": "0",
       "startTime": "2026/08/08 19:00:00 +0000",
       "endTime": "2026/08/08 21:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "CBS NETWORK",
+      "FOREST TV HD"
+    ],
+    "formatsNew": [
+      {
+        "title": "CBS NETWORK",
+        "logo": ""
+      },
+      {
+        "title": "FOREST TV HD",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50094,
+    "title": "Tigre vs River Plate",
+    "image": "o",
+    "cat": "LPF",
+    "eventInfo": {
+      "teamA": "Tigre",
+      "teamB": "River Plate",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/7628/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3211/image",
+      "eventName": "Tigre vs River Plate",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/08 20:00:00 +0000",
+      "endTime": "2026/08/08 22:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "Premier Sports FHD",
+      "Sport TV3 HD [PT]"
+    ],
+    "formatsNew": [
+      {
+        "title": "Premier Sports FHD",
+        "logo": ""
+      },
+      {
+        "title": "Sport TV3 HD [PT]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50095,
+    "title": "Boca Juniors vs Vélez Sarsfield",
+    "image": "o",
+    "cat": "LPF",
+    "eventInfo": {
+      "teamA": "Boca Juniors",
+      "teamB": "Vélez Sarsfield",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3202/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3208/image",
+      "eventName": "Boca Juniors vs Vélez Sarsfield",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/08 22:15:00 +0000",
+      "endTime": "2026/08/09 00:20:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "Premier Sports FHD",
+      "SportDigital Fussball"
+    ],
+    "formatsNew": [
+      {
+        "title": "Premier Sports FHD",
+        "logo": ""
+      },
+      {
+        "title": "SportDigital Fussball",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50096,
+    "title": "Montreal Alouettes vs Edmonton",
+    "image": "o",
+    "cat": "CFL",
+    "eventInfo": {
+      "teamA": "Montréal",
+      "teamB": "Edmonton",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4439/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4434/image",
+      "eventName": "Montreal Alouettes vs Edmonton Elks",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/08 19:00:00 +0000",
+      "endTime": "2026/08/08 22:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "TSN SPORTS"
+    ],
+    "formatsNew": [
+      {
+        "title": "TSN SPORTS",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50097,
+    "title": "Udinese vs Barcelona",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "Udinese",
+      "teamB": "Barcelona",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2695/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2817/image",
+      "eventName": "Udinese vs Barcelona",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/08 20:00:00 +0000",
+      "endTime": "2026/08/08 22:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1778,34 +1905,6 @@
       "isHot": "0",
       "startTime": "2026/08/08 19:00:00 +0000",
       "endTime": "2026/08/08 21:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50102,
-    "title": "Galatasaray vs Villarreal",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Galatasaray",
-      "teamB": "Villarreal",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3061/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2819/image",
-      "eventName": "Galatasaray vs Villarreal",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/08 18:00:00 +0000",
-      "endTime": "2026/08/08 20:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1947,44 +2046,39 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "SportDigital Fussball"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "SportDigital Fussball",
         "logo": ""
       }
     ]
   },
   {
     "id": 50114,
-    "title": "Dundee FC vs Aberdeen",
+    "title": "Grêmio vs São Paulo",
     "image": "o",
-    "cat": "Scottish Premiership",
+    "cat": "Brasileirão",
     "eventInfo": {
-      "teamA": "Dundee",
-      "teamB": "Aberdeen",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2357/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2355/image",
-      "eventName": "Dundee FC vs Aberdeen",
+      "teamA": "Grêmio",
+      "teamB": "São Paulo",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/5926/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1981/image",
+      "eventName": "Grêmio vs São Paulo",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/08 14:00:00 +0000",
-      "endTime": "2026/08/08 16:05:00 +0000"
+      "startTime": "2026/08/08 19:00:00 +0000",
+      "endTime": "2026/08/08 21:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live",
-      "SD SERVER"
+      "PREMIERER BR"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
+        "title": "PREMIERER BR",
         "logo": ""
       }
     ]

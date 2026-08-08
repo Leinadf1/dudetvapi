@@ -566,9 +566,8 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "StarzPlay SPORTS FHD",
+      "TNT Sports FHD",
       "PARAMOUNT+ HD",
-      "SPX LIVE FHD",
       "PARAMOUNT+ FHD",
       "PARAMOUNT+ ES",
       "PARAMOUNT+ PT",
@@ -579,32 +578,28 @@
     ],
     "formatsNew": [
       {
-        "title": "StarzPlay SPORTS FHD",
+        "title": "TNT Sports FHD",
         "logo": ""
       },
       {
         "title": "PARAMOUNT+ HD",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "SPX LIVE FHD",
         "logo": ""
       },
       {
         "title": "PARAMOUNT+ FHD",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+        "logo": ""
       },
       {
         "title": "PARAMOUNT+ ES",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+        "logo": ""
       },
       {
         "title": "PARAMOUNT+ PT",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+        "logo": ""
       },
       {
         "title": "SportsNet FHD",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+        "logo": ""
       },
       {
         "title": "DUDE Tv Live",
@@ -621,72 +616,56 @@
     ],
     "decoded_channels": [
       {
-        "api": "117c29396ec6fd295880013241a466e1:3dfb883251884e66d784111877c44b13",
-        "link": "https://sps3.starzplayarabia.com/out/v1/95528122fa434bcd948c9ed2e7afabee/index.mpd",
-        "logo": "",
-        "title": "StarzPlay SPORTS FHD",
+        "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "TNT Sports FHD",
         "type": "1"
       },
       {
         "api": "",
         "link": "https://chatgpt.hereisman.net/playlist/54059/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
         "title": "PARAMOUNT+ HD",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://messi.damitv.st/live-hls/channel/ufc-fight-night-medi-vs-rodriguez/playlist.m3u8",
-        "logo": "",
-        "title": "SPX LIVE FHD",
-        "type": "0"
-      },
-      {
-        "api": "",
         "link": "https://embedindia.st/embed/ufc-fight-night-medi-vs-rodriguez",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
         "title": "PARAMOUNT+ FHD",
         "type": "2"
       },
       {
         "api": "",
         "link": "https://embedindia.st/embed/ufc-fight-night-medi-vs-rodriguez/paramount-es",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
         "title": "PARAMOUNT+ ES",
         "type": "2"
       },
       {
         "api": "",
         "link": "https://embedindia.st/embed/ufc-fight-night-medi-vs-rodriguez/paramount-pt",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
         "title": "PARAMOUNT+ PT",
         "type": "2"
       },
       {
         "api": "60de674d9db66df9ba090e06871d3554:18071eac168232fc3d45549049c1de6b",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ccupb3gevq/out/v1/d9d54c61efab463981d1a7d04ceeb44c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "title": "SportsNet FHD",
         "type": "1"
       },
       {
         "api": "",
         "link": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/25.m3u8",
-        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
         "link": "http://193.47.62.192/hls/FEEEEQ.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "logo": "",
         "title": "SD TV (USE VPN)",
         "type": "0"
       },
       {
         "api": "",
         "link": "https://mainstreams.pro/hls/zeuryuegn48.m3u?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
-        "logo": "",
         "title": "DUDE Tv LIVE",
         "type": "0"
       },
@@ -1706,16 +1685,16 @@
     "publish": "1",
     "formats": [
       "TSN SPORTS",
-      "DUDE Tv CFL",
+      "TSN3 SPORTS",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "TSN SPORTS",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+        "logo": ""
       },
       {
-        "title": "DUDE Tv CFL",
+        "title": "TSN3 SPORTS",
         "logo": ""
       },
       {
@@ -1727,21 +1706,18 @@
       {
         "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
         "title": "TSN SPORTS",
         "type": "1"
       },
       {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/54285/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv CFL",
-        "type": "0"
+        "api": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "TSN3 SPORTS",
+        "type": "1"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/cfl/2026-08-06/cgy-tor",
-        "logo": "",
+        "link": "https://embedindia.st/embed/cfl/2026-08-08/ham-bc",
         "title": "SPX LIVE [FHD]",
         "type": "2"
       }
@@ -2239,6 +2215,13 @@
       }
     ],
     "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/54353/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net/&Origin=https://gooz.aapmains.net/",
+        "logo": "",
+        "title": "DUDE Tv MLB",
+        "type": "0"
+      },
       {
         "api": "",
         "link": "https://edgestream3.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
@@ -3013,49 +2996,40 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "CBS NETWORK",
+      "FOREST TV HD"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "CBS NETWORK",
+        "logo": ""
+      },
+      {
+        "title": "FOREST TV HD",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
-        "api": "",
-        "link": "https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8",
+        "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "",
-        "title": "MU TV FHD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-dash.mpd",
-        "logo": "",
-        "title": "MU TV HD",
+        "title": "CBS NETWORK",
         "type": "1"
       },
       {
         "api": "",
-        "link": "https://edgestream1.pro/hls/sqdahach1ax.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+        "link": "https://chatgpt.hereisman.net/playlist/54352/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.192/hls/wwwww.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "SD SERVER",
+        "title": "FOREST TV HD",
         "type": "0"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50093,
-    "title": "Barcelona vs Nottingham Forest",
+    "title": "Barcelona vs Nottingham",
     "image": "o",
     "cat": "Club Friendly",
     "eventInfo": {
@@ -3072,6 +3046,203 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "CBS NETWORK",
+      "FOREST TV HD"
+    ],
+    "formatsNew": [
+      {
+        "title": "CBS NETWORK",
+        "logo": ""
+      },
+      {
+        "title": "FOREST TV HD",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "CBS NETWORK",
+        "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/54356/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "FOREST TV HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://rdcstream.life/live/sport-tv-4-pt/index.m3u8?|Referer=https://bolodechocolate.fit/",
+        "logo": "",
+        "title": "Sport TV4 HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://edgestream2.pro/hls/377qj1h2727.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+        "logo": "",
+        "title": "HD SERVER",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50094,
+    "title": "Tigre vs River Plate",
+    "image": "o",
+    "cat": "LPF",
+    "eventInfo": {
+      "teamA": "Tigre",
+      "teamB": "River Plate",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/7628/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3211/image",
+      "eventName": "Tigre vs River Plate",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/08 20:00:00 +0000",
+      "endTime": "2026/08/08 22:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "Premier Sports FHD",
+      "Sport TV3 HD [PT]"
+    ],
+    "formatsNew": [
+      {
+        "title": "Premier Sports FHD",
+        "logo": ""
+      },
+      {
+        "title": "Sport TV3 HD [PT]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "Premier Sports FHD",
+        "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://rdcstream.life/live/sport-tv-3-pt/index.m3u8?|Referer=https://bolodechocolate.fit/",
+        "title": "Sport TV3 HD [PT]",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50095,
+    "title": "Boca Juniors vs Vélez Sarsfield",
+    "image": "o",
+    "cat": "LPF",
+    "eventInfo": {
+      "teamA": "Boca Juniors",
+      "teamB": "Vélez Sarsfield",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3202/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3208/image",
+      "eventName": "Boca Juniors vs Vélez Sarsfield",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/08 22:15:00 +0000",
+      "endTime": "2026/08/09 00:20:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "Premier Sports FHD",
+      "SportDigital Fussball"
+    ],
+    "formatsNew": [
+      {
+        "title": "Premier Sports FHD",
+        "logo": ""
+      },
+      {
+        "title": "SportDigital Fussball",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "Premier Sports FHD",
+        "type": "1"
+      },
+      {
+        "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "SportDigital Fussball",
+        "type": "1"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50096,
+    "title": "Montreal Alouettes vs Edmonton",
+    "image": "o",
+    "cat": "CFL",
+    "eventInfo": {
+      "teamA": "Montréal",
+      "teamB": "Edmonton",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4439/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4434/image",
+      "eventName": "Montreal Alouettes vs Edmonton Elks",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/08 19:00:00 +0000",
+      "endTime": "2026/08/08 22:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "TSN SPORTS"
+    ],
+    "formatsNew": [
+      {
+        "title": "TSN SPORTS",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "TSN SPORTS",
+        "type": "1"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50097,
+    "title": "Udinese vs Barcelona",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "Udinese",
+      "teamB": "Barcelona",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2695/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2817/image",
+      "eventName": "Udinese vs Barcelona",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/08 20:00:00 +0000",
+      "endTime": "2026/08/08 22:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
       "CBS NETWORK"
     ],
     "formatsNew": [
@@ -3082,13 +3253,42 @@
     ],
     "decoded_channels": [
       {
-        "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "title": "CBS NETWORK",
+        "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "Premier Sports",
         "type": "1"
+      },
+      {
+        "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "beIN ENGLISH",
+        "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://live.vivo200.com/live/sd-1-4609927.m3u8?txSecret=219bf53b282642543a58010597d99f6b&txTime=6A773C92|Referer=https://player.online909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://ssl-images-cdn.site/live/xsports/index.m3u8?|Referer=https://bolodechocolate.fit/",
+        "logo": "",
+        "title": "XSports HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.190/hls/roooaaaaaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "SD SERVER",
+        "type": "0"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
     "id": 50099,
@@ -3202,43 +3402,6 @@
     "channel_status": "live"
   },
   {
-    "id": 50102,
-    "title": "Galatasaray vs Villarreal",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Galatasaray",
-      "teamB": "Villarreal",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3061/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2819/image",
-      "eventName": "Galatasaray vs Villarreal",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/08 18:00:00 +0000",
-      "endTime": "2026/08/08 20:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
     "id": 50103,
     "title": "Real Betis vs Bournemouth",
     "image": "o",
@@ -3273,7 +3436,7 @@
         "type": "0"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
     "id": 50110,
@@ -3430,11 +3593,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "SportDigital Fussball"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "SportDigital Fussball",
         "logo": ""
       }
     ],
@@ -3450,33 +3613,28 @@
   },
   {
     "id": 50114,
-    "title": "Dundee FC vs Aberdeen",
+    "title": "Grêmio vs São Paulo",
     "image": "o",
-    "cat": "Scottish Premiership",
+    "cat": "Brasileirão",
     "eventInfo": {
-      "teamA": "Dundee",
-      "teamB": "Aberdeen",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2357/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2355/image",
-      "eventName": "Dundee FC vs Aberdeen",
+      "teamA": "Grêmio",
+      "teamB": "São Paulo",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/5926/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1981/image",
+      "eventName": "Grêmio vs São Paulo",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/08 14:00:00 +0000",
-      "endTime": "2026/08/08 16:05:00 +0000"
+      "startTime": "2026/08/08 19:00:00 +0000",
+      "endTime": "2026/08/08 21:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live",
-      "SD SERVER"
+      "PREMIERER BR"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
+        "title": "PREMIERER BR",
         "logo": ""
       }
     ],
