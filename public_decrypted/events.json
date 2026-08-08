@@ -1543,6 +1543,62 @@
     ]
   },
   {
+    "id": 50086,
+    "title": "Thailand vs Myanmar",
+    "image": "o",
+    "cat": "ASEAN Championship",
+    "eventInfo": {
+      "teamA": "Thailand",
+      "teamB": "Myanmar",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4730/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/23484/image",
+      "eventName": "Thailand vs Myanmar",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/08 13:00:00 +0000",
+      "endTime": "2026/08/08 15:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SD SERVER"
+    ],
+    "formatsNew": [
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50087,
+    "title": "Malaysia vs Philippines",
+    "image": "o",
+    "cat": "ASEAN Championship",
+    "eventInfo": {
+      "teamA": "Malaysia",
+      "teamB": "Philippines",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/6912/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4791/image",
+      "eventName": "Malaysia vs Philippines",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/08 13:00:00 +0000",
+      "endTime": "2026/08/08 15:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SD SERVER"
+    ],
+    "formatsNew": [
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50089,
     "title": "Inter Miami vs Monterrey",
     "image": "o",
@@ -1676,7 +1732,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2692/image",
       "eventName": "Chelsea vs AC Milan",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/08/08 12:00:00 +0000",
       "endTime": "2026/08/08 14:05:00 +0000"
     },
@@ -1688,7 +1744,9 @@
       "CBS SPORTS HD",
       "FHD SERVER",
       "SportTV HD [PT]",
-      "SportyNET HD"
+      "SportyNET HD",
+      "HD SERVER",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
@@ -1714,6 +1772,14 @@
       {
         "title": "SportyNET HD",
         "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
       }
     ]
   },
@@ -1729,7 +1795,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2697/image",
       "eventName": "Juventus vs Inter",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/08/08 11:00:00 +0000",
       "endTime": "2026/08/08 13:05:00 +0000"
     },
@@ -1818,7 +1884,8 @@
     "publish": "1",
     "formats": [
       "Premier Sports",
-      "beIN ENGLISH"
+      "beIN ENGLISH",
+      "XSports HD"
     ],
     "formatsNew": [
       {
@@ -1827,6 +1894,10 @@
       },
       {
         "title": "beIN ENGLISH",
+        "logo": ""
+      },
+      {
+        "title": "XSports HD",
         "logo": ""
       }
     ]
@@ -2262,11 +2333,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "RED BULL TV HD"
+      "RED BULL TV HD",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "RED BULL TV HD",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
