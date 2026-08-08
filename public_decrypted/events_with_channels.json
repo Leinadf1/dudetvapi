@@ -3059,16 +3059,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "MU TV",
-      "MU TV "
+      "MU TV FHD",
+      "MU TV HD"
     ],
     "formatsNew": [
       {
-        "title": "MU TV",
+        "title": "MU TV FHD",
         "logo": ""
       },
       {
-        "title": "MU TV ",
+        "title": "MU TV HD",
         "logo": ""
       }
     ],
@@ -3076,13 +3076,15 @@
       {
         "api": "",
         "link": "https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8",
-        "title": "MU TV",
+        "logo": "",
+        "title": "MU TV FHD",
         "type": "0"
       },
       {
         "api": "",
         "link": "https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-dash.mpd",
-        "title": "MU TV ",
+        "logo": "",
+        "title": "MU TV HD",
         "type": "1"
       }
     ],
@@ -3137,7 +3139,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2692/image",
       "eventName": "Chelsea vs AC Milan",
       "eventType": "null",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/08/08 12:00:00 +0000",
       "endTime": "2026/08/08 14:05:00 +0000"
     },
@@ -3446,10 +3448,25 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv Live",
+      "HD SERVER",
+      "HD SERVER 2",
       "SD SERVER",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER 2",
+        "logo": ""
+      },
       {
         "title": "SD SERVER",
         "logo": ""
@@ -3460,6 +3477,27 @@
       }
     ],
     "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://edgestream1.pro/hls/b0h5fNwDKH.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://hls.live123.fans/live/4578494.m3u8",
+        "logo": "",
+        "title": "HD SERVER",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://pul-tenm.gkykp.com/live/sd-1-4578494.m3u8?txSecret=70e4896f292f4191010ae0efc46721fa&txTime=6A788421",
+        "logo": "",
+        "title": "HD SERVER 2",
+        "type": "0"
+      },
       {
         "api": "",
         "link": "http://193.47.62.192/hls/bnnnAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
@@ -3756,9 +3794,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "SD SERVER",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
       {
         "title": "SPX LIVE [FHD]",
         "logo": ""
@@ -3901,9 +3944,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "SD SERVER",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
       {
         "title": "SPX LIVE [FHD]",
         "logo": ""
@@ -3947,11 +3995,16 @@
     "publish": "1",
     "formats": [
       "beIN ENGLISH",
+      "SD SERVER",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       },
       {
@@ -3966,6 +4019,20 @@
         "logo": "",
         "title": "beIN ENGLISH",
         "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://pul-tenm.gkykp.com/live/sd-1-4567210.m3u8?txSecret=848af7d6ac421c31a25401e2c1eba440&txTime=6A788421",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://live2.jxa76.com/live/sd-6MweaAR1ji7cJZTVDm_540p.m3u8?txSecret=1c1d3d19af303582373100d1028719d1&txTime=19FE2F73C01",
+        "logo": "",
+        "title": "HD SERVER",
+        "type": "0"
       },
       {
         "api": "",

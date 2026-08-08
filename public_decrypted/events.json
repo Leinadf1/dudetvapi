@@ -1698,16 +1698,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "MU TV",
-      "MU TV "
+      "MU TV FHD",
+      "MU TV HD"
     ],
     "formatsNew": [
       {
-        "title": "MU TV",
+        "title": "MU TV FHD",
         "logo": ""
       },
       {
-        "title": "MU TV ",
+        "title": "MU TV HD",
         "logo": ""
       }
     ]
@@ -1752,7 +1752,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2692/image",
       "eventName": "Chelsea vs AC Milan",
       "eventType": "null",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/08/08 12:00:00 +0000",
       "endTime": "2026/08/08 14:05:00 +0000"
     },
@@ -1930,10 +1930,25 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv Live",
+      "HD SERVER",
+      "HD SERVER 2",
       "SD SERVER",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER 2",
+        "logo": ""
+      },
       {
         "title": "SD SERVER",
         "logo": ""
@@ -2146,9 +2161,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "SD SERVER",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
       {
         "title": "SPX LIVE [FHD]",
         "logo": ""
@@ -2240,9 +2260,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "SD SERVER",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
       {
         "title": "SPX LIVE [FHD]",
         "logo": ""
@@ -2269,11 +2294,16 @@
     "publish": "1",
     "formats": [
       "beIN ENGLISH",
+      "SD SERVER",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       },
       {
