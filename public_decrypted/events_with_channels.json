@@ -517,28 +517,28 @@
       },
       {
         "api": "",
-        "link": "https://pushembdz.store/embed/a39870ed-7d7d-42f9-a592-f9df2a1a7c20",
+        "link": "https://pushembdz.store/embed/27cd8e55-95bd-4b21-9e02-c601b34455ec",
         "logo": "",
         "title": "STREAM 1 (EN)",
         "type": "2"
       },
       {
         "api": "",
-        "link": "https://pushembdz.store/embed/f9342162-b18c-4631-9c5c-ed38038f9bed",
+        "link": "https://pushembdz.store/embed/1dffdf80-ec46-42a1-8242-54ec217d5d52",
         "logo": "",
         "title": "STREAM 2 (EN)",
         "type": "2"
       },
       {
         "api": "",
-        "link": "https://pushembdz.store/embed/abd38757-7db5-4954-8cce-fb9973440c74",
+        "link": "https://pushembdz.store/embed/8dce6994-c2cd-4be4-8054-edc9ff0906d9",
         "logo": "",
         "title": "STREAM 3 (ITA)",
         "type": "2"
       },
       {
         "api": "",
-        "link": "https://pushembdz.store/embed/f493f351-fcaf-4ddb-b7f2-535d8e92f6e1",
+        "link": "https://pushembdz.store/embed/cdfd9cb2-ee37-48e9-85bf-e2600a5e27b1",
         "logo": "",
         "title": "STREAM 4 (ESP)",
         "type": "0"
@@ -1367,6 +1367,63 @@
     "channel_status": "live"
   },
   {
+    "id": 50027,
+    "title": "Minnesota Lynx vs Aces",
+    "image": "o",
+    "cat": "WNBA",
+    "eventInfo": {
+      "teamA": "Lynx",
+      "teamB": "Aces",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3440/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/35550/image",
+      "eventName": "Minnesota Lynx vs Las Vegas Aces",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/08 17:00:00 +0000",
+      "endTime": "2026/08/08 19:45:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "WNBA LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "WNBA LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/54314/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv WNBA",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://edgestream3.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/wnba/2026-08-07/phx-con",
+        "logo": "",
+        "title": "WNBA LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "cached"
+  },
+  {
     "id": 50032,
     "title": "Detroit Tigers",
     "image": "o",
@@ -1416,32 +1473,27 @@
   },
   {
     "id": 50033,
-    "title": "Arizona Diamondbacks",
+    "title": "Colorado Rockies",
     "image": "o",
     "cat": "MLB",
     "eventInfo": {
-      "teamA": "Diamondbacks",
-      "teamB": "Dodgers",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3640/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3638/image",
-      "eventName": "Diamondbacks vs Los Angeles Dodgers",
+      "teamA": "Cardinals",
+      "teamB": "Rockies",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3632/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3628/image",
+      "eventName": "St. Louis Cardinals vs Colorado Rockies",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/08 01:40:00 +0000",
-      "endTime": "2026/08/08 04:40:00 +0000"
+      "startTime": "2026/08/08 23:15:00 +0000",
+      "endTime": "2026/08/09 02:15:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1474,36 +1526,31 @@
         "type": "2"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
     "id": 50034,
-    "title": "San Diego Padres",
+    "title": "Baltimore Orioles",
     "image": "o",
     "cat": "MLB",
     "eventInfo": {
-      "teamA": "Padres",
-      "teamB": "Astros",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3636/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3655/image",
-      "eventName": "San Diego Padres vs Houston Astros",
+      "teamA": "Rangers",
+      "teamB": "Orioles",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3647/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3652/image",
+      "eventName": "Texas Rangers vs Baltimore Orioles",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/08 01:40:00 +0000",
-      "endTime": "2026/08/08 04:40:00 +0000"
+      "startTime": "2026/08/08 23:15:00 +0000",
+      "endTime": "2026/08/09 02:15:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1536,36 +1583,69 @@
         "type": "2"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
-    "id": 50052,
-    "title": "Seattle Mariners",
+    "id": 50042,
+    "title": "MI London vs Trent Rockets",
     "image": "o",
-    "cat": "MLB",
+    "cat": "The Hundred",
     "eventInfo": {
-      "teamA": "Mariners",
-      "teamB": "Rays",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3641/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3653/image",
-      "eventName": "Seattle Mariners vs Tampa Bay Rays",
+      "teamA": "MIL",
+      "teamB": "TRT",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/377172/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/377176/image",
+      "eventName": "MI London vs Trent Rockets",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/08 01:45:00 +0000",
-      "endTime": "2026/08/08 04:45:00 +0000"
+      "startTime": "2026/08/08 13:30:00 +0000",
+      "endTime": "2026/08/08 17:15:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv MLB",
+      "Willow HD"
+    ],
+    "formatsNew": [
+      {
+        "title": "Willow HD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "title": "Willow HD",
+        "type": "1"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50052,
+    "title": "Arizona Diamondbacks",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Diamondbacks",
+      "teamB": "Dodgers",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3640/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3638/image",
+      "eventName": "Arizona Diamondbacks vs Dodgers",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/09 00:10:00 +0000",
+      "endTime": "2026/08/09 03:10:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1579,48 +1659,41 @@
       {
         "api": "",
         "link": "https://edgestream3.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
         "link": "https://embedindia.st/embed/mlb/2026-08-07/tb-sea",
-        "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50053,
-    "title": "San Francisco Giants",
+    "title": "Seattle Mariners",
     "image": "o",
     "cat": "MLB",
     "eventInfo": {
-      "teamA": "Giants",
-      "teamB": "Tigers",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3634/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3648/image",
-      "eventName": "San Francisco Giants vs Detroit Tigers",
+      "teamA": "Mariners",
+      "teamB": "Rays",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3641/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3653/image",
+      "eventName": "Seattle Mariners vs Tampa Bay Rays",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/08 02:15:00 +0000",
-      "endTime": "2026/08/08 05:15:00 +0000"
+      "startTime": "2026/08/09 01:50:00 +0000",
+      "endTime": "2026/08/09 04:50:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1633,22 +1706,13 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/54344/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv MLB",
-        "type": "0"
-      },
-      {
-        "api": "",
         "link": "https://edgestream1.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
         "link": "https://embedindia.st/embed/mlb/2026-08-07/det-sf",
-        "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
       }
@@ -1661,15 +1725,15 @@
     "image": "o",
     "cat": "CFL",
     "eventInfo": {
-      "teamA": "Saskatchewan",
-      "teamB": "Ottawa",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4438/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4437/image",
-      "eventName": "Saskatchewan Roughriders vs Ottawa Redblacks",
+      "teamA": "BC",
+      "teamB": "Hamilton",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4440/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4441/image",
+      "eventName": "BC Lions vs Hamilton Tiger-Cats",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/08 01:00:00 +0000",
-      "endTime": "2026/08/08 04:00:00 +0000"
+      "startTime": "2026/08/08 23:00:00 +0000",
+      "endTime": "2026/08/09 02:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1718,33 +1782,28 @@
     "channel_status": "live"
   },
   {
-    "id": 50056,
-    "title": "Dallas Wings vs Valkyries",
+    "id": 50055,
+    "title": "Chicago Sky vs Indiana Fever",
     "image": "o",
     "cat": "WNBA",
     "eventInfo": {
-      "teamA": "Wings",
-      "teamB": "Valkyries",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3450/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1041936/image",
-      "eventName": "Dallas Wings vs Valkyries",
+      "teamA": "Sky",
+      "teamB": "Fever",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/35546/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3452/image",
+      "eventName": "Chicago Sky vs Indiana Fever",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/08 01:30:00 +0000",
-      "endTime": "2026/08/08 04:15:00 +0000"
+      "startTime": "2026/08/08 19:30:00 +0000",
+      "endTime": "2026/08/08 22:15:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv WNBA",
       "DUDE Tv Live",
       "WNBA LIVE [FHD]"
     ],
     "formatsNew": [
-      {
-        "title": "DUDE Tv WNBA",
-        "logo": ""
-      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1757,25 +1816,61 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/54338/load-playlist?|Referer=https://gooz.aapmains.net",
+        "link": "https://chatgpt.hereisman.net/playlist/54316/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "",
         "title": "DUDE Tv WNBA",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://edgestream2.pro/hls/pllmazjkdzajh72.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream3.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/wnba/2026-08-07/gs-dal",
+        "link": "https://embedindia.st/embed/wnba/2026-08-07/atl-wsh",
         "logo": "",
         "title": "WNBA LIVE [FHD]",
         "type": "2"
+      }
+    ],
+    "channel_status": "cached"
+  },
+  {
+    "id": 50056,
+    "title": "Portland Fire vs Seattle Storm",
+    "image": "o",
+    "cat": "WNBA",
+    "eventInfo": {
+      "teamA": "Fire",
+      "teamB": "Storm",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1166446/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3448/image",
+      "eventName": "Portland Fire vs Seattle Storm",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/09 00:30:00 +0000",
+      "endTime": "2026/08/09 03:15:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "WNBA LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
       },
+      {
+        "title": "WNBA LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
       {
         "api": "YTdlZDhkNGExZmEyZWI0NzFhNmJlNTVmZTJkMmQyNDg6MDE0NWJlYzY4YmM0MWE4YTBiOTUzM3E0NG80NGQzOWM=",
         "link": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9ursje3pdu/out/v1/b794975bb9304d08b362b47ed428f4f1/cenc.mpd",
@@ -2108,6 +2203,56 @@
     "channel_status": "live"
   },
   {
+    "id": 50075,
+    "title": "Yankees vs Atlanta Braves",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Yankees",
+      "teamB": "Braves",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3654/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3656/image",
+      "eventName": "New York Yankees vs Atlanta Braves",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/08 19:05:00 +0000",
+      "endTime": "2026/08/08 22:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "MLB LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "MLB LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://edgestream3.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/mlb/2026-08-07/tor-phi",
+        "logo": "",
+        "title": "MLB LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
     "id": 50076,
     "title": "Red Sox vs Athletics",
     "image": "o",
@@ -2209,19 +2354,19 @@
   },
   {
     "id": 50078,
-    "title": "Yankees vs Atlanta Braves",
+    "title": "Phillies vs Blue Jays",
     "image": "o",
     "cat": "MLB",
     "eventInfo": {
-      "teamA": "Yankees",
-      "teamB": "Braves",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3654/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3656/image",
-      "eventName": "New York Yankees vs Atlanta Braves",
+      "teamA": "Phillies",
+      "teamB": "Blue Jays",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3635/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3642/image",
+      "eventName": "Philadelphia Phillies vs Toronto Blue Jays",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/07 23:05:00 +0000",
-      "endTime": "2026/08/08 03:45:00 +0000"
+      "startTime": "2026/08/08 22:05:00 +0000",
+      "endTime": "2026/08/09 01:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -3707,40 +3852,363 @@
     "channel_status": "live"
   },
   {
-    "id": 50112,
-    "title": "MI London vs Trent Rockets",
+    "id": 50113,
+    "title": "Sydney Swans vs Port Adelaide",
     "image": "o",
-    "cat": "The Hundred",
+    "cat": "AFL",
     "eventInfo": {
-      "teamA": "MIL",
-      "teamB": "TRT",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/377172/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/377176/image",
-      "eventName": "MI London vs Trent Rockets",
+      "teamA": "Sydney Swans",
+      "teamB": "Port Adelaide Power",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4447/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4457/image",
+      "eventName": "Sydney Swans vs Port Adelaide",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/08 13:30:00 +0000",
-      "endTime": "2026/08/08 17:15:00 +0000"
+      "startTime": "2026/08/08 06:15:00 +0000",
+      "endTime": "2026/08/08 08:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "FOX SPORTS FHD",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "FOX SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "FOX SPORTS FHD",
+        "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/afl/2026-08-08/syd-port",
+        "logo": "",
+        "title": "SPX LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50114,
+    "title": "Geelong Cats vs Essendon",
+    "image": "o",
+    "cat": "AFL",
+    "eventInfo": {
+      "teamA": "Geelong Cats",
+      "teamB": "Essendon Bombers",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4443/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4450/image",
+      "eventName": "Geelong Cats vs Essendon Bombers",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/08 06:35:00 +0000",
+      "endTime": "2026/08/08 09:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "FOX SPORTS FHD",
+      "SPX LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "FOX SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "FOX SPORTS FHD",
+        "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/afl/2026-08-08/geel-ess",
+        "logo": "",
+        "title": "SPX LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50115,
+    "title": "Adelaide Crows vs Richmond Tigers",
+    "image": "o",
+    "cat": "AFL",
+    "eventInfo": {
+      "teamA": "Adelaide Crows",
+      "teamB": "Richmond Tigers",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4442/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4451/image",
+      "eventName": "Adelaide Crows vs Richmond Tigers",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/08 09:35:00 +0000",
+      "endTime": "2026/08/08 12:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "TNT Sports FHD",
+      "SPX LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "TNT Sports FHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
+      {
+        "title": "SPX LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
+        "title": "TNT Sports FHD",
+        "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/afl/2026-08-08/adel-rich",
+        "logo": "",
+        "title": "SPX LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50116,
+    "title": "Melbourne Storm vs Manly Sea Eagles",
+    "image": "o",
+    "cat": "NRL Rugby",
+    "eventInfo": {
+      "teamA": "Melbourne Storm",
+      "teamB": "Eagles",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4255/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4259/image",
+      "eventName": "Melbourne Storm vs Manly Sea Eagles",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/08 05:00:00 +0000",
+      "endTime": "2026/08/08 07:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "NZ SPORTS HD",
+      "SKY SPORTS FHD",
+      "SD SERVER",
+      "SPX LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "NZ SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "SKY SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "title": "DUDE Tv Live",
+        "link": "https://tmaxapp.site/8wirwjs76erftg/skysport3nz.m3u8",
+        "logo": "",
+        "title": "NZ SPORTS HD",
         "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://messi.damitv.st/papi/tv/dlhd/590/playlist.m3u8?|Referer=https://ondemand.st/",
+        "logo": "",
+        "title": "SKY SPORTS FHD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.190/hls/DFFFaAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "SD SERVER",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/nrl/2026-08-08/mel-man",
+        "logo": "",
+        "title": "SPX LIVE [FHD]",
+        "type": "2"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
+  },
+  {
+    "id": 50117,
+    "title": "Dolphins vs Brisbane Broncos",
+    "image": "o",
+    "cat": "NRL Rugby",
+    "eventInfo": {
+      "teamA": "Dolphins",
+      "teamB": "Brisbane Broncos",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/465010/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4258/image",
+      "eventName": "Dolphins vs Brisbane Broncos",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/08 07:30:00 +0000",
+      "endTime": "2026/08/08 10:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "NZ SPORTS HD",
+      "SKY SPORTS FHD",
+      "SD SERVER",
+      "SPX LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "NZ SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "SKY SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://tmaxapp.site/8wirwjs76erftg/skysport3nz.m3u8",
+        "logo": "",
+        "title": "NZ SPORTS HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://messi.damitv.st/papi/tv/dlhd/590/playlist.m3u8?|Referer=https://ondemand.st/",
+        "logo": "",
+        "title": "SKY SPORTS FHD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.190/hls/DFFFaAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "SD SERVER",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/nrl/2026-08-08/dol-bri",
+        "logo": "",
+        "title": "SPX LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50118,
+    "title": "South Sydney vs Parramatta Eels",
+    "image": "o",
+    "cat": "NRL Rugby",
+    "eventInfo": {
+      "teamA": "South Sydney",
+      "teamB": "Parramatta Eels",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4263/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4261/image",
+      "eventName": "South Sydney vs Parramatta Eels",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/08 09:35:00 +0000",
+      "endTime": "2026/08/08 12:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "NZ SPORTS HD",
+      "SKY SPORTS FHD",
+      "SPX LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "NZ SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "SKY SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8",
+        "logo": "",
+        "title": "NZ SPORTS HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://messi.damitv.st/papi/tv/dlhd/589/playlist.m3u8?|Referer=https://ondemand.st/",
+        "logo": "",
+        "title": "SKY SPORTS FHD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/nrl/2026-08-08/sou-par",
+        "logo": "",
+        "title": "SPX LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "live"
   }
 ]
