@@ -660,82 +660,6 @@
     ]
   },
   {
-    "id": 50027,
-    "title": "Connecticut vs Phoenix Mercury",
-    "image": "o",
-    "cat": "WNBA",
-    "eventInfo": {
-      "teamA": "Sun",
-      "teamB": "Mercury",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/35547/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3444/image",
-      "eventName": "Connecticut Sun vs Phoenix Mercury",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/07 23:30:00 +0000",
-      "endTime": "2026/08/08 02:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv WNBA",
-      "DUDE Tv Live",
-      "WNBA LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv WNBA",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "WNBA LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50032,
-    "title": "Texas Rangers",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Rangers",
-      "teamB": "Orioles",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3647/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3652/image",
-      "eventName": "Texas Rangers vs Baltimore Orioles",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/08 00:15:00 +0000",
-      "endTime": "2026/08/08 03:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv MLB",
-      "DUDE Tv LIVE",
-      "MLB LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv LIVE",
-        "logo": ""
-      },
-      {
-        "title": "MLB LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50033,
     "title": "Arizona Diamondbacks",
     "image": "o",
@@ -754,10 +678,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -787,10 +716,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -820,10 +754,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -853,10 +792,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -906,44 +850,6 @@
     ]
   },
   {
-    "id": 50055,
-    "title": "Mystics vs Atlanta Dream",
-    "image": "o",
-    "cat": "WNBA",
-    "eventInfo": {
-      "teamA": "Mystics",
-      "teamB": "Dream",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3454/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/35545/image",
-      "eventName": "Washington Mystics vs Atlanta Dream",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/07 23:30:00 +0000",
-      "endTime": "2026/08/08 02:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv WNBA",
-      "DUDE Tv Live",
-      "WNBA LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv WNBA",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "WNBA LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50056,
     "title": "Dallas Wings vs Valkyries",
     "image": "o",
@@ -962,10 +868,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv WNBA",
       "DUDE Tv Live",
       "WNBA LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv WNBA",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1030,15 +941,15 @@
     "image": "o",
     "cat": "The Hundred",
     "eventInfo": {
-      "teamA": "BPH",
-      "teamB": "SL",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/377174/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/377178/image",
-      "eventName": "Birmingham Phoenix vs Sunrisers Leeds",
+      "teamA": "SOB",
+      "teamB": "MSG",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/377177/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/377173/image",
+      "eventName": "Southern Brave vs Manchester Super Giants",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/07 17:30:00 +0000",
-      "endTime": "2026/08/07 21:15:00 +0000"
+      "startTime": "2026/08/08 17:00:00 +0000",
+      "endTime": "2026/08/08 20:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1155,73 +1066,7 @@
       "eventType": "null",
       "isHot": "0",
       "startTime": "2026/08/07 22:40:00 +0000",
-      "endTime": "2026/08/08 01:40:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "MLB LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "MLB LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50076,
-    "title": "Pirates vs New York Mets",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Pirates",
-      "teamB": "Mets",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3637/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3629/image",
-      "eventName": "Pittsburgh Pirates vs New York Mets",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/07 22:40:00 +0000",
-      "endTime": "2026/08/08 01:40:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "MLB LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "MLB LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50077,
-    "title": "Nationals vs Cincinnati Reds",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Nationals",
-      "teamB": "Reds",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/5930/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3633/image",
-      "eventName": "Washington Nationals vs Cincinnati Reds",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/07 22:45:00 +0000",
-      "endTime": "2026/08/08 01:45:00 +0000"
+      "endTime": "2026/08/08 03:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1267,148 +1112,6 @@
       {
         "title": "TNT Sports",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "MLB LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50079,
-    "title": "Boston Red Sox vs Athletics",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Red Sox",
-      "teamB": "Athletics",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3646/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3645/image",
-      "eventName": "Boston Red Sox vs Athletics",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/07 23:10:00 +0000",
-      "endTime": "2026/08/08 02:10:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "MLB LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "MLB LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50080,
-    "title": "Miami Marlins vs Angels",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Marlins",
-      "teamB": "Angels",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3639/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/5929/image",
-      "eventName": "Miami Marlins vs Los Angeles Angels",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/07 23:10:00 +0000",
-      "endTime": "2026/08/08 02:10:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "MLB LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "MLB LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50081,
-    "title": "White Sox vs Guardians",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "White Sox",
-      "teamB": "Guardians",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3644/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3650/image",
-      "eventName": "Chicago White Sox vs Guardians",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/07 23:40:00 +0000",
-      "endTime": "2026/08/08 02:40:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv MLB",
-      "DUDE Tv Live",
-      "MLB LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "MLB LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50082,
-    "title": "Brewers vs Minnesota Twins",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Brewers",
-      "teamB": "Twins",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3630/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3649/image",
-      "eventName": "Milwaukee Brewers vs Minnesota Twins",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/07 23:40:00 +0000",
-      "endTime": "2026/08/08 02:40:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv MLB",
-      "DUDE Tv Live",
-      "MLB LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
       },
       {
         "title": "DUDE Tv Live",
@@ -1549,37 +1252,27 @@
     ]
   },
   {
-    "id": 50088,
-    "title": "Cincinnati vs Pumas UNAM",
+    "id": 50089,
+    "title": "Inter Miami vs Monterrey",
     "image": "o",
     "cat": "Leagues Cup",
     "eventInfo": {
-      "teamA": "Cincinnati",
-      "teamB": "Pumas",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/215167/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1933/image",
-      "eventName": "FC Cincinnati vs Pumas UNAM",
+      "teamA": "Inter Miami",
+      "teamB": "Monterrey",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/337602/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1932/image",
+      "eventName": "Inter Miami vs Monterrey",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/08 00:00:00 +0000",
-      "endTime": "2026/08/08 02:10:00 +0000"
+      "startTime": "2026/08/09 00:00:00 +0000",
+      "endTime": "2026/08/09 02:10:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TSN SPORTS",
-      "SPX LIVE HD",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
-      {
-        "title": "TSN SPORTS",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE HD",
-        "logo": ""
-      },
       {
         "title": "SPX LIVE [FHD]",
         "logo": ""
@@ -1625,146 +1318,409 @@
     ]
   },
   {
-    "id": 50092,
-    "title": "Fulham vs Crystal Palace",
+    "id": 50091,
+    "title": "Ferencváros vs Real Madrid",
     "image": "o",
     "cat": "Club Friendly",
     "eventInfo": {
-      "teamA": "Fulham",
-      "teamB": "Crystal Palace",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/43/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/7/image",
-      "eventName": "Fulham vs Crystal Palace",
+      "teamA": "Ferencváros",
+      "teamB": "Real Madrid",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1925/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2829/image",
+      "eventName": "Ferencváros TC vs Real Madrid",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/07 17:00:00 +0000",
-      "endTime": "2026/08/07 19:05:00 +0000"
+      "startTime": "2026/08/08 17:00:00 +0000",
+      "endTime": "2026/08/08 19:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "PALACE TV HD",
-      "LOW QUALITY",
-      "SPX LIVE [FHD]"
+      "Server 1 (ES)",
+      "Server 2 (EN)"
     ],
     "formatsNew": [
       {
-        "title": "PALACE TV HD",
+        "title": "Server 1 (ES)",
         "logo": ""
       },
       {
-        "title": "LOW QUALITY",
+        "title": "Server 2 (EN)",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50092,
+    "title": "PSG vs Manchester United",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "PSG",
+      "teamB": "Man Utd",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1644/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/35/image",
+      "eventName": "PSG vs Manchester United",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/08 15:00:00 +0000",
+      "endTime": "2026/08/08 17:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "MU TV",
+      "MU TV "
+    ],
+    "formatsNew": [
+      {
+        "title": "MU TV",
         "logo": ""
       },
       {
-        "title": "SPX LIVE [FHD]",
+        "title": "MU TV ",
         "logo": ""
       }
     ]
   },
   {
     "id": 50093,
-    "title": "Wolverhampton vs Port Vale",
+    "title": "Barcelona vs Nottingham Forest",
     "image": "o",
-    "cat": "EFL Cup 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "cat": "Club Friendly",
     "eventInfo": {
-      "teamA": "Wolves",
-      "teamB": "Port Vale",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/55/image",
-      "eventName": "Wolverhampton vs Port Vale",
+      "teamA": "Barcelona",
+      "teamB": "Forest",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2817/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/14/image",
+      "eventName": "Barcelona vs Nottingham Forest",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/07 18:45:00 +0000",
-      "endTime": "2026/08/07 20:55:00 +0000"
+      "startTime": "2026/08/08 19:00:00 +0000",
+      "endTime": "2026/08/08 21:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH",
-      "CBS NETWORK",
-      "CBS SPORTS HD",
-      "SportTV HD [PT]",
-      "HD SERVER",
-      "SD SERVER",
-      "SPX LIVE [FHD]"
+      "CBS NETWORK"
     ],
     "formatsNew": [
       {
-        "title": "beIN ENGLISH",
-        "logo": ""
-      },
-      {
         "title": "CBS NETWORK",
-        "logo": ""
-      },
-      {
-        "title": "CBS SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "SportTV HD [PT]",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
   },
   {
     "id": 50094,
-    "title": "Middlesbrough vs Wrexham",
+    "title": "Chelsea vs AC Milan",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "Chelsea",
+      "teamB": "Milan",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/38/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2692/image",
+      "eventName": "Chelsea vs AC Milan",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/08 12:00:00 +0000",
+      "endTime": "2026/08/08 14:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "FOX DEPORTES"
+    ],
+    "formatsNew": [
+      {
+        "title": "FOX DEPORTES",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50095,
+    "title": "Juventus vs Inter",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "Juventus",
+      "teamB": "Inter",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2687/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2697/image",
+      "eventName": "Juventus vs Inter",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/08 11:00:00 +0000",
+      "endTime": "2026/08/08 13:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "CBS NETWORK"
+    ],
+    "formatsNew": [
+      {
+        "title": "CBS NETWORK",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50096,
+    "title": "Hamburger SV vs Lille",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "HSV",
+      "teamB": "Lille",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2676/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1643/image",
+      "eventName": "Hamburger SV vs Lille",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/08 13:00:00 +0000",
+      "endTime": "2026/08/08 15:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50097,
+    "title": "Bayer Leverkusen vs Sevilla",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "Leverkusen",
+      "teamB": "Sevilla",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2681/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2833/image",
+      "eventName": "Bayer Leverkusen vs Sevilla",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/08 13:30:00 +0000",
+      "endTime": "2026/08/08 15:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "Premier Sports",
+      "beIN ENGLISH"
+    ],
+    "formatsNew": [
+      {
+        "title": "Premier Sports",
+        "logo": ""
+      },
+      {
+        "title": "beIN ENGLISH",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50098,
+    "title": "Tottenham vs Getafe",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "Tottenham",
+      "teamB": "Getafe",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/33/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2859/image",
+      "eventName": "Tottenham Hotspur vs Getafe",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/08 14:00:00 +0000",
+      "endTime": "2026/08/08 16:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SPX LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "SPX LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50099,
+    "title": "FC Köln vs Real Sociedad",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "Köln",
+      "teamB": "Real Sociedad",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2671/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2824/image",
+      "eventName": "FC Köln vs Real Sociedad",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/08 13:30:00 +0000",
+      "endTime": "2026/08/08 15:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50100,
+    "title": "Brighton vs AS Roma",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "Brighton",
+      "teamB": "Roma",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/30/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2702/image",
+      "eventName": "Brighton vs AS Roma",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/08 14:00:00 +0000",
+      "endTime": "2026/08/08 16:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "CBS NETWORK"
+    ],
+    "formatsNew": [
+      {
+        "title": "CBS NETWORK",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50101,
+    "title": "Schalke 04 vs Atalanta",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "Schalke",
+      "teamB": "Atalanta",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2530/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2686/image",
+      "eventName": "FC Schalke 04 vs Atalanta",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/08 15:00:00 +0000",
+      "endTime": "2026/08/08 17:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "CBS NETWORK"
+    ],
+    "formatsNew": [
+      {
+        "title": "CBS NETWORK",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50102,
+    "title": "VfB Stuttgart vs Everton",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "Stuttgart",
+      "teamB": "Everton",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2677/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/48/image",
+      "eventName": "VfB Stuttgart vs Everton",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/08 15:00:00 +0000",
+      "endTime": "2026/08/08 17:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "CBS NETWORK"
+    ],
+    "formatsNew": [
+      {
+        "title": "CBS NETWORK",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50103,
+    "title": "Real Betis vs Bournemouth",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "Real Betis",
+      "teamB": "Bournemouth",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2816/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/60/image",
+      "eventName": "Real Betis vs Bournemouth",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/08 18:30:00 +0000",
+      "endTime": "2026/08/08 20:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50104,
+    "title": "QPR vs Millwall",
     "image": "o",
     "cat": "EFL Cup 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
     "eventInfo": {
-      "teamA": "Middlesbrough",
-      "teamB": "Wrexham",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/36/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/64/image",
-      "eventName": "Middlesbrough vs Wrexham",
+      "teamA": "QPR",
+      "teamB": "Millwall",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/25/image",
+      "eventName": "QPR vs Millwall",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/07 19:00:00 +0000",
-      "endTime": "2026/08/07 21:05:00 +0000"
+      "startTime": "2026/08/08 13:00:00 +0000",
+      "endTime": "2026/08/08 15:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
       "beIN ENGLISH",
-      "ESPN HD [BR]",
-      "SportTV HD [PT]",
-      "HD SERVER",
-      "SD SERVER",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH",
-        "logo": ""
-      },
-      {
-        "title": "ESPN HD [BR]",
-        "logo": ""
-      },
-      {
-        "title": "SportTV HD [PT]",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
         "logo": ""
       },
       {
@@ -1774,110 +1730,240 @@
     ]
   },
   {
-    "id": 50095,
-    "title": "Estoril Praia vs Famalicão",
+    "id": 50105,
+    "title": "Burnley vs Notts County",
     "image": "o",
-    "cat": "Liga Portugal",
+    "cat": "EFL Cup 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
     "eventInfo": {
-      "teamA": "Estoril",
-      "teamB": "Famalicão",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4500/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/49531/image",
-      "eventName": "Estoril Praia vs Famalicão",
+      "teamA": "Burnley",
+      "teamB": "Notts County",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/6/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/56/image",
+      "eventName": "Burnley vs Notts County",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/07 19:15:00 +0000",
-      "endTime": "2026/08/07 21:20:00 +0000"
+      "startTime": "2026/08/08 14:00:00 +0000",
+      "endTime": "2026/08/08 16:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportDigital Fussball",
-      "SportTV HD [PT]",
-      "DUDE Tv Live",
-      "SD SERVER"
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "SportDigital Fussball",
-        "logo": ""
-      },
-      {
-        "title": "SportTV HD [PT]",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
   },
   {
-    "id": 50096,
-    "title": "SC Cambuur vs Excelsior",
+    "id": 50106,
+    "title": "Derby County vs Lincoln City",
     "image": "o",
-    "cat": "Eredivisie",
+    "cat": "EFL Cup 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
     "eventInfo": {
-      "teamA": "Cambuur",
-      "teamB": "Excelsior",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2970/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2967/image",
-      "eventName": "SC Cambuur vs Excelsior",
+      "teamA": "Derby",
+      "teamB": "Lincoln",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/27/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/92/image",
+      "eventName": "Derby County vs Lincoln City",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/07 18:00:00 +0000",
-      "endTime": "2026/08/07 20:05:00 +0000"
+      "startTime": "2026/08/08 14:00:00 +0000",
+      "endTime": "2026/08/08 16:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live",
-      "LOW QUALITY"
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW QUALITY",
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
   },
   {
-    "id": 50097,
-    "title": "Bochum vs Hertha BSC",
+    "id": 50107,
+    "title": "Leicester City vs Northampton",
     "image": "o",
-    "cat": "2. Bundesliga",
+    "cat": "EFL Cup 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
     "eventInfo": {
-      "teamA": "Bochum",
-      "teamB": "Hertha",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2542/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2528/image",
-      "eventName": "Bochum vs Hertha BSC",
+      "teamA": "Leicester",
+      "teamB": "Northampton",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/31/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/57/image",
+      "eventName": "Leicester City vs Northampton Town",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/07 18:30:00 +0000",
-      "endTime": "2026/08/07 20:35:00 +0000"
+      "startTime": "2026/08/08 14:00:00 +0000",
+      "endTime": "2026/08/08 16:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live",
-      "LOW QUALITY"
+      "SPX LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "SPX LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50108,
+    "title": "Swansea City vs Birmingham City",
+    "image": "o",
+    "cat": "EFL Cup 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "eventInfo": {
+      "teamA": "Swansea",
+      "teamB": "Birmingham",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/74/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/9/image",
+      "eventName": "Swansea City vs Birmingham City",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/08 14:00:00 +0000",
+      "endTime": "2026/08/08 16:10:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SPX LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "SPX LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50109,
+    "title": "West Ham vs Portsmouth",
+    "image": "o",
+    "cat": "EFL Cup 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "eventInfo": {
+      "teamA": "West Ham",
+      "teamB": "Portsmouth",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/37/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2/image",
+      "eventName": "West Ham United vs Portsmouth",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/08 14:00:00 +0000",
+      "endTime": "2026/08/08 16:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "beIN ENGLISH",
+      "SPX LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "beIN ENGLISH",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50110,
+    "title": "Colchester vs Southampton",
+    "image": "o",
+    "cat": "EFL Cup 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "eventInfo": {
+      "teamA": "Colchester",
+      "teamB": "Southampton",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/66/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/45/image",
+      "eventName": "Colchester United vs Southampton",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/08 16:30:00 +0000",
+      "endTime": "2026/08/08 18:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "beIN ENGLISH",
+      "SPX LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "beIN ENGLISH",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50111,
+    "title": "Rotherham vs West Bromwich",
+    "image": "o",
+    "cat": "EFL Cup 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "eventInfo": {
+      "teamA": "Rotherham",
+      "teamB": "West Brom",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/13/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/8/image",
+      "eventName": "Rotherham vs West Bromwich",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/08 16:30:00 +0000",
+      "endTime": "2026/08/08 18:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "beIN ENGLISH",
+      "SPX LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "beIN ENGLISH",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50112,
+    "title": "MI London vs Trent Rockets",
+    "image": "o",
+    "cat": "The Hundred",
+    "eventInfo": {
+      "teamA": "MIL",
+      "teamB": "TRT",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/377172/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/377176/image",
+      "eventName": "MI London vs Trent Rockets",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/08 13:30:00 +0000",
+      "endTime": "2026/08/08 17:15:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW QUALITY",
         "logo": ""
       }
     ]
