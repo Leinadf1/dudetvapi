@@ -1691,7 +1691,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/35/image",
       "eventName": "PSG vs Manchester United",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/08/08 15:00:00 +0000",
       "endTime": "2026/08/08 17:05:00 +0000"
     },
@@ -1699,7 +1699,9 @@
     "publish": "1",
     "formats": [
       "MU TV FHD",
-      "MU TV HD"
+      "MU TV HD",
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
@@ -1708,6 +1710,14 @@
       },
       {
         "title": "MU TV HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -2067,11 +2077,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "CBS NETWORK"
+      "CBS NETWORK",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "CBS NETWORK",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -2294,12 +2309,22 @@
     "publish": "1",
     "formats": [
       "beIN ENGLISH",
+      "DUDE Tv Live",
+      "HD SERVER",
       "SD SERVER",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
         "logo": ""
       },
       {
