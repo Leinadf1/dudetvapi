@@ -1683,11 +1683,36 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "FOX DEPORTES"
+      "FOX DEPORTES",
+      "DUDE Tv Live",
+      "CBS SPORTS HD",
+      "FHD SERVER",
+      "SportTV HD [PT]",
+      "SportyNET HD"
     ],
     "formatsNew": [
       {
         "title": "FOX DEPORTES",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "CBS SPORTS HD",
+        "logo": "https://iili.io/BtCdabj.png"
+      },
+      {
+        "title": "FHD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SportTV HD [PT]",
+        "logo": ""
+      },
+      {
+        "title": "SportyNET HD",
         "logo": ""
       }
     ]
@@ -1711,11 +1736,36 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "CBS NETWORK"
+      "CBS NETWORK",
+      "D Sports FHD",
+      "DAZN SPORTS HD",
+      "DUDE Tv Live",
+      "Sky Sports",
+      "Low Quality"
     ],
     "formatsNew": [
       {
         "title": "CBS NETWORK",
+        "logo": ""
+      },
+      {
+        "title": "D Sports FHD",
+        "logo": ""
+      },
+      {
+        "title": "DAZN SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "Sky Sports",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
+      },
+      {
+        "title": "Low Quality",
         "logo": ""
       }
     ]
@@ -2195,33 +2245,28 @@
   },
   {
     "id": 50113,
-    "title": "Sydney Swans vs Port Adelaide",
+    "title": "Leeds United vs RB Leipzig",
     "image": "o",
-    "cat": "AFL",
+    "cat": "Club Friendly",
     "eventInfo": {
-      "teamA": "Sydney Swans",
-      "teamB": "Port Adelaide Power",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4447/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4457/image",
-      "eventName": "Sydney Swans vs Port Adelaide",
+      "teamA": "Leeds",
+      "teamB": "Leipzig",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/34/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/36360/image",
+      "eventName": "Leeds United vs RB Leipzig",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/08 06:15:00 +0000",
-      "endTime": "2026/08/08 08:45:00 +0000"
+      "startTime": "2026/08/08 13:00:00 +0000",
+      "endTime": "2026/08/08 15:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "FOX SPORTS FHD",
-      "SPX LIVE [FHD]"
+      "RED BULL TV HD"
     ],
     "formatsNew": [
       {
-        "title": "FOX SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
+        "title": "RED BULL TV HD",
         "logo": ""
       }
     ]
@@ -2435,11 +2480,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH 3"
+      "beIN ENGLISH FHD",
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
-        "title": "beIN ENGLISH 3",
+        "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -2463,11 +2518,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH 1"
+      "beIN ENGLISH FHD",
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
-        "title": "beIN ENGLISH 1",
+        "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -2491,11 +2556,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -2519,11 +2589,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
