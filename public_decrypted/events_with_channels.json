@@ -1336,8 +1336,8 @@
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://iili.io/CUvi3T7.png",
       "isHot": "0",
-      "startTime": "2026/08/08 16:30:00 +0000",
-      "endTime": "2026/08/09 03:00:00 +0000"
+      "startTime": "2026/08/09 16:30:00 +0000",
+      "endTime": "2026/08/10 03:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -2925,11 +2925,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "HD QUALITY"
+      "HD QUALITY",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "HD QUALITY",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ],
@@ -2939,6 +2944,13 @@
         "link": "http://31.148.48.15/Match_Futbol_3_HD/index.m3u8?token=test",
         "logo": "",
         "title": "HD QUALITY",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.41/hls/GPPPAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "SD SERVER",
         "type": "0"
       }
     ],
@@ -3349,226 +3361,6 @@
     "channel_status": "live"
   },
   {
-    "id": 50105,
-    "title": "JDT vs Chelsea",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "JDT",
-      "teamB": "Chelsea",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3327/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/38/image",
-      "eventName": "Johor Darul Ta'zim vs Chelsea",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/09 12:00:00 +0000",
-      "endTime": "2026/08/09 14:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "CHELSEA TV HD",
-      "HUB SPORTS HD",
-      "DUDE Tv Live",
-      "Sport TV3 HD [PT]",
-      "SportyNET HD [BR]",
-      "HD SERVER",
-      "CBS NETWORK",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "CHELSEA TV HD",
-        "logo": ""
-      },
-      {
-        "title": "HUB SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "Sport TV3 HD [PT]",
-        "logo": ""
-      },
-      {
-        "title": "SportyNET HD [BR]",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "CBS NETWORK",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/54401/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "CHELSEA TV HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://admin2.paradilux.store/hub.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "HUB SPORTS HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4593731.m3u8?txSecret=5dd19250e4cab6dbe13bf5d363e16a94&txTime=6A788357|Referer=https://player.online909.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://rdcstream.life/live/sport-tv-3-pt/index.m3u8?|Referer=https://bolodechocolate.fit/",
-        "logo": "",
-        "title": "Sport TV3 HD [PT]",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://rdcstream.life/live/sportynet/index.m3u8?|Referer=https://bolodechocolate.fit/",
-        "logo": "",
-        "title": "SportyNET HD [BR]",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://pul-tenm.gkykp.com/live/sd-1-4593731.m3u8?txSecret=2ca7efd19145ebb8a798a5068cc3b320&txTime=6A79BDB8",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-      },
-      {
-        "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "CBS NETWORK",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.192/hls/RRRRRRRR.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "SD SERVER",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50106,
-    "title": "Manchester City vs Atlético Madrid",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Manchester City",
-      "teamB": "Atl. Madrid",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/17/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2836/image",
-      "eventName": "Manchester City vs Atlético Madrid",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/09 11:00:00 +0000",
-      "endTime": "2026/08/09 13:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "CBS NETWORK",
-      "DUDE Tv Live",
-      "Sport TV2 HD [PT]",
-      "HD SERVER",
-      "HD SERVER 2",
-      "HD SERVER 3"
-    ],
-    "formatsNew": [
-      {
-        "title": "CBS NETWORK",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "Sport TV2 HD [PT]",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER 2",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER 3",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "CBS NETWORK",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/54398/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://rdcstream.life/live/sport-tv-2-pt/index.m3u8?|Referer=https://bolodechocolate.fit/",
-        "logo": "",
-        "title": "Sport TV2 HD [PT]",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://hls.streamhub.media/hls/thesport-api-38c123178953e6a59f21/master.m3u8",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://live.666666.zip/live/4561571.m3u8",
-        "logo": "",
-        "title": "HD SERVER 2",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://stream.sports3.win/iptv/live/signal-4561571-32760.m3u8",
-        "logo": "",
-        "title": "HD SERVER 3",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
     "id": 50107,
     "title": "Arsenal vs Borussia Dortmund",
     "image": "o",
@@ -3843,6 +3635,13 @@
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
         "title": "Premier Sports",
+        "type": "1"
+      },
+      {
+        "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "beIN ENGLISH",
         "type": "1"
       },
       {

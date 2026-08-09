@@ -644,8 +644,8 @@
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://iili.io/CUvi3T7.png",
       "isHot": "0",
-      "startTime": "2026/08/08 16:30:00 +0000",
-      "endTime": "2026/08/09 03:00:00 +0000"
+      "startTime": "2026/08/09 16:30:00 +0000",
+      "endTime": "2026/08/10 03:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1622,11 +1622,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "HD QUALITY"
+      "HD QUALITY",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "HD QUALITY",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1881,122 +1886,6 @@
       },
       {
         "title": "SportyNET HD [BR]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50105,
-    "title": "JDT vs Chelsea",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "JDT",
-      "teamB": "Chelsea",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3327/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/38/image",
-      "eventName": "Johor Darul Ta'zim vs Chelsea",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/09 12:00:00 +0000",
-      "endTime": "2026/08/09 14:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "CHELSEA TV HD",
-      "HUB SPORTS HD",
-      "DUDE Tv Live",
-      "Sport TV3 HD [PT]",
-      "SportyNET HD [BR]",
-      "HD SERVER",
-      "CBS NETWORK",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "CHELSEA TV HD",
-        "logo": ""
-      },
-      {
-        "title": "HUB SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "Sport TV3 HD [PT]",
-        "logo": ""
-      },
-      {
-        "title": "SportyNET HD [BR]",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "CBS NETWORK",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50106,
-    "title": "Manchester City vs Atlético Madrid",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Manchester City",
-      "teamB": "Atl. Madrid",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/17/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2836/image",
-      "eventName": "Manchester City vs Atlético Madrid",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/09 11:00:00 +0000",
-      "endTime": "2026/08/09 13:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "CBS NETWORK",
-      "DUDE Tv Live",
-      "Sport TV2 HD [PT]",
-      "HD SERVER",
-      "HD SERVER 2",
-      "HD SERVER 3"
-    ],
-    "formatsNew": [
-      {
-        "title": "CBS NETWORK",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "Sport TV2 HD [PT]",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER 2",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER 3",
         "logo": ""
       }
     ]
