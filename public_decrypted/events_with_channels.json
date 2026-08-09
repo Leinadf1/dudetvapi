@@ -1486,10 +1486,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TSN 5",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "TSN 5",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1500,6 +1505,12 @@
       }
     ],
     "decoded_channels": [
+      {
+        "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "TSN 5",
+        "type": "1"
+      },
       {
         "api": "",
         "link": "https://edgestream1.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
@@ -2523,6 +2534,172 @@
     "channel_status": "cached"
   },
   {
+    "id": 50086,
+    "title": "Malawi vs Ghana",
+    "image": "o",
+    "cat": "Womens AFCON",
+    "eventInfo": {
+      "teamA": "Malawi",
+      "teamB": "Ghana",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/298498/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/7417/image",
+      "eventName": "Malawi vs Ghana",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/09 20:00:00 +0000",
+      "endTime": "2026/08/09 22:10:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "beIN ENGLISH"
+    ],
+    "formatsNew": [
+      {
+        "title": "beIN ENGLISH",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "beIN ENGLISH",
+        "type": "1"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50088,
+    "title": "Cruz Azul vs New York City",
+    "image": "o",
+    "cat": "Leagues Cup",
+    "eventInfo": {
+      "teamA": "Cruz Azul",
+      "teamB": "NY City",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1947/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/187643/image",
+      "eventName": "Cruz Azul vs New York City",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/09 23:40:00 +0000",
+      "endTime": "2026/08/10 01:45:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "TSN 2",
+      "FOX SPORTS",
+      "SPX LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "TSN 2",
+        "logo": ""
+      },
+      {
+        "title": "FOX SPORTS",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "TSN 2",
+        "type": "1"
+      },
+      {
+        "api": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "FOX SPORTS",
+        "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/leagues-cup/2026-08-07/cin-unam",
+        "title": "SPX LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50089,
+    "title": "Club América vs Portland Timbers",
+    "image": "o",
+    "cat": "Leagues Cup",
+    "eventInfo": {
+      "teamA": "América",
+      "teamB": "Portland",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1939/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/22007/image",
+      "eventName": "Club América vs Portland Timbers",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/10 02:15:00 +0000",
+      "endTime": "2026/08/10 04:25:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "TSN SPORTS",
+      "FOX SPORTS",
+      "CANAL5 FHD",
+      "SPX LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "TSN SPORTS",
+        "logo": ""
+      },
+      {
+        "title": "FOX SPORTS",
+        "logo": ""
+      },
+      {
+        "title": "CANAL5 FHD",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "TSN SPORTS",
+        "type": "1"
+      },
+      {
+        "api": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "FOX SPORTS",
+        "type": "1"
+      },
+      {
+        "api": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "CANAL5 FHD",
+        "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/leagues-cup/2026-08-08/mia-mty",
+        "title": "SPX LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
     "id": 50091,
     "title": "Flamengo vs Vitória",
     "image": "o",
@@ -2793,7 +2970,8 @@
     "formats": [
       "Benfica TV HD [PT]",
       "beiN SPORTS ES",
-      "Low Server"
+      "Low Server",
+      "HD QUALITY"
     ],
     "formatsNew": [
       {
@@ -2806,6 +2984,10 @@
       },
       {
         "title": "Low Server",
+        "logo": ""
+      },
+      {
+        "title": "HD QUALITY",
         "logo": ""
       }
     ],
@@ -2829,6 +3011,13 @@
         "link": "http://31.148.48.15/Match_Futbol_2_HD/index.m3u8?token=test",
         "logo": "",
         "title": "Low Server",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://162.251.160.53:8089/SUNfot6/index.m3u8",
+        "logo": "",
+        "title": "HD QUALITY",
         "type": "0"
       }
     ],
@@ -2925,7 +3114,8 @@
     "publish": "1",
     "formats": [
       "Sport TV2 HD [PT]",
-      "Sport TV HD"
+      "Sport TV HD",
+      "HD QUALITY"
     ],
     "formatsNew": [
       {
@@ -2934,6 +3124,10 @@
       },
       {
         "title": "Sport TV HD",
+        "logo": ""
+      },
+      {
+        "title": "HD QUALITY",
         "logo": ""
       }
     ],
@@ -2953,7 +3147,7 @@
         "type": "0"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
     "id": 50100,

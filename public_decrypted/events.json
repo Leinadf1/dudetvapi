@@ -790,10 +790,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TSN 5",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "TSN 5",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1424,6 +1429,115 @@
     ]
   },
   {
+    "id": 50086,
+    "title": "Malawi vs Ghana",
+    "image": "o",
+    "cat": "Womens AFCON",
+    "eventInfo": {
+      "teamA": "Malawi",
+      "teamB": "Ghana",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/298498/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/7417/image",
+      "eventName": "Malawi vs Ghana",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/09 20:00:00 +0000",
+      "endTime": "2026/08/09 22:10:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "beIN ENGLISH"
+    ],
+    "formatsNew": [
+      {
+        "title": "beIN ENGLISH",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50088,
+    "title": "Cruz Azul vs New York City",
+    "image": "o",
+    "cat": "Leagues Cup",
+    "eventInfo": {
+      "teamA": "Cruz Azul",
+      "teamB": "NY City",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1947/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/187643/image",
+      "eventName": "Cruz Azul vs New York City",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/09 23:40:00 +0000",
+      "endTime": "2026/08/10 01:45:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "TSN 2",
+      "FOX SPORTS",
+      "SPX LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "TSN 2",
+        "logo": ""
+      },
+      {
+        "title": "FOX SPORTS",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50089,
+    "title": "Club América vs Portland Timbers",
+    "image": "o",
+    "cat": "Leagues Cup",
+    "eventInfo": {
+      "teamA": "América",
+      "teamB": "Portland",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1939/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/22007/image",
+      "eventName": "Club América vs Portland Timbers",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/10 02:15:00 +0000",
+      "endTime": "2026/08/10 04:25:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "TSN SPORTS",
+      "FOX SPORTS",
+      "CANAL5 FHD",
+      "SPX LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "TSN SPORTS",
+        "logo": ""
+      },
+      {
+        "title": "FOX SPORTS",
+        "logo": ""
+      },
+      {
+        "title": "CANAL5 FHD",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50091,
     "title": "Flamengo vs Vitória",
     "image": "o",
@@ -1609,7 +1723,8 @@
     "formats": [
       "Benfica TV HD [PT]",
       "beiN SPORTS ES",
-      "Low Server"
+      "Low Server",
+      "HD QUALITY"
     ],
     "formatsNew": [
       {
@@ -1622,6 +1737,10 @@
       },
       {
         "title": "Low Server",
+        "logo": ""
+      },
+      {
+        "title": "HD QUALITY",
         "logo": ""
       }
     ]
@@ -1679,7 +1798,8 @@
     "publish": "1",
     "formats": [
       "Sport TV2 HD [PT]",
-      "Sport TV HD"
+      "Sport TV HD",
+      "HD QUALITY"
     ],
     "formatsNew": [
       {
@@ -1688,6 +1808,10 @@
       },
       {
         "title": "Sport TV HD",
+        "logo": ""
+      },
+      {
+        "title": "HD QUALITY",
         "logo": ""
       }
     ]
