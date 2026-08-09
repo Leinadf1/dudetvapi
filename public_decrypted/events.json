@@ -698,10 +698,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv WNBA",
       "DUDE Tv Live",
       "WNBA LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv WNBA",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1127,10 +1132,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1858,190 +1868,6 @@
     ]
   },
   {
-    "id": 50104,
-    "title": "Liverpool FC vs AS Monaco",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Liverpool FC",
-      "teamB": "AS Monaco",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/44/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1653/image",
-      "eventName": "Liverpool FC vs AS Monaco",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/09 13:30:00 +0000",
-      "endTime": "2026/08/09 15:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "FOX DEPORTES",
-      "LFC TV HD",
-      "DUDE Tv Live",
-      "Sport TV1 HD [PT]",
-      "SportyNET HD [BR]"
-    ],
-    "formatsNew": [
-      {
-        "title": "FOX DEPORTES",
-        "logo": ""
-      },
-      {
-        "title": "LFC TV HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "Sport TV1 HD [PT]",
-        "logo": ""
-      },
-      {
-        "title": "SportyNET HD [BR]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50107,
-    "title": "Arsenal vs Borussia Dortmund",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Arsenal",
-      "teamB": "Dortmund",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/42/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2673/image",
-      "eventName": "Arsenal vs Borussia Dortmund",
-      "eventType": "null",
-      "startTime": "2026/08/09 13:00:00 +0000",
-      "endTime": "2026/08/09 15:10:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "ESPN HD [BR]",
-      "SportKlub HD",
-      "LOW QUALITY"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "ESPN HD [BR]",
-        "logo": ""
-      },
-      {
-        "title": "SportKlub HD",
-        "logo": ""
-      },
-      {
-        "title": "LOW QUALITY",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50108,
-    "title": "SC Heerenveen vs Twente",
-    "image": "o",
-    "cat": "Eredivisie",
-    "eventInfo": {
-      "teamA": "SC Heerenveen",
-      "teamB": "Twente",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2964/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2955/image",
-      "eventName": "SC Heerenveen vs Twente",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/09 14:45:00 +0000",
-      "endTime": "2026/08/09 16:50:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50109,
-    "title": "Zwolle vs AFC Ajax",
-    "image": "o",
-    "cat": "Eredivisie",
-    "eventInfo": {
-      "teamA": "Zwolle",
-      "teamB": "AFC Ajax",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2971/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2953/image",
-      "eventName": "PEC Zwolle vs AFC Ajax",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/09 12:30:00 +0000",
-      "endTime": "2026/08/09 14:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportDigital Fussball",
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "SportDigital Fussball",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50110,
-    "title": "Sparta Rotterdam vs Feyenoord",
-    "image": "o",
-    "cat": "Eredivisie",
-    "eventInfo": {
-      "teamA": "Sparta Rotterdam",
-      "teamB": "Feyenoord",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2960/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2959/image",
-      "eventName": "Sparta Rotterdam vs Feyenoord",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/09 10:15:00 +0000",
-      "endTime": "2026/08/09 12:20:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportDigital Fussball",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "SportDigital Fussball",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50111,
     "title": "Rangers vs Hibernian",
     "image": "o",
@@ -2080,105 +1906,6 @@
       },
       {
         "title": "SportDigital Fussball",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50112,
-    "title": "Kilmarnock vs Celtic",
-    "image": "o",
-    "cat": "Scottish Premiership",
-    "eventInfo": {
-      "teamA": "Kilmarnock",
-      "teamB": "Celtic",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2347/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2352/image",
-      "eventName": "Kilmarnock vs Celtic",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/09 12:30:00 +0000",
-      "endTime": "2026/08/09 14:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN ENGLISH",
-      "SKY FOOTBALL HD",
-      "DUDE Tv Live",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN ENGLISH",
-        "logo": ""
-      },
-      {
-        "title": "SKY FOOTBALL HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50113,
-    "title": "Hearts vs Dundee United",
-    "image": "o",
-    "cat": "Scottish Premiership",
-    "eventInfo": {
-      "teamA": "Hearts",
-      "teamB": "Dundee United",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2353/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2349/image",
-      "eventName": "Hearts vs Dundee United",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/09 14:00:00 +0000",
-      "endTime": "2026/08/09 16:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50114,
-    "title": "Motherwell vs Falkirk FC",
-    "image": "o",
-    "cat": "Scottish Premiership",
-    "eventInfo": {
-      "teamA": "Motherwell",
-      "teamB": "Falkirk",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2346/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2363/image",
-      "eventName": "Motherwell vs Falkirk FC",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/09 14:00:00 +0000",
-      "endTime": "2026/08/09 16:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
