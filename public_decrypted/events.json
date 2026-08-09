@@ -1918,7 +1918,8 @@
     "publish": "1",
     "formats": [
       "Sport TV2 HD [PT]",
-      "CBS NETWORK"
+      "CBS NETWORK",
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
@@ -1927,6 +1928,10 @@
       },
       {
         "title": "CBS NETWORK",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
