@@ -174,89 +174,6 @@
     ]
   },
   {
-    "id": 50003,
-    "title": "MotoGP",
-    "image": "o",
-    "cat": "MotoGP",
-    "eventInfo": {
-      "teamA": "MotoGP",
-      "teamB": "MotoGP",
-      "teamAFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8fGgE14VBFQKRIMiWIvOlIwpL6AEobQtL3OkLLu7AzsBPGzeXGHsz5PL0NED5DHlAyKCFhPHoNaFB4Z1csH_vvpU47Pbtslr1za618knr-wojLCDa1hyW40v59Qw_UjMGWLREzicm9ZDl7yMuylyu7xMdMoQG3-XXKLoZafem7lpKqxfKavQu-33Mbck/s1600/mgp.png",
-      "teamBFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8fGgE14VBFQKRIMiWIvOlIwpL6AEobQtL3OkLLu7AzsBPGzeXGHsz5PL0NED5DHlAyKCFhPHoNaFB4Z1csH_vvpU47Pbtslr1za618knr-wojLCDa1hyW40v59Qw_UjMGWLREzicm9ZDl7yMuylyu7xMdMoQG3-XXKLoZafem7lpKqxfKavQu-33Mbck/s1600/mgp.png",
-      "eventName": "MotoGP - British Grand Prix",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/09 12:00:00 +0000",
-      "endTime": "2026/08/09 13:30:00 +0000"
-    },
-    "adsLimit": "11",
-    "publish": "1",
-    "formats": [
-      "TNT SPORTS FHD",
-      "SP0TV FHD",
-      "MotoGP FHD",
-      "DUDE Tv Live",
-      "TNT SPORTS HD",
-      "STREAM 1 (EN)",
-      "STREAM 2 (EN)",
-      "STREAM 3 (ITA)",
-      "STREAM 4 (ESP)",
-      "STREAM 5 (Live Tracking)",
-      "STREAM 6 (Live Timing)",
-      "STREAM 7 (Helicam)"
-    ],
-    "formatsNew": [
-      {
-        "title": "TNT SPORTS FHD",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
-      },
-      {
-        "title": "SP0TV FHD",
-        "logo": ""
-      },
-      {
-        "title": "MotoGP FHD",
-        "logo": "https://img.sofascore.com/api/v1/category/1325/image"
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "TNT SPORTS HD",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
-      },
-      {
-        "title": "STREAM 1 (EN)",
-        "logo": ""
-      },
-      {
-        "title": "STREAM 2 (EN)",
-        "logo": ""
-      },
-      {
-        "title": "STREAM 3 (ITA)",
-        "logo": ""
-      },
-      {
-        "title": "STREAM 4 (ESP)",
-        "logo": ""
-      },
-      {
-        "title": "STREAM 5 (Live Tracking)",
-        "logo": ""
-      },
-      {
-        "title": "STREAM 6 (Live Timing)",
-        "logo": ""
-      },
-      {
-        "title": "STREAM 7 (Helicam)",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50004,
     "title": "UFC",
     "image": "o",
@@ -736,10 +653,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv LIVE",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv LIVE",
         "logo": ""
@@ -785,7 +707,7 @@
   },
   {
     "id": 50034,
-    "title": "Baltimore Orioles",
+    "title": "Arizona Diamondbacks",
     "image": "o",
     "cat": "MLB",
     "eventInfo": {
@@ -817,59 +739,67 @@
     ]
   },
   {
-    "id": 50042,
-    "title": "Sunrisers Leeds vs Welsh Fire",
+    "id": 50052,
+    "title": "Seattle Mariners",
     "image": "o",
-    "cat": "The Hundred",
+    "cat": "MLB",
     "eventInfo": {
-      "teamA": "SL",
-      "teamB": "WEF",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/377178/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/377179/image",
-      "eventName": "Sunrisers Leeds vs Welsh Fire",
+      "teamA": "Mariners",
+      "teamB": "Rays",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3641/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3653/image",
+      "eventName": "Seattle Mariners vs Tampa Bay Rays",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/09 13:30:00 +0000",
-      "endTime": "2026/08/09 17:15:00 +0000"
+      "startTime": "2026/08/09 20:10:00 +0000",
+      "endTime": "2026/08/09 23:10:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "WILLOW - FHD",
-      "SKY CRICKET - AQ",
-      "WILLOW - ALT",
-      "TAPMAD - FHD",
-      "FOX CRICKET HD",
-      "SKY SPORT",
-      "LOW SERVER"
+      "DUDE Tv Live",
+      "MLB LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "WILLOW - FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "SKY CRICKET - AQ",
+        "title": "DUDE Tv Live",
         "logo": ""
       },
       {
-        "title": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
+        "title": "MLB LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50053,
+    "title": "San Diego Padres",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Padres",
+      "teamB": "Astros",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3636/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3655/image",
+      "eventName": "San Diego Padres vs Houston Astros",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/10 00:20:00 +0000",
+      "endTime": "2026/08/10 03:20:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "MLB LIVE [FHD]"
+    ],
+    "formatsNew": [
       {
-        "title": "TAPMAD - FHD",
+        "title": "DUDE Tv Live",
         "logo": ""
       },
       {
-        "title": "FOX CRICKET HD",
-        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj"
-      },
-      {
-        "title": "SKY SPORT",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
-      },
-      {
-        "title": "LOW SERVER",
+        "title": "MLB LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -931,10 +861,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv WNBA",
       "DUDE Tv Live",
       "WNBA LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv WNBA",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1078,8 +1013,8 @@
       "eventType": "null",
       "eventBanner": "null",
       "isHot": "0",
-      "startTime": "2026/08/09 13:30:00 +0000",
-      "endTime": "2026/08/09 17:30:00 +0000"
+      "startTime": "2026/08/10 14:00:00 +0000",
+      "endTime": "2026/08/10 17:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1654,39 +1589,6 @@
     ]
   },
   {
-    "id": 50096,
-    "title": "Cruzeiro vs Mirassol",
-    "image": "o",
-    "cat": "Brasileirão",
-    "eventInfo": {
-      "teamA": "Cruzeiro",
-      "teamB": "Mirassol",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1954/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/21982/image",
-      "eventName": "Cruzeiro vs Mirassol",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/09 14:00:00 +0000",
-      "endTime": "2026/08/09 16:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "HD QUALITY",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "HD QUALITY",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50097,
     "title": "Benfica vs Académico Viseu",
     "image": "o",
@@ -1705,11 +1607,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "Benfica TV HD [PT]"
+      "Benfica TV HD [PT]",
+      "beiN SPORTS ES",
+      "Low Server"
     ],
     "formatsNew": [
       {
         "title": "Benfica TV HD [PT]",
+        "logo": ""
+      },
+      {
+        "title": "beiN SPORTS ES",
+        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
+      },
+      {
+        "title": "Low Server",
         "logo": ""
       }
     ]
@@ -1733,11 +1645,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "Sport TV1 HD [PT]"
+      "Sport TV1 HD [PT]",
+      "Sport TV HD"
     ],
     "formatsNew": [
       {
         "title": "Sport TV1 HD [PT]",
+        "logo": ""
+      },
+      {
+        "title": "Sport TV HD",
         "logo": ""
       }
     ]
@@ -1761,11 +1678,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "Sport TV2 HD [PT]"
+      "Sport TV2 HD [PT]",
+      "Sport TV HD"
     ],
     "formatsNew": [
       {
         "title": "Sport TV2 HD [PT]",
+        "logo": ""
+      },
+      {
+        "title": "Sport TV HD",
         "logo": ""
       }
     ]
@@ -1814,49 +1736,6 @@
     ]
   },
   {
-    "id": 50101,
-    "title": "Mansfield Town vs Sheffield United",
-    "image": "o",
-    "cat": "EFL Cup 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Mansfield",
-      "teamB": "Sheffield",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/70/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/15/image",
-      "eventName": "Mansfield Town vs Sheffield United",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/09 15:00:00 +0000",
-      "endTime": "2026/08/09 17:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN ENGLISH FHD",
-      "DUDE Tv Live",
-      "MAIN EVENT HD",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN ENGLISH FHD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "MAIN EVENT HD",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50102,
     "title": "Frosinone vs Lazio",
     "image": "o",
@@ -1871,34 +1750,6 @@
       "isHot": "0",
       "startTime": "2026/08/09 18:45:00 +0000",
       "endTime": "2026/08/09 20:50:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50103,
-    "title": "Marseille vs Athletic Club",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Marseille",
-      "teamB": "Athletic Club",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1641/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2825/image",
-      "eventName": "Marseille vs Athletic Club",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/09 15:30:00 +0000",
-      "endTime": "2026/08/09 17:35:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
