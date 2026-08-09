@@ -383,7 +383,10 @@
       "STREAM 1 (EN)",
       "STREAM 2 (EN)",
       "STREAM 3 (ITA)",
-      "STREAM 4 (ESP)"
+      "STREAM 4 (ESP)",
+      "STREAM 5 (Live Tracking)",
+      "STREAM 6 (Live Timing)",
+      "STREAM 7 (Helicam)"
     ],
     "formatsNew": [
       {
@@ -420,6 +423,18 @@
       },
       {
         "title": "STREAM 4 (ESP)",
+        "logo": ""
+      },
+      {
+        "title": "STREAM 5 (Live Tracking)",
+        "logo": ""
+      },
+      {
+        "title": "STREAM 6 (Live Timing)",
+        "logo": ""
+      },
+      {
+        "title": "STREAM 7 (Helicam)",
         "logo": ""
       }
     ],
@@ -517,31 +532,52 @@
       },
       {
         "api": "",
-        "link": "https://pushembdz.store/embed/27cd8e55-95bd-4b21-9e02-c601b34455ec",
+        "link": "https://pushembdz.store/embed/bea03da5-f0ae-4fb9-9538-d670f5458d59",
         "logo": "",
         "title": "STREAM 1 (EN)",
         "type": "2"
       },
       {
         "api": "",
-        "link": "https://pushembdz.store/embed/1dffdf80-ec46-42a1-8242-54ec217d5d52",
+        "link": "https://pushembdz.store/embed/472d1ed3-5c62-4c93-b7be-62c4bd6871f7",
         "logo": "",
         "title": "STREAM 2 (EN)",
         "type": "2"
       },
       {
         "api": "",
-        "link": "https://pushembdz.store/embed/8dce6994-c2cd-4be4-8054-edc9ff0906d9",
+        "link": "https://pushembdz.store/embed/a2c52659-728a-49c4-8f6a-2d1b9fc01f15",
         "logo": "",
         "title": "STREAM 3 (ITA)",
         "type": "2"
       },
       {
         "api": "",
-        "link": "https://pushembdz.store/embed/cdfd9cb2-ee37-48e9-85bf-e2600a5e27b1",
+        "link": "https://pushembdz.store/embed/f94c5f79-626c-4d96-bfcd-978c5d102c3b",
         "logo": "",
         "title": "STREAM 4 (ESP)",
-        "type": "0"
+        "type": "2"
+      },
+      {
+        "api": "",
+        "link": "https://pushembdz.store/embed/c527649e-73a0-4d6f-902e-3b570c7dfcbd",
+        "logo": "",
+        "title": "STREAM 5 (Live Tracking)",
+        "type": "2"
+      },
+      {
+        "api": "",
+        "link": "https://pushembdz.store/embed/a40f56d8-89a5-462e-80fa-ba60507031ff",
+        "logo": "",
+        "title": "STREAM 6 (Live Timing)",
+        "type": "2"
+      },
+      {
+        "api": "",
+        "link": "https://pushembdz.store/embed/bbf99100-f3ae-48a6-9d43-8eea570f11c4",
+        "logo": "",
+        "title": "STREAM 7 (Helicam)",
+        "type": "2"
       }
     ],
     "channel_status": "live"
@@ -3318,25 +3354,90 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "Sport TV5 HD [PT]",
-      "CBS NETWORK"
+      "CHELSEA TV HD",
+      "HUB SPORTS HD",
+      "DUDE Tv Live",
+      "Sport TV3 HD [PT]",
+      "SportyNET HD [BR]",
+      "HD SERVER",
+      "CBS NETWORK",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
-        "title": "Sport TV5 HD [PT]",
+        "title": "CHELSEA TV HD",
+        "logo": ""
+      },
+      {
+        "title": "HUB SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "Sport TV3 HD [PT]",
+        "logo": ""
+      },
+      {
+        "title": "SportyNET HD [BR]",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
         "logo": ""
       },
       {
         "title": "CBS NETWORK",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://rdcstream.life/live/sport-tv-5-pt/index.m3u8?|Referer=https://bolodechocolate.fit/",
+        "link": "https://chatgpt.hereisman.net/playlist/54401/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "",
-        "title": "Sport TV5 HD [PT]",
+        "title": "CHELSEA TV HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://admin2.paradilux.store/hub.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "HUB SPORTS HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://live.vivo200.com/live/sd-1-4593731.m3u8?txSecret=5dd19250e4cab6dbe13bf5d363e16a94&txTime=6A788357|Referer=https://player.online909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://rdcstream.life/live/sport-tv-3-pt/index.m3u8?|Referer=https://bolodechocolate.fit/",
+        "logo": "",
+        "title": "Sport TV3 HD [PT]",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://rdcstream.life/live/sportynet/index.m3u8?|Referer=https://bolodechocolate.fit/",
+        "logo": "",
+        "title": "SportyNET HD [BR]",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://pul-tenm.gkykp.com/live/sd-1-4593731.m3u8?txSecret=2ca7efd19145ebb8a798a5068cc3b320&txTime=6A79BDB8",
+        "logo": "",
+        "title": "HD SERVER",
         "type": "0"
       },
       {
@@ -3345,6 +3446,13 @@
         "logo": "",
         "title": "CBS NETWORK",
         "type": "1"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.192/hls/RRRRRRRR.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "SD SERVER",
+        "type": "0"
       }
     ],
     "channel_status": "live"
@@ -3368,15 +3476,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "Sport TV2 HD [PT]",
       "CBS NETWORK",
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "Sport TV2 HD [PT]",
+      "HD SERVER",
+      "HD SERVER 2",
+      "HD SERVER 3"
     ],
     "formatsNew": [
-      {
-        "title": "Sport TV2 HD [PT]",
-        "logo": ""
-      },
       {
         "title": "CBS NETWORK",
         "logo": ""
@@ -3384,16 +3491,25 @@
       {
         "title": "DUDE Tv Live",
         "logo": ""
+      },
+      {
+        "title": "Sport TV2 HD [PT]",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER 2",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER 3",
+        "logo": ""
       }
     ],
     "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://rdcstream.life/live/sport-tv-2-pt/index.m3u8?|Referer=https://bolodechocolate.fit/",
-        "logo": "",
-        "title": "Sport TV2 HD [PT]",
-        "type": "0"
-      },
       {
         "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
@@ -3406,6 +3522,34 @@
         "link": "https://chatgpt.hereisman.net/playlist/54398/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "",
         "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://rdcstream.life/live/sport-tv-2-pt/index.m3u8?|Referer=https://bolodechocolate.fit/",
+        "logo": "",
+        "title": "Sport TV2 HD [PT]",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://hls.streamhub.media/hls/thesport-api-38c123178953e6a59f21/master.m3u8",
+        "logo": "",
+        "title": "HD SERVER",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://live.666666.zip/live/4561571.m3u8",
+        "logo": "",
+        "title": "HD SERVER 2",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://stream.sports3.win/iptv/live/signal-4561571-32760.m3u8",
+        "logo": "",
+        "title": "HD SERVER 3",
         "type": "0"
       }
     ],
@@ -3505,11 +3649,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportDigital Fussball"
+      "SportDigital Fussball",
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
         "title": "SportDigital Fussball",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ],
@@ -3683,11 +3832,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH"
+      "beIN ENGLISH",
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ],
@@ -3698,227 +3857,22 @@
         "logo": "",
         "title": "beIN ENGLISH",
         "type": "1"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50113,
-    "title": "West Coast vs Collingwood",
-    "image": "o",
-    "cat": "AFL",
-    "eventInfo": {
-      "teamA": "West Coast",
-      "teamB": "Collingwood",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4449/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4448/image",
-      "eventName": "West Coast vs Collingwood",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/09 06:10:00 +0000",
-      "endTime": "2026/08/09 08:40:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "TSN2 SPORTS",
-      "FOX SPORTS",
-      "TNT2 SPORTS",
-      "HD SERVER",
-      "SD SERVER",
-      "SPX LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "TSN2 SPORTS",
-        "logo": ""
-      },
-      {
-        "title": "FOX SPORTS",
-        "logo": ""
-      },
-      {
-        "title": "TNT2 SPORTS",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "TSN2 SPORTS",
-        "type": "1"
-      },
-      {
-        "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "FOX SPORTS",
-        "type": "1"
       },
       {
         "api": "",
-        "link": "https://tmaxapp.site/8wirwjs76erftg/tntsports3c96zcv.m3u8",
+        "link": "https://live.vivo200.com/live/sd-1-4557564.m3u8?txSecret=658f1cc132427ce5c1416ce833df70f1&txTime=6A788333|Referer=https://player.online909.com/",
         "logo": "",
-        "title": "TNT2 SPORTS",
+        "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://tmaxapp.site/8wirwjs76erftg/skysport5nz85df.m3u8",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.190/hls/KJJJJT.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.193/hls/HRRR.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "SD SERVER",
         "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/afl/2026-08-09/wce-coll",
-        "logo": "",
-        "title": "SPX LIVE [FHD]",
-        "type": "2"
       }
     ],
     "channel_status": "live"
-  },
-  {
-    "id": 50114,
-    "title": "St Kilda vs Carlton Blues",
-    "image": "o",
-    "cat": "AFL",
-    "eventInfo": {
-      "teamA": "St Kilda",
-      "teamB": "Carlton",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4453/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4446/image",
-      "eventName": "St Kilda Saints vs Carlton Blues",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/09 09:20:00 +0000",
-      "endTime": "2026/08/09 11:50:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "FOX SPORTS FHD",
-      "TNT SPORTS HD",
-      "HD SERVER",
-      "SPX LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "FOX SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "TNT SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "FOX SPORTS FHD",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://tmaxapp.site/8wirwjs76erftg/tntsports4cZ54dzx.m3u8",
-        "logo": "",
-        "title": "TNT SPORTS HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://tmaxapp.site/8wirwjs76erftg/skysport5nz85df.m3u8",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/afl/2026-08-09/stk-carl",
-        "logo": "",
-        "title": "SPX LIVE [FHD]",
-        "type": "2"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50115,
-    "title": "St. George Illawarra vs Cronulla Sharks",
-    "image": "o",
-    "cat": "NRL Rugby",
-    "eventInfo": {
-      "teamA": "St. George Illawarra",
-      "teamB": "Cronulla",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4265/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4266/image",
-      "eventName": "St. George Illawarra Dragons vs Cronulla Sharks",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/09 06:05:00 +0000",
-      "endTime": "2026/08/09 08:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "HD QUALITY",
-      "LOW QUALITY",
-      "SPX LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "HD QUALITY",
-        "logo": ""
-      },
-      {
-        "title": "LOW QUALITY",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "title": "PREMIERER BR",
-        "type": "1"
-      }
-    ],
-    "channel_status": "cached"
   }
 ]

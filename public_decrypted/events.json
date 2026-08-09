@@ -200,7 +200,10 @@
       "STREAM 1 (EN)",
       "STREAM 2 (EN)",
       "STREAM 3 (ITA)",
-      "STREAM 4 (ESP)"
+      "STREAM 4 (ESP)",
+      "STREAM 5 (Live Tracking)",
+      "STREAM 6 (Live Timing)",
+      "STREAM 7 (Helicam)"
     ],
     "formatsNew": [
       {
@@ -237,6 +240,18 @@
       },
       {
         "title": "STREAM 4 (ESP)",
+        "logo": ""
+      },
+      {
+        "title": "STREAM 5 (Live Tracking)",
+        "logo": ""
+      },
+      {
+        "title": "STREAM 6 (Live Timing)",
+        "logo": ""
+      },
+      {
+        "title": "STREAM 7 (Helicam)",
         "logo": ""
       }
     ]
@@ -1884,16 +1899,46 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "Sport TV5 HD [PT]",
-      "CBS NETWORK"
+      "CHELSEA TV HD",
+      "HUB SPORTS HD",
+      "DUDE Tv Live",
+      "Sport TV3 HD [PT]",
+      "SportyNET HD [BR]",
+      "HD SERVER",
+      "CBS NETWORK",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
-        "title": "Sport TV5 HD [PT]",
+        "title": "CHELSEA TV HD",
+        "logo": ""
+      },
+      {
+        "title": "HUB SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "Sport TV3 HD [PT]",
+        "logo": ""
+      },
+      {
+        "title": "SportyNET HD [BR]",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
         "logo": ""
       },
       {
         "title": "CBS NETWORK",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1917,21 +1962,36 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "Sport TV2 HD [PT]",
       "CBS NETWORK",
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "Sport TV2 HD [PT]",
+      "HD SERVER",
+      "HD SERVER 2",
+      "HD SERVER 3"
     ],
     "formatsNew": [
-      {
-        "title": "Sport TV2 HD [PT]",
-        "logo": ""
-      },
       {
         "title": "CBS NETWORK",
         "logo": ""
       },
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "Sport TV2 HD [PT]",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER 2",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER 3",
         "logo": ""
       }
     ]
@@ -2010,11 +2070,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportDigital Fussball"
+      "SportDigital Fussball",
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
         "title": "SportDigital Fussball",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
@@ -2109,145 +2174,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH"
+      "beIN ENGLISH",
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH",
         "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50113,
-    "title": "West Coast vs Collingwood",
-    "image": "o",
-    "cat": "AFL",
-    "eventInfo": {
-      "teamA": "West Coast",
-      "teamB": "Collingwood",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4449/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4448/image",
-      "eventName": "West Coast vs Collingwood",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/09 06:10:00 +0000",
-      "endTime": "2026/08/09 08:40:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "TSN2 SPORTS",
-      "FOX SPORTS",
-      "TNT2 SPORTS",
-      "HD SERVER",
-      "SD SERVER",
-      "SPX LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "TSN2 SPORTS",
-        "logo": ""
       },
       {
-        "title": "FOX SPORTS",
-        "logo": ""
-      },
-      {
-        "title": "TNT2 SPORTS",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
+        "title": "DUDE Tv Live",
         "logo": ""
       },
       {
         "title": "SD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50114,
-    "title": "St Kilda vs Carlton Blues",
-    "image": "o",
-    "cat": "AFL",
-    "eventInfo": {
-      "teamA": "St Kilda",
-      "teamB": "Carlton",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4453/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4446/image",
-      "eventName": "St Kilda Saints vs Carlton Blues",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/09 09:20:00 +0000",
-      "endTime": "2026/08/09 11:50:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "FOX SPORTS FHD",
-      "TNT SPORTS HD",
-      "HD SERVER",
-      "SPX LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "FOX SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "TNT SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50115,
-    "title": "St. George Illawarra vs Cronulla Sharks",
-    "image": "o",
-    "cat": "NRL Rugby",
-    "eventInfo": {
-      "teamA": "St. George Illawarra",
-      "teamB": "Cronulla",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4265/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4266/image",
-      "eventName": "St. George Illawarra Dragons vs Cronulla Sharks",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/09 06:05:00 +0000",
-      "endTime": "2026/08/09 08:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "HD QUALITY",
-      "LOW QUALITY",
-      "SPX LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "HD QUALITY",
-        "logo": ""
-      },
-      {
-        "title": "LOW QUALITY",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
