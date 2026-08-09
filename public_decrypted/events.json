@@ -1070,9 +1070,10 @@
     "publish": "1",
     "formats": [
       "WILLOW - FHD",
+      "SKY CRICKET",
       "WILLOW - ALT",
-      "TAPMAD - FHD",
-      "LOW SERVER"
+      "FOX CRICKET HD",
+      "SKY SPORT NZ"
     ],
     "formatsNew": [
       {
@@ -1080,16 +1081,20 @@
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
+        "title": "SKY CRICKET",
+        "logo": ""
+      },
+      {
         "title": "WILLOW - ALT",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
-        "title": "TAPMAD - FHD",
-        "logo": ""
+        "title": "FOX CRICKET HD",
+        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj"
       },
       {
-        "title": "LOW SERVER",
-        "logo": ""
+        "title": "SKY SPORT NZ",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
       }
     ]
   },
@@ -2028,11 +2033,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportDigital Fussball"
+      "SportDigital Fussball",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "SportDigital Fussball",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
