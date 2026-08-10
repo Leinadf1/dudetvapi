@@ -354,8 +354,9 @@
     "publish": "1",
     "formats": [
       "WILLOW - FHD",
-      "WILLOW - AdFree",
-      "WILLOW - ALT"
+      "WILLOW - ALT",
+      "HD SERVER",
+      "FANCODE - IN"
     ],
     "formatsNew": [
       {
@@ -363,12 +364,16 @@
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
-        "title": "WILLOW - AdFree",
+        "title": "WILLOW - ALT",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
-        "title": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "FANCODE - IN",
+        "logo": ""
       }
     ]
   },
