@@ -1,17 +1,31 @@
 [
   {
-    "api": "648db4f040b67301a9c961ba6c17f322:e9c1bf41fc0a2df82fb78a54b993b963",
-    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gsjipsxwwd/out/v1/07ebda7aa59a480bbbc0d82eab497501/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "api": "1688ed99b5ab9098b129cd74f3865614:58411d610b2d8fbb7d711f36d2b6ea4e",
+    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/h5k5laylkq/out/v1/004d46ce4fdf49eb83725eaf74240aeb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-    "title": "WILLOW - FHD",
+    "title": "WILLOW - AQ",
     "type": "1"
   },
   {
-    "api": "648db4f040b67301a9c961ba6c17f322:e9c1bf41fc0a2df82fb78a54b993b963",
-    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/gsjipsxwwd/out/v1/07ebda7aa59a480bbbc0d82eab497501/cenc.mpd",
+    "api": "",
+    "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+    "logo": "",
+    "title": "SKY CRICKET - AQ",
+    "type": "0"
+  },
+  {
+    "api": "1688ed99b5ab9098b129cd74f3865614:58411d610b2d8fbb7d711f36d2b6ea4e",
+    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/h5k5laylkq/out/v1/004d46ce4fdf49eb83725eaf74240aeb/cenc.mpd",
     "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
     "title": "WILLOW - ALT",
     "type": "1"
+  },
+  {
+    "api": "",
+    "link": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz15866.m3u8",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+    "title": "SKY SPORT NZ",
+    "type": "0"
   },
   {
     "api": "",
@@ -22,9 +36,16 @@
   },
   {
     "api": "",
-    "link": "https://tmaxapp.site/8wirwjs76erftg/skysport3nz78xgv5.m3u8",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-    "title": "SKY SPORT NZ",
+    "link": "https://sonydaimenew.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1786412591~acl=/*~id=12579889621972382403476932783583~hmac=6a92c5018cb7d4bd71efb7a7da945b7f9d9d9a29547a8ac1fda53f68fe18a0e5|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
+    "logo": "",
+    "title": "SonyLiv",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "http://193.47.62.41/hls/EVVVAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "logo": "",
+    "title": "LOW SERVER",
     "type": "0"
   }
 ]
