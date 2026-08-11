@@ -3177,12 +3177,13 @@
     "formats": [
       "TELEMUNDO [FHD]",
       "SERVER 1",
-      "TELEMUNDO FHD"
+      "TELEMUNDO FHD",
+      "Server 2"
     ],
     "formatsNew": [
       {
         "title": "TELEMUNDO [FHD]",
-        "logo": ""
+        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
       },
       {
         "title": "SERVER 1",
@@ -3190,6 +3191,10 @@
       },
       {
         "title": "TELEMUNDO FHD",
+        "logo": "https://duckduckgo.com/i/2e3815a5b7ddd3c9.png"
+      },
+      {
+        "title": "Server 2",
         "logo": ""
       }
     ]
@@ -3234,6 +3239,40 @@
       },
       {
         "title": "CANAL5 FHD",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": "366",
+    "title": "Onesports HD",
+    "image": "https://yt3.googleusercontent.com/d-2Zn_yyww0OAy-xSfvIoWoJueTpH7lfL4G9uz6BL5SybJIcDLBuiBSBWKDzqGTbSfhtGKTAPw=s900-c-k-c0x00ffffff-no-rj",
+    "cat": "Sports",
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "Onesports HD"
+    ],
+    "formatsNew": [
+      {
+        "title": "Onesports HD",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": "367",
+    "title": "Fussball",
+    "image": "https://image.discovery.indazn.com/ca/v2/ca/image?id=712wbfqz8apl1k09rf681eqxd_image-header_pDach_1661948855000&quality=70",
+    "cat": "Sports",
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "Fussball"
+    ],
+    "formatsNew": [
+      {
+        "title": "Fussball",
         "logo": ""
       }
     ]

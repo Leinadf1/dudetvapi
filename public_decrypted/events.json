@@ -597,6 +597,181 @@
     ]
   },
   {
+    "id": 50032,
+    "title": "Arizona Diamondbacks",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Diamondbacks",
+      "teamB": "Rockies",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3640/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3628/image",
+      "eventName": "Arizona Diamondbacks vs Colorado Rockies",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/12 01:40:00 +0000",
+      "endTime": "2026/08/12 04:40:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv LIVE",
+      "MLB LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv LIVE",
+        "logo": ""
+      },
+      {
+        "title": "MLB LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50033,
+    "title": "Tampa Bay Rays",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Athletics",
+      "teamB": "Rays",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3645/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3653/image",
+      "eventName": "Athletics vs Tampa Bay Rays",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/12 01:40:00 +0000",
+      "endTime": "2026/08/12 04:40:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv MLB",
+      "DUDE Tv Live",
+      "MLB LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "MLB LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50034,
+    "title": "Milwaukee Brewers",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Padres",
+      "teamB": "Brewers",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3636/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3630/image",
+      "eventName": "San Diego Padres vs Milwaukee Brewers",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/12 01:40:00 +0000",
+      "endTime": "2026/08/12 04:40:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv MLB",
+      "DUDE Tv Live",
+      "MLB LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "MLB LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50052,
+    "title": "Houston Astros",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Giants",
+      "teamB": "Astros",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3634/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3655/image",
+      "eventName": "San Francisco Giants vs Houston Astros",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/12 01:45:00 +0000",
+      "endTime": "2026/08/12 04:45:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "MLB LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "MLB LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50053,
+    "title": "Kansas City Royals",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Dodgers",
+      "teamB": "Royals",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3638/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3651/image",
+      "eventName": "Los Angeles Dodgers vs Kansas City Royals",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/12 02:10:00 +0000",
+      "endTime": "2026/08/12 05:10:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "MLB LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "MLB LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50054,
     "title": "CFL",
     "image": "o",
@@ -635,39 +810,59 @@
     ]
   },
   {
-    "id": 50055,
-    "title": "Seattle Storm vs Chicago Sky",
+    "id": 50062,
+    "title": "Hundred MEN",
     "image": "o",
-    "cat": "WNBA",
+    "cat": "The Hundred",
     "eventInfo": {
-      "teamA": "Storm",
-      "teamB": "Sky",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3448/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/35546/image",
-      "eventName": "Seattle Storm vs Chicago Sky",
+      "teamA": "MSG",
+      "teamB": "SL",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/377173/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/377178/image",
+      "eventName": "Manchester SG vs Sunrisers Leeds",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/11 02:00:00 +0000",
-      "endTime": "2026/08/11 04:45:00 +0000"
+      "startTime": "2026/08/11 17:30:00 +0000",
+      "endTime": "2026/08/11 21:15:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv WNBA",
-      "DUDE Tv Live",
-      "WNBA LIVE [FHD]"
+      "WILLOW - FHD",
+      "SKY CRICKET - AQ",
+      "WILLOW - ALT",
+      "SKY SPORT NZ",
+      "FOX CRICKET HD",
+      "SonyLiv (Asia)",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv WNBA",
+        "title": "WILLOW - FHD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "SKY CRICKET - AQ",
         "logo": ""
       },
       {
-        "title": "DUDE Tv Live",
+        "title": "WILLOW - ALT",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "SKY SPORT NZ",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
+      },
+      {
+        "title": "FOX CRICKET HD",
+        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "title": "SonyLiv (Asia)",
         "logo": ""
       },
       {
-        "title": "WNBA LIVE [FHD]",
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -732,20 +927,119 @@
     ]
   },
   {
-    "id": 50078,
-    "title": "Cardinals vs Philadelphia Phillies",
+    "id": 50075,
+    "title": "Detroit Tigers vs Guardians",
     "image": "o",
     "cat": "MLB",
     "eventInfo": {
-      "teamA": "Cardinals",
-      "teamB": "Phillies",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3632/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3635/image",
-      "eventName": "St. Louis Cardinals vs Philadelphia Phillies",
+      "teamA": "Tigers",
+      "teamB": "Guardians",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3648/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3650/image",
+      "eventName": "Detroit Tigers vs Cleveland Guardians",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/10 23:45:00 +0000",
-      "endTime": "2026/08/11 02:45:00 +0000"
+      "startTime": "2026/08/11 22:40:00 +0000",
+      "endTime": "2026/08/12 01:40:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "MLB LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "MLB LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50076,
+    "title": "Miami Marlins vs Pirates",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Marlins",
+      "teamB": "Pirates",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3639/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3637/image",
+      "eventName": "Miami Marlins vs Pittsburgh Pirates",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/11 22:40:00 +0000",
+      "endTime": "2026/08/12 01:40:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "MLB LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "MLB LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50077,
+    "title": "Nationals vs Chicago Cubs",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Nationals",
+      "teamB": "Cubs",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/5930/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3627/image",
+      "eventName": "Washington Nationals vs Chicago Cubs",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/11 22:45:00 +0000",
+      "endTime": "2026/08/12 01:45:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "MLB LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "MLB LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50078,
+    "title": "Yankees vs Seattle Mariners",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Yankees",
+      "teamB": "Mariners",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3654/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3641/image",
+      "eventName": "New York Yankees vs Seattle Mariners",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/11 23:05:00 +0000",
+      "endTime": "2026/08/12 02:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -799,19 +1093,19 @@
   },
   {
     "id": 50080,
-    "title": "Diamondbacks vs Colorado Rockies",
+    "title": "Braves vs New York Mets",
     "image": "o",
     "cat": "MLB",
     "eventInfo": {
-      "teamA": "Diamondbacks",
-      "teamB": "Rockies",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3640/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3628/image",
-      "eventName": "Arizona Diamondbacks vs Colorado Rockies",
+      "teamA": "Braves",
+      "teamB": "Mets",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3656/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3629/image",
+      "eventName": "Atlanta Braves vs New York Mets",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/11 01:40:00 +0000",
-      "endTime": "2026/08/11 04:40:00 +0000"
+      "startTime": "2026/08/11 23:15:00 +0000",
+      "endTime": "2026/08/12 02:15:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -832,19 +1126,19 @@
   },
   {
     "id": 50081,
-    "title": "Athletics vs Tampa Bay Rays",
+    "title": "White Sox vs Cincinnati Reds",
     "image": "o",
     "cat": "MLB",
     "eventInfo": {
-      "teamA": "Athletics",
-      "teamB": "Rays",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3645/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3653/image",
-      "eventName": "Athletics vs Tampa Bay Rays",
+      "teamA": "White Sox",
+      "teamB": "Reds",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3644/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3633/image",
+      "eventName": "Chicago White Sox vs Cincinnati Reds",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/11 01:40:00 +0000",
-      "endTime": "2026/08/11 04:40:00 +0000"
+      "startTime": "2026/08/11 23:40:00 +0000",
+      "endTime": "2026/08/12 02:40:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -865,19 +1159,19 @@
   },
   {
     "id": 50082,
-    "title": "Padres vs Milwaukee Brewers",
+    "title": "Minnesota Twins vs Baltimore Orioles",
     "image": "o",
     "cat": "MLB",
     "eventInfo": {
-      "teamA": "Padres",
-      "teamB": "Brewers",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3636/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3630/image",
-      "eventName": "San Diego Padres vs Milwaukee Brewers",
+      "teamA": "Twins",
+      "teamB": "Orioles",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3649/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3652/image",
+      "eventName": "Minnesota Twins vs Baltimore Orioles",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/11 01:40:00 +0000",
-      "endTime": "2026/08/11 04:40:00 +0000"
+      "startTime": "2026/08/11 23:40:00 +0000",
+      "endTime": "2026/08/12 02:40:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -898,19 +1192,19 @@
   },
   {
     "id": 50083,
-    "title": "Giants vs Houston Astros",
+    "title": "Cardinals vs Phillies",
     "image": "o",
     "cat": "MLB",
     "eventInfo": {
-      "teamA": "Giants",
-      "teamB": "Astros",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3634/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3655/image",
-      "eventName": "San Francisco Giants vs Houston Astros",
+      "teamA": "Cardinals",
+      "teamB": "Phillies",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3632/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3635/image",
+      "eventName": "St. Louis Cardinals vs Philadelphia Phillies",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/11 01:45:00 +0000",
-      "endTime": "2026/08/11 04:45:00 +0000"
+      "startTime": "2026/08/11 23:45:00 +0000",
+      "endTime": "2026/08/12 02:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -931,19 +1225,19 @@
   },
   {
     "id": 50084,
-    "title": "Dodgers vs Royals",
+    "title": "Angels vs Texas Rangers",
     "image": "o",
     "cat": "MLB",
     "eventInfo": {
-      "teamA": "Dodgers",
-      "teamB": "Royals",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3638/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3651/image",
-      "eventName": "Los Angeles Dodgers vs Royals",
+      "teamA": "Angels",
+      "teamB": "Rangers",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/5929/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3647/image",
+      "eventName": "Los Angeles Angels vs Texas Rangers",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/11 02:10:00 +0000",
-      "endTime": "2026/08/11 05:10:00 +0000"
+      "startTime": "2026/08/12 01:38:00 +0000",
+      "endTime": "2026/08/12 04:38:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
