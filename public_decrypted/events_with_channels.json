@@ -1645,21 +1645,20 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "WILLOW - AQ",
-      "SKY CRICKET - AQ",
+      "WILLOW - FHD",
+      "SKY CRICKET",
       "WILLOW - ALT",
       "SKY SPORT NZ",
       "FOX CRICKET HD",
-      "SonyLiv",
       "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "WILLOW - AQ",
+        "title": "WILLOW - FHD",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
-        "title": "SKY CRICKET - AQ",
+        "title": "SKY CRICKET",
         "logo": ""
       },
       {
@@ -1675,32 +1674,28 @@
         "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj"
       },
       {
-        "title": "SonyLiv",
-        "logo": ""
-      },
-      {
         "title": "LOW SERVER",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
-        "api": "1688ed99b5ab9098b129cd74f3865614:58411d610b2d8fbb7d711f36d2b6ea4e",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/h5k5laylkq/out/v1/004d46ce4fdf49eb83725eaf74240aeb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "5e14d68597500d2dac47ca32284ee6c4:6f8f55ebbfbeea238d6c8d170b0357d1",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vpz6pbmrnq/out/v1/6d35db6b0a4b48cb8bc2d4e4694d4b7f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW - AQ",
+        "title": "WILLOW - FHD",
         "type": "1"
       },
       {
         "api": "",
         "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
         "logo": "",
-        "title": "SKY CRICKET - AQ",
+        "title": "SKY CRICKET",
         "type": "0"
       },
       {
-        "api": "1688ed99b5ab9098b129cd74f3865614:58411d610b2d8fbb7d711f36d2b6ea4e",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/h5k5laylkq/out/v1/004d46ce4fdf49eb83725eaf74240aeb/cenc.mpd",
+        "api": "5e14d68597500d2dac47ca32284ee6c4:6f8f55ebbfbeea238d6c8d170b0357d1",
+        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vpz6pbmrnq/out/v1/6d35db6b0a4b48cb8bc2d4e4694d4b7f/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW - ALT",
         "type": "1"
@@ -1721,14 +1716,7 @@
       },
       {
         "api": "",
-        "link": "https://sonydaimenew.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1786412591~acl=/*~id=12579889621972382403476932783583~hmac=6a92c5018cb7d4bd71efb7a7da945b7f9d9d9a29547a8ac1fda53f68fe18a0e5|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
-        "logo": "",
-        "title": "SonyLiv",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.41/hls/EVVVAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.40/hls/UZZZA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "LOW SERVER",
         "type": "0"
@@ -2895,5 +2883,81 @@
       }
     ],
     "channel_status": "cached"
+  },
+  {
+    "id": 50103,
+    "title": "Pakhtakor vs Al-Hussein Irbid",
+    "image": "o",
+    "cat": "AFC Champions Elite",
+    "eventInfo": {
+      "teamA": "Pakhtakor",
+      "teamB": "Al-Hussein Irbid",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/34310/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/117204/image",
+      "eventName": "Pakhtakor vs Al-Hussein Irbid",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/11 15:00:00 +0000",
+      "endTime": "2026/08/11 17:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      }
+    ],
+    "channel_status": "cached"
+  },
+  {
+    "id": 50104,
+    "title": "Al-Jazira vs Al-Ittihad",
+    "image": "o",
+    "cat": "AFC Champions Elite",
+    "eventInfo": {
+      "teamA": "Al-Jazira",
+      "teamB": "Al-Ittihad",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/8090/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/34315/image",
+      "eventName": "Al-Jazira vs Al-Ittihad",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/11 16:00:00 +0000",
+      "endTime": "2026/08/11 18:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
   }
 ]
