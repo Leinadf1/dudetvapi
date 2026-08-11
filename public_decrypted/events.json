@@ -334,6 +334,50 @@
     ]
   },
   {
+    "id": 50008,
+    "title": "Ireland vs Afghanistan",
+    "image": "o",
+    "cat": "Cricket",
+    "eventInfo": {
+      "teamA": "IRE",
+      "teamB": "AFG",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/187766/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/187575/image",
+      "eventName": "Ireland vs Afghanistan",
+      "eventType": "null",
+      "eventBanner": "null",
+      "isHot": "0",
+      "startTime": "2026/08/12 09:45:00 +0000",
+      "endTime": "2026/08/12 17:15:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "WILLOW - FHD",
+      "WILLOW - ALT",
+      "HD SERVER",
+      "FANCODE - IN"
+    ],
+    "formatsNew": [
+      {
+        "title": "WILLOW - FHD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "WILLOW - ALT",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "FANCODE - IN",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50009,
     "title": "ONE Friday Fights",
     "image": "o",
@@ -561,8 +605,8 @@
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://iili.io/CUvi3T7.png",
       "isHot": "0",
-      "startTime": "2026/08/10 22:00:00 +0000",
-      "endTime": "2026/08/11 04:00:00 +0000"
+      "startTime": "2026/08/11 16:30:00 +0000",
+      "endTime": "2026/08/12 04:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -570,6 +614,8 @@
       "beIN ENGLISH (ATP)",
       "beIN ENGLISH (WTA)",
       "TENNIS 2 FHD",
+      "PREMIER1 SPORTS (EU)",
+      "PREMIER2 SPORTS (EU)",
       "Montreal (ATP)",
       "Toronto (WTA)"
     ],
@@ -587,11 +633,57 @@
         "logo": ""
       },
       {
+        "title": "PREMIER1 SPORTS (EU)",
+        "logo": ""
+      },
+      {
+        "title": "PREMIER2 SPORTS (EU)",
+        "logo": ""
+      },
+      {
         "title": "Montreal (ATP)",
         "logo": ""
       },
       {
         "title": "Toronto (WTA)",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50027,
+    "title": "Indiana Fever vs Liberty",
+    "image": "o",
+    "cat": "WNBA",
+    "eventInfo": {
+      "teamA": "Fever",
+      "teamB": "Liberty",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3452/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3446/image",
+      "eventName": "Indiana Fever vs Liberty",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/11 23:30:00 +0000",
+      "endTime": "2026/08/12 02:15:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "TSN SPORTS",
+      "DUDE Tv Live",
+      "WNBA LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "TSN SPORTS",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "WNBA LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -648,15 +740,10 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -686,21 +773,44 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
       },
       {
         "title": "MLB LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50042,
+    "title": "Welsh Fire vs London Spirit",
+    "image": "o",
+    "cat": "The Hundred",
+    "eventInfo": {
+      "teamA": "WEF",
+      "teamB": "LNS",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/377179/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/377175/image",
+      "eventName": "Welsh Fire vs London Spirit",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/12 14:00:00 +0000",
+      "endTime": "2026/08/12 17:45:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
@@ -810,6 +920,72 @@
     ]
   },
   {
+    "id": 50055,
+    "title": "Aces vs Washington Mystics",
+    "image": "o",
+    "cat": "WNBA",
+    "eventInfo": {
+      "teamA": "Aces",
+      "teamB": "Mystics",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/35550/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3454/image",
+      "eventName": "Las Vegas Aces vs Washington Mystics",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/12 02:00:00 +0000",
+      "endTime": "2026/08/12 04:45:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "WNBA LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "WNBA LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50056,
+    "title": "Sparks vs Phoenix Mercury",
+    "image": "o",
+    "cat": "WNBA",
+    "eventInfo": {
+      "teamA": "Sparks",
+      "teamB": "Phoenix Mercury",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3447/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3444/image",
+      "eventName": "Sparks vs Phoenix Mercury",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/12 02:00:00 +0000",
+      "endTime": "2026/08/12 04:45:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "WNBA LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "WNBA LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50062,
     "title": "Hundred MEN",
     "image": "o",
@@ -876,8 +1052,8 @@
       "eventType": "null",
       "eventBanner": "null",
       "isHot": "0",
-      "startTime": "2026/08/11 13:45:00 +0000",
-      "endTime": "2026/08/11 17:30:00 +0000"
+      "startTime": "2026/08/12 10:30:00 +0000",
+      "endTime": "2026/08/12 17:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1049,6 +1225,39 @@
     ]
   },
   {
+    "id": 50079,
+    "title": "Blue Jays vs Red Sox",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Blue Jays",
+      "teamB": "Red Sox",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3642/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3646/image",
+      "eventName": "Toronto Blue Jays vs Red Sox",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/11 23:07:00 +0000",
+      "endTime": "2026/08/12 02:07:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "MLB LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "MLB LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50080,
     "title": "Braves vs New York Mets",
     "image": "o",
@@ -1199,15 +1408,10 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1289,11 +1493,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH 3"
+      "beIN ENGLISH FHD",
+      "SPORT TV FHD",
+      "ESPN BR FHD",
+      "SPORT TV HD"
     ],
     "formatsNew": [
       {
-        "title": "beIN ENGLISH 3",
+        "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "SPORT TV FHD",
+        "logo": ""
+      },
+      {
+        "title": "ESPN BR FHD",
+        "logo": ""
+      },
+      {
+        "title": "SPORT TV HD",
         "logo": ""
       }
     ]
@@ -1318,7 +1537,9 @@
     "publish": "1",
     "formats": [
       "D Sports FHD",
-      "SportDigital Fussball"
+      "SportDigital Fussball",
+      "ESPN BR FHD",
+      "beIN SPORTS HD"
     ],
     "formatsNew": [
       {
@@ -1327,6 +1548,14 @@
       },
       {
         "title": "SportDigital Fussball",
+        "logo": ""
+      },
+      {
+        "title": "ESPN BR FHD",
+        "logo": ""
+      },
+      {
+        "title": "beIN SPORTS HD",
         "logo": ""
       }
     ]
@@ -1350,11 +1579,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH 3"
+      "beIN ENGLISH FHD",
+      "ESPN BR FHD",
+      "SPORT TV FHD",
+      "SPORT TV HD"
     ],
     "formatsNew": [
       {
-        "title": "beIN ENGLISH 3",
+        "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "ESPN BR FHD",
+        "logo": ""
+      },
+      {
+        "title": "SPORT TV FHD",
+        "logo": ""
+      },
+      {
+        "title": "SPORT TV HD",
         "logo": ""
       }
     ]
@@ -1378,11 +1622,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportDigital Fussball"
+      "SportDigital Fussball",
+      "SPORT TV FHD",
+      "beiN SPORTS HD",
+      "SPORT TV HD"
     ],
     "formatsNew": [
       {
         "title": "SportDigital Fussball",
+        "logo": ""
+      },
+      {
+        "title": "SPORT TV FHD",
+        "logo": ""
+      },
+      {
+        "title": "beiN SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "SPORT TV HD",
         "logo": ""
       }
     ]
@@ -1511,237 +1770,6 @@
       "isHot": "0",
       "startTime": "2026/08/11 17:00:00 +0000",
       "endTime": "2026/08/11 19:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50099,
-    "title": "Palermo vs Juventus",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Palermo",
-      "teamB": "Juventus",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2715/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2687/image",
-      "eventName": "Palermo vs Juventus",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/11 10:00:00 +0000",
-      "endTime": "2026/08/11 12:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "CBS NETWORK",
-      "D SPORTS FHD",
-      "DUDE Tv Live",
-      "HD SERVER",
-      "SKY SPORT NZ",
-      ""
-    ],
-    "formatsNew": [
-      {
-        "title": "CBS NETWORK",
-        "logo": ""
-      },
-      {
-        "title": "D SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SKY SPORT NZ",
-        "logo": ""
-      },
-      {
-        "title": "",
-        "logo": "LOW SERVER"
-      }
-    ]
-  },
-  {
-    "id": 50100,
-    "title": "Levante UD vs Silla CF",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Levante UD",
-      "teamB": "Silla CF",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2849/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/229621/image",
-      "eventName": "Levante UD vs Silla CF",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/11 17:30:00 +0000",
-      "endTime": "2026/08/11 19:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50101,
-    "title": "United Arab Emirates vs Canada",
-    "image": "o",
-    "cat": "ICC CWC Challenge",
-    "eventInfo": {
-      "teamA": "United Arab Emirates",
-      "teamB": "Canada",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187771/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/189195/image",
-      "eventName": "United Arab Emirates vs Canada",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/11 10:00:00 +0000",
-      "endTime": "2026/08/11 17:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "ICC TV - FHD"
-    ],
-    "formatsNew": [
-      {
-        "title": "ICC TV - FHD",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50102,
-    "title": "Gangwon FC vs Gamba Osaka",
-    "image": "o",
-    "cat": "AFC Champions Elite",
-    "eventInfo": {
-      "teamA": "Gangwon FC",
-      "teamB": "Gamba Osaka",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/34220/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3138/image",
-      "eventName": "Gangwon FC vs Gamba Osaka",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/11 10:30:00 +0000",
-      "endTime": "2026/08/11 12:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50103,
-    "title": "Pakhtakor vs Al-Hussein Irbid",
-    "image": "o",
-    "cat": "AFC Champions Elite",
-    "eventInfo": {
-      "teamA": "Pakhtakor",
-      "teamB": "Al-Hussein Irbid",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/34310/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/117204/image",
-      "eventName": "Pakhtakor vs Al-Hussein Irbid",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/11 15:00:00 +0000",
-      "endTime": "2026/08/11 17:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50104,
-    "title": "Al-Jazira vs Al-Ittihad",
-    "image": "o",
-    "cat": "AFC Champions Elite",
-    "eventInfo": {
-      "teamA": "Al-Jazira",
-      "teamB": "Al-Ittihad",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/8090/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/34315/image",
-      "eventName": "Al-Jazira vs Al-Ittihad",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/11 16:00:00 +0000",
-      "endTime": "2026/08/11 18:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50105,
-    "title": "Bodø/Glimt vs Royale USG",
-    "image": "o",
-    "cat": "UCL",
-    "eventInfo": {
-      "teamA": "Bodø/Glimt",
-      "teamB": "USG",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/656/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4860/image",
-      "eventName": "Bodø/Glimt vs Royale USG",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/11 16:00:00 +0000",
-      "endTime": "2026/08/11 18:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
