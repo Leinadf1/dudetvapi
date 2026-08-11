@@ -829,11 +829,10 @@
     "publish": "1",
     "formats": [
       "WILLOW - FHD",
-      "SKY CRICKET - AQ",
+      "SKY CRICKET",
       "WILLOW - ALT",
       "SKY SPORT NZ",
       "FOX CRICKET HD",
-      "SonyLiv (Asia)",
       "LOW SERVER"
     ],
     "formatsNew": [
@@ -842,7 +841,7 @@
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
-        "title": "SKY CRICKET - AQ",
+        "title": "SKY CRICKET",
         "logo": ""
       },
       {
@@ -856,10 +855,6 @@
       {
         "title": "FOX CRICKET HD",
         "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj"
-      },
-      {
-        "title": "SonyLiv (Asia)",
-        "logo": ""
       },
       {
         "title": "LOW SERVER",
@@ -1495,11 +1490,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
