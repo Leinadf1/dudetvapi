@@ -2700,7 +2700,10 @@
     "formats": [
       "CBS NETWORK",
       "D SPORTS FHD",
-      "SKY SPORT NZ"
+      "DUDE Tv Live",
+      "HD SERVER",
+      "SKY SPORT NZ",
+      ""
     ],
     "formatsNew": [
       {
@@ -2712,8 +2715,20 @@
         "logo": ""
       },
       {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
         "title": "SKY SPORT NZ",
         "logo": ""
+      },
+      {
+        "title": "",
+        "logo": "LOW SERVER"
       }
     ],
     "decoded_channels": [
@@ -2730,6 +2745,20 @@
         "logo": "",
         "title": "D SPORTS FHD",
         "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://live.vivo200.com/live/sd-1-4541780.m3u8?txSecret=8523381f5c49b13413521e8c77a2b550&txTime=6A7B0B24|Referer=https://player.online909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/54460/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "HD SERVER",
+        "type": "0"
       },
       {
         "api": "",
@@ -2823,5 +2852,48 @@
       }
     ],
     "channel_status": "live"
+  },
+  {
+    "id": 50102,
+    "title": "Gangwon FC vs Gamba Osaka",
+    "image": "o",
+    "cat": "AFC Champions Elite",
+    "eventInfo": {
+      "teamA": "Gangwon FC",
+      "teamB": "Gamba Osaka",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/34220/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3138/image",
+      "eventName": "Gangwon FC vs Gamba Osaka",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/11 10:30:00 +0000",
+      "endTime": "2026/08/11 12:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "LOW SERVER"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://live.vivo200.com/live/sd-1-4610690.m3u8?txSecret=4c5be4e1145b754e3d3a76f4f47bb8e6&txTime=6A78DAE1|Referer=https://player.online909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      }
+    ],
+    "channel_status": "cached"
   }
 ]
