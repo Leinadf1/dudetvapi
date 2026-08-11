@@ -2659,7 +2659,7 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "link": "http://193.47.62.40/hls/DAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
@@ -2955,6 +2955,56 @@
         "link": "http://193.47.62.40/hls/GGGGF.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "DUDE Tv Live",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50105,
+    "title": "Bodø/Glimt vs Royale USG",
+    "image": "o",
+    "cat": "UCL",
+    "eventInfo": {
+      "teamA": "Bodø/Glimt",
+      "teamB": "USG",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/656/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4860/image",
+      "eventName": "Bodø/Glimt vs Royale USG",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/11 16:00:00 +0000",
+      "endTime": "2026/08/11 18:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "SD SERVER"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://live2.jxa76.com/live/sd-6MxiZdYDiosZAipDgw_540p.m3u8?txSecret=a5005b467574c4acc492c4f071a46b7f&txTime=19FF2D6FBCE",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.40/hls/ESSSAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "SD SERVER",
         "type": "0"
       }
     ],
