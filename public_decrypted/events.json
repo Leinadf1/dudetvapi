@@ -699,10 +699,12 @@
       "HBO MAX BR",
       "DUDE Tv Live",
       "HD SERVER",
+      "HD SERVER 2",
       "LOW QUALITY",
       "SPX LIVE [FHD]",
       "PARAMOUNT+ EN [FHD]",
-      "TUDN US [FHD]"
+      "TUDN US [FHD]",
+      "SonyLiv [ENG]"
     ],
     "formatsNew": [
       {
@@ -730,6 +732,10 @@
         "logo": ""
       },
       {
+        "title": "HD SERVER 2",
+        "logo": ""
+      },
+      {
         "title": "LOW QUALITY",
         "logo": ""
       },
@@ -743,6 +749,10 @@
       },
       {
         "title": "TUDN US [FHD]",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv [ENG]",
         "logo": ""
       }
     ]
@@ -1231,10 +1241,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1264,10 +1279,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1297,10 +1317,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1535,44 +1560,6 @@
     ]
   },
   {
-    "id": 50086,
-    "title": "Algeria vs Malawi",
-    "image": "o",
-    "cat": "Womens AFCON",
-    "eventInfo": {
-      "teamA": "Algeria",
-      "teamB": "Malawi",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/180004/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/298498/image",
-      "eventName": "Algeria vs Malawi",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/12 17:00:00 +0000",
-      "endTime": "2026/08/12 19:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN ENGLISH",
-      "HD SERVER",
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN ENGLISH",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50087,
     "title": "Morocco vs Cameroon",
     "image": "o",
@@ -1741,21 +1728,33 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "D SPORTS FHD",
       "FOX DEPORTES",
       "SportDigital Fussball",
+      "AD SPORTS - FHD",
       "RMA TV HD",
       "DUDE Tv Live",
       "SportyNET BR HD",
       "Galicia TV HD",
-      "HD SERVER"
+      "HD SERVER",
+      "HD SERVER 2",
+      "LOW SERVER"
     ],
     "formatsNew": [
+      {
+        "title": "D SPORTS FHD",
+        "logo": ""
+      },
       {
         "title": "FOX DEPORTES",
         "logo": ""
       },
       {
         "title": "SportDigital Fussball",
+        "logo": ""
+      },
+      {
+        "title": "AD SPORTS - FHD",
         "logo": ""
       },
       {
@@ -1776,6 +1775,14 @@
       },
       {
         "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER 2",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1799,11 +1806,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER",
+      "HD SERVER 2",
+      "HD SERVER 3"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER 2",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER 3",
         "logo": ""
       }
     ]
@@ -1978,54 +2000,6 @@
       },
       {
         "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50101,
-    "title": "Everton vs Newcastle",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Everton",
-      "teamB": "Newcastle",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/48/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/39/image",
-      "eventName": "Everton vs Newcastle United",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/12 16:15:00 +0000",
-      "endTime": "2026/08/12 18:20:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "Premier Sports",
-      "CBS NETWORK",
-      "FOX DEPORTES",
-      "DUDE Tv Live",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "Premier Sports",
-        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
-      },
-      {
-        "title": "CBS NETWORK",
-        "logo": ""
-      },
-      {
-        "title": "FOX DEPORTES",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
         "logo": ""
       }
     ]

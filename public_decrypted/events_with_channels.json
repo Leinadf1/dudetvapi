@@ -1373,10 +1373,12 @@
       "HBO MAX BR",
       "DUDE Tv Live",
       "HD SERVER",
+      "HD SERVER 2",
       "LOW QUALITY",
       "SPX LIVE [FHD]",
       "PARAMOUNT+ EN [FHD]",
-      "TUDN US [FHD]"
+      "TUDN US [FHD]",
+      "SonyLiv [ENG]"
     ],
     "formatsNew": [
       {
@@ -1404,6 +1406,10 @@
         "logo": ""
       },
       {
+        "title": "HD SERVER 2",
+        "logo": ""
+      },
+      {
         "title": "LOW QUALITY",
         "logo": ""
       },
@@ -1418,6 +1424,10 @@
       {
         "title": "TUDN US [FHD]",
         "logo": ""
+      },
+      {
+        "title": "SonyLiv [ENG]",
+        "logo": ""
       }
     ],
     "decoded_channels": [
@@ -1426,6 +1436,13 @@
         "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
         "title": "TNT Sports FHD",
+        "type": "1"
+      },
+      {
+        "api": "c7a363bc0cfb61272ac2831511a854f8:b06f4285daad3b31bc18aac1a91b90c9",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xaqgozwzn0/out/v1/4ab26a917639405fb6c7248482c38109/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "PARAMOUNT+ FHD",
         "type": "1"
       },
       {
@@ -1497,6 +1514,13 @@
         "logo": "",
         "title": "TUDN US [FHD]",
         "type": "2"
+      },
+      {
+        "api": "",
+        "link": "https://sonydaimenew.akamaized.net/hls/live/20000291/football1208/ENG/master.m3u8?hdnea=exp=1786582235~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=00f3f13455a5332eb32aa1b308d79c89c4b83299fa6934a132713980d139591d|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
+        "logo": "",
+        "title": "SonyLiv [ENG]",
+        "type": "0"
       },
       {
         "api": "",
@@ -2261,10 +2285,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2318,10 +2347,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2334,20 +2368,27 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream2.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://chatgpt.hereisman.net/playlist/54534/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv MLB",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://edgestream1.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-08-11/sea-nyy",
+        "link": "https://embedindia.st/embed/mlb/2026-08-12/col-ari",
         "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50079,
@@ -2368,10 +2409,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2384,20 +2430,27 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream1.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://chatgpt.hereisman.net/playlist/54535/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv MLB",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://edgestream3.pro/hls/bzagLHzach19.m3u8??=|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-08-11/bos-tor",
+        "link": "https://embedindia.st/embed/mlb/2026-08-12/hou-sf",
         "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50080,
@@ -2765,68 +2818,6 @@
     "channel_status": "live"
   },
   {
-    "id": 50086,
-    "title": "Algeria vs Malawi",
-    "image": "o",
-    "cat": "Womens AFCON",
-    "eventInfo": {
-      "teamA": "Algeria",
-      "teamB": "Malawi",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/180004/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/298498/image",
-      "eventName": "Algeria vs Malawi",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/12 17:00:00 +0000",
-      "endTime": "2026/08/12 19:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN ENGLISH",
-      "HD SERVER",
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN ENGLISH",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "beIN ENGLISH",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
     "id": 50087,
     "title": "Morocco vs Cameroon",
     "image": "o",
@@ -3077,21 +3068,33 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "D SPORTS FHD",
       "FOX DEPORTES",
       "SportDigital Fussball",
+      "AD SPORTS - FHD",
       "RMA TV HD",
       "DUDE Tv Live",
       "SportyNET BR HD",
       "Galicia TV HD",
-      "HD SERVER"
+      "HD SERVER",
+      "HD SERVER 2",
+      "LOW SERVER"
     ],
     "formatsNew": [
+      {
+        "title": "D SPORTS FHD",
+        "logo": ""
+      },
       {
         "title": "FOX DEPORTES",
         "logo": ""
       },
       {
         "title": "SportDigital Fussball",
+        "logo": ""
+      },
+      {
+        "title": "AD SPORTS - FHD",
         "logo": ""
       },
       {
@@ -3113,9 +3116,24 @@
       {
         "title": "HD SERVER",
         "logo": ""
+      },
+      {
+        "title": "HD SERVER 2",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
+        "logo": ""
       }
     ],
     "decoded_channels": [
+      {
+        "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "D SPORTS FHD",
+        "type": "1"
+      },
       {
         "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
@@ -3128,6 +3146,13 @@
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "",
         "title": "SportDigital Fussball",
+        "type": "1"
+      },
+      {
+        "api": "e78769d87a41e15036a4fb8bfdf1371e:37be0375dc9fe544c3c6de6a105f7c0a",
+        "link": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_1/abudhabi_sports_1_dash_enc/index.mpd",
+        "logo": "",
+        "title": "AD SPORTS - FHD",
         "type": "1"
       },
       {
@@ -3160,9 +3185,23 @@
       },
       {
         "api": "",
-        "link": "https://edgestream1.pro/hls/b0h5fNwDKH.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://feijing-xzbforanchor.52kq.top/sd-1-4581647.m3u8?txSecret=af821a41dbf7144087d3907b6fb2b0a9",
         "logo": "",
         "title": "HD SERVER",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://edgestream1.pro/hls/b0h5fNwDKH.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "HD SERVER 2",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.192/hls/BJJJXAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "LOW SERVER",
         "type": "0"
       }
     ],
@@ -3187,11 +3226,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER",
+      "HD SERVER 2",
+      "HD SERVER 3"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER 2",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER 3",
         "logo": ""
       }
     ],
@@ -3552,92 +3606,6 @@
         "link": "http://193.47.62.191/hls/BJJJXAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "LOW SERVER",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50101,
-    "title": "Everton vs Newcastle",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Everton",
-      "teamB": "Newcastle",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/48/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/39/image",
-      "eventName": "Everton vs Newcastle United",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/12 16:15:00 +0000",
-      "endTime": "2026/08/12 18:20:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "Premier Sports",
-      "CBS NETWORK",
-      "FOX DEPORTES",
-      "DUDE Tv Live",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "Premier Sports",
-        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
-      },
-      {
-        "title": "CBS NETWORK",
-        "logo": ""
-      },
-      {
-        "title": "FOX DEPORTES",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
-        "title": "Premier Sports",
-        "type": "1"
-      },
-      {
-        "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "CBS NETWORK",
-        "type": "1"
-      },
-      {
-        "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "FOX DEPORTES",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/54519/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.190/hls/TATATATAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "SD SERVER",
         "type": "0"
       }
     ],
