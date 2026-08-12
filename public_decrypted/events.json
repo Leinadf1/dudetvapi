@@ -334,6 +334,34 @@
     ]
   },
   {
+    "id": 50007,
+    "title": "Australia vs Bangladesh",
+    "image": "o",
+    "cat": "Cricket",
+    "eventInfo": {
+      "teamA": "AUS",
+      "teamB": "BAN",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/187746/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/187744/image",
+      "eventName": "Australia vs Bangladesh",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/13 00:30:00 +0000",
+      "endTime": "2026/08/13 08:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "WILLOW HD"
+    ],
+    "formatsNew": [
+      {
+        "title": "WILLOW HD",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50008,
     "title": "Ireland vs Afghanistan",
     "image": "o",
@@ -680,54 +708,199 @@
     ]
   },
   {
-    "id": 50042,
-    "title": "Welsh Fire vs London Spirit",
+    "id": 50027,
+    "title": "Dallas Wings vs Toronto Tempo",
     "image": "o",
-    "cat": "The Hundred",
+    "cat": "WNBA",
     "eventInfo": {
-      "teamA": "WEF",
-      "teamB": "LNS",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/377179/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/377175/image",
-      "eventName": "Welsh Fire vs London Spirit",
+      "teamA": "Wings",
+      "teamB": "Tempo",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3450/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1166445/image",
+      "eventName": "Dallas Wings vs Toronto Tempo",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/12 14:00:00 +0000",
-      "endTime": "2026/08/12 17:45:00 +0000"
+      "startTime": "2026/08/13 00:00:00 +0000",
+      "endTime": "2026/08/13 02:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "WILLOW - FHD",
-      "SKY CRICKET",
-      "WILLOW - ALT",
-      "SKY SPORT NZ",
-      "FOX CRICKET HD",
-      "LOW SERVER"
+      "DUDE Tv Live",
+      "WNBA LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "WILLOW - FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "SKY CRICKET",
+        "title": "DUDE Tv Live",
         "logo": ""
       },
       {
-        "title": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+        "title": "WNBA LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50032,
+    "title": "Boston Red Sox",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Blue Jays",
+      "teamB": "Red Sox",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3642/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3646/image",
+      "eventName": "Toronto Blue Jays vs Boston Red Sox",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/12 23:07:00 +0000",
+      "endTime": "2026/08/13 02:07:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv LIVE",
+      "MLB LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv LIVE",
+        "logo": ""
       },
       {
-        "title": "SKY SPORT NZ",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
+        "title": "MLB LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50033,
+    "title": "Atlanta Braves",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Braves",
+      "teamB": "Mets",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3656/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3629/image",
+      "eventName": "Atlanta Braves vs New York Mets",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/12 23:15:00 +0000",
+      "endTime": "2026/08/13 02:15:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "MLB LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
       },
       {
-        "title": "FOX CRICKET HD",
-        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj"
+        "title": "MLB LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50034,
+    "title": "Chicago White Sox",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "White Sox",
+      "teamB": "Reds",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3644/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3633/image",
+      "eventName": "Chicago White Sox vs Cincinnati Reds",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/12 23:40:00 +0000",
+      "endTime": "2026/08/13 02:40:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "MLB LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
       },
       {
-        "title": "LOW SERVER",
+        "title": "MLB LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50052,
+    "title": "Texas Rangers",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Angels",
+      "teamB": "Rangers",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/5929/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3647/image",
+      "eventName": "Los Angeles Angels vs Texas Rangers",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/13 02:10:00 +0000",
+      "endTime": "2026/08/13 05:10:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "MLB LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "MLB LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50053,
+    "title": "Kansas City Royals",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Dodgers",
+      "teamB": "Royals",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3638/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3651/image",
+      "eventName": "Dodgers vs Kansas City Royals",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/13 02:10:00 +0000",
+      "endTime": "2026/08/13 05:10:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "MLB LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "MLB LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -771,6 +944,72 @@
     ]
   },
   {
+    "id": 50055,
+    "title": "Valkyries vs Chicago Sky",
+    "image": "o",
+    "cat": "WNBA",
+    "eventInfo": {
+      "teamA": "Valkyries",
+      "teamB": "Sky",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1041936/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/35546/image",
+      "eventName": "Golden State Valkyries vs Chicago Sky",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/13 02:00:00 +0000",
+      "endTime": "2026/08/13 04:45:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "WNBA LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "WNBA LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50056,
+    "title": "Portland Fire vs Minnesota Lynx",
+    "image": "o",
+    "cat": "WNBA",
+    "eventInfo": {
+      "teamA": "Fire",
+      "teamB": "Lynx",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1166446/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3440/image",
+      "eventName": "Portland Fire vs Minnesota Lynx",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/13 02:00:00 +0000",
+      "endTime": "2026/08/13 04:45:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "WNBA LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "WNBA LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50062,
     "title": "Hundred MEN",
     "image": "o",
@@ -789,29 +1028,24 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "WILLOW - FHD",
-      "SKY CRICKET",
+      "WILLOW FHD",
+      "SKY CRICKET - AQ",
       "WILLOW - ALT",
-      "SKY SPORT NZ",
       "FOX CRICKET HD",
       "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "WILLOW - FHD",
+        "title": "WILLOW FHD",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
-        "title": "SKY CRICKET",
+        "title": "SKY CRICKET - AQ",
         "logo": ""
       },
       {
         "title": "WILLOW - ALT",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "SKY SPORT NZ",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
       },
       {
         "title": "FOX CRICKET HD",
@@ -829,16 +1063,16 @@
     "image": "o",
     "cat": "The Hundred",
     "eventInfo": {
-      "teamA": "Hundred WOMEN",
-      "teamB": "Hundred WOMEN",
-      "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/16710/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/16710/image",
-      "eventName": "The Hundred WOMEN",
+      "teamA": "SL-W",
+      "teamB": "SOB-W",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/377206/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/377205/image",
+      "eventName": "Sunrisers Leeds W vs Southern Brave W",
       "eventType": "null",
       "eventBanner": "null",
       "isHot": "0",
-      "startTime": "2026/08/12 14:00:00 +0000",
-      "endTime": "2026/08/12 17:30:00 +0000"
+      "startTime": "2026/08/14 13:15:00 +0000",
+      "endTime": "2026/08/14 17:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -881,10 +1115,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1160,6 +1399,39 @@
     ]
   },
   {
+    "id": 50084,
+    "title": "Yankees vs Seattle Mariners",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Yankees",
+      "teamB": "Mariners",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3654/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3641/image",
+      "eventName": "New York Yankees vs Seattle Mariners",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/12 23:05:00 +0000",
+      "endTime": "2026/08/13 02:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "MLB LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "MLB LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50085,
     "title": "CPL",
     "image": "o",
@@ -1236,11 +1508,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH"
+      "beIN ENGLISH",
+      "HD SERVER",
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
@@ -1404,11 +1686,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "FOX DEPORTES"
+      "FOX DEPORTES",
+      "HD SERVER"
     ],
     "formatsNew": [
       {
         "title": "FOX DEPORTES",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
         "logo": ""
       }
     ]
@@ -1490,7 +1777,8 @@
     "formats": [
       "CBS NETWORK",
       "MU TV FHD",
-      "MU TV HD"
+      "MU TV HD",
+      "HD SERVER"
     ],
     "formatsNew": [
       {
@@ -1503,6 +1791,10 @@
       },
       {
         "title": "MU TV HD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
         "logo": ""
       }
     ]
@@ -1526,11 +1818,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "HD SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "HD SERVER",
         "logo": ""
       }
     ]
@@ -1579,105 +1871,6 @@
       },
       {
         "title": "SD SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50102,
-    "title": "København vs Debreceni",
-    "image": "o",
-    "cat": "UEFA Conference",
-    "eventInfo": {
-      "teamA": "København",
-      "teamB": "DVSC",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1284/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1921/image",
-      "eventName": "København vs Debreceni",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/12 16:00:00 +0000",
-      "endTime": "2026/08/12 18:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50103,
-    "title": "East Bengal vs Al Arabi Kuwait",
-    "image": "o",
-    "cat": "AFC Champions Two",
-    "eventInfo": {
-      "teamA": "East Bengal",
-      "teamB": "Al Arabi",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/40655/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/35892/image",
-      "eventName": "East Bengal vs Al Arabi Kuwait",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/12 13:30:00 +0000",
-      "endTime": "2026/08/12 15:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "FANCODE HD",
-      "DUDE Tv Live",
-      "HD SERVER",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "FANCODE HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50104,
-    "title": "Arkadag FK vs FC Goa",
-    "image": "o",
-    "cat": "AFC Champions Two",
-    "eventInfo": {
-      "teamA": "Arkadag",
-      "teamB": "Goa",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/469420/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/174594/image",
-      "eventName": "Arkadag FK vs FC Goa",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/12 15:00:00 +0000",
-      "endTime": "2026/08/12 17:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
