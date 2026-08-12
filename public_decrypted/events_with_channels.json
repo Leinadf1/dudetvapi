@@ -708,7 +708,6 @@
     "formats": [
       "WILLOW - FHD",
       "WILLOW - ALT",
-      "HD SERVER",
       "FANCODE - IN"
     ],
     "formatsNew": [
@@ -721,40 +720,29 @@
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
         "title": "FANCODE - IN",
-        "logo": ""
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       }
     ],
     "decoded_channels": [
       {
-        "api": "d3ef0ece3db6d3feaabccbf4ec3e0b48:22c753020af44267bb49672e3c336037",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ycs8hponlb/out/v1/3074b080ff9340799c2e877399e5e448/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "3e3f5a3ab879d14a9b75a996cea9bec7:fa8cf5d417273db21e3125f52eb3ecd9",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rpy1a8weyh/out/v1/299c646dd6c14fbbb217f087b073efb6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW - FHD",
         "type": "1"
       },
       {
-        "api": "d3ef0ece3db6d3feaabccbf4ec3e0b48:22c753020af44267bb49672e3c336037",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ycs8hponlb/out/v1/3074b080ff9340799c2e877399e5e448/cenc.mpd",
+        "api": "3e3f5a3ab879d14a9b75a996cea9bec7:fa8cf5d417273db21e3125f52eb3ecd9",
+        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rpy1a8weyh/out/v1/299c646dd6c14fbbb217f087b073efb6/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW - ALT",
         "type": "1"
       },
       {
         "api": "",
-        "link": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://dai-fancode.pages.dev/mumbai/4248055_english_hls_8aab9aebbc51217_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-        "logo": "",
+        "link": "https://dai-fancode.pages.dev/mumbai/4248053_english_hls_d919628ee058587_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
         "title": "FANCODE - IN",
         "type": "0"
       }
@@ -1482,104 +1470,6 @@
     "channel_status": "live"
   },
   {
-    "id": 50062,
-    "title": "Hundred MEN",
-    "image": "o",
-    "cat": "The Hundred",
-    "eventInfo": {
-      "teamA": "MSG",
-      "teamB": "SL",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/377173/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/377178/image",
-      "eventName": "Manchester SG vs Sunrisers Leeds",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/11 17:30:00 +0000",
-      "endTime": "2026/08/11 21:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "WILLOW - FHD",
-      "SKY CRICKET",
-      "WILLOW - ALT",
-      "SKY SPORT NZ",
-      "FOX CRICKET HD",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "WILLOW - FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "SKY CRICKET",
-        "logo": ""
-      },
-      {
-        "title": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "SKY SPORT NZ",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
-      },
-      {
-        "title": "FOX CRICKET HD",
-        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj"
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "0b3a4173d4e7318247831287ce00395e:7144eda20ed87559acc226d79ea686fa",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/e8xfiwkrmm/out/v1/edffbaac67e44d9aa6eb6c9a01fb5aeb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW - FHD",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-        "logo": "",
-        "title": "SKY CRICKET",
-        "type": "0"
-      },
-      {
-        "api": "0b3a4173d4e7318247831287ce00395e:7144eda20ed87559acc226d79ea686fa",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/e8xfiwkrmm/out/v1/edffbaac67e44d9aa6eb6c9a01fb5aeb/cenc.mpd",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW - ALT",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://tmaxapp.site/8wirwjs76erftg/skysport2nzf5az.m3u8",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-        "title": "SKY SPORT NZ",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
-        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj",
-        "title": "FOX CRICKET HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.40/hls/UZZZA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "LOW SERVER",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
     "id": 50063,
     "title": "Hundred WOMEN",
     "image": "o",
@@ -1634,8 +1524,8 @@
     ],
     "decoded_channels": [
       {
-        "api": "5e14d68597500d2dac47ca32284ee6c4:6f8f55ebbfbeea238d6c8d170b0357d1",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vpz6pbmrnq/out/v1/6d35db6b0a4b48cb8bc2d4e4694d4b7f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "3a6b9c70be7c5360d0d3280e9fe1fa9c:3bf2808053ddf9d664ff3d13498588ac",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uboilohtga/out/v1/c4ad81c73eed49b8a85ba0a36aa76583/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW - FHD",
         "type": "1"
@@ -1648,8 +1538,8 @@
         "type": "0"
       },
       {
-        "api": "5e14d68597500d2dac47ca32284ee6c4:6f8f55ebbfbeea238d6c8d170b0357d1",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vpz6pbmrnq/out/v1/6d35db6b0a4b48cb8bc2d4e4694d4b7f/cenc.mpd",
+        "api": "3a6b9c70be7c5360d0d3280e9fe1fa9c:3bf2808053ddf9d664ff3d13498588ac",
+        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/uboilohtga/out/v1/c4ad81c73eed49b8a85ba0a36aa76583/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW - ALT",
         "type": "1"
@@ -1670,7 +1560,7 @@
       },
       {
         "api": "",
-        "link": "http://193.47.62.40/hls/UZZZA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "http://193.47.62.190/hls/UZZZddA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "LOW SERVER",
         "type": "0"
@@ -2141,8 +2031,9 @@
       "teamBFlag": "https://our.today/wp-content/uploads/2026/07/CPL-Caribbean-Premier-League.jpg",
       "eventName": "Caribbean Premier League",
       "eventType": "null",
-      "startTime": "2026/08/12 00:00:00 +0000",
-      "endTime": "2026/08/12 03:45:00 +0000"
+      "isHot": "0",
+      "startTime": "2026/08/12 23:00:00 +0000",
+      "endTime": "2026/08/13 02:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
