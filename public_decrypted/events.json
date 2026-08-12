@@ -698,11 +698,36 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "WILLOW - FHD",
+      "SKY CRICKET",
+      "WILLOW - ALT",
+      "SKY SPORT NZ",
+      "FOX CRICKET HD",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "WILLOW - FHD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "SKY CRICKET",
+        "logo": ""
+      },
+      {
+        "title": "WILLOW - ALT",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "SKY SPORT NZ",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
+      },
+      {
+        "title": "FOX CRICKET HD",
+        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -746,21 +771,20 @@
     ]
   },
   {
-    "id": 50063,
-    "title": "Hundred WOMEN",
+    "id": 50062,
+    "title": "Hundred MEN",
     "image": "o",
     "cat": "The Hundred",
     "eventInfo": {
-      "teamA": "Hundred WOMEN",
-      "teamB": "Hundred WOMEN",
-      "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/16710/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/16710/image",
-      "eventName": "The Hundred WOMEN",
+      "teamA": "BPH",
+      "teamB": "MIL",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/377174/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/377172/image",
+      "eventName": "Birmingham Phoenix vs MI London",
       "eventType": "null",
-      "eventBanner": "null",
       "isHot": "0",
-      "startTime": "2026/08/12 10:30:00 +0000",
-      "endTime": "2026/08/12 17:30:00 +0000"
+      "startTime": "2026/08/12 17:30:00 +0000",
+      "endTime": "2026/08/12 21:15:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -792,6 +816,45 @@
       {
         "title": "FOX CRICKET HD",
         "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "title": "LOW SERVER",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50063,
+    "title": "Hundred WOMEN",
+    "image": "o",
+    "cat": "The Hundred",
+    "eventInfo": {
+      "teamA": "Hundred WOMEN",
+      "teamB": "Hundred WOMEN",
+      "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/16710/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/16710/image",
+      "eventName": "The Hundred WOMEN",
+      "eventType": "null",
+      "eventBanner": "null",
+      "isHot": "0",
+      "startTime": "2026/08/12 14:00:00 +0000",
+      "endTime": "2026/08/12 17:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "WILLOW - FHD",
+      "WILLOW - ALT",
+      "LOW SERVER"
+    ],
+    "formatsNew": [
+      {
+        "title": "WILLOW - FHD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "WILLOW - ALT",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
         "title": "LOW SERVER",
@@ -1553,6 +1616,49 @@
       "isHot": "0",
       "startTime": "2026/08/12 13:30:00 +0000",
       "endTime": "2026/08/12 15:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "FANCODE HD",
+      "DUDE Tv Live",
+      "HD SERVER",
+      "SD SERVER"
+    ],
+    "formatsNew": [
+      {
+        "title": "FANCODE HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50104,
+    "title": "Arkadag FK vs FC Goa",
+    "image": "o",
+    "cat": "AFC Champions Two",
+    "eventInfo": {
+      "teamA": "Arkadag",
+      "teamB": "Goa",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/469420/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/174594/image",
+      "eventName": "Arkadag FK vs FC Goa",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/12 15:00:00 +0000",
+      "endTime": "2026/08/12 17:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
