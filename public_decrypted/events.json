@@ -686,7 +686,7 @@
       "eventName": "Paris Saint-Germain vs Aston Villa",
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://iili.io/C6UtWYv.png",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/08/12 19:00:00 +0000",
       "endTime": "2026/08/12 21:10:00 +0000"
     },
@@ -694,15 +694,55 @@
     "publish": "1",
     "formats": [
       "TNT Sports FHD",
-      "SPX LIVE [FHD]"
+      "CBS NETWORK HD",
+      "TNT SPORTS HD",
+      "HBO MAX BR",
+      "DUDE Tv Live",
+      "HD SERVER",
+      "LOW QUALITY",
+      "SPX LIVE [FHD]",
+      "PARAMOUNT+ EN [FHD]",
+      "TUDN US [FHD]"
     ],
     "formatsNew": [
       {
         "title": "TNT Sports FHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
+      {
+        "title": "CBS NETWORK HD",
+        "logo": ""
+      },
+      {
+        "title": "TNT SPORTS HD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
+      {
+        "title": "HBO MAX BR",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW QUALITY",
         "logo": ""
       },
       {
         "title": "SPX LIVE [FHD]",
+        "logo": ""
+      },
+      {
+        "title": "PARAMOUNT+ EN [FHD]",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "TUDN US [FHD]",
         "logo": ""
       }
     ]
@@ -1153,10 +1193,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1546,11 +1591,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "beiN SPORTS HD",
+      "HD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "beiN SPORTS HD",
+        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1679,7 +1734,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2829/image",
       "eventName": "Deportivo de A Coruña vs Real Madrid",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/08/12 19:00:00 +0000",
       "endTime": "2026/08/12 21:10:00 +0000"
     },
@@ -1687,11 +1742,36 @@
     "publish": "1",
     "formats": [
       "FOX DEPORTES",
+      "SportDigital Fussball",
+      "RMA TV HD",
+      "DUDE Tv Live",
+      "SportyNET BR HD",
+      "Galicia TV HD",
       "HD SERVER"
     ],
     "formatsNew": [
       {
         "title": "FOX DEPORTES",
+        "logo": ""
+      },
+      {
+        "title": "SportDigital Fussball",
+        "logo": ""
+      },
+      {
+        "title": "RMA TV HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SportyNET BR HD",
+        "logo": ""
+      },
+      {
+        "title": "Galicia TV HD",
         "logo": ""
       },
       {
@@ -1747,11 +1827,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "FOREST TV HD",
+      "HD SERVER",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "FOREST TV HD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1768,21 +1858,38 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/34/image",
       "eventName": "Manchester United vs Leeds United",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/08/12 18:30:00 +0000",
       "endTime": "2026/08/12 20:35:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "Premier Sports",
       "CBS NETWORK",
+      "SPORTZX LIVE",
       "MU TV FHD",
       "MU TV HD",
-      "HD SERVER"
+      "DUDE Tv Live",
+      "Sport TV1 PT HD",
+      "HD SERVER",
+      "HD SERVER PT",
+      "LOW SERVER",
+      "PREMIER SPORTS [FHD]",
+      "ITV1 [FHD]",
+      "MU TV [FHD]"
     ],
     "formatsNew": [
       {
+        "title": "Premier Sports",
+        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
+      },
+      {
         "title": "CBS NETWORK",
+        "logo": ""
+      },
+      {
+        "title": "SPORTZX LIVE",
         "logo": ""
       },
       {
@@ -1794,7 +1901,35 @@
         "logo": ""
       },
       {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "Sport TV1 PT HD",
+        "logo": ""
+      },
+      {
         "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER PT",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
+        "logo": ""
+      },
+      {
+        "title": "PREMIER SPORTS [FHD]",
+        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
+      },
+      {
+        "title": "ITV1 [FHD]",
+        "logo": ""
+      },
+      {
+        "title": "MU TV [FHD]",
         "logo": ""
       }
     ]
@@ -1818,11 +1953,31 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "HD SERVER"
+      "Arsenal TV HD",
+      "ESPN BR HD",
+      "DUDE Tv Live",
+      "HD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "Arsenal TV HD",
+        "logo": ""
+      },
+      {
+        "title": "ESPN BR HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
         "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
