@@ -759,69 +759,6 @@
     "channel_status": "live"
   },
   {
-    "id": 50008,
-    "title": "Ireland vs Afghanistan",
-    "image": "o",
-    "cat": "Cricket",
-    "eventInfo": {
-      "teamA": "IRE",
-      "teamB": "AFG",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187766/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187575/image",
-      "eventName": "Ireland vs Afghanistan",
-      "eventType": "null",
-      "eventBanner": "null",
-      "isHot": "0",
-      "startTime": "2026/08/12 09:45:00 +0000",
-      "endTime": "2026/08/12 17:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "WILLOW - FHD",
-      "WILLOW - ALT",
-      "FANCODE - IN"
-    ],
-    "formatsNew": [
-      {
-        "title": "WILLOW - FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "FANCODE - IN",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "3e3f5a3ab879d14a9b75a996cea9bec7:fa8cf5d417273db21e3125f52eb3ecd9",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rpy1a8weyh/out/v1/299c646dd6c14fbbb217f087b073efb6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW - FHD",
-        "type": "1"
-      },
-      {
-        "api": "3e3f5a3ab879d14a9b75a996cea9bec7:fa8cf5d417273db21e3125f52eb3ecd9",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rpy1a8weyh/out/v1/299c646dd6c14fbbb217f087b073efb6/cenc.mpd",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW - ALT",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://dai-fancode.pages.dev/mumbai/4248053_english_hls_d919628ee058587_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-        "title": "FANCODE - IN",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
     "id": 50009,
     "title": "ONE Friday Fights",
     "image": "o",
@@ -1368,6 +1305,7 @@
     "publish": "1",
     "formats": [
       "TNT Sports FHD",
+      "PARAMOUNT+ FHD",
       "CBS NETWORK HD",
       "TNT SPORTS HD",
       "HBO MAX BR",
@@ -1384,6 +1322,10 @@
       {
         "title": "TNT Sports FHD",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
+      {
+        "title": "PARAMOUNT+ FHD",
+        "logo": ""
       },
       {
         "title": "CBS NETWORK HD",
@@ -1550,10 +1492,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TSN SPORTS",
       "DUDE Tv Live",
       "WNBA LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "TSN SPORTS",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1565,19 +1512,25 @@
     ],
     "decoded_channels": [
       {
+        "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "TSN SPORTS",
+        "type": "1"
+      },
+      {
         "api": "",
-        "link": "https://edgestream1.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream2.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/wnba/2026-08-11/ny-ind",
+        "link": "https://embedindia.st/embed/wnba/2026-08-12/tor-dal",
         "title": "WNBA LIVE [FHD]",
         "type": "2"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50032,
@@ -2726,7 +2679,6 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "WILLOW - FHD",
       "TNT Sports FHD",
       "FOX CRICKET HD",
       "TNT SPORTS HD",
@@ -2735,10 +2687,6 @@
       "FANCODE - IN"
     ],
     "formatsNew": [
-      {
-        "title": "WILLOW - FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
       {
         "title": "TNT Sports FHD",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
@@ -2765,13 +2713,6 @@
       }
     ],
     "decoded_channels": [
-      {
-        "api": "9a5303694c4dc20c936059d016bd7f4c:8c2b391cb032b3b5554fad86e86d34d8",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/czkwnnswjy/out/v1/54eed4288aca4015affefa8c577b7d48/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW - FHD",
-        "type": "1"
-      },
       {
         "api": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
@@ -2813,6 +2754,80 @@
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
         "title": "FANCODE - IN",
         "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50086,
+    "title": "Monterrey vs Nashville",
+    "image": "o",
+    "cat": "Leagues Cup",
+    "eventInfo": {
+      "teamA": "Monterrey",
+      "teamB": "Nashville",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1932/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/337612/image",
+      "eventName": "Monterrey vs Nashville",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/13 00:10:00 +0000",
+      "endTime": "2026/08/13 02:15:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "FOX SPORTS FHD",
+      "TSN SPORTS",
+      "APPLE TV HD",
+      "SPX LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "FOX SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "TSN SPORTS",
+        "logo": ""
+      },
+      {
+        "title": "APPLE TV HD",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "FOX SPORTS FHD",
+        "type": "1"
+      },
+      {
+        "api": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "TSN SPORTS",
+        "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/54539/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "APPLE TV HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/leagues-cup/2026-08-12/mty-nsh",
+        "logo": "",
+        "title": "SPX LIVE [FHD]",
+        "type": "2"
       }
     ],
     "channel_status": "live"
@@ -2881,26 +2896,31 @@
   },
   {
     "id": 50088,
-    "title": "Inter Miami vs Club León",
+    "title": "Los Angeles vs Querétaro",
     "image": "o",
     "cat": "Leagues Cup",
     "eventInfo": {
-      "teamA": "Inter Miami",
-      "teamB": "León",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/337602/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/36534/image",
-      "eventName": "Inter Miami vs Club León",
+      "teamA": "Los Angeles",
+      "teamB": "Querétaro",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/274650/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1951/image",
+      "eventName": "Los Angeles FC vs Querétaro FC",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/12 23:30:00 +0000",
-      "endTime": "2026/08/13 01:35:00 +0000"
+      "startTime": "2026/08/13 02:30:00 +0000",
+      "endTime": "2026/08/13 04:35:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "APPLE TV HD",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "APPLE TV HD",
+        "logo": ""
+      },
       {
         "title": "SPX LIVE [FHD]",
         "logo": ""
@@ -2909,7 +2929,201 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://embedindia.st/embed/leagues-cup/2026-08-12/mia-leo",
+        "link": "https://rdcstream.life/live/los-angeles-fc-x-queretaro/index.m3u8?|Referer=https://bolodechocolate.fit/",
+        "logo": "",
+        "title": "APPLE TV HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/leagues-cup/2026-08-12/lafc-qro",
+        "logo": "",
+        "title": "SPX LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50089,
+    "title": "Seattle Sounders vs Guadalajara",
+    "image": "o",
+    "cat": "Leagues Cup",
+    "eventInfo": {
+      "teamA": "Seattle",
+      "teamB": "Guadalajara",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/22009/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1938/image",
+      "eventName": "Seattle Sounders vs CD Guadalajara",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/13 02:30:00 +0000",
+      "endTime": "2026/08/13 04:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "APPLE TV HD",
+      "SPX LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "APPLE TV HD",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://rdcstream.life/live/seattle-sounders-fc-x-guadalajara/index.m3u8?|Referer=https://bolodechocolate.fit/",
+        "logo": "",
+        "title": "APPLE TV HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/leagues-cup/2026-08-12/sea-gdl",
+        "logo": "",
+        "title": "SPX LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50090,
+    "title": "San Diego vs Club Puebla",
+    "image": "o",
+    "cat": "Leagues Cup",
+    "eventInfo": {
+      "teamA": "San Diego",
+      "teamB": "Puebla",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1043961/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1941/image",
+      "eventName": "San Diego vs Club Puebla",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/13 02:25:00 +0000",
+      "endTime": "2026/08/13 04:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "TSN SPORTS",
+      "FOX SPORTS",
+      "APPLE TV HD",
+      "SPX LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "TSN SPORTS",
+        "logo": ""
+      },
+      {
+        "title": "FOX SPORTS",
+        "logo": ""
+      },
+      {
+        "title": "APPLE TV HD",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "TSN SPORTS",
+        "type": "1"
+      },
+      {
+        "api": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "FOX SPORTS",
+        "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/54542/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "APPLE TV HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/leagues-cup/2026-08-12/sd-pue",
+        "logo": "",
+        "title": "SPX LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50091,
+    "title": "CD Toluca vs FC Dallas",
+    "image": "o",
+    "cat": "Leagues Cup",
+    "eventInfo": {
+      "teamA": "Toluca",
+      "teamB": "Dallas",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1931/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2512/image",
+      "eventName": "CD Toluca vs FC Dallas",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/13 02:00:00 +0000",
+      "endTime": "2026/08/13 04:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "APPLE TV HD",
+      "HD SERVER",
+      "SPX LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "APPLE TV HD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://rdcstream.life/live/toluca-x-dallas/index.m3u8?|Referer=https://bolodechocolate.fit/",
+        "logo": "",
+        "title": "APPLE TV HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/54541/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "HD SERVER",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/leagues-cup/2026-08-12/tol-dal",
+        "logo": "",
         "title": "SPX LIVE [FHD]",
         "type": "2"
       }
@@ -2947,8 +3161,30 @@
       {
         "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
         "title": "beIN ENGLISH FHD",
         "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8",
+        "logo": "",
+        "title": "GE TV - FHD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://rdcstream.life/live/cruzeiro-x-flamengo/index.m3u8?|Referer=https://bolodechocolate.fit/",
+        "logo": "",
+        "title": "PARAMOUNT+ HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://rdcstream.life/live/sport-tv-1-pt/index.m3u8?|Referer=https://bolodechocolate.fit/",
+        "logo": "",
+        "title": "Sport TV1 HD",
+        "type": "0"
       }
     ],
     "channel_status": "live"
@@ -2984,8 +3220,23 @@
       {
         "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
         "title": "beIN ENGLISH FHD",
         "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://rdcstream.life/live/palmeiras-x-cerro-porteno/index.m3u8?|Referer=https://bolodechocolate.fit/",
+        "logo": "",
+        "title": "PARAMOUNT+ HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://rdcstream.life/live/sport-tv-1-pt/index.m3u8?|Referer=https://bolodechocolate.fit/",
+        "logo": "",
+        "title": "Sport TV1 HD",
+        "type": "0"
       }
     ],
     "channel_status": "live"
@@ -3019,35 +3270,21 @@
     ],
     "decoded_channels": [
       {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/54474/load-playlist?|Referer=https://gooz.aapmains.net",
+        "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
+        "title": "D Sports FHD",
+        "type": "1"
       },
       {
         "api": "",
-        "link": "https://rdcstream.life/live/sport-tv-1-pt/index.m3u8?|Referer=https://bolodechocolate.fit/",
+        "link": "https://rdcstream.life/live/tigre-x-torque/index.m3u8?|Referer=https://bolodechocolate.fit/",
         "logo": "",
-        "title": "SPORT TV FHD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.42/hls/DAAAAAAFAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "LOW QUALITY",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://cast.zlive.st/p/auto-sport-tv1-0/index.m3u8|referer=https://zlive.st/",
-        "logo": "",
-        "title": "SPORT TV HD",
+        "title": "PARAMOUNT+ HD",
         "type": "0"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50096,
@@ -3355,7 +3592,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/34/image",
       "eventName": "Manchester United vs Leeds United",
       "eventType": "null",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/08/12 18:30:00 +0000",
       "endTime": "2026/08/12 20:35:00 +0000"
     },

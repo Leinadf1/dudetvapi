@@ -362,45 +362,6 @@
     ]
   },
   {
-    "id": 50008,
-    "title": "Ireland vs Afghanistan",
-    "image": "o",
-    "cat": "Cricket",
-    "eventInfo": {
-      "teamA": "IRE",
-      "teamB": "AFG",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187766/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187575/image",
-      "eventName": "Ireland vs Afghanistan",
-      "eventType": "null",
-      "eventBanner": "null",
-      "isHot": "0",
-      "startTime": "2026/08/12 09:45:00 +0000",
-      "endTime": "2026/08/12 17:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "WILLOW - FHD",
-      "WILLOW - ALT",
-      "FANCODE - IN"
-    ],
-    "formatsNew": [
-      {
-        "title": "WILLOW - FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "FANCODE - IN",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      }
-    ]
-  },
-  {
     "id": 50009,
     "title": "ONE Friday Fights",
     "image": "o",
@@ -694,6 +655,7 @@
     "publish": "1",
     "formats": [
       "TNT Sports FHD",
+      "PARAMOUNT+ FHD",
       "CBS NETWORK HD",
       "TNT SPORTS HD",
       "HBO MAX BR",
@@ -710,6 +672,10 @@
       {
         "title": "TNT Sports FHD",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
+      {
+        "title": "PARAMOUNT+ FHD",
+        "logo": ""
       },
       {
         "title": "CBS NETWORK HD",
@@ -776,10 +742,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TSN SPORTS",
       "DUDE Tv Live",
       "WNBA LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "TSN SPORTS",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1520,7 +1491,6 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "WILLOW - FHD",
       "TNT Sports FHD",
       "FOX CRICKET HD",
       "TNT SPORTS HD",
@@ -1529,10 +1499,6 @@
       "FANCODE - IN"
     ],
     "formatsNew": [
-      {
-        "title": "WILLOW - FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
       {
         "title": "TNT Sports FHD",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
@@ -1556,6 +1522,49 @@
       {
         "title": "FANCODE - IN",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      }
+    ]
+  },
+  {
+    "id": 50086,
+    "title": "Monterrey vs Nashville",
+    "image": "o",
+    "cat": "Leagues Cup",
+    "eventInfo": {
+      "teamA": "Monterrey",
+      "teamB": "Nashville",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1932/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/337612/image",
+      "eventName": "Monterrey vs Nashville",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/13 00:10:00 +0000",
+      "endTime": "2026/08/13 02:15:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "FOX SPORTS FHD",
+      "TSN SPORTS",
+      "APPLE TV HD",
+      "SPX LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "FOX SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "TSN SPORTS",
+        "logo": ""
+      },
+      {
+        "title": "APPLE TV HD",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
+        "logo": ""
       }
     ]
   },
@@ -1599,26 +1608,145 @@
   },
   {
     "id": 50088,
-    "title": "Inter Miami vs Club León",
+    "title": "Los Angeles vs Querétaro",
     "image": "o",
     "cat": "Leagues Cup",
     "eventInfo": {
-      "teamA": "Inter Miami",
-      "teamB": "León",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/337602/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/36534/image",
-      "eventName": "Inter Miami vs Club León",
+      "teamA": "Los Angeles",
+      "teamB": "Querétaro",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/274650/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1951/image",
+      "eventName": "Los Angeles FC vs Querétaro FC",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/12 23:30:00 +0000",
-      "endTime": "2026/08/13 01:35:00 +0000"
+      "startTime": "2026/08/13 02:30:00 +0000",
+      "endTime": "2026/08/13 04:35:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "APPLE TV HD",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "APPLE TV HD",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50089,
+    "title": "Seattle Sounders vs Guadalajara",
+    "image": "o",
+    "cat": "Leagues Cup",
+    "eventInfo": {
+      "teamA": "Seattle",
+      "teamB": "Guadalajara",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/22009/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1938/image",
+      "eventName": "Seattle Sounders vs CD Guadalajara",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/13 02:30:00 +0000",
+      "endTime": "2026/08/13 04:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "APPLE TV HD",
+      "SPX LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "APPLE TV HD",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50090,
+    "title": "San Diego vs Club Puebla",
+    "image": "o",
+    "cat": "Leagues Cup",
+    "eventInfo": {
+      "teamA": "San Diego",
+      "teamB": "Puebla",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1043961/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1941/image",
+      "eventName": "San Diego vs Club Puebla",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/13 02:25:00 +0000",
+      "endTime": "2026/08/13 04:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "TSN SPORTS",
+      "FOX SPORTS",
+      "APPLE TV HD",
+      "SPX LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "TSN SPORTS",
+        "logo": ""
+      },
+      {
+        "title": "FOX SPORTS",
+        "logo": ""
+      },
+      {
+        "title": "APPLE TV HD",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50091,
+    "title": "CD Toluca vs FC Dallas",
+    "image": "o",
+    "cat": "Leagues Cup",
+    "eventInfo": {
+      "teamA": "Toluca",
+      "teamB": "Dallas",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1931/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2512/image",
+      "eventName": "CD Toluca vs FC Dallas",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/13 02:00:00 +0000",
+      "endTime": "2026/08/13 04:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "APPLE TV HD",
+      "HD SERVER",
+      "SPX LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "APPLE TV HD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
       {
         "title": "SPX LIVE [FHD]",
         "logo": ""
@@ -1880,7 +2008,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/34/image",
       "eventName": "Manchester United vs Leeds United",
       "eventType": "null",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/08/12 18:30:00 +0000",
       "endTime": "2026/08/12 20:35:00 +0000"
     },
