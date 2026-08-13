@@ -345,34 +345,29 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/187744/image",
       "eventName": "Australia vs Bangladesh",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/08/13 00:30:00 +0000",
       "endTime": "2026/08/13 08:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "WILLOW HD",
-      "SKY CRICKET",
-      "FOX SPORTS HD",
-      "SKY SPORT NZ"
+      "WILLOW - FHD",
+      "WILLOW - ALT",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "WILLOW HD",
+        "title": "WILLOW - FHD",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
-        "title": "SKY CRICKET",
+        "title": "WILLOW - ALT",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
-      },
-      {
-        "title": "FOX SPORTS HD",
-        "logo": "https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png"
-      },
-      {
-        "title": "SKY SPORT NZ",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
       }
     ]
   },
@@ -650,95 +645,6 @@
     ]
   },
   {
-    "id": 50023,
-    "title": "PSG vs Aston Villa",
-    "image": "o",
-    "cat": "UEFA Super Cup",
-    "eventInfo": {
-      "teamA": "PSG",
-      "teamB": "Aston Villa",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1644/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/40/image",
-      "eventName": "Paris Saint-Germain vs Aston Villa",
-      "eventType": "null",
-      "eventBanner": "https://wsrv.nl/?url=https://iili.io/C6UtWYv.png",
-      "isHot": "1",
-      "startTime": "2026/08/12 19:00:00 +0000",
-      "endTime": "2026/08/12 21:10:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "TNT Sports FHD",
-      "PARAMOUNT+ FHD",
-      "CBS NETWORK HD",
-      "TNT SPORTS HD",
-      "HBO MAX BR",
-      "DUDE Tv Live",
-      "HD SERVER",
-      "HD SERVER 2",
-      "LOW QUALITY",
-      "SPX LIVE [FHD]",
-      "PARAMOUNT+ EN [FHD]",
-      "TUDN US [FHD]",
-      "SonyLiv [ENG]"
-    ],
-    "formatsNew": [
-      {
-        "title": "TNT Sports FHD",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
-      },
-      {
-        "title": "PARAMOUNT+ FHD",
-        "logo": ""
-      },
-      {
-        "title": "CBS NETWORK HD",
-        "logo": ""
-      },
-      {
-        "title": "TNT SPORTS HD",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
-      },
-      {
-        "title": "HBO MAX BR",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER 2",
-        "logo": ""
-      },
-      {
-        "title": "LOW QUALITY",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
-        "logo": ""
-      },
-      {
-        "title": "PARAMOUNT+ EN [FHD]",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "TUDN US [FHD]",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv [ENG]",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50027,
     "title": "Dallas Wings vs Toronto Tempo",
     "image": "o",
@@ -758,12 +664,17 @@
     "publish": "1",
     "formats": [
       "TSN SPORTS",
+      "DUDE Tv WNBA",
       "DUDE Tv Live",
       "WNBA LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "TSN SPORTS",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv WNBA",
         "logo": ""
       },
       {
@@ -795,10 +706,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv LIVE",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv LIVE",
         "logo": ""
@@ -828,10 +744,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -861,10 +782,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1133,158 +1059,6 @@
     ]
   },
   {
-    "id": 50077,
-    "title": "Athletics vs Tampa Bay Rays",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Athletics",
-      "teamB": "Rays",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3645/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3653/image",
-      "eventName": "Athletics vs Tampa Bay Rays",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/12 19:05:00 +0000",
-      "endTime": "2026/08/12 21:10:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv MLB",
-      "DUDE Tv Live",
-      "MLB LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "MLB LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50078,
-    "title": "Diamondbacks vs Colorado Rockies",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Diamondbacks",
-      "teamB": "Rockies",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3640/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3628/image",
-      "eventName": "Arizona Diamondbacks vs Colorado Rockies",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/12 19:40:00 +0000",
-      "endTime": "2026/08/12 22:40:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv MLB",
-      "DUDE Tv Live",
-      "MLB LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "MLB LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50079,
-    "title": "Giants vs Houston Astros",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Giants",
-      "teamB": "Astros",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3634/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3655/image",
-      "eventName": "San Francisco Giants vs Houston Astros",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/12 19:45:00 +0000",
-      "endTime": "2026/08/12 22:45:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv MLB",
-      "DUDE Tv Live",
-      "MLB LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "MLB LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50080,
-    "title": "Padres vs Milwaukee Brewers",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Padres",
-      "teamB": "Brewers",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3636/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3630/image",
-      "eventName": "San Diego Padres vs Milwaukee Brewers",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/12 20:10:00 +0000",
-      "endTime": "2026/08/12 23:10:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv MLB",
-      "DUDE Tv Live",
-      "MLB LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "MLB LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50081,
     "title": "Detroit Tigers vs Guardians",
     "image": "o",
@@ -1435,6 +1209,7 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "WILLOW - FHD",
       "TNT Sports FHD",
       "FOX CRICKET HD",
       "TNT SPORTS HD",
@@ -1443,6 +1218,10 @@
       "FANCODE - IN"
     ],
     "formatsNew": [
+      {
+        "title": "WILLOW - FHD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
       {
         "title": "TNT Sports FHD",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
@@ -1490,6 +1269,7 @@
     "formats": [
       "FOX SPORTS FHD",
       "TSN SPORTS",
+      "APPLE TV+ HD",
       "APPLE TV HD",
       "SPX LIVE [FHD]"
     ],
@@ -1500,6 +1280,10 @@
       },
       {
         "title": "TSN SPORTS",
+        "logo": ""
+      },
+      {
+        "title": "APPLE TV+ HD",
         "logo": ""
       },
       {
@@ -1840,301 +1624,6 @@
     ]
   },
   {
-    "id": 50096,
-    "title": "Deportivo vs Real Madrid",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Deportivo",
-      "teamB": "Real Madrid",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2832/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2829/image",
-      "eventName": "Deportivo de A Coruña vs Real Madrid",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/12 19:00:00 +0000",
-      "endTime": "2026/08/12 21:10:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "D SPORTS FHD",
-      "FOX DEPORTES",
-      "SportDigital Fussball",
-      "AD SPORTS - FHD",
-      "RMA TV HD",
-      "DUDE Tv Live",
-      "SportyNET BR HD",
-      "Galicia TV HD",
-      "HD SERVER",
-      "HD SERVER 2",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "D SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "FOX DEPORTES",
-        "logo": ""
-      },
-      {
-        "title": "SportDigital Fussball",
-        "logo": ""
-      },
-      {
-        "title": "AD SPORTS - FHD",
-        "logo": ""
-      },
-      {
-        "title": "RMA TV HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SportyNET BR HD",
-        "logo": ""
-      },
-      {
-        "title": "Galicia TV HD",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER 2",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50097,
-    "title": "SSC Napoli vs Aris",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Napoli",
-      "teamB": "Aris",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2714/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3252/image",
-      "eventName": "SSC Napoli vs Aris Thessaloniki",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/12 19:00:00 +0000",
-      "endTime": "2026/08/12 21:10:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "HD SERVER",
-      "HD SERVER 2",
-      "HD SERVER 3"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER 2",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER 3",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50098,
-    "title": "Forest vs Bayer Leverkusen",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Forest",
-      "teamB": "Leverkusen",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/14/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2681/image",
-      "eventName": "Nottingham Forest vs Bayer Leverkusen",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/12 18:45:00 +0000",
-      "endTime": "2026/08/12 20:50:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "FOREST TV HD",
-      "HD SERVER",
-      "SPX LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "FOREST TV HD",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50099,
-    "title": "Manchester United vs Leeds",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Man Utd",
-      "teamB": "Leeds",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/35/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/34/image",
-      "eventName": "Manchester United vs Leeds United",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/12 18:30:00 +0000",
-      "endTime": "2026/08/12 20:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "Premier Sports",
-      "CBS NETWORK",
-      "SPORTZX LIVE",
-      "MU TV FHD",
-      "MU TV HD",
-      "DUDE Tv Live",
-      "Sport TV1 PT HD",
-      "HD SERVER",
-      "HD SERVER PT",
-      "LOW SERVER",
-      "PREMIER SPORTS [FHD]",
-      "ITV1 [FHD]",
-      "MU TV [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "Premier Sports",
-        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
-      },
-      {
-        "title": "CBS NETWORK",
-        "logo": ""
-      },
-      {
-        "title": "SPORTZX LIVE",
-        "logo": ""
-      },
-      {
-        "title": "MU TV FHD",
-        "logo": ""
-      },
-      {
-        "title": "MU TV HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "Sport TV1 PT HD",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER PT",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      },
-      {
-        "title": "PREMIER SPORTS [FHD]",
-        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
-      },
-      {
-        "title": "ITV1 [FHD]",
-        "logo": ""
-      },
-      {
-        "title": "MU TV [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50100,
-    "title": "Arsenal vs Como",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Arsenal",
-      "teamB": "Como",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/42/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2704/image",
-      "eventName": "Arsenal vs Como",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/12 18:30:00 +0000",
-      "endTime": "2026/08/12 20:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "Arsenal TV HD",
-      "ESPN BR HD",
-      "DUDE Tv Live",
-      "HD SERVER",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "Arsenal TV HD",
-        "logo": ""
-      },
-      {
-        "title": "ESPN BR HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50101,
     "title": "Inter Miami vs Club León",
     "image": "o",
@@ -2153,10 +1642,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "APPLE TV+ HD",
       "APPLE TV HD",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "APPLE TV+ HD",
+        "logo": ""
+      },
       {
         "title": "APPLE TV HD",
         "logo": ""
@@ -2186,10 +1680,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "APPLE TV+ HD",
       "APPLE TV HD",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "APPLE TV+ HD",
+        "logo": ""
+      },
       {
         "title": "APPLE TV HD",
         "logo": ""
