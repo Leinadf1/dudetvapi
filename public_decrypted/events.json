@@ -345,16 +345,14 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/187744/image",
       "eventName": "Australia vs Bangladesh",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/08/14 00:30:00 +0000",
       "endTime": "2026/08/14 08:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "WILLOW - FHD",
       "TAPMAD - FHD",
-      "WILLOW - ALT",
       "SKY SPORTS NZ",
       "FOX CRICKET HD",
       "TEN SPORTS - AQ",
@@ -364,16 +362,8 @@
     ],
     "formatsNew": [
       {
-        "title": "WILLOW - FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
         "title": "TAPMAD - FHD",
         "logo": ""
-      },
-      {
-        "title": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
         "title": "SKY SPORTS NZ",
@@ -586,10 +576,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TSN SPORTS",
       "DUDE Tv Live",
       "NFL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "TSN SPORTS",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1291,10 +1286,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TNT Sports FHD",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "TNT Sports FHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1390,7 +1390,6 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "WILLOW - FHD",
       "TNT Sports FHD",
       "FOX CRICKET HD",
       "TNT SPORTS HD",
@@ -1399,10 +1398,6 @@
       "FANCODE - IN"
     ],
     "formatsNew": [
-      {
-        "title": "WILLOW - FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
       {
         "title": "TNT Sports FHD",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
@@ -1486,27 +1481,17 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "FOX SPORTS 1",
-      "TSN 5",
-      "APPLE TV+ HD [EN]",
-      "APPLE TV HD",
+      "FOX SPORTS",
+      "TSN5 SPORTS",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "FOX SPORTS 1",
+        "title": "FOX SPORTS",
         "logo": ""
       },
       {
-        "title": "TSN 5",
-        "logo": ""
-      },
-      {
-        "title": "APPLE TV+ HD [EN]",
-        "logo": ""
-      },
-      {
-        "title": "APPLE TV HD",
+        "title": "TSN5 SPORTS",
         "logo": ""
       },
       {
@@ -1534,15 +1519,10 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "APPLE TV+ HD [EN]",
       "APPLE TV HD",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
-      {
-        "title": "APPLE TV+ HD [EN]",
-        "logo": ""
-      },
       {
         "title": "APPLE TV HD",
         "logo": ""
@@ -1572,12 +1552,12 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "APPLE TV+ HD [EN]",
+      "APPLE TV HD",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "APPLE TV+ HD [EN]",
+        "title": "APPLE TV HD",
         "logo": ""
       },
       {
@@ -1800,310 +1780,6 @@
     ]
   },
   {
-    "id": 50097,
-    "title": "Hearts vs Benfica",
-    "image": "o",
-    "cat": "UEFA Europa",
-    "eventInfo": {
-      "teamA": "Hearts",
-      "teamB": "Benfica",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2353/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3006/image",
-      "eventName": "Hearts vs Benfica",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/13 18:45:00 +0000",
-      "endTime": "2026/08/13 20:50:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "Sport TV1 HD",
-      "DUDE Tv Live",
-      "SPX LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "Sport TV1 HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50098,
-    "title": "Rangers vs Jagiellonia",
-    "image": "o",
-    "cat": "UEFA Europa",
-    "eventInfo": {
-      "teamA": "Rangers",
-      "teamB": "Jagiellonia",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2351/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/7691/image",
-      "eventName": "Rangers vs Jagiellonia Białystok",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/13 18:30:00 +0000",
-      "endTime": "2026/08/13 20:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "RANGERS TV HD",
-      "SPX LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "RANGERS TV HD",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50099,
-    "title": "Shelbourne vs AFC Ajax",
-    "image": "o",
-    "cat": "UEFA Conference",
-    "eventInfo": {
-      "teamA": "Shelbourne",
-      "teamB": "Ajax",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3174/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2953/image",
-      "eventName": "Shelbourne vs AFC Ajax",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/13 18:45:00 +0000",
-      "endTime": "2026/08/13 20:50:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "Premier Sports",
-      "DUDE Tv Live",
-      "SPX LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "Premier Sports",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50100,
-    "title": "Motherwell vs HJK",
-    "image": "o",
-    "cat": "UEFA Conference",
-    "eventInfo": {
-      "teamA": "Motherwell",
-      "teamB": "HJK",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2346/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2242/image",
-      "eventName": "Motherwell vs HJK",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/13 18:30:00 +0000",
-      "endTime": "2026/08/13 20:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "HD SERVER",
-      "HD SERVER 2"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER 2",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50101,
-    "title": "Midtjylland vs Bohemian",
-    "image": "o",
-    "cat": "UEFA Conference",
-    "eventInfo": {
-      "teamA": "Midtjylland",
-      "teamB": "Bohemian FC",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1289/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3173/image",
-      "eventName": "Midtjylland vs Bohemian",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/13 17:00:00 +0000",
-      "endTime": "2026/08/13 19:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "HD SERVER",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50102,
-    "title": "DAC 1904 vs FC Twente",
-    "image": "o",
-    "cat": "UEFA Conference",
-    "eventInfo": {
-      "teamA": "DAC 1904",
-      "teamB": "Twente",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/23833/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2955/image",
-      "eventName": "DAC 1904 vs FC Twente",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/13 17:00:00 +0000",
-      "endTime": "2026/08/13 19:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "HD SERVER",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50103,
-    "title": "Beşiktaş vs Hradec Králové",
-    "image": "o",
-    "cat": "UEFA Europa",
-    "eventInfo": {
-      "teamA": "Beşiktaş",
-      "teamB": "Hradec Králové",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3050/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2217/image",
-      "eventName": "Beşiktaş vs Hradec Králové",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/13 17:00:00 +0000",
-      "endTime": "2026/08/13 19:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "HD SERVER",
-      "SD SERVER",
-      "SPX LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50104,
-    "title": "Pafos vs RB Salzburg",
-    "image": "o",
-    "cat": "UEFA Europa",
-    "eventInfo": {
-      "teamA": "Pafos",
-      "teamB": "RB Salzburg",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/171626/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2046/image",
-      "eventName": "Pafos vs RB Salzburg",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/13 17:00:00 +0000",
-      "endTime": "2026/08/13 19:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "HD SERVER",
-      "SD SERVER",
-      "SPX LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50105,
     "title": "Philadelphia Union vs Santos Laguna",
     "image": "o",
@@ -2122,77 +1798,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportDigital Fussball"
+      "APPLE TV HD",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "SportDigital Fussball",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50106,
-    "title": "Al-Shabab vs Al-Qadsiah",
-    "image": "o",
-    "cat": "Pro League 🇸🇦",
-    "eventInfo": {
-      "teamA": "Al-Shabab",
-      "teamB": "Al-Qadsiah",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/34313/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/56027/image",
-      "eventName": "Al-Shabab vs Al-Qadsiah",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/13 18:00:00 +0000",
-      "endTime": "2026/08/13 20:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "FOX DEPORTES"
-    ],
-    "formatsNew": [
-      {
-        "title": "FOX DEPORTES",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50107,
-    "title": "Abha vs Al-Hazem",
-    "image": "o",
-    "cat": "Pro League 🇸🇦",
-    "eventInfo": {
-      "teamA": "Abha",
-      "teamB": "Al-Hazem",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/168090/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/168086/image",
-      "eventName": "Abha vs Al-Hazem",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/13 16:15:00 +0000",
-      "endTime": "2026/08/13 18:20:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "HD SERVER",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
+        "title": "APPLE TV HD",
         "logo": ""
       },
       {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]

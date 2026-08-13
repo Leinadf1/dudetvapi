@@ -698,16 +698,14 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/187744/image",
       "eventName": "Australia vs Bangladesh",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/08/14 00:30:00 +0000",
       "endTime": "2026/08/14 08:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "WILLOW - FHD",
       "TAPMAD - FHD",
-      "WILLOW - ALT",
       "SKY SPORTS NZ",
       "FOX CRICKET HD",
       "TEN SPORTS - AQ",
@@ -717,16 +715,8 @@
     ],
     "formatsNew": [
       {
-        "title": "WILLOW - FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
         "title": "TAPMAD - FHD",
         "logo": ""
-      },
-      {
-        "title": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
         "title": "SKY SPORTS NZ",
@@ -755,13 +745,6 @@
     ],
     "decoded_channels": [
       {
-        "api": "4c476ca9f8aefdae6cb0d420f4004a4d:cf88a53fadee1f756c5aba2e45928546",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rxcjfnbuxt/out/v1/241044fb0e6c415192410432c2c825d0/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW - FHD",
-        "type": "1"
-      },
-      {
         "api": "",
         "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://www.tapmad.com/&Origin=https://www.tapmad.com",
         "logo": "",
@@ -769,15 +752,8 @@
         "type": "0"
       },
       {
-        "api": "4c476ca9f8aefdae6cb0d420f4004a4d:cf88a53fadee1f756c5aba2e45928546",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rxcjfnbuxt/out/v1/241044fb0e6c415192410432c2c825d0/cenc.mpd",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW - ALT",
-        "type": "1"
-      },
-      {
         "api": "",
-        "link": "https://latestmovies.net/api/live/playlist/590",
+        "link": "https://latestmovies.net/api/live/playlist/591",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
         "title": "SKY SPORTS NZ",
         "type": "0"
@@ -812,7 +788,7 @@
       },
       {
         "api": "",
-        "link": "https://cdx-08192.website/embed/skysport3-nz",
+        "link": "https://cdx-08192.website/embed/skysport4-nz",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
         "title": "SKY SPORTS [FHD]",
         "type": "2"
@@ -1175,10 +1151,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TSN SPORTS",
       "DUDE Tv Live",
       "NFL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "TSN SPORTS",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1189,6 +1170,13 @@
       }
     ],
     "decoded_channels": [
+      {
+        "api": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+        "title": "TSN SPORTS",
+        "type": "1"
+      },
       {
         "api": "",
         "link": "https://edgestream1.pro/hls/JHDAJBDnjdna30.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
@@ -3039,10 +3027,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TNT Sports FHD",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "TNT Sports FHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -3196,7 +3189,6 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "WILLOW - FHD",
       "TNT Sports FHD",
       "FOX CRICKET HD",
       "TNT SPORTS HD",
@@ -3205,10 +3197,6 @@
       "FANCODE - IN"
     ],
     "formatsNew": [
-      {
-        "title": "WILLOW - FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
       {
         "title": "TNT Sports FHD",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
@@ -3361,27 +3349,17 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "FOX SPORTS 1",
-      "TSN 5",
-      "APPLE TV+ HD [EN]",
-      "APPLE TV HD",
+      "FOX SPORTS",
+      "TSN5 SPORTS",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "FOX SPORTS 1",
+        "title": "FOX SPORTS",
         "logo": ""
       },
       {
-        "title": "TSN 5",
-        "logo": ""
-      },
-      {
-        "title": "APPLE TV+ HD [EN]",
-        "logo": ""
-      },
-      {
-        "title": "APPLE TV HD",
+        "title": "TSN5 SPORTS",
         "logo": ""
       },
       {
@@ -3433,15 +3411,10 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "APPLE TV+ HD [EN]",
       "APPLE TV HD",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
-      {
-        "title": "APPLE TV+ HD [EN]",
-        "logo": ""
-      },
       {
         "title": "APPLE TV HD",
         "logo": ""
@@ -3488,12 +3461,12 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "APPLE TV+ HD [EN]",
+      "APPLE TV HD",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "APPLE TV+ HD [EN]",
+        "title": "APPLE TV HD",
         "logo": ""
       },
       {
@@ -3855,495 +3828,6 @@
     "channel_status": "live"
   },
   {
-    "id": 50097,
-    "title": "Hearts vs Benfica",
-    "image": "o",
-    "cat": "UEFA Europa",
-    "eventInfo": {
-      "teamA": "Hearts",
-      "teamB": "Benfica",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2353/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3006/image",
-      "eventName": "Hearts vs Benfica",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/13 18:45:00 +0000",
-      "endTime": "2026/08/13 20:50:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "Sport TV1 HD",
-      "DUDE Tv Live",
-      "SPX LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "Sport TV1 HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://rdcstream.life/live/sport-tv-5-pt/index.m3u8?|Referer=https://bolodechocolate.fit/",
-        "logo": "",
-        "title": "Sport TV1 HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4602555.m3u8?txSecret=3dd59d27fe04c5d76aea98d1cc2efaa6&txTime=6A7E1F9E|Referer=https://player.online909.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/uefa-europa-league-qualfiying/2026-08-13/hom-slb",
-        "logo": "",
-        "title": "SPX LIVE [FHD]",
-        "type": "2"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50098,
-    "title": "Rangers vs Jagiellonia",
-    "image": "o",
-    "cat": "UEFA Europa",
-    "eventInfo": {
-      "teamA": "Rangers",
-      "teamB": "Jagiellonia",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2351/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/7691/image",
-      "eventName": "Rangers vs Jagiellonia Białystok",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/13 18:30:00 +0000",
-      "endTime": "2026/08/13 20:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "RANGERS TV HD",
-      "SPX LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "RANGERS TV HD",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/54578/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "RANGERS TV HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/uefa-europa-league-qualfiying/2026-08-13/ran-jag",
-        "logo": "",
-        "title": "SPX LIVE [FHD]",
-        "type": "2"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50099,
-    "title": "Shelbourne vs AFC Ajax",
-    "image": "o",
-    "cat": "UEFA Conference",
-    "eventInfo": {
-      "teamA": "Shelbourne",
-      "teamB": "Ajax",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3174/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2953/image",
-      "eventName": "Shelbourne vs AFC Ajax",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/13 18:45:00 +0000",
-      "endTime": "2026/08/13 20:50:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "Premier Sports",
-      "DUDE Tv Live",
-      "SPX LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "Premier Sports",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "Premier Sports",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4602616.m3u8?txSecret=881e8be6d750c283b4db79477751f065&txTime=6A7E245F|Referer=https://player.online909.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/uefa-conference-league-qualifying/2026-08-13/she-aja",
-        "logo": "",
-        "title": "SPX LIVE [FHD]",
-        "type": "2"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50100,
-    "title": "Motherwell vs HJK",
-    "image": "o",
-    "cat": "UEFA Conference",
-    "eventInfo": {
-      "teamA": "Motherwell",
-      "teamB": "HJK",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2346/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2242/image",
-      "eventName": "Motherwell vs HJK",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/13 18:30:00 +0000",
-      "endTime": "2026/08/13 20:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "HD SERVER",
-      "HD SERVER 2"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER 2",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4602608.m3u8?txSecret=969815b53bafce1a65f7f0a8950c6e5f&txTime=6A7E1FCF|Referer=https://player.online909.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://hls.streamhub.media/hls/thesport-api-86b73f3dbd0648cd4a41/master.m3u8",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://play.aarray.cn/rrty/sd-1-4602608_gqzm.m3u8?auth_key=1786649378-0-0-781a5079beab53243500babc81cf7669",
-        "logo": "",
-        "title": "HD SERVER 2",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50101,
-    "title": "Midtjylland vs Bohemian",
-    "image": "o",
-    "cat": "UEFA Conference",
-    "eventInfo": {
-      "teamA": "Midtjylland",
-      "teamB": "Bohemian FC",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1289/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3173/image",
-      "eventName": "Midtjylland vs Bohemian",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/13 17:00:00 +0000",
-      "endTime": "2026/08/13 19:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "HD SERVER",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://hls.live123.fans/live/4602560.m3u8",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.192/hls/TIIIAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "SD SERVER",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50102,
-    "title": "DAC 1904 vs FC Twente",
-    "image": "o",
-    "cat": "UEFA Conference",
-    "eventInfo": {
-      "teamA": "DAC 1904",
-      "teamB": "Twente",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/23833/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2955/image",
-      "eventName": "DAC 1904 vs FC Twente",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/13 17:00:00 +0000",
-      "endTime": "2026/08/13 19:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "HD SERVER",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4602586.m3u8?txSecret=f530fd67c6dfe46ab64f5c987b9f03a3&txTime=6A7E0D4B|Referer=https://player.online909.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://hls.live123.fans/live/4602586.m3u8",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.191/hls/TIIIA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "SD SERVER",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50103,
-    "title": "Beşiktaş vs Hradec Králové",
-    "image": "o",
-    "cat": "UEFA Europa",
-    "eventInfo": {
-      "teamA": "Beşiktaş",
-      "teamB": "Hradec Králové",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3050/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2217/image",
-      "eventName": "Beşiktaş vs Hradec Králové",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/13 17:00:00 +0000",
-      "endTime": "2026/08/13 19:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "HD SERVER",
-      "SD SERVER",
-      "SPX LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://hls.live123.fans/live/4602560.m3u8",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.192/hls/RPPP.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "SD SERVER",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/uefa-europa-league-qualfiying/2026-08-13/bes-fchradeckrlov",
-        "logo": "",
-        "title": "SPX LIVE [FHD]",
-        "type": "2"
-      }
-    ],
-    "channel_status": "cached"
-  },
-  {
-    "id": 50104,
-    "title": "Pafos vs RB Salzburg",
-    "image": "o",
-    "cat": "UEFA Europa",
-    "eventInfo": {
-      "teamA": "Pafos",
-      "teamB": "RB Salzburg",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/171626/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2046/image",
-      "eventName": "Pafos vs RB Salzburg",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/13 17:00:00 +0000",
-      "endTime": "2026/08/13 19:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "HD SERVER",
-      "SD SERVER",
-      "SPX LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4602547.m3u8?txSecret=d2db3ad7c18fa5fc8cb9b580de2763db&txTime=6A7E0CE0|Referer=https://player.online909.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://hls.live123.fans/live/4602547.m3u8",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.193/hls/RPPPAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "SD SERVER",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/uefa-europa-league-qualfiying/2026-08-13/paf-slz",
-        "logo": "",
-        "title": "SPX LIVE [FHD]",
-        "type": "2"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
     "id": 50105,
     "title": "Philadelphia Union vs Santos Laguna",
     "image": "o",
@@ -4362,11 +3846,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportDigital Fussball"
+      "APPLE TV HD",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "SportDigital Fussball",
+        "title": "APPLE TV HD",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ],
@@ -4384,106 +3873,6 @@
         "logo": "",
         "title": "SPX LIVE [FHD]",
         "type": "2"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50106,
-    "title": "Al-Shabab vs Al-Qadsiah",
-    "image": "o",
-    "cat": "Pro League 🇸🇦",
-    "eventInfo": {
-      "teamA": "Al-Shabab",
-      "teamB": "Al-Qadsiah",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/34313/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/56027/image",
-      "eventName": "Al-Shabab vs Al-Qadsiah",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/13 18:00:00 +0000",
-      "endTime": "2026/08/13 20:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "FOX DEPORTES"
-    ],
-    "formatsNew": [
-      {
-        "title": "FOX DEPORTES",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "FOX DEPORTES",
-        "type": "1"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50107,
-    "title": "Abha vs Al-Hazem",
-    "image": "o",
-    "cat": "Pro League 🇸🇦",
-    "eventInfo": {
-      "teamA": "Abha",
-      "teamB": "Al-Hazem",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/168090/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/168086/image",
-      "eventName": "Abha vs Al-Hazem",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/13 16:15:00 +0000",
-      "endTime": "2026/08/13 18:20:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "HD SERVER",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4599540.m3u8?txSecret=41da09740e65a16430d1d29ead9e6708&txTime=6A7DFFBA|Referer=https://player.online909.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://hls.streamhub.media/hls/thesport-api-3e2aa78a6fe437102a49/master.m3u8",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.190/hls/SSSSAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "SD SERVER",
-        "type": "0"
       }
     ],
     "channel_status": "live"
