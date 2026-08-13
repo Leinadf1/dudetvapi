@@ -353,8 +353,12 @@
     "publish": "1",
     "formats": [
       "WILLOW - FHD",
+      "TAPMAD - FHD",
       "WILLOW - ALT",
       "SKY SPORTS NZ",
+      "FOX CRICKET HD",
+      "TEN SPORTS - AQ",
+      "SKY SPORTS",
       "LOW SERVER",
       "SKY SPORTS [FHD]"
     ],
@@ -364,11 +368,27 @@
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
+        "title": "TAPMAD - FHD",
+        "logo": ""
+      },
+      {
         "title": "WILLOW - ALT",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
         "title": "SKY SPORTS NZ",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
+      },
+      {
+        "title": "FOX CRICKET HD",
+        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "title": "TEN SPORTS - AQ",
+        "logo": ""
+      },
+      {
+        "title": "SKY SPORTS",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
       },
       {
@@ -604,8 +624,8 @@
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://iili.io/CUvi3T7.png",
       "isHot": "0",
-      "startTime": "2026/08/12 20:00:00 +0000",
-      "endTime": "2026/08/13 04:00:00 +0000"
+      "startTime": "2026/08/13 21:30:00 +0000",
+      "endTime": "2026/08/14 03:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -683,44 +703,6 @@
       },
       {
         "title": "SPX LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50055,
-    "title": "Valkyries vs Chicago Sky",
-    "image": "o",
-    "cat": "WNBA",
-    "eventInfo": {
-      "teamA": "Valkyries",
-      "teamB": "Sky",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1041936/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/35546/image",
-      "eventName": "Golden State Valkyries vs Chicago Sky",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/13 02:00:00 +0000",
-      "endTime": "2026/08/13 04:45:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv WNBA",
-      "DUDE Tv Live",
-      "WNBA LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv WNBA",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "WNBA LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1263,8 +1245,8 @@
       "eventName": "Caribbean Premier League",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/12 23:00:00 +0000",
-      "endTime": "2026/08/13 02:45:00 +0000"
+      "startTime": "2026/08/14 00:00:00 +0000",
+      "endTime": "2026/08/14 02:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1725,6 +1707,118 @@
       "isHot": "0",
       "startTime": "2026/08/13 17:00:00 +0000",
       "endTime": "2026/08/13 19:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50105,
+    "title": "Al Diriyah vs Al-Ahli",
+    "image": "o",
+    "cat": "Pro League 🇸🇦",
+    "eventInfo": {
+      "teamA": "Al Diriyah",
+      "teamB": "Al-Ahli",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/853574/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/34469/image",
+      "eventName": "Al Diriyah vs Al-Ahli",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/13 18:00:00 +0000",
+      "endTime": "2026/08/13 20:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportDigital Fussball"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportDigital Fussball",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50106,
+    "title": "Al-Shabab vs Al-Qadsiah",
+    "image": "o",
+    "cat": "Pro League 🇸🇦",
+    "eventInfo": {
+      "teamA": "Al-Shabab",
+      "teamB": "Al-Qadsiah",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/34313/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/56027/image",
+      "eventName": "Al-Shabab vs Al-Qadsiah",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/13 18:00:00 +0000",
+      "endTime": "2026/08/13 20:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50107,
+    "title": "Abha vs Al-Hazem",
+    "image": "o",
+    "cat": "Pro League 🇸🇦",
+    "eventInfo": {
+      "teamA": "Abha",
+      "teamB": "Al-Hazem",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/168090/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/168086/image",
+      "eventName": "Abha vs Al-Hazem",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/13 16:15:00 +0000",
+      "endTime": "2026/08/13 18:20:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50108,
+    "title": "Scotland vs Canada",
+    "image": "o",
+    "cat": "ICC CWC Challenge",
+    "eventInfo": {
+      "teamA": "Scotland",
+      "teamB": "Canada",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/187576/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/189195/image",
+      "eventName": "Scotland vs Canada",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/13 10:00:00 +0000",
+      "endTime": "2026/08/13 17:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",

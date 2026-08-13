@@ -706,8 +706,12 @@
     "publish": "1",
     "formats": [
       "WILLOW - FHD",
+      "TAPMAD - FHD",
       "WILLOW - ALT",
       "SKY SPORTS NZ",
+      "FOX CRICKET HD",
+      "TEN SPORTS - AQ",
+      "SKY SPORTS",
       "LOW SERVER",
       "SKY SPORTS [FHD]"
     ],
@@ -717,11 +721,27 @@
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
+        "title": "TAPMAD - FHD",
+        "logo": ""
+      },
+      {
         "title": "WILLOW - ALT",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
         "title": "SKY SPORTS NZ",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
+      },
+      {
+        "title": "FOX CRICKET HD",
+        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "title": "TEN SPORTS - AQ",
+        "logo": ""
+      },
+      {
+        "title": "SKY SPORTS",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
       },
       {
@@ -742,6 +762,13 @@
         "type": "1"
       },
       {
+        "api": "",
+        "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://www.tapmad.com/&Origin=https://www.tapmad.com",
+        "logo": "",
+        "title": "TAPMAD - FHD",
+        "type": "0"
+      },
+      {
         "api": "4c476ca9f8aefdae6cb0d420f4004a4d:cf88a53fadee1f756c5aba2e45928546",
         "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rxcjfnbuxt/out/v1/241044fb0e6c415192410432c2c825d0/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
@@ -753,6 +780,27 @@
         "link": "https://latestmovies.net/api/live/playlist/590",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
         "title": "SKY SPORTS NZ",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8",
+        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj",
+        "title": "FOX CRICKET HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809396.m3u8",
+        "logo": "",
+        "title": "TEN SPORTS - AQ",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809394.m3u8",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+        "title": "SKY SPORTS",
         "type": "0"
       },
       {
@@ -1213,8 +1261,8 @@
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://iili.io/CUvi3T7.png",
       "isHot": "0",
-      "startTime": "2026/08/12 20:00:00 +0000",
-      "endTime": "2026/08/13 04:00:00 +0000"
+      "startTime": "2026/08/13 21:30:00 +0000",
+      "endTime": "2026/08/14 03:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1376,68 +1424,6 @@
         "api": "",
         "link": "https://embedindia.st/embed/cfl/2026-08-08/ham-bc",
         "title": "SPX LIVE [FHD]",
-        "type": "2"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50055,
-    "title": "Valkyries vs Chicago Sky",
-    "image": "o",
-    "cat": "WNBA",
-    "eventInfo": {
-      "teamA": "Valkyries",
-      "teamB": "Sky",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1041936/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/35546/image",
-      "eventName": "Golden State Valkyries vs Chicago Sky",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/13 02:00:00 +0000",
-      "endTime": "2026/08/13 04:45:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv WNBA",
-      "DUDE Tv Live",
-      "WNBA LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv WNBA",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "WNBA LIVE [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/54562/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv WNBA",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://edgestream1.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/wnba/2026-08-12/chi-gs",
-        "logo": "",
-        "title": "WNBA LIVE [FHD]",
         "type": "2"
       }
     ],
@@ -2927,8 +2913,8 @@
       "eventName": "Caribbean Premier League",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/12 23:00:00 +0000",
-      "endTime": "2026/08/13 02:45:00 +0000"
+      "startTime": "2026/08/14 00:00:00 +0000",
+      "endTime": "2026/08/14 02:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -3680,5 +3666,178 @@
       }
     ],
     "channel_status": "cached"
+  },
+  {
+    "id": 50105,
+    "title": "Al Diriyah vs Al-Ahli",
+    "image": "o",
+    "cat": "Pro League 🇸🇦",
+    "eventInfo": {
+      "teamA": "Al Diriyah",
+      "teamB": "Al-Ahli",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/853574/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/34469/image",
+      "eventName": "Al Diriyah vs Al-Ahli",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/13 18:00:00 +0000",
+      "endTime": "2026/08/13 20:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportDigital Fussball"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportDigital Fussball",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "SportDigital Fussball",
+        "type": "1"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50106,
+    "title": "Al-Shabab vs Al-Qadsiah",
+    "image": "o",
+    "cat": "Pro League 🇸🇦",
+    "eventInfo": {
+      "teamA": "Al-Shabab",
+      "teamB": "Al-Qadsiah",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/34313/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/56027/image",
+      "eventName": "Al-Shabab vs Al-Qadsiah",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/13 18:00:00 +0000",
+      "endTime": "2026/08/13 20:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50107,
+    "title": "Abha vs Al-Hazem",
+    "image": "o",
+    "cat": "Pro League 🇸🇦",
+    "eventInfo": {
+      "teamA": "Abha",
+      "teamB": "Al-Hazem",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/168090/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/168086/image",
+      "eventName": "Abha vs Al-Hazem",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/13 16:15:00 +0000",
+      "endTime": "2026/08/13 18:20:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://live.vivo200.com/live/sd-1-4565099.m3u8?txSecret=e485281d95472175d206f8ccdb394da0&txTime=6A788C9E|Referer=https://player.online909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://rdcstream.life/live/espn/index.m3u8?|Referer=https://bolodechocolate.fit/",
+        "logo": "",
+        "title": "ESPN HD [BR]",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://live2.jxa76.com/live/sd-6MweaGuWFJdFrcopYb_540p.m3u8?txSecret=f721bdb4c813230403f22d0eb0530221&txTime=19FE7E5FF32",
+        "logo": "",
+        "title": "SportKlub HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.191/hls/HRRRA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "LOW QUALITY",
+        "type": "0"
+      }
+    ],
+    "channel_status": "cached"
+  },
+  {
+    "id": 50108,
+    "title": "Scotland vs Canada",
+    "image": "o",
+    "cat": "ICC CWC Challenge",
+    "eventInfo": {
+      "teamA": "Scotland",
+      "teamB": "Canada",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/187576/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/189195/image",
+      "eventName": "Scotland vs Canada",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/13 10:00:00 +0000",
+      "endTime": "2026/08/13 17:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
   }
 ]
