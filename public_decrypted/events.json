@@ -660,6 +660,39 @@
     ]
   },
   {
+    "id": 50027,
+    "title": "Connecticut Sun vs Atlanta Dream",
+    "image": "o",
+    "cat": "WNBA",
+    "eventInfo": {
+      "teamA": "Sun",
+      "teamB": "Dream",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/35547/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/35545/image",
+      "eventName": "Connecticut Sun vs Atlanta Dream",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/13 23:00:00 +0000",
+      "endTime": "2026/08/14 01:45:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "WNBA LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "WNBA LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50054,
     "title": "CFL",
     "image": "o",
@@ -688,6 +721,72 @@
       },
       {
         "title": "SPX LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50055,
+    "title": "Liberty vs Sparks",
+    "image": "o",
+    "cat": "WNBA",
+    "eventInfo": {
+      "teamA": "Liberty",
+      "teamB": "Sparks",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3446/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3447/image",
+      "eventName": "New York Liberty vs Los Angeles Sparks",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/14 00:00:00 +0000",
+      "endTime": "2026/08/14 02:45:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "WNBA LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "WNBA LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50056,
+    "title": "Aces vs Washington Mystics",
+    "image": "o",
+    "cat": "WNBA",
+    "eventInfo": {
+      "teamA": "Aces",
+      "teamB": "Mystics",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/35550/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3454/image",
+      "eventName": "Las Vegas Aces vs Washington Mystics",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/14 02:00:00 +0000",
+      "endTime": "2026/08/14 04:45:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "WNBA LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "WNBA LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1334,9 +1433,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "beIN Sports Xtra",
       "SD SERVER"
     ],
     "formatsNew": [
+      {
+        "title": "beIN Sports Xtra",
+        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
+      },
       {
         "title": "SD SERVER",
         "logo": ""
@@ -1657,11 +1761,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "Premier Sports"
+      "HD SERVER",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
-        "title": "Premier Sports",
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1685,10 +1794,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv Live",
       "HD SERVER",
       "SD SERVER"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
       {
         "title": "HD SERVER",
         "logo": ""
@@ -1718,9 +1832,24 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv Live",
+      "HD SERVER",
+      "SD SERVER",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
       {
         "title": "SPX LIVE [FHD]",
         "logo": ""
@@ -1746,9 +1875,24 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv Live",
+      "HD SERVER",
+      "SD SERVER",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
       {
         "title": "SPX LIVE [FHD]",
         "logo": ""
@@ -1802,11 +1946,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "FOX DEPORTES"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "FOX DEPORTES",
         "logo": ""
       }
     ]
@@ -1831,11 +1975,16 @@
     "publish": "1",
     "formats": [
       "DUDE Tv Live",
+      "HD SERVER",
       "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
         "logo": ""
       },
       {

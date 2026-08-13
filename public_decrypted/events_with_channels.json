@@ -1351,6 +1351,56 @@
     "channel_status": "live"
   },
   {
+    "id": 50027,
+    "title": "Connecticut Sun vs Atlanta Dream",
+    "image": "o",
+    "cat": "WNBA",
+    "eventInfo": {
+      "teamA": "Sun",
+      "teamB": "Dream",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/35547/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/35545/image",
+      "eventName": "Connecticut Sun vs Atlanta Dream",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/13 23:00:00 +0000",
+      "endTime": "2026/08/14 01:45:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "WNBA LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "WNBA LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://edgestream3.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/wnba/2026-08-13/atl-con",
+        "logo": "",
+        "title": "WNBA LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
     "id": 50054,
     "title": "CFL",
     "image": "o",
@@ -1396,6 +1446,127 @@
         "logo": "",
         "title": "SPX LIVE [FHD]",
         "type": "2"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50055,
+    "title": "Liberty vs Sparks",
+    "image": "o",
+    "cat": "WNBA",
+    "eventInfo": {
+      "teamA": "Liberty",
+      "teamB": "Sparks",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3446/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3447/image",
+      "eventName": "New York Liberty vs Los Angeles Sparks",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/14 00:00:00 +0000",
+      "endTime": "2026/08/14 02:45:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "WNBA LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "WNBA LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://edgestream2.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/wnba/2026-08-13/la-ny",
+        "logo": "",
+        "title": "WNBA LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50056,
+    "title": "Aces vs Washington Mystics",
+    "image": "o",
+    "cat": "WNBA",
+    "eventInfo": {
+      "teamA": "Aces",
+      "teamB": "Mystics",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/35550/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3454/image",
+      "eventName": "Las Vegas Aces vs Washington Mystics",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/14 02:00:00 +0000",
+      "endTime": "2026/08/14 04:45:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "WNBA LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "WNBA LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://edgestream3.pro/hls/pllmazjkdzajh72.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/wnba/2026-08-13/wsh-lv",
+        "logo": "",
+        "title": "WNBA LIVE [FHD]",
+        "type": "2"
+      },
+      {
+        "api": "YTdlZDhkNGExZmEyZWI0NzFhNmJlNTVmZTJkMmQyNDg6MDE0NWJlYzY4YmM0MWE4YTBiOTUzM3E0NG80NGQzOWM=",
+        "link": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9ursje3pdu/out/v1/b794975bb9304d08b362b47ed428f4f1/cenc.mpd",
+        "logo": "",
+        "title": "WILLOW FHD [Ad-Free]",
+        "type": "1"
+      },
+      {
+        "api": "YTdlZDhkNGExZmEyZWI0NzFhNmJlNTVmZTJkMmQyNDg6MDE0NWJlYzY4YmM0MWE4YTBiOTUzM3E0NG80NGQzOWM=",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9ursje3pdu/out/v1/b794975bb9304d08b362b47ed428f4f1/cenc.mpd",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "title": "WILLOW FHD",
+        "type": "1"
+      },
+      {
+        "api": "MDg0YmVlNzA3NDk3OTk2MTU4ZTRlYzZkOWNhZDQwZTQ6MmViOTgwNzFiZjhjMDA2ZWY4YjVhNXU4Nz41MWQ4NDM=",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/cfv0fqo8qr/out/v1/8e02e7de7e9245c4b54f304c1159878d/cenc-sd.mpd",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "title": "WILLOW SD",
+        "type": "1"
       }
     ],
     "channel_status": "live"
@@ -3097,15 +3268,27 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "beIN Sports Xtra",
       "SD SERVER"
     ],
     "formatsNew": [
+      {
+        "title": "beIN Sports Xtra",
+        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
+      },
       {
         "title": "SD SERVER",
         "logo": ""
       }
     ],
     "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8",
+        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
+        "title": "beIN Sports Xtra",
+        "type": "0"
+      },
       {
         "api": "",
         "link": "http://193.47.62.190/hls/EEEE.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
@@ -3573,11 +3756,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "Premier Sports"
+      "HD SERVER",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
-        "title": "Premier Sports",
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ],
@@ -3618,10 +3806,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv Live",
       "HD SERVER",
       "SD SERVER"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
       {
         "title": "HD SERVER",
         "logo": ""
@@ -3632,6 +3825,13 @@
       }
     ],
     "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://live.vivo200.com/live/sd-1-4602586.m3u8?txSecret=f530fd67c6dfe46ab64f5c987b9f03a3&txTime=6A7E0D4B|Referer=https://player.online909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
       {
         "api": "",
         "link": "https://hls.live123.fans/live/4602586.m3u8",
@@ -3668,9 +3868,24 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv Live",
+      "HD SERVER",
+      "SD SERVER",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
       {
         "title": "SPX LIVE [FHD]",
         "logo": ""
@@ -3699,7 +3914,7 @@
         "type": "2"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
     "id": 50104,
@@ -3720,9 +3935,24 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv Live",
+      "HD SERVER",
+      "SD SERVER",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
       {
         "title": "SPX LIVE [FHD]",
         "logo": ""
@@ -3731,13 +3961,34 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "http://193.47.62.40/hls/GGGGF.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "https://live.vivo200.com/live/sd-1-4602547.m3u8?txSecret=d2db3ad7c18fa5fc8cb9b580de2763db&txTime=6A7E0CE0|Referer=https://player.online909.com/",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://hls.live123.fans/live/4602547.m3u8",
+        "logo": "",
+        "title": "HD SERVER",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.193/hls/RPPPAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "SD SERVER",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/uefa-europa-league-qualfiying/2026-08-13/paf-slz",
+        "logo": "",
+        "title": "SPX LIVE [FHD]",
+        "type": "2"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50105,
@@ -3796,21 +4047,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "FOX DEPORTES"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "FOX DEPORTES",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
-        "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
+        "title": "FOX DEPORTES",
+        "type": "1"
       }
     ],
     "channel_status": "live"
@@ -3835,11 +4086,16 @@
     "publish": "1",
     "formats": [
       "DUDE Tv Live",
+      "HD SERVER",
       "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
         "logo": ""
       },
       {
@@ -3853,6 +4109,13 @@
         "link": "https://live.vivo200.com/live/sd-1-4599540.m3u8?txSecret=41da09740e65a16430d1d29ead9e6708&txTime=6A7DFFBA|Referer=https://player.online909.com/",
         "logo": "",
         "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://hls.streamhub.media/hls/thesport-api-3e2aa78a6fe437102a49/master.m3u8",
+        "logo": "",
+        "title": "HD SERVER",
         "type": "0"
       },
       {
