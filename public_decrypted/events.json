@@ -586,26 +586,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TSN SPORTS",
       "DUDE Tv Live",
-      "NFL NETWORK",
-      "SPX LIVE [FHD]"
+      "NFL LIVE [FHD]"
     ],
     "formatsNew": [
-      {
-        "title": "TSN SPORTS",
-        "logo": ""
-      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
       },
       {
-        "title": "NFL NETWORK",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
+        "title": "NFL LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -689,16 +679,11 @@
     "publish": "1",
     "formats": [
       "TSN SPORTS",
-      "TSN3 SPORTS",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "TSN SPORTS",
-        "logo": ""
-      },
-      {
-        "title": "TSN3 SPORTS",
         "logo": ""
       },
       {
@@ -813,11 +798,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "NFL LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NFL LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -841,11 +831,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "NFL LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NFL LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -870,11 +865,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "NFL LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NFL LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -898,11 +898,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "NFL LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NFL LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -926,11 +931,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "NFL LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NFL LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -954,10 +964,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -987,10 +1002,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1003,7 +1023,7 @@
   },
   {
     "id": 50077,
-    "title": "Athletics vs Tampa Bay Rays",
+    "title": "Yankees vs Seattle Mariners",
     "image": "o",
     "cat": "MLB",
     "eventInfo": {
@@ -1021,9 +1041,14 @@
     "publish": "1",
     "formats": [
       "DUDE Tv Live",
+      "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1309,11 +1334,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "SD SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1515,11 +1540,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1543,11 +1568,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1571,11 +1596,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "Premier Sports"
+      "Premier Sports",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "Premier Sports",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1655,11 +1685,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "Premier Sports"
+      "HD SERVER",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
-        "title": "Premier Sports",
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1683,11 +1718,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1711,11 +1746,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1795,11 +1830,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
