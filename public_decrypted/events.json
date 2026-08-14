@@ -352,25 +352,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "WILLOW - FHD",
-      "WILLOW - ALT",
       "TAPMAD - FHD",
       "SKY SPORTS NZ",
       "FOX CRICKET HD",
       "TEN SPORTS - AQ",
       "SKY SPORTS",
       "LOW SERVER",
-      "SKY SPORTS [FHD]"
+      "SKY SPORTS [FHD]",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
-      {
-        "title": "WILLOW - FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
       {
         "title": "TAPMAD - FHD",
         "logo": ""
@@ -398,6 +389,10 @@
       {
         "title": "SKY SPORTS [FHD]",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
+      },
+      {
+        "title": "SPX LIVE [FHD]",
+        "logo": ""
       }
     ]
   },
@@ -1157,10 +1152,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1370,6 +1370,72 @@
     ]
   },
   {
+    "id": 50082,
+    "title": "Atlanta Braves vs Diamondbacks",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Braves",
+      "teamB": "Diamondbacks",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3656/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3640/image",
+      "eventName": "Atlanta Braves vs Arizona Diamondbacks",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/14 23:15:00 +0000",
+      "endTime": "2026/08/15 02:15:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "MLB LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "MLB LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50083,
+    "title": "Toronto Blue Jays vs Yankees",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Blue Jays",
+      "teamB": "Yankees",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3642/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3654/image",
+      "eventName": "Toronto Blue Jays vs New York Yankees",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/14 23:15:00 +0000",
+      "endTime": "2026/08/15 02:15:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "MLB LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "MLB LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50084,
     "title": "Houston Astros vs Mariners",
     "image": "o",
@@ -1388,9 +1454,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
       {
         "title": "MLB LIVE [FHD]",
         "logo": ""
@@ -1469,11 +1540,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH"
+      "beIN ENGLISH",
+      "Sport TV5 HD",
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH",
+        "logo": ""
+      },
+      {
+        "title": "Sport TV5 HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1497,11 +1583,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportDigital Fussball"
+      "SportDigital Fussball",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "SportDigital Fussball",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1525,11 +1616,31 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "ITALIA 1 FHD",
+      "ITALIA 1 HD",
+      "Sport TV2 HD",
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "ITALIA 1 FHD",
+        "logo": ""
+      },
+      {
+        "title": "ITALIA 1 HD",
+        "logo": ""
+      },
+      {
+        "title": "Sport TV2 HD",
+        "logo": ""
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1554,7 +1665,9 @@
     "publish": "1",
     "formats": [
       "Premier Sports",
-      "CBS NETWORK"
+      "CBS NETWORK",
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
@@ -1563,6 +1676,14 @@
       },
       {
         "title": "CBS NETWORK",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1586,11 +1707,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "Sport TV HD",
+      "beiN SPORTS HD",
+      "HD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "Sport TV HD",
+        "logo": ""
+      },
+      {
+        "title": "beiN SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
         "logo": ""
       }
     ]
@@ -1614,16 +1750,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "Laliga TV FHD",
-      "Laliga Hypermotion ES"
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "Laliga TV FHD",
+        "title": "DUDE Tv Live",
         "logo": ""
       },
       {
-        "title": "Laliga Hypermotion ES",
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1647,11 +1783,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "FOX DEPORTES"
+      "FOX DEPORTES",
+      "DUDE Tv Live",
+      "Sport TV HD",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "FOX DEPORTES",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "Sport TV HD",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1675,11 +1826,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1741,59 +1897,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
         "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50102,
-    "title": "Parma vs Catania",
-    "image": "o",
-    "cat": "Coppa Italia 🇮🇹",
-    "eventInfo": {
-      "teamA": "Parma",
-      "teamB": "Catania",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2690/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2725/image",
-      "eventName": "Parma vs Catania",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/14 16:00:00 +0000",
-      "endTime": "2026/08/14 18:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "CBS NETWORK",
-      "D Sports FHD",
-      "HD SERVER",
-      "Sport TV HD",
-      "SPORT TV HD"
-    ],
-    "formatsNew": [
-      {
-        "title": "CBS NETWORK",
-        "logo": ""
       },
       {
-        "title": "D Sports FHD",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "Sport TV HD",
-        "logo": ""
-      },
-      {
-        "title": "SPORT TV HD",
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1832,148 +1945,6 @@
     ]
   },
   {
-    "id": 50104,
-    "title": "Fremantle Dockers vs Adelaide Crows",
-    "image": "o",
-    "cat": "AFL",
-    "eventInfo": {
-      "teamA": "Fremantle",
-      "teamB": "Adelaide Crows",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4452/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4442/image",
-      "eventName": "Fremantle Dockers vs Adelaide Crows",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/14 10:10:00 +0000",
-      "endTime": "2026/08/14 12:40:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "TNT Sports FHD",
-      "FOX SPORTS",
-      "AFL LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "TNT Sports FHD",
-        "logo": ""
-      },
-      {
-        "title": "FOX SPORTS",
-        "logo": ""
-      },
-      {
-        "title": "AFL LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50105,
-    "title": "Manly Sea Eagles vs Dolphins",
-    "image": "o",
-    "cat": "NRL Rugby",
-    "eventInfo": {
-      "teamA": "Manly",
-      "teamB": "Dolphins",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4259/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/465010/image",
-      "eventName": "Manly Sea Eagles vs Dolphins",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/14 08:00:00 +0000",
-      "endTime": "2026/08/14 10:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "HD SERVER",
-      "Rugby LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "Rugby LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50106,
-    "title": "Canterbury Bulldogs vs South Sydney",
-    "image": "o",
-    "cat": "NRL Rugby",
-    "eventInfo": {
-      "teamA": "Canterbury",
-      "teamB": "South Sydney",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4253/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4263/image",
-      "eventName": "Canterbury Bulldogs vs South Sydney",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/14 10:00:00 +0000",
-      "endTime": "2026/08/14 12:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "HD SERVER",
-      "Rugby LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "Rugby LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50107,
-    "title": "Marseille vs Atlético Madrid",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Marseille",
-      "teamB": "Atlético Madrid",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1641/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2836/image",
-      "eventName": "Olympique de Marseille vs Atlético Madrid",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/14 15:30:00 +0000",
-      "endTime": "2026/08/14 17:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "HD SERVER",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50108,
     "title": "Coventry City vs AS Monaco",
     "image": "o",
@@ -1992,11 +1963,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -2020,11 +1991,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
