@@ -3225,13 +3225,20 @@
     "publish": "1",
     "formats": [
       "D Sports FHD",
+      "D Sports FHD 2",
       "TUDN MEXICO",
       "CANAL5 FHD",
-      "TVE La 1 FHD"
+      "TVE La 1 FHD",
+      "ITALIA 1",
+      "SPORT 1 CZ"
     ],
     "formatsNew": [
       {
         "title": "D Sports FHD",
+        "logo": ""
+      },
+      {
+        "title": "D Sports FHD 2",
         "logo": ""
       },
       {
@@ -3244,6 +3251,14 @@
       },
       {
         "title": "TVE La 1 FHD",
+        "logo": ""
+      },
+      {
+        "title": "ITALIA 1",
+        "logo": ""
+      },
+      {
+        "title": "SPORT 1 CZ",
         "logo": ""
       }
     ]

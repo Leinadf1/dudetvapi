@@ -3133,10 +3133,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TNT Sports FHD",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "TNT Sports FHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -3148,28 +3153,28 @@
     ],
     "decoded_channels": [
       {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/54604/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv MLB",
-        "type": "0"
+        "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
+        "title": "TNT Sports FHD",
+        "type": "1"
       },
       {
         "api": "",
-        "link": "https://edgestream1.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream2.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-08-13/tex-laa",
+        "link": "https://embedindia.st/embed/mlb/2026-08-14/ari-atl",
         "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50083,
@@ -3383,9 +3388,11 @@
     "publish": "1",
     "formats": [
       "beIN ENGLISH",
-      "Sport TV5 HD",
       "DUDE Tv Live",
-      "LOW SERVER"
+      "Sport TV5 HD",
+      "ESPN BR HD",
+      "LOW SERVER",
+      "CBS SPORTS [FHD]"
     ],
     "formatsNew": [
       {
@@ -3393,15 +3400,23 @@
         "logo": ""
       },
       {
-        "title": "Sport TV5 HD",
-        "logo": ""
-      },
-      {
         "title": "DUDE Tv Live",
         "logo": ""
       },
       {
+        "title": "Sport TV5 HD",
+        "logo": ""
+      },
+      {
+        "title": "ESPN BR HD",
+        "logo": ""
+      },
+      {
         "title": "LOW SERVER",
+        "logo": ""
+      },
+      {
+        "title": "CBS SPORTS [FHD]",
         "logo": ""
       }
     ],
@@ -3440,6 +3455,13 @@
         "logo": "",
         "title": "LOW SERVER",
         "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/efl-championship/2026-08-14/wol-blk",
+        "logo": "",
+        "title": "CBS SPORTS [FHD]",
+        "type": "2"
       }
     ],
     "channel_status": "live"
@@ -3464,7 +3486,9 @@
     "publish": "1",
     "formats": [
       "SportDigital Fussball",
-      "LOW SERVER"
+      "D Sports FHD",
+      "LOW SERVER",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
@@ -3472,7 +3496,15 @@
         "logo": ""
       },
       {
+        "title": "D Sports FHD",
+        "logo": ""
+      },
+      {
         "title": "LOW SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ],
@@ -3485,11 +3517,25 @@
         "type": "1"
       },
       {
+        "api": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "D Sports FHD",
+        "type": "1"
+      },
+      {
         "api": "",
         "link": "http://193.47.62.194/hls/siiiiaaaaAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "LOW SERVER",
         "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/portuguese-liga/2026-08-14/scp-vsc",
+        "logo": "",
+        "title": "SPX LIVE [FHD]",
+        "type": "2"
       }
     ],
     "channel_status": "live"
@@ -3514,6 +3560,8 @@
     "publish": "1",
     "formats": [
       "ITALIA 1 FHD",
+      "SPORT 1 CZ",
+      "D Sports FHD",
       "ITALIA 1 HD",
       "Sport TV2 HD",
       "DUDE Tv Live",
@@ -3522,6 +3570,14 @@
     "formatsNew": [
       {
         "title": "ITALIA 1 FHD",
+        "logo": ""
+      },
+      {
+        "title": "SPORT 1 CZ",
+        "logo": ""
+      },
+      {
+        "title": "D Sports FHD",
         "logo": ""
       },
       {
@@ -3547,6 +3603,20 @@
         "link": "https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd",
         "logo": "",
         "title": "ITALIA 1 FHD",
+        "type": "1"
+      },
+      {
+        "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+        "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+        "logo": "",
+        "title": "SPORT 1 CZ",
+        "type": "1"
+      },
+      {
+        "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "D Sports FHD",
         "type": "1"
       },
       {

@@ -1388,10 +1388,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TNT Sports FHD",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "TNT Sports FHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1541,9 +1546,11 @@
     "publish": "1",
     "formats": [
       "beIN ENGLISH",
-      "Sport TV5 HD",
       "DUDE Tv Live",
-      "LOW SERVER"
+      "Sport TV5 HD",
+      "ESPN BR HD",
+      "LOW SERVER",
+      "CBS SPORTS [FHD]"
     ],
     "formatsNew": [
       {
@@ -1551,15 +1558,23 @@
         "logo": ""
       },
       {
-        "title": "Sport TV5 HD",
-        "logo": ""
-      },
-      {
         "title": "DUDE Tv Live",
         "logo": ""
       },
       {
+        "title": "Sport TV5 HD",
+        "logo": ""
+      },
+      {
+        "title": "ESPN BR HD",
+        "logo": ""
+      },
+      {
         "title": "LOW SERVER",
+        "logo": ""
+      },
+      {
+        "title": "CBS SPORTS [FHD]",
         "logo": ""
       }
     ]
@@ -1584,7 +1599,9 @@
     "publish": "1",
     "formats": [
       "SportDigital Fussball",
-      "LOW SERVER"
+      "D Sports FHD",
+      "LOW SERVER",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
@@ -1592,7 +1609,15 @@
         "logo": ""
       },
       {
+        "title": "D Sports FHD",
+        "logo": ""
+      },
+      {
         "title": "LOW SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1617,6 +1642,8 @@
     "publish": "1",
     "formats": [
       "ITALIA 1 FHD",
+      "SPORT 1 CZ",
+      "D Sports FHD",
       "ITALIA 1 HD",
       "Sport TV2 HD",
       "DUDE Tv Live",
@@ -1625,6 +1652,14 @@
     "formatsNew": [
       {
         "title": "ITALIA 1 FHD",
+        "logo": ""
+      },
+      {
+        "title": "SPORT 1 CZ",
+        "logo": ""
+      },
+      {
+        "title": "D Sports FHD",
         "logo": ""
       },
       {
