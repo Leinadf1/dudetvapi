@@ -1,30 +1,23 @@
 [
   {
-    "api": "",
-    "link": "https://live.vivo200.com/live/sd-1-4602547.m3u8?txSecret=d2db3ad7c18fa5fc8cb9b580de2763db&txTime=6A7E0CE0|Referer=https://player.online909.com/",
+    "api": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "logo": "",
-    "title": "DUDE Tv Live",
-    "type": "0"
+    "title": "TNT Sports FHD",
+    "type": "1"
+  },
+  {
+    "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "FOX SPORTS",
+    "type": "1"
   },
   {
     "api": "",
-    "link": "https://hls.live123.fans/live/4602547.m3u8",
+    "link": "https://embedindia.st/embed/afl/2026-08-14/fre-adel",
     "logo": "",
-    "title": "HD SERVER",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "http://193.47.62.193/hls/RPPPAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-    "logo": "",
-    "title": "SD SERVER",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://embedindia.st/embed/uefa-europa-league-qualfiying/2026-08-13/paf-slz",
-    "logo": "",
-    "title": "SPX LIVE [FHD]",
+    "title": "AFL LIVE [FHD]",
     "type": "2"
   }
 ]

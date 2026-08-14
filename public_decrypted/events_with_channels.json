@@ -3797,5 +3797,167 @@
       }
     ],
     "channel_status": "live"
+  },
+  {
+    "id": 50104,
+    "title": "Fremantle Dockers vs Adelaide Crows",
+    "image": "o",
+    "cat": "AFL",
+    "eventInfo": {
+      "teamA": "Fremantle",
+      "teamB": "Adelaide Crows",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4452/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4442/image",
+      "eventName": "Fremantle Dockers vs Adelaide Crows",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/14 10:10:00 +0000",
+      "endTime": "2026/08/14 12:40:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "TNT Sports FHD",
+      "FOX SPORTS",
+      "AFL LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "TNT Sports FHD",
+        "logo": ""
+      },
+      {
+        "title": "FOX SPORTS",
+        "logo": ""
+      },
+      {
+        "title": "AFL LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "TNT Sports FHD",
+        "type": "1"
+      },
+      {
+        "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "FOX SPORTS",
+        "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/afl/2026-08-14/fre-adel",
+        "logo": "",
+        "title": "AFL LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50105,
+    "title": "Manly Sea Eagles vs Dolphins",
+    "image": "o",
+    "cat": "NRL Rugby",
+    "eventInfo": {
+      "teamA": "Manly",
+      "teamB": "Dolphins",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4259/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/465010/image",
+      "eventName": "Manly Sea Eagles vs Dolphins",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/14 08:00:00 +0000",
+      "endTime": "2026/08/14 10:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "HD SERVER",
+      "Rugby LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "Rugby LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://tmaxapp.site/8wirwjs76erftg/skysport2nzf5az.m3u8",
+        "logo": "",
+        "title": "HD SERVER",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/nrl/2026-08-14/man-dol",
+        "logo": "",
+        "title": "Rugby LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50106,
+    "title": "Canterbury Bulldogs vs South Sydney",
+    "image": "o",
+    "cat": "NRL Rugby",
+    "eventInfo": {
+      "teamA": "Canterbury",
+      "teamB": "South Sydney",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4253/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4263/image",
+      "eventName": "Canterbury Bulldogs vs South Sydney",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/14 10:00:00 +0000",
+      "endTime": "2026/08/14 12:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "HD SERVER",
+      "Rugby LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "Rugby LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://tmaxapp.site/8wirwjs76erftg/skysport2nzf5az.m3u8",
+        "logo": "",
+        "title": "HD SERVER",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/nrl/2026-08-14/can-sou",
+        "logo": "",
+        "title": "Rugby LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "live"
   }
 ]
