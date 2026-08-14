@@ -1809,7 +1809,10 @@
     "publish": "1",
     "formats": [
       "CBS NETWORK",
-      "D Sports FHD"
+      "D Sports FHD",
+      "HD SERVER",
+      "Sport TV HD",
+      "SPORT TV HD"
     ],
     "formatsNew": [
       {
@@ -1818,6 +1821,18 @@
       },
       {
         "title": "D Sports FHD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "Sport TV HD",
+        "logo": ""
+      },
+      {
+        "title": "SPORT TV HD",
         "logo": ""
       }
     ]
@@ -1841,11 +1856,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "D Sports FHD"
+      "ITALIA 1 FHD",
+      "HD SERVER"
     ],
     "formatsNew": [
       {
-        "title": "D Sports FHD",
+        "title": "ITALIA 1 FHD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
         "logo": ""
       }
     ]
