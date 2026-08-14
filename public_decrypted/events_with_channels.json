@@ -698,7 +698,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/187744/image",
       "eventName": "Australia vs Bangladesh",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/08/15 00:30:00 +0000",
       "endTime": "2026/08/15 08:00:00 +0000"
     },
@@ -2751,68 +2751,6 @@
         "link": "https://embedindia.st/embed/nfl/2026-08-13/ten-sf",
         "logo": "",
         "title": "NFL LIVE [FHD]",
-        "type": "2"
-      }
-    ],
-    "channel_status": "cached"
-  },
-  {
-    "id": 50075,
-    "title": "Chicago Cubs vs Cardinals",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Cubs",
-      "teamB": "Cardinals",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3627/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3632/image",
-      "eventName": "Chicago Cubs vs St. Louis Cardinals",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/14 18:20:00 +0000",
-      "endTime": "2026/08/14 21:20:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv MLB",
-      "DUDE Tv Live",
-      "MLB LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "MLB LIVE [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/54572/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv MLB",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://edgestream1.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-08-13/cle-det",
-        "logo": "",
-        "title": "MLB LIVE [FHD]",
         "type": "2"
       }
     ],
