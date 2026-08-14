@@ -3997,5 +3997,81 @@
       }
     ],
     "channel_status": "live"
+  },
+  {
+    "id": 50108,
+    "title": "Coventry City vs AS Monaco",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "Coventry City",
+      "teamB": "AS Monaco",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/11/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1653/image",
+      "eventName": "Coventry City vs AS Monaco",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/14 18:30:00 +0000",
+      "endTime": "2026/08/14 20:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      }
+    ],
+    "channel_status": "cached"
+  },
+  {
+    "id": 50109,
+    "title": "Atalanta vs Athletic Club",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "Atalanta",
+      "teamB": "Athletic Club",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2686/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2825/image",
+      "eventName": "Atalanta vs Athletic Club",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/14 18:45:00 +0000",
+      "endTime": "2026/08/14 20:50:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
   }
 ]
