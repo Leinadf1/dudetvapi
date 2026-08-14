@@ -988,7 +988,9 @@
     "publish": "1",
     "formats": [
       "WILLOW - FHD",
+      "SKY CRICKET",
       "WILLOW - ALT",
+      "SonyLiv (Asia)",
       "LOW SERVER"
     ],
     "formatsNew": [
@@ -997,8 +999,16 @@
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
+        "title": "SKY CRICKET",
+        "logo": ""
+      },
+      {
         "title": "WILLOW - ALT",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "SonyLiv (Asia)",
+        "logo": ""
       },
       {
         "title": "LOW SERVER",
