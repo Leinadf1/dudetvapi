@@ -426,6 +426,7 @@
       "WILLOW - AdFree",
       "WILLOW - ALT",
       "WILLOW HD",
+      "DUDE Tv Live",
       "SD SERVER",
       "SonyLiv [ENG]",
       "SonyLiv [HIN]",
@@ -453,6 +454,10 @@
       {
         "title": "WILLOW HD",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
       },
       {
         "title": "SD SERVER",
@@ -757,11 +762,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "NFL LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NFL LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1063,15 +1073,10 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv NFL",
       "DUDE Tv Live",
       "NFL LIVE [FHD]"
     ],
     "formatsNew": [
-      {
-        "title": "DUDE Tv NFL",
-        "logo": ""
-      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2104,7 +2109,8 @@
     "formats": [
       "beIN ENGLISH FHD",
       "CBS NETWORK",
-      "ESPN BR HD"
+      "ESPN BR HD",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
@@ -2117,6 +2123,10 @@
       },
       {
         "title": "ESPN BR HD",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -2140,11 +2150,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH FHD"
+      "beIN ENGLISH FHD",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -2168,11 +2183,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -2196,11 +2211,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -2224,11 +2239,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -2252,11 +2267,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -2280,11 +2295,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -2308,11 +2323,31 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "CBS NETWORK"
+      "CBS NETWORK",
+      "DUDE Tv Live",
+      "HD SERVER",
+      "SD SERVER",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "CBS NETWORK",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -2336,11 +2371,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH FHD"
+      "beIN ENGLISH FHD",
+      "DUDE Tv Live",
+      "HD SERVER",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -2742,7 +2792,8 @@
       "MU TV HD",
       "MU TV",
       "SportyNET HD",
-      "Sport TV2 HD"
+      "Sport TV2 HD",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
@@ -2763,6 +2814,10 @@
       },
       {
         "title": "Sport TV2 HD",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -2787,7 +2842,8 @@
     "publish": "1",
     "formats": [
       "beIN ENGLISH",
-      "D Sports FHD"
+      "D Sports FHD",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
@@ -2796,6 +2852,10 @@
       },
       {
         "title": "D Sports FHD",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -2829,6 +2889,184 @@
       },
       {
         "title": "ESPN BR HD",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50131,
+    "title": "Chelsea vs Real Sociedad",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "Chelsea",
+      "teamB": "Real Sociedad",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/38/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2824/image",
+      "eventName": "Chelsea vs Real Sociedad",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/15 13:00:00 +0000",
+      "endTime": "2026/08/15 15:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "HD SERVER",
+      "SPX LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50132,
+    "title": "Singapore vs Thailand",
+    "image": "o",
+    "cat": "ASEAN Championship",
+    "eventInfo": {
+      "teamA": "Singapore",
+      "teamB": "Thailand",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4738/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4730/image",
+      "eventName": "Singapore vs Thailand",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/15 13:00:00 +0000",
+      "endTime": "2026/08/15 15:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50133,
+    "title": "Borussia M'gladbach vs Aston Villa",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "Borussia M'gladbach",
+      "teamB": "Aston Villa",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2527/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/40/image",
+      "eventName": "Borussia M'gladbach vs Aston Villa",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/15 13:30:00 +0000",
+      "endTime": "2026/08/15 15:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50134,
+    "title": "Brentford vs Eintracht Frankfurt",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "Brentford",
+      "teamB": "Eintracht Frankfurt",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/50/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2674/image",
+      "eventName": "Brentford vs Eintracht Frankfurt",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/15 14:00:00 +0000",
+      "endTime": "2026/08/15 16:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "ESPN4 BR HD"
+    ],
+    "formatsNew": [
+      {
+        "title": "ESPN4 BR HD",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50135,
+    "title": "Brighton vs Bologna",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "Brighton & Hove Albion",
+      "teamB": "Bologna",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/30/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2685/image",
+      "eventName": "Brighton & Hove Albion vs Bologna",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/15 14:00:00 +0000",
+      "endTime": "2026/08/15 16:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "Sport TV4 HD"
+    ],
+    "formatsNew": [
+      {
+        "title": "Sport TV4 HD",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50136,
+    "title": "Everton vs Lille",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "Everton",
+      "teamB": "Lille",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/48/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1643/image",
+      "eventName": "Everton vs Lille",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/15 14:00:00 +0000",
+      "endTime": "2026/08/15 16:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
