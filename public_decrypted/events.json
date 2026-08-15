@@ -1080,49 +1080,29 @@
   },
   {
     "id": 50060,
-    "title": "Ireland vs Afghanistan",
+    "title": "England vs Pakistan",
     "image": "o",
     "cat": "Cricket",
     "eventInfo": {
-      "teamA": "IRE",
-      "teamB": "AFG",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187766/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187575/image",
-      "eventName": "Ireland vs Afghanistan",
+      "teamA": "ENG",
+      "teamB": "PAK",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/187757/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/187754/image",
+      "eventName": "England vs Pakistan",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/15 09:45:00 +0000",
-      "endTime": "2026/08/15 17:15:00 +0000"
+      "startTime": "2026/08/19 10:00:00 +0000",
+      "endTime": "2026/08/19 17:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "WILLOW - FHD",
-      "WILLOW - ALT",
-      "HD SERVER",
-      "LOW SERVER",
-      "FANCODE - IN"
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
-        "title": "WILLOW - FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "HD SERVER",
+        "title": "DUDE Tv Live",
         "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      },
-      {
-        "title": "FANCODE - IN",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       }
     ]
   },
@@ -1527,10 +1507,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2089,11 +2074,16 @@
     "publish": "1",
     "formats": [
       "Premier Sports",
+      "ESPN DEPORTES HD",
       "DUDE Tv Live"
     ],
     "formatsNew": [
       {
         "title": "Premier Sports",
+        "logo": ""
+      },
+      {
+        "title": "ESPN DEPORTES HD",
         "logo": ""
       },
       {
@@ -2228,31 +2218,26 @@
     "id": 50098,
     "title": "Konyaspor vs Rizespor",
     "image": "o",
-    "cat": "Super Lig",
+    "cat": "CFL",
     "eventInfo": {
-      "teamA": "Konyaspor",
-      "teamB": "Rizespor",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3085/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3064/image",
-      "eventName": "Konyaspor vs Çaykur Rizespor",
+      "teamA": "Edmonton",
+      "teamB": "Toronto",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4434/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4436/image",
+      "eventName": "Edmonton Elks vs Toronto Argonauts",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/15 16:00:00 +0000",
-      "endTime": "2026/08/15 18:00:00 +0000"
+      "startTime": "2026/08/15 19:00:00 +0000",
+      "endTime": "2026/08/15 22:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "BEIN2 TR HD",
-      "SD SERVER"
+      "TSN SPORTS FHD"
     ],
     "formatsNew": [
       {
-        "title": "BEIN2 TR HD",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
+        "title": "TSN SPORTS FHD",
         "logo": ""
       }
     ]
@@ -2421,11 +2406,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PARAMOUNT+ FHD",
       "ITALIA 1 FHD",
       "D Sports FHD",
       "DUDE Tv Live"
     ],
     "formatsNew": [
+      {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
       {
         "title": "ITALIA 1 FHD",
         "logo": ""
@@ -2459,10 +2449,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PARAMOUNT+ FHD",
       "D SPORTS - FHD",
       "LOW SERVER"
     ],
     "formatsNew": [
+      {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
       {
         "title": "D SPORTS - FHD",
         "logo": ""
@@ -2492,6 +2487,7 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "Paramount+ FHD+",
       "beIN ENGLISH FHD",
       "CBS NETWORK",
       "ESPN BR HD",
@@ -2499,6 +2495,10 @@
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "Paramount+ FHD+",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
       {
         "title": "beIN ENGLISH FHD",
         "logo": ""
@@ -2686,7 +2686,9 @@
     "publish": "1",
     "formats": [
       "FOX DEPORTES",
-      "SporTV BR"
+      "SporTV BR",
+      "Sport TV3 HD",
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
@@ -2695,6 +2697,14 @@
       },
       {
         "title": "SporTV BR",
+        "logo": ""
+      },
+      {
+        "title": "Sport TV3 HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
@@ -2774,9 +2784,19 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "SKY CALCIO HD",
+      "DAZN SPORTS HD",
       "DUDE Tv Live"
     ],
     "formatsNew": [
+      {
+        "title": "SKY CALCIO HD",
+        "logo": ""
+      },
+      {
+        "title": "DAZN SPORTS HD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
