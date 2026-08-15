@@ -1,5 +1,19 @@
 [
   {
+    "api": "",
+    "link": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://www.tapmad.com/&Origin=https://www.tapmad.com",
+    "logo": "",
+    "title": "TAPMAD - FHD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://latestmovies.net/api/live/playlist/591?.m3u8",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+    "title": "SKY SPORTS NZ",
+    "type": "0"
+  },
+  {
     "api": "09c3049d2939b110b2a17591b546f42d:c6f28b360d250d288c224eeca1b68716",
     "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lziskjj7gd/out/v1/ed916cc54b8b4c2a9d7b5f24b1c1f16a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
@@ -22,20 +36,6 @@
   },
   {
     "api": "",
-    "link": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://www.tapmad.com/&Origin=https://www.tapmad.com",
-    "logo": "",
-    "title": "TAPMAD - FHD",
-    "type": "0"
-  },
-  {
-    "api": "",
-    "link": "https://latestmovies.net/api/live/playlist/592?.m3u8",
-    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-    "title": "SKY SPORTS NZ",
-    "type": "0"
-  },
-  {
-    "api": "",
     "link": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8",
     "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj",
     "title": "FOX CRICKET HD",
@@ -50,14 +50,14 @@
   },
   {
     "api": "",
-    "link": "https://cdx-08192.website/embed/skysport5-nz",
+    "link": "https://cdx-08192.website/embed/skysport4-nz",
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
     "title": "SKY SPORTS [FHD]",
     "type": "2"
   },
   {
     "api": "",
-    "link": "https://embedindia.st/embed/cricket/2026-08-14/aus-bgd",
+    "link": "https://embedindia.st/embed/cricket/2026-08-15/aus-bgd",
     "logo": "",
     "title": "SPX LIVE [FHD]",
     "type": "2"

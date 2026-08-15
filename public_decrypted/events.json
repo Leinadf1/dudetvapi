@@ -352,17 +352,25 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TAPMAD - FHD",
+      "SKY SPORTS NZ",
       "WILLOW - FHD",
       "WILLOW - AdFree",
       "WILLOW - ALT",
-      "TAPMAD - FHD",
-      "SKY SPORTS NZ",
       "FOX CRICKET HD",
       "LOW SERVER",
       "SKY SPORTS [FHD]",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "TAPMAD - FHD",
+        "logo": ""
+      },
+      {
+        "title": "SKY SPORTS NZ",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
+      },
       {
         "title": "WILLOW - FHD",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
@@ -374,14 +382,6 @@
       {
         "title": "WILLOW - ALT",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "TAPMAD - FHD",
-        "logo": ""
-      },
-      {
-        "title": "SKY SPORTS NZ",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
       },
       {
         "title": "FOX CRICKET HD",
@@ -744,44 +744,6 @@
       },
       {
         "title": "Toronto (WTA)",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50027,
-    "title": "Connecticut Sun vs Liberty",
-    "image": "o",
-    "cat": "WNBA",
-    "eventInfo": {
-      "teamA": "Sun",
-      "teamB": "Liberty",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/35547/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3446/image",
-      "eventName": "Connecticut Sun vs New York Liberty",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/15 17:00:00 +0000",
-      "endTime": "2026/08/15 19:45:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv WNBA",
-      "DUDE Tv Live",
-      "WNBA LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv WNBA",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "WNBA LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1265,124 +1227,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TSN SPORTS",
       "DUDE Tv Live",
       "NFL LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NFL LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50067,
-    "title": "Carolina Panthers",
-    "image": "o",
-    "cat": "NFL",
-    "eventInfo": {
-      "teamA": "Bills",
-      "teamB": "Panthers",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4414/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4415/image",
-      "eventName": "Buffalo Bills vs Carolina Panthers",
-      "eventType": "null",
-      "eventBanner": "null",
-      "isHot": "0",
-      "startTime": "2026/08/15 17:00:00 +0000",
-      "endTime": "2026/08/15 20:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv NFL",
-      "DUDE Tv Live",
-      "NFL LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv NFL",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NFL LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50068,
-    "title": "Cleveland Browns",
-    "image": "o",
-    "cat": "NFL",
-    "eventInfo": {
-      "teamA": "Bears",
-      "teamB": "Browns",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4391/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4417/image",
-      "eventName": "Chicago Bears vs Cleveland Browns",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/15 17:00:00 +0000",
-      "endTime": "2026/08/15 20:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv NFL",
-      "DUDE Tv Live",
-      "NFL LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv NFL",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NFL LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50069,
-    "title": "Minnesota Vikings",
-    "image": "o",
-    "cat": "NFL",
-    "eventInfo": {
-      "teamA": "Giants",
-      "teamB": "Vikings",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4426/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4423/image",
-      "eventName": "New York Giants vs Minnesota Vikings",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/15 17:00:00 +0000",
-      "endTime": "2026/08/15 20:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv NFL",
-      "DUDE Tv Live",
-      "NFL LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv NFL",
-        "logo": ""
+        "title": "TSN SPORTS",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       },
       {
         "title": "DUDE Tv Live",
@@ -1414,7 +1266,8 @@
     "publish": "1",
     "formats": [
       "CANAL5 FHD",
-      "ViX MUNDIAL"
+      "ViX MUNDIAL",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
@@ -1423,6 +1276,10 @@
       },
       {
         "title": "ViX MUNDIAL",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1461,44 +1318,6 @@
       },
       {
         "title": "SPX LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50075,
-    "title": "Detroit Tigers vs White Sox",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Tigers",
-      "teamB": "White Sox",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3648/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3644/image",
-      "eventName": "Detroit Tigers vs Chicago White Sox",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/15 17:10:00 +0000",
-      "endTime": "2026/08/15 20:10:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv MLB",
-      "DUDE Tv Live",
-      "MLB LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "MLB LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1839,7 +1658,6 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "WILLOW - FHD",
       "TNT Sports FHD",
       "FOX CRICKET HD",
       "TNT SPORTS HD",
@@ -1848,10 +1666,6 @@
       "FANCODE - IN"
     ],
     "formatsNew": [
-      {
-        "title": "WILLOW - FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
       {
         "title": "TNT Sports FHD",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
@@ -1879,39 +1693,6 @@
     ]
   },
   {
-    "id": 50086,
-    "title": "Morocco vs Algeria",
-    "image": "o",
-    "cat": "Womens AFCON",
-    "eventInfo": {
-      "teamA": "Morocco",
-      "teamB": "Algeria",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/261908/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/180004/image",
-      "eventName": "Morocco vs Algeria",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/15 17:00:00 +0000",
-      "endTime": "2026/08/15 19:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN Sports Xtra",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN Sports Xtra",
-        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50087,
     "title": "Fluminense vs Palmeiras",
     "image": "o",
@@ -1930,11 +1711,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "PREMIERER 1"
+      "PREMIERER BR"
     ],
     "formatsNew": [
       {
-        "title": "PREMIERER 1",
+        "title": "PREMIERER BR",
         "logo": ""
       }
     ]
@@ -1958,9 +1739,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "APPLE TV HD",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "APPLE TV HD",
+        "logo": ""
+      },
       {
         "title": "SPX LIVE [FHD]",
         "logo": ""
@@ -1986,12 +1772,12 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "PREMIERER 1",
+      "PREMIERER BR",
       "SporTV BR"
     ],
     "formatsNew": [
       {
-        "title": "PREMIERER 1",
+        "title": "PREMIERER BR",
         "logo": ""
       },
       {
@@ -2019,11 +1805,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "PREMIERER 2"
+      "PREMIERER BR"
     ],
     "formatsNew": [
       {
-        "title": "PREMIERER 2",
+        "title": "PREMIERER BR",
         "logo": ""
       }
     ]
@@ -2096,38 +1882,38 @@
   },
   {
     "id": 50093,
-    "title": "Deportivo Alavés vs Getafe",
+    "title": "Boca Juniors",
     "image": "o",
-    "cat": "LaLiga 🇪🇸",
+    "cat": "LPF",
     "eventInfo": {
-      "teamA": "Alavés",
-      "teamB": "Getafe",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2885/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2859/image",
-      "eventName": "Deportivo Alavés vs Getafe",
+      "teamA": "Platense",
+      "teamB": "Boca Juniors",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/36837/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3202/image",
+      "eventName": "Platense vs Boca Juniors",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/15 17:30:00 +0000",
-      "endTime": "2026/08/15 19:35:00 +0000"
+      "startTime": "2026/08/16 00:15:00 +0000",
+      "endTime": "2026/08/16 02:25:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "Premier Sports",
-      "ESPN DEPORTES HD",
-      "DUDE Tv Live"
+      "D Sports FHD",
+      "Sport TV HD",
+      "ESPN BR HD"
     ],
     "formatsNew": [
       {
-        "title": "Premier Sports",
+        "title": "D Sports FHD",
         "logo": ""
       },
       {
-        "title": "ESPN DEPORTES HD",
+        "title": "Sport TV HD",
         "logo": ""
       },
       {
-        "title": "DUDE Tv Live",
+        "title": "ESPN BR HD",
         "logo": ""
       }
     ]
@@ -2313,90 +2099,6 @@
     ]
   },
   {
-    "id": 50099,
-    "title": "Kasımpaşa vs Trabzonspor",
-    "image": "o",
-    "cat": "Super Lig",
-    "eventInfo": {
-      "teamA": "Kasımpaşa",
-      "teamB": "Trabzonspor",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/6063/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3051/image",
-      "eventName": "Kasımpaşa vs Trabzonspor",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/15 16:00:00 +0000",
-      "endTime": "2026/08/15 18:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50100,
-    "title": "Alverca vs Estrela Amadora",
-    "image": "o",
-    "cat": "Liga Portugal",
-    "eventInfo": {
-      "teamA": "Alverca",
-      "teamB": "Estrela Amadora",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/190328/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3035/image",
-      "eventName": "Alverca vs Estrela Amadora",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/15 14:30:00 +0000",
-      "endTime": "2026/08/15 16:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "Sport TV1 HD"
-    ],
-    "formatsNew": [
-      {
-        "title": "Sport TV1 HD",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50101,
-    "title": "Utrecht vs AZ Alkmaar",
-    "image": "o",
-    "cat": "Eredivisie",
-    "eventInfo": {
-      "teamA": "Utrecht",
-      "teamB": "AZ",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2948/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2950/image",
-      "eventName": "FC Utrecht vs AZ Alkmaar",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/15 16:45:00 +0000",
-      "endTime": "2026/08/15 18:45:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50102,
     "title": "Torino vs Carrarese",
     "image": "o",
@@ -2483,102 +2185,6 @@
     ]
   },
   {
-    "id": 50104,
-    "title": "Udinese vs Padova",
-    "image": "o",
-    "cat": "Coppa Italia 🇮🇹",
-    "eventInfo": {
-      "teamA": "Udinese",
-      "teamB": "Padova",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2695/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2741/image",
-      "eventName": "Udinese vs Padova",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/15 16:30:00 +0000",
-      "endTime": "2026/08/15 18:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PARAMOUNT+ FHD",
-      "ITALIA 1 FHD",
-      "D Sports FHD",
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "PARAMOUNT+ FHD",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "ITALIA 1 FHD",
-        "logo": ""
-      },
-      {
-        "title": "D Sports FHD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50106,
-    "title": "Sheffield United vs Birmingham",
-    "image": "o",
-    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Sheffield Utd",
-      "teamB": "Birmingham",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/15/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/9/image",
-      "eventName": "Sheffield United vs Birmingham City",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/15 16:30:00 +0000",
-      "endTime": "2026/08/15 18:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "Paramount+ FHD+",
-      "beIN ENGLISH FHD",
-      "CBS NETWORK",
-      "ESPN BR HD",
-      "SD SERVER",
-      "SPX LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "Paramount+ FHD+",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "beIN ENGLISH FHD",
-        "logo": ""
-      },
-      {
-        "title": "CBS NETWORK",
-        "logo": ""
-      },
-      {
-        "title": "ESPN BR HD",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50115,
     "title": "Mallorca vs Real Valladolid",
     "image": "o",
@@ -2593,67 +2199,6 @@
       "isHot": "0",
       "startTime": "2026/08/15 19:30:00 +0000",
       "endTime": "2026/08/15 21:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "LaLiga Hypermotion Es"
-    ],
-    "formatsNew": [
-      {
-        "title": "LaLiga Hypermotion Es",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50117,
-    "title": "Real Oviedo vs Granada",
-    "image": "o",
-    "cat": "LaLiga 2",
-    "eventInfo": {
-      "teamA": "Real Oviedo",
-      "teamB": "Granada",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2851/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/33779/image",
-      "eventName": "Real Oviedo vs Granada",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/15 17:00:00 +0000",
-      "endTime": "2026/08/15 19:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "LaLiga Hypermotion Es",
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "LaLiga Hypermotion Es",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50118,
-    "title": "Andorra vs AD Ceuta",
-    "image": "o",
-    "cat": "LaLiga 2",
-    "eventInfo": {
-      "teamA": "FC Andorra",
-      "teamB": "Ceuta",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/324871/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2869/image",
-      "eventName": "FC Andorra vs AD Ceuta",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/15 15:00:00 +0000",
-      "endTime": "2026/08/15 17:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -2696,153 +2241,6 @@
       },
       {
         "title": "SD SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50123,
-    "title": "Al-Nassr vs Al-Fateh",
-    "image": "o",
-    "cat": "Pro League 🇸🇦",
-    "eventInfo": {
-      "teamA": "Al-Nassr",
-      "teamB": "Al-Fateh",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/23400/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/56023/image",
-      "eventName": "Al-Nassr vs Al-Fateh",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/15 18:00:00 +0000",
-      "endTime": "2026/08/15 20:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "FOX DEPORTES",
-      "SporTV BR",
-      "Sport TV3 HD",
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "FOX DEPORTES",
-        "logo": ""
-      },
-      {
-        "title": "SporTV BR",
-        "logo": ""
-      },
-      {
-        "title": "Sport TV3 HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50124,
-    "title": "Al-Ittihad vs Al-Kholood",
-    "image": "o",
-    "cat": "Pro League 🇸🇦",
-    "eventInfo": {
-      "teamA": "Al-Ittihad",
-      "teamB": "Al-Kholood",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/34315/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/269199/image",
-      "eventName": "Al-Ittihad vs Al-Kholood",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/15 18:00:00 +0000",
-      "endTime": "2026/08/15 20:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50126,
-    "title": "Inter vs Real Betis",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Inter",
-      "teamB": "Real Betis",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2697/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2816/image",
-      "eventName": "Inter vs Real Betis",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/15 17:30:00 +0000",
-      "endTime": "2026/08/15 19:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SKY CALCIO HD",
-      "DAZN SPORTS HD",
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "SKY CALCIO HD",
-        "logo": ""
-      },
-      {
-        "title": "DAZN SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50129,
-    "title": "Dundee United vs Celtic",
-    "image": "o",
-    "cat": "Football",
-    "eventInfo": {
-      "teamA": "Dundee United",
-      "teamB": "Celtic",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2349/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2352/image",
-      "eventName": "Dundee United vs Celtic",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/15 16:45:00 +0000",
-      "endTime": "2026/08/15 18:50:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN ENGLISH FHD",
-      "Premier Sports FHD",
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN ENGLISH FHD",
-        "logo": ""
-      },
-      {
-        "title": "Premier Sports FHD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
