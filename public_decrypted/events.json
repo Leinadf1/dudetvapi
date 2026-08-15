@@ -352,16 +352,29 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "WILLOW - FHD",
+      "WILLOW - AdFree",
+      "WILLOW - ALT",
       "TAPMAD - FHD",
       "SKY SPORTS NZ",
       "FOX CRICKET HD",
-      "TEN SPORTS - AQ",
-      "SKY SPORTS",
       "LOW SERVER",
       "SKY SPORTS [FHD]",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "WILLOW - FHD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "WILLOW - AdFree",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "WILLOW - ALT",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
       {
         "title": "TAPMAD - FHD",
         "logo": ""
@@ -373,14 +386,6 @@
       {
         "title": "FOX CRICKET HD",
         "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj"
-      },
-      {
-        "title": "TEN SPORTS - AQ",
-        "logo": ""
-      },
-      {
-        "title": "SKY SPORTS",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
       },
       {
         "title": "LOW SERVER",
@@ -540,14 +545,15 @@
       "eventName": "🥊 WWE Friday Night SmackDown",
       "eventType": "null",
       "eventBanner": "https://iili.io/B60OM3Q.gif",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/08/15 00:00:00 +0000",
       "endTime": "2026/08/15 03:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv WEE",
+      "DUDE Tv WWE",
+      "WWE LIVE FHD",
       "SPX LIVE [FHD]",
       "USA NETWORK",
       "HD SERVER",
@@ -558,7 +564,11 @@
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv WEE",
+        "title": "DUDE Tv WWE",
+        "logo": ""
+      },
+      {
+        "title": "WWE LIVE FHD",
         "logo": ""
       },
       {
@@ -610,10 +620,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv NFL",
       "DUDE Tv Live",
       "NFL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv NFL",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -915,20 +930,97 @@
     ]
   },
   {
+    "id": 50060,
+    "title": "Ireland vs Afghanistan",
+    "image": "o",
+    "cat": "Cricket",
+    "eventInfo": {
+      "teamA": "IRE",
+      "teamB": "AFG",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/187766/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/187575/image",
+      "eventName": "Ireland vs Afghanistan",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/15 09:45:00 +0000",
+      "endTime": "2026/08/15 17:15:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50062,
     "title": "Hundred MEN",
     "image": "o",
     "cat": "The Hundred",
     "eventInfo": {
-      "teamA": "MSG",
-      "teamB": "SL",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/377173/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/377178/image",
-      "eventName": "Manchester Super Giants vs Sunrisers Leeds",
+      "teamA": "TRT",
+      "teamB": "MSG",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/377176/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/377173/image",
+      "eventName": "Trent Rockets vs Manchester Super Giants",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/14 17:00:00 +0000",
-      "endTime": "2026/08/14 20:45:00 +0000"
+      "startTime": "2026/08/16 17:00:00 +0000",
+      "endTime": "2026/08/16 21:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "WILLOW - FHD",
+      "SKY CRICKET",
+      "WILLOW - ALT",
+      "SonyLiv (Asia)",
+      "LOW SERVER"
+    ],
+    "formatsNew": [
+      {
+        "title": "WILLOW - FHD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "SKY CRICKET",
+        "logo": ""
+      },
+      {
+        "title": "WILLOW - ALT",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "SonyLiv (Asia)",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50063,
+    "title": "Hundred WOMEN",
+    "image": "o",
+    "cat": "The Hundred",
+    "eventInfo": {
+      "teamA": "TRT-W",
+      "teamB": "SL-W",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/377204/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/377206/image",
+      "eventName": "Trent Rockets W vs Sunrisers Leeds W",
+      "eventType": "null",
+      "eventBanner": "null",
+      "isHot": "0",
+      "startTime": "2026/08/16 13:15:00 +0000",
+      "endTime": "2026/08/16 17:15:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -981,10 +1073,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv NFL",
       "DUDE Tv Live",
       "NFL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv NFL",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1014,10 +1111,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv NFL",
       "DUDE Tv Live",
       "NFL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv NFL",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1388,10 +1490,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1421,10 +1528,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1454,6 +1566,7 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "WILLOW - FHD",
       "TNT Sports FHD",
       "FOX CRICKET HD",
       "TNT SPORTS HD",
@@ -1463,20 +1576,24 @@
     ],
     "formatsNew": [
       {
+        "title": "WILLOW - FHD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
         "title": "TNT Sports FHD",
-        "logo": ""
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
       },
       {
         "title": "FOX CRICKET HD",
-        "logo": ""
+        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj"
       },
       {
         "title": "TNT SPORTS HD",
-        "logo": ""
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
       },
       {
         "title": "WILLOW HD",
-        "logo": ""
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
         "title": "TAPMAD - FHD",
@@ -1484,521 +1601,7 @@
       },
       {
         "title": "FANCODE - IN",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50092,
-    "title": "Wolves vs Blackburn Rovers",
-    "image": "o",
-    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Wolves",
-      "teamB": "Blackburn",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/46/image",
-      "eventName": "Wolverhampton vs Blackburn Rovers",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/14 19:00:00 +0000",
-      "endTime": "2026/08/14 21:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN ENGLISH",
-      "DUDE Tv Live",
-      "Sport TV5 HD",
-      "ESPN BR HD",
-      "LOW SERVER",
-      "CBS SPORTS [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN ENGLISH",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "Sport TV5 HD",
-        "logo": ""
-      },
-      {
-        "title": "ESPN BR HD",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      },
-      {
-        "title": "CBS SPORTS [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50093,
-    "title": "Sporting CP vs Vitória",
-    "image": "o",
-    "cat": "Liga Portugal",
-    "eventInfo": {
-      "teamA": "Sporting",
-      "teamB": "Vitória",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3001/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3009/image",
-      "eventName": "Sporting CP vs Vitória SC",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/14 19:15:00 +0000",
-      "endTime": "2026/08/14 21:20:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportDigital Fussball",
-      "D Sports FHD",
-      "LOW SERVER",
-      "SPX LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "SportDigital Fussball",
-        "logo": ""
-      },
-      {
-        "title": "D Sports FHD",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50094,
-    "title": "Fiorentina vs Benevento",
-    "image": "o",
-    "cat": "Coppa Italia 🇮🇹",
-    "eventInfo": {
-      "teamA": "Fiorentina",
-      "teamB": "Benevento",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2693/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2759/image",
-      "eventName": "Fiorentina vs Benevento",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/14 19:15:00 +0000",
-      "endTime": "2026/08/14 21:20:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "ITALIA 1 FHD",
-      "SPORT 1 CZ",
-      "D Sports FHD",
-      "ITALIA 1 HD",
-      "Sport TV2 HD",
-      "DUDE Tv Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "ITALIA 1 FHD",
-        "logo": ""
-      },
-      {
-        "title": "SPORT 1 CZ",
-        "logo": ""
-      },
-      {
-        "title": "D Sports FHD",
-        "logo": ""
-      },
-      {
-        "title": "ITALIA 1 HD",
-        "logo": ""
-      },
-      {
-        "title": "Sport TV2 HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50095,
-    "title": "Monza vs US Avellino",
-    "image": "o",
-    "cat": "Coppa Italia 🇮🇹",
-    "eventInfo": {
-      "teamA": "Monza",
-      "teamB": "Avellino",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2729/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2730/image",
-      "eventName": "Monza vs US Avellino 1912",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/14 18:45:00 +0000",
-      "endTime": "2026/08/14 20:50:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "Premier Sports",
-      "CBS NETWORK",
-      "DUDE Tv Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "Premier Sports",
-        "logo": ""
-      },
-      {
-        "title": "CBS NETWORK",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50096,
-    "title": "Galatasaray vs Çorum",
-    "image": "o",
-    "cat": "Super Lig",
-    "eventInfo": {
-      "teamA": "Galatasaray",
-      "teamB": "Çorum",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3061/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/77629/image",
-      "eventName": "Galatasaray vs Çorum FK",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/14 18:30:00 +0000",
-      "endTime": "2026/08/14 20:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "Sport TV HD",
-      "beiN SPORTS HD",
-      "HD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "Sport TV HD",
-        "logo": ""
-      },
-      {
-        "title": "beiN SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50097,
-    "title": "Real Sociedad B vs Castellón",
-    "image": "o",
-    "cat": "LaLiga 2",
-    "eventInfo": {
-      "teamA": "Real Sociedad B",
-      "teamB": "Castellón",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/24360/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/5067/image",
-      "eventName": "Real Sociedad B vs Castellón",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/14 18:30:00 +0000",
-      "endTime": "2026/08/14 20:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50098,
-    "title": "Al-Hilal vs Al Faisaly",
-    "image": "o",
-    "cat": "Pro League 🇸🇦",
-    "eventInfo": {
-      "teamA": "Al-Hilal",
-      "teamB": "Al Faisaly",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/21895/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/56035/image",
-      "eventName": "Al-Hilal vs Al Faisaly",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/14 18:00:00 +0000",
-      "endTime": "2026/08/14 20:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "FOX DEPORTES",
-      "DUDE Tv Live",
-      "Sport TV HD",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "FOX DEPORTES",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "Sport TV HD",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50099,
-    "title": "Al-Ettifaq vs Al-Riyadh",
-    "image": "o",
-    "cat": "Pro League 🇸🇦",
-    "eventInfo": {
-      "teamA": "Al-Ettifaq",
-      "teamB": "Al-Riyadh",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/34318/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/168088/image",
-      "eventName": "Al-Ettifaq vs Al-Riyadh",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/14 18:00:00 +0000",
-      "endTime": "2026/08/14 20:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50100,
-    "title": "Neom SC vs Al-Fayha",
-    "image": "o",
-    "cat": "Pro League 🇸🇦",
-    "eventInfo": {
-      "teamA": "Neom",
-      "teamB": "Al-Fayha",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/530631/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/168094/image",
-      "eventName": "Neom SC vs Al-Fayha",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/14 16:50:00 +0000",
-      "endTime": "2026/08/14 18:50:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "HD SERVER",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50101,
-    "title": "Telstar vs Sparta Rotterdam",
-    "image": "o",
-    "cat": "Eredivisie",
-    "eventInfo": {
-      "teamA": "Telstar",
-      "teamB": "Sparta",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2972/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2960/image",
-      "eventName": "SC Telstar vs Sparta Rotterdam",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/14 18:00:00 +0000",
-      "endTime": "2026/08/14 20:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50103,
-    "title": "Cagliari vs Arezzo",
-    "image": "o",
-    "cat": "Coppa Italia 🇮🇹",
-    "eventInfo": {
-      "teamA": "Cagliari",
-      "teamB": "Arezzo",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2719/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2731/image",
-      "eventName": "Cagliari vs Arezzo",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/14 16:30:00 +0000",
-      "endTime": "2026/08/14 18:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "ITALIA 1 FHD",
-      "HD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "ITALIA 1 FHD",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50108,
-    "title": "Coventry City vs AS Monaco",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Coventry City",
-      "teamB": "AS Monaco",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/11/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1653/image",
-      "eventName": "Coventry City vs AS Monaco",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/14 18:30:00 +0000",
-      "endTime": "2026/08/14 20:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50109,
-    "title": "Atalanta vs Athletic Club",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Atalanta",
-      "teamB": "Athletic Club",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2686/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2825/image",
-      "eventName": "Atalanta vs Athletic Club",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/14 18:45:00 +0000",
-      "endTime": "2026/08/14 20:50:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       }
     ]
   }
