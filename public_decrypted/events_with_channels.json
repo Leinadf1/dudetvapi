@@ -875,20 +875,76 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TNT Sports FHD"
+      "TNT Sports FHD",
+      "WILLOW HD",
+      "SonyLiv [ENG]",
+      "SonyLiv [HIN]",
+      "SonyLiv [TAM]"
     ],
     "formatsNew": [
       {
         "title": "TNT Sports FHD",
         "logo": ""
+      },
+      {
+        "title": "WILLOW HD",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv [ENG]",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv [HIN]",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv [TAM]",
+        "logo": ""
       }
     ],
     "decoded_channels": [
       {
+        "api": "e5a60d3123300d8489351131fdaef58b:9dafcebc06546a0bb44818a14ee6d2d0",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/unalxsmpu7/out/v1/478cff33b85444b5b334188850a6f4a1/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "title": "WILLOW - FHD",
+        "type": "1"
+      },
+      {
         "api": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
         "title": "TNT Sports FHD",
         "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://amg01269-amg01269c1-sportstribal-emea-5204.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-sportstribalemea/playlist.m3u8",
+        "logo": "",
+        "title": "WILLOW HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786808995~acl=/*~id=46538824643663372298043104821612~hmac=6e6070a56d54cf568ea0fea031f575d2c8826db606a22dcc3339f16e433e3ba3|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
+        "logo": "",
+        "title": "SonyLiv [ENG]",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://sonydaimenew.akamaized.net/hls/live/20000300/cricodi1508/HIN/std_lrh-800300010.m3u8?hdnea=exp=1786808995~acl=/*~id=46538824643663372298043104821612~hmac=6e6070a56d54cf568ea0fea031f575d2c8826db606a22dcc3339f16e433e3ba3|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
+        "logo": "",
+        "title": "SonyLiv [HIN]",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://sonydaimenew.akamaized.net/hls/live/20000377/cricodi1508/TAM/std_lrh-800300010.m3u8?hdnea=exp=1786808995~acl=/*~id=46538824643663372298043104821612~hmac=6e6070a56d54cf568ea0fea031f575d2c8826db606a22dcc3339f16e433e3ba3|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
+        "logo": "",
+        "title": "SonyLiv [TAM]",
+        "type": "0"
       }
     ],
     "channel_status": "live"
@@ -1770,68 +1826,6 @@
         "link": "https://embedindia.st/embed/cfl/2026-08-14/ott-wpg",
         "logo": "",
         "title": "SPX LIVE [FHD]",
-        "type": "2"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50055,
-    "title": "Seattle Storm vs Portland Fire",
-    "image": "o",
-    "cat": "WNBA",
-    "eventInfo": {
-      "teamA": "Storm",
-      "teamB": "Fire",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3448/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1166446/image",
-      "eventName": "Seattle Storm vs Portland Fire",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/15 02:00:00 +0000",
-      "endTime": "2026/08/15 04:45:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv WNBA",
-      "DUDE Tv Live",
-      "WNBA LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv WNBA",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "WNBA LIVE [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/54650/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv WNBA",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://edgestream3.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/wnba/2026-08-14/por-sea",
-        "logo": "",
-        "title": "WNBA LIVE [FHD]",
         "type": "2"
       }
     ],

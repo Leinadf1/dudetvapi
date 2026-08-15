@@ -421,11 +421,31 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TNT Sports FHD"
+      "TNT Sports FHD",
+      "WILLOW HD",
+      "SonyLiv [ENG]",
+      "SonyLiv [HIN]",
+      "SonyLiv [TAM]"
     ],
     "formatsNew": [
       {
         "title": "TNT Sports FHD",
+        "logo": ""
+      },
+      {
+        "title": "WILLOW HD",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv [ENG]",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv [HIN]",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv [TAM]",
         "logo": ""
       }
     ]
@@ -935,44 +955,6 @@
       },
       {
         "title": "SPX LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50055,
-    "title": "Seattle Storm vs Portland Fire",
-    "image": "o",
-    "cat": "WNBA",
-    "eventInfo": {
-      "teamA": "Storm",
-      "teamB": "Fire",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3448/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1166446/image",
-      "eventName": "Seattle Storm vs Portland Fire",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/15 02:00:00 +0000",
-      "endTime": "2026/08/15 04:45:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv WNBA",
-      "DUDE Tv Live",
-      "WNBA LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv WNBA",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "WNBA LIVE [FHD]",
         "logo": ""
       }
     ]
