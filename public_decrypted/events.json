@@ -2448,11 +2448,21 @@
     "publish": "1",
     "formats": [
       "beIN ENGLISH FHD",
+      "DUDE Tv Live",
+      "SD SERVER",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       },
       {
@@ -2480,9 +2490,19 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv Live",
+      "SD SERVER",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
       {
         "title": "SPX LIVE [FHD]",
         "logo": ""
@@ -2508,9 +2528,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "SD SERVER",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
       {
         "title": "SPX LIVE [FHD]",
         "logo": ""
@@ -2536,9 +2561,19 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv Live",
+      "SD SERVER",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
       {
         "title": "SPX LIVE [FHD]",
         "logo": ""
@@ -2598,55 +2633,12 @@
     "publish": "1",
     "formats": [
       "DUDE Tv Live",
-      "SPX LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50113,
-    "title": "Bolton Wanderers vs Preston NE",
-    "image": "o",
-    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Bolton",
-      "teamB": "Preston",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/5/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/21/image",
-      "eventName": "Bolton Wanderers vs Preston North End",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/15 11:30:00 +0000",
-      "endTime": "2026/08/15 13:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "CBS NETWORK",
-      "DUDE Tv Live",
-      "HD SERVER",
       "SD SERVER",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "CBS NETWORK",
-        "logo": ""
-      },
-      {
         "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
         "logo": ""
       },
       {
@@ -2655,49 +2647,6 @@
       },
       {
         "title": "SPX LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50114,
-    "title": "Notts County vs Leicester City",
-    "image": "o",
-    "cat": "League One 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Notts County",
-      "teamB": "Leicester",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/56/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/31/image",
-      "eventName": "Notts County vs Leicester City",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/15 11:30:00 +0000",
-      "endTime": "2026/08/15 13:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN ENGLISH FHD",
-      "DUDE Tv Live",
-      "HD SERVER",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN ENGLISH FHD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -2861,11 +2810,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -3095,6 +3049,9 @@
       "beIN ENGLISH",
       "D Sports FHD",
       "DUDE Tv Live",
+      "HD SERVER",
+      "HD SERVER",
+      "SD SERVER",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
@@ -3108,6 +3065,18 @@
       },
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       },
       {
@@ -3136,8 +3105,10 @@
     "publish": "1",
     "formats": [
       "CBS NETWORK",
+      "DUDE Tv Live",
       "ESPN BR HD",
-      "DUDE Tv Live"
+      "HD SERVER",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
@@ -3145,11 +3116,19 @@
         "logo": ""
       },
       {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
         "title": "ESPN BR HD",
         "logo": ""
       },
       {
-        "title": "DUDE Tv Live",
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -3249,16 +3228,31 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "FUBO SPORTS FHD",
       "beiN SPORTS XTRA",
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "FUBO SPORTS - SD",
+      "SD SERVER"
     ],
     "formatsNew": [
+      {
+        "title": "FUBO SPORTS FHD",
+        "logo": ""
+      },
       {
         "title": "beiN SPORTS XTRA",
         "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
       },
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "FUBO SPORTS - SD",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -3282,11 +3276,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "ESPN4 BR HD"
+      "DUDE Tv Live",
+      "HD SERVER",
+      "ESPN4 BR HD",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
         "title": "ESPN4 BR HD",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -3310,16 +3319,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv Live",
       "Sport TV4 HD",
-      "DUDE Tv Live"
+      "HD SERVER",
+      "SD SERVER"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
       {
         "title": "Sport TV4 HD",
         "logo": ""
       },
       {
-        "title": "DUDE Tv Live",
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -3343,11 +3362,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]

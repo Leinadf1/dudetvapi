@@ -4828,11 +4828,21 @@
     "publish": "1",
     "formats": [
       "beIN ENGLISH FHD",
+      "DUDE Tv Live",
+      "SD SERVER",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       },
       {
@@ -4891,9 +4901,19 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv Live",
+      "SD SERVER",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
       {
         "title": "SPX LIVE [FHD]",
         "logo": ""
@@ -4943,9 +4963,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "SD SERVER",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
       {
         "title": "SPX LIVE [FHD]",
         "logo": ""
@@ -4981,9 +5006,19 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv Live",
+      "SD SERVER",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
       {
         "title": "SPX LIVE [FHD]",
         "logo": ""
@@ -5084,11 +5119,16 @@
     "publish": "1",
     "formats": [
       "DUDE Tv Live",
+      "SD SERVER",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       },
       {
@@ -5117,166 +5157,6 @@
         "logo": "",
         "title": "SPX LIVE [FHD]",
         "type": "2"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50113,
-    "title": "Bolton Wanderers vs Preston NE",
-    "image": "o",
-    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Bolton",
-      "teamB": "Preston",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/5/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/21/image",
-      "eventName": "Bolton Wanderers vs Preston North End",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/15 11:30:00 +0000",
-      "endTime": "2026/08/15 13:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "CBS NETWORK",
-      "DUDE Tv Live",
-      "HD SERVER",
-      "SD SERVER",
-      "SPX LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "CBS NETWORK",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "CBS NETWORK",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4563505.m3u8?txSecret=2fd1121a2a91c485dbcdb0f0a7d3a1f4&txTime=6A8061F8|Referer=https://player.online909.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://xzbonlinepull.52kq.top/live/sd-1-4563505.m3u8?txSecret=0cb98bc2d502c86b54019199e254ad5b&txTime=6a805779|Referer=https://zhiboapi1001.bszb.me/",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.191/hls/JJJJD.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "SD SERVER",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/efl-championship/2026-08-15/bol-pne",
-        "logo": "",
-        "title": "SPX LIVE [FHD]",
-        "type": "2"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50114,
-    "title": "Notts County vs Leicester City",
-    "image": "o",
-    "cat": "League One 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Notts County",
-      "teamB": "Leicester",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/56/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/31/image",
-      "eventName": "Notts County vs Leicester City",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/15 11:30:00 +0000",
-      "endTime": "2026/08/15 13:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN ENGLISH FHD",
-      "DUDE Tv Live",
-      "HD SERVER",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN ENGLISH FHD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "beIN ENGLISH FHD",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4562376.m3u8?txSecret=61f00c0a3d3128c7256a7e19de957268&txTime=6A80624E|Referer=https://player.online909.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://hls.streamhub.media/hls/thesport-api-726bec469ba02de1a021/master.m3u8",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.191/hls/SSSSAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "SD SERVER",
-        "type": "0"
       }
     ],
     "channel_status": "live"
@@ -5500,11 +5380,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ],
@@ -5803,6 +5688,20 @@
       },
       {
         "api": "",
+        "link": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8",
+        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
+        "title": "beiN SPORTS ES",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://edgestream1.pro/hls/b0h5fNwDKH.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+        "logo": "",
+        "title": "HD SERVER",
+        "type": "0"
+      },
+      {
+        "api": "",
         "link": "https://embedindia.st/embed/club-friendly/2026-08-15/mun-mil",
         "logo": "",
         "title": "SPX LIVE [FHD]",
@@ -5833,6 +5732,9 @@
       "beIN ENGLISH",
       "D Sports FHD",
       "DUDE Tv Live",
+      "HD SERVER",
+      "HD SERVER",
+      "SD SERVER",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
@@ -5846,6 +5748,18 @@
       },
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       },
       {
@@ -5870,9 +5784,16 @@
       },
       {
         "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4565096.m3u8?txSecret=93b8e3b5ccbaf7620a7654c6c50c8286&txTime=6A807C5F|Referer=https://player.online909.com/",
+        "link": "https://chatgpt.hereisman.net/playlist/54662/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "",
         "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://live.vivo200.com/live/sd-1-4565096.m3u8?txSecret=93b8e3b5ccbaf7620a7654c6c50c8286&txTime=6A807C5F|Referer=https://player.online909.com/",
+        "logo": "",
+        "title": "HD SERVER",
         "type": "0"
       },
       {
@@ -5919,8 +5840,10 @@
     "publish": "1",
     "formats": [
       "CBS NETWORK",
+      "DUDE Tv Live",
       "ESPN BR HD",
-      "DUDE Tv Live"
+      "HD SERVER",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
@@ -5928,11 +5851,19 @@
         "logo": ""
       },
       {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
         "title": "ESPN BR HD",
         "logo": ""
       },
       {
-        "title": "DUDE Tv Live",
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ],
@@ -5946,6 +5877,13 @@
       },
       {
         "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/54663/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
         "link": "https://rdcstream.life/live/espn/index.m3u8?|Referer=https://bolodechocolate.fit/",
         "logo": "",
         "title": "ESPN BR HD",
@@ -5955,7 +5893,7 @@
         "api": "",
         "link": "https://live.vivo200.com/live/sd-1-4594043.m3u8?txSecret=de2b5ed967741474900bda674e1a624b&txTime=6A807DA2|Referer=https://player.online909.com/",
         "logo": "",
-        "title": "DUDE Tv Live",
+        "title": "HD SERVER",
         "type": "0"
       },
       {
@@ -6111,16 +6049,31 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "FUBO SPORTS FHD",
       "beiN SPORTS XTRA",
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "FUBO SPORTS - SD",
+      "SD SERVER"
     ],
     "formatsNew": [
+      {
+        "title": "FUBO SPORTS FHD",
+        "logo": ""
+      },
       {
         "title": "beiN SPORTS XTRA",
         "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
       },
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "FUBO SPORTS - SD",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ],
@@ -6182,11 +6135,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "ESPN4 BR HD"
+      "DUDE Tv Live",
+      "HD SERVER",
+      "ESPN4 BR HD",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
         "title": "ESPN4 BR HD",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ],
@@ -6213,7 +6181,7 @@
         "type": "0"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
     "id": 50135,
@@ -6234,20 +6202,37 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv Live",
       "Sport TV4 HD",
-      "DUDE Tv Live"
+      "HD SERVER",
+      "SD SERVER"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
       {
         "title": "Sport TV4 HD",
         "logo": ""
       },
       {
-        "title": "DUDE Tv Live",
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ],
     "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/54657/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
       {
         "api": "",
         "link": "https://rdcstream.life/live/sport-tv-4-pt/index.m3u8?|Referer=https://bolodechocolate.fit/",
@@ -6259,7 +6244,7 @@
         "api": "",
         "link": "https://live.vivo200.com/live/sd-1-4613262.m3u8?txSecret=29166c4c9d7487bec156e5e1d9d0bcc5&txTime=6A807D69|Referer=https://player.online909.com/",
         "logo": "",
-        "title": "DUDE Tv Live",
+        "title": "HD SERVER",
         "type": "0"
       },
       {
@@ -6291,20 +6276,37 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4594037.m3u8?txSecret=d6995d780c1827ddc61003c816197ac3&txTime=6A807D4E|Referer=https://player.online909.com/",
+        "link": "https://chatgpt.hereisman.net/playlist/54656/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "",
         "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://live.vivo200.com/live/sd-1-4594037.m3u8?txSecret=d6995d780c1827ddc61003c816197ac3&txTime=6A807D4E|Referer=https://player.online909.com/",
+        "logo": "",
+        "title": "HD SERVER",
         "type": "0"
       },
       {
