@@ -368,23 +368,25 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/465162/image",
       "eventName": "UFC 330: Makhachev vs Machado Garry",
       "eventType": "null",
-      "eventBanner": "null",
-      "isHot": "0",
+      "eventBanner": "https://wsrv.nl/?url=https://iili.io/CiSl8DF.png",
+      "isHot": "1",
       "startTime": "2026/08/15 21:00:00 +0000",
-      "endTime": "2026/08/16 04:00:00 +0000"
+      "endTime": "2026/08/16 04:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
       "PARAMOUNT+ FHD",
       "TNT Sports FHD",
-      "PARAMOUNT+ HD",
-      "DUDE Tv LIVE",
-      "PARAMOUNT+ FHD",
       "PARAMOUNT+ ES",
       "PARAMOUNT+ PT",
-      "DAZN DE [FHD]",
+      "PARAMOUNT+ HD",
       "SportsNet FHD",
+      "DUDE Tv LIVE",
+      "PARAMOUNT+ [FHD]",
+      "PARAMOUNT+ ES [FHD]",
+      "PARAMOUNT+ PT [FHD]",
+      "DAZN DE [FHD]",
       "DUDE Tv Live",
       "SD TV (USE VPN)"
     ],
@@ -398,18 +400,6 @@
         "logo": ""
       },
       {
-        "title": "PARAMOUNT+ HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv LIVE",
-        "logo": ""
-      },
-      {
-        "title": "PARAMOUNT+ FHD",
-        "logo": ""
-      },
-      {
         "title": "PARAMOUNT+ ES",
         "logo": ""
       },
@@ -418,11 +408,31 @@
         "logo": ""
       },
       {
-        "title": "DAZN DE [FHD]",
+        "title": "PARAMOUNT+ HD",
         "logo": ""
       },
       {
         "title": "SportsNet FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv LIVE",
+        "logo": ""
+      },
+      {
+        "title": "PARAMOUNT+ [FHD]",
+        "logo": ""
+      },
+      {
+        "title": "PARAMOUNT+ ES [FHD]",
+        "logo": ""
+      },
+      {
+        "title": "PARAMOUNT+ PT [FHD]",
+        "logo": ""
+      },
+      {
+        "title": "DAZN DE [FHD]",
         "logo": ""
       },
       {
@@ -436,8 +446,8 @@
     ],
     "decoded_channels": [
       {
-        "api": "8ff3930cfa071b3508cb8e41d533ffa1:bd1fe6515fa893e38729fbd36988be57",
-        "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/oftywwtene/out/v1/ef9af78caf594c8eb30aaa0b109adc2c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "22f737648e4d9b916b6d407421ee9bd1:c704bb59931cf4f78368c21843a142a5",
+        "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/7hynnntksq/out/v1/dab9f3c476734e9eaefdd9083b467905/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "",
         "title": "PARAMOUNT+ FHD",
         "type": "1"
@@ -450,11 +460,32 @@
         "type": "1"
       },
       {
+        "api": "9f50d0d4b724339eee03b9e5453f7cbc:6998d0ba44d3508cff6ceb60503947ee",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/g0nykbtku6/out/v1/fc186f76ee244aa7bef8e8336aa6fa38/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "PARAMOUNT+ ES",
+        "type": "1"
+      },
+      {
+        "api": "c15a463b3f82adfd5f385a7ff935caa0:01442eab8013f15767ce5dd9bdf59c11",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/swhwcotjsz/out/v1/ffce9f2f9f2e4dce903ee71c74475486/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "PARAMOUNT+ PT",
+        "type": "1"
+      },
+      {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/54153/load-playlist?|Referer=https://gooz.aapmains.net",
+        "link": "https://chatgpt.hereisman.net/playlist/54701/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "",
         "title": "PARAMOUNT+ HD",
         "type": "0"
+      },
+      {
+        "api": "60de674d9db66df9ba090e06871d3554:18071eac168232fc3d45549049c1de6b",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ccupb3gevq/out/v1/d9d54c61efab463981d1a7d04ceeb44c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "SportsNet FHD",
+        "type": "1"
       },
       {
         "api": "",
@@ -465,38 +496,31 @@
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/ufc-fight-night-gamrot-vs-salkilld",
+        "link": "https://embedindia.st/embed/ufc-330",
         "logo": "",
-        "title": "PARAMOUNT+ FHD",
+        "title": "PARAMOUNT+ [FHD]",
         "type": "2"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/ufc-fight-night-gamrot-vs-salkilld/paramount-es",
+        "link": "https://embedindia.st/embed/ufc-330/paramount-es",
         "logo": "",
-        "title": "PARAMOUNT+ ES",
+        "title": "PARAMOUNT+ ES [FHD]",
         "type": "2"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/ufc-fight-night-gamrot-vs-salkilld/paramount-pt",
+        "link": "https://embedindia.st/embed/ufc-330/paramount-pt",
         "logo": "",
-        "title": "PARAMOUNT+ PT",
+        "title": "PARAMOUNT+ PT [FHD]",
         "type": "2"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/ufc-fight-night-gamrot-vs-salkilld/dazn-de",
+        "link": "https://embedindia.st/embed/ufc-330/dazn-de",
         "logo": "",
         "title": "DAZN DE [FHD]",
         "type": "2"
-      },
-      {
-        "api": "60de674d9db66df9ba090e06871d3554:18071eac168232fc3d45549049c1de6b",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ccupb3gevq/out/v1/d9d54c61efab463981d1a7d04ceeb44c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "SportsNet FHD",
-        "type": "1"
       },
       {
         "api": "",
@@ -698,7 +722,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/187744/image",
       "eventName": "Australia vs Bangladesh",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/08/16 00:30:00 +0000",
       "endTime": "2026/08/16 08:00:00 +0000"
     },

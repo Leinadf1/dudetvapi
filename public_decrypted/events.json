@@ -185,23 +185,25 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/465162/image",
       "eventName": "UFC 330: Makhachev vs Machado Garry",
       "eventType": "null",
-      "eventBanner": "null",
-      "isHot": "0",
+      "eventBanner": "https://wsrv.nl/?url=https://iili.io/CiSl8DF.png",
+      "isHot": "1",
       "startTime": "2026/08/15 21:00:00 +0000",
-      "endTime": "2026/08/16 04:00:00 +0000"
+      "endTime": "2026/08/16 04:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
       "PARAMOUNT+ FHD",
       "TNT Sports FHD",
-      "PARAMOUNT+ HD",
-      "DUDE Tv LIVE",
-      "PARAMOUNT+ FHD",
       "PARAMOUNT+ ES",
       "PARAMOUNT+ PT",
-      "DAZN DE [FHD]",
+      "PARAMOUNT+ HD",
       "SportsNet FHD",
+      "DUDE Tv LIVE",
+      "PARAMOUNT+ [FHD]",
+      "PARAMOUNT+ ES [FHD]",
+      "PARAMOUNT+ PT [FHD]",
+      "DAZN DE [FHD]",
       "DUDE Tv Live",
       "SD TV (USE VPN)"
     ],
@@ -215,18 +217,6 @@
         "logo": ""
       },
       {
-        "title": "PARAMOUNT+ HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv LIVE",
-        "logo": ""
-      },
-      {
-        "title": "PARAMOUNT+ FHD",
-        "logo": ""
-      },
-      {
         "title": "PARAMOUNT+ ES",
         "logo": ""
       },
@@ -235,11 +225,31 @@
         "logo": ""
       },
       {
-        "title": "DAZN DE [FHD]",
+        "title": "PARAMOUNT+ HD",
         "logo": ""
       },
       {
         "title": "SportsNet FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv LIVE",
+        "logo": ""
+      },
+      {
+        "title": "PARAMOUNT+ [FHD]",
+        "logo": ""
+      },
+      {
+        "title": "PARAMOUNT+ ES [FHD]",
+        "logo": ""
+      },
+      {
+        "title": "PARAMOUNT+ PT [FHD]",
+        "logo": ""
+      },
+      {
+        "title": "DAZN DE [FHD]",
         "logo": ""
       },
       {
@@ -345,7 +355,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/187744/image",
       "eventName": "Australia vs Bangladesh",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/08/16 00:30:00 +0000",
       "endTime": "2026/08/16 08:00:00 +0000"
     },
