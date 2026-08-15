@@ -1788,8 +1788,8 @@
       "eventName": "Caribbean Premier League",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/14 23:00:00 +0000",
-      "endTime": "2026/08/15 02:45:00 +0000"
+      "startTime": "2026/08/16 00:00:00 +0000",
+      "endTime": "2026/08/16 03:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -2754,11 +2754,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "LaLiga Hypermotion Es"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "LaLiga Hypermotion Es",
         "logo": ""
       }
     ]
@@ -2986,7 +2986,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/35/image",
       "eventName": "AC Milan vs Manchester United",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/08/15 14:45:00 +0000",
       "endTime": "2026/08/15 16:45:00 +0000"
     },
@@ -2995,9 +2995,12 @@
     "formats": [
       "SportDigital Fussball",
       "MU TV HD",
+      "DUDE Tv Live",
       "MU TV",
       "SportyNET HD",
       "Sport TV2 HD",
+      "beiN SPORTS ES",
+      "HD SERVER",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
@@ -3010,6 +3013,10 @@
         "logo": ""
       },
       {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
         "title": "MU TV",
         "logo": ""
       },
@@ -3019,6 +3026,14 @@
       },
       {
         "title": "Sport TV2 HD",
+        "logo": ""
+      },
+      {
+        "title": "beiN SPORTS ES",
+        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
+      },
+      {
+        "title": "HD SERVER",
         "logo": ""
       },
       {

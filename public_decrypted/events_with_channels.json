@@ -3826,8 +3826,8 @@
       "eventName": "Caribbean Premier League",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/14 23:00:00 +0000",
-      "endTime": "2026/08/15 02:45:00 +0000"
+      "startTime": "2026/08/16 00:00:00 +0000",
+      "endTime": "2026/08/16 03:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -5291,11 +5291,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "LaLiga Hypermotion Es"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "LaLiga Hypermotion Es",
         "logo": ""
       }
     ],
@@ -5593,14 +5593,30 @@
       {
         "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
         "title": "FOX DEPORTES",
         "type": "1"
       },
       {
         "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
         "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
         "title": "D Sports FHD",
         "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8",
+        "logo": "",
+        "title": "HD SERVER",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://edgestream1.pro/hls/sqdahach1ax.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+        "logo": "",
+        "title": "HD SERVER",
+        "type": "0"
       }
     ],
     "channel_status": "live"
@@ -5617,7 +5633,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/35/image",
       "eventName": "AC Milan vs Manchester United",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/08/15 14:45:00 +0000",
       "endTime": "2026/08/15 16:45:00 +0000"
     },
@@ -5626,9 +5642,12 @@
     "formats": [
       "SportDigital Fussball",
       "MU TV HD",
+      "DUDE Tv Live",
       "MU TV",
       "SportyNET HD",
       "Sport TV2 HD",
+      "beiN SPORTS ES",
+      "HD SERVER",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
@@ -5641,6 +5660,10 @@
         "logo": ""
       },
       {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
         "title": "MU TV",
         "logo": ""
       },
@@ -5650,6 +5673,14 @@
       },
       {
         "title": "Sport TV2 HD",
+        "logo": ""
+      },
+      {
+        "title": "beiN SPORTS ES",
+        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
+      },
+      {
+        "title": "HD SERVER",
         "logo": ""
       },
       {
@@ -5670,6 +5701,13 @@
         "link": "https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8",
         "logo": "",
         "title": "MU TV HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/54664/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv Live",
         "type": "0"
       },
       {
