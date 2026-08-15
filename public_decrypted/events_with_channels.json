@@ -1084,9 +1084,9 @@
       "eventName": "🥊 WWE Friday Night SmackDown",
       "eventType": "null",
       "eventBanner": "https://iili.io/B60OM3Q.gif",
-      "isHot": "1",
-      "startTime": "2026/08/15 00:00:00 +0000",
-      "endTime": "2026/08/15 03:00:00 +0000"
+      "isHot": "0",
+      "startTime": "2026/08/22 00:00:00 +0000",
+      "endTime": "2026/08/22 03:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1208,32 +1208,27 @@
   },
   {
     "id": 50013,
-    "title": "Atlanta Falcons",
+    "title": "Jacksonville Jaguars",
     "image": "o",
     "cat": "NFL",
     "eventInfo": {
-      "teamA": "Falcons",
-      "teamB": "Broncos",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4393/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4418/image",
-      "eventName": "Atlanta Falcons vs Denver Broncos",
+      "teamA": "Saints",
+      "teamB": "Jaguars",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4425/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4386/image",
+      "eventName": "New Orleans Saints vs Jacksonville Jaguars",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/14 23:00:00 +0000",
-      "endTime": "2026/08/15 02:00:00 +0000"
+      "startTime": "2026/08/15 20:00:00 +0000",
+      "endTime": "2026/08/15 23:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv NFL",
       "DUDE Tv Live",
       "NFL LIVE [FHD]"
     ],
     "formatsNew": [
-      {
-        "title": "DUDE Tv NFL",
-        "logo": ""
-      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1246,22 +1241,13 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/54616/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv NFL",
-        "type": "0"
-      },
-      {
-        "api": "",
         "link": "https://edgestream1.pro/hls/qsdnajbq32.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
         "link": "https://embedindia.st/embed/nfl/2026-08-14/den-atl",
-        "logo": "",
         "title": "NFL LIVE [FHD]",
         "type": "2"
       },
@@ -1390,56 +1376,6 @@
         "link": "https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd",
         "title": "EUROSPORT2 FHD",
         "type": "1"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50027,
-    "title": "Indiana Fever vs Dallas Wings",
-    "image": "o",
-    "cat": "WNBA",
-    "eventInfo": {
-      "teamA": "Fever",
-      "teamB": "Wings",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3452/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3450/image",
-      "eventName": "Indiana Fever vs Dallas Wings",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/14 23:30:00 +0000",
-      "endTime": "2026/08/15 02:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "WNBA LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "WNBA LIVE [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://edgestream2.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/wnba/2026-08-14/dal-ind",
-        "logo": "",
-        "title": "WNBA LIVE [FHD]",
-        "type": "2"
       }
     ],
     "channel_status": "live"
@@ -1631,6 +1567,43 @@
     "channel_status": "live"
   },
   {
+    "id": 50042,
+    "title": "Kansas City Chiefs",
+    "image": "o",
+    "cat": "NFL",
+    "eventInfo": {
+      "teamA": "Chiefs",
+      "teamB": "Rams",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4422/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4387/image",
+      "eventName": "Kansas City Chiefs vs Los Angeles Rams",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/15 20:00:00 +0000",
+      "endTime": "2026/08/15 23:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
     "id": 50052,
     "title": "Colorado Rockies",
     "image": "o",
@@ -1686,6 +1659,54 @@
         "api": "",
         "link": "https://embedindia.st/embed/mlb/2026-08-14/col-sf",
         "logo": "",
+        "title": "MLB LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50053,
+    "title": "Texas Rangers",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Athletics",
+      "teamB": "Rangers",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3645/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3647/image",
+      "eventName": "Athletics vs Texas Rangers",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/16 01:40:00 +0000",
+      "endTime": "2026/08/16 04:40:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "MLB LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "MLB LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://edgestream1.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/mlb/2026-08-12/kc-lad",
         "title": "MLB LIVE [FHD]",
         "type": "2"
       }
@@ -2064,32 +2085,27 @@
   },
   {
     "id": 50064,
-    "title": "Tampa Bay Buccaneers",
+    "title": "Philadelphia Eagles",
     "image": "o",
     "cat": "NFL",
     "eventInfo": {
-      "teamA": "Jets",
-      "teamB": "Buccaneers",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4427/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4388/image",
-      "eventName": "New York Jets vs Tampa Bay Buccaneers",
+      "teamA": "Ravens",
+      "teamB": "Eagles",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4413/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4428/image",
+      "eventName": "Baltimore Ravens vs Philadelphia Eagles",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/14 23:00:00 +0000",
-      "endTime": "2026/08/15 02:00:00 +0000"
+      "startTime": "2026/08/15 23:00:00 +0000",
+      "endTime": "2026/08/16 02:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv NFL",
       "DUDE Tv Live",
       "NFL LIVE [FHD]"
     ],
     "formatsNew": [
-      {
-        "title": "DUDE Tv NFL",
-        "logo": ""
-      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2102,22 +2118,13 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/54626/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv NFL",
-        "type": "0"
-      },
-      {
-        "api": "",
         "link": "https://edgestream1.pro/hls/JHDAJBDnjdna30.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
         "link": "https://embedindia.st/embed/nfl/2026-08-14/tb-nyj",
-        "logo": "",
         "title": "NFL LIVE [FHD]",
         "type": "2"
       }
@@ -2126,32 +2133,27 @@
   },
   {
     "id": 50065,
-    "title": "Washington Commanders",
+    "title": "Seattle Seahawks",
     "image": "o",
     "cat": "NFL",
     "eventInfo": {
-      "teamA": "Commanders",
-      "teamB": "Dolphins",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4432/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4287/image",
-      "eventName": "Washington Commanders vs Miami Dolphins",
+      "teamA": "Seahawks",
+      "teamB": "Cowboys",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4430/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4392/image",
+      "eventName": "Seattle Seahawks vs Dallas Cowboys",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/14 23:00:00 +0000",
-      "endTime": "2026/08/15 02:00:00 +0000"
+      "startTime": "2026/08/16 00:00:00 +0000",
+      "endTime": "2026/08/16 02:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv NFL",
       "DUDE Tv Live",
       "NFL LIVE [FHD]"
     ],
     "formatsNew": [
-      {
-        "title": "DUDE Tv NFL",
-        "logo": ""
-      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2162,6 +2164,18 @@
       }
     ],
     "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://edgestream2.pro/hls/sfjnzabacah31.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/nfl/2026-08-14/mia-wsh",
+        "title": "NFL LIVE [FHD]",
+        "type": "2"
+      },
       {
         "api": "",
         "link": "https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8",
@@ -3114,20 +3128,205 @@
     "channel_status": "live"
   },
   {
-    "id": 50079,
-    "title": "Cleveland Guardians vs Padres",
+    "id": 50075,
+    "title": "Detroit Tigers vs White Sox",
     "image": "o",
     "cat": "MLB",
     "eventInfo": {
-      "teamA": "Guardians",
-      "teamB": "Padres",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3650/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3636/image",
-      "eventName": "Cleveland Guardians vs San Diego Padres",
+      "teamA": "Tigers",
+      "teamB": "White Sox",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3648/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3644/image",
+      "eventName": "Detroit Tigers vs Chicago White Sox",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/14 23:10:00 +0000",
-      "endTime": "2026/08/15 02:10:00 +0000"
+      "startTime": "2026/08/15 17:10:00 +0000",
+      "endTime": "2026/08/15 20:10:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "MLB LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "MLB LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://edgestream3.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/mlb/2026-08-14/stl-chc",
+        "title": "MLB LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50076,
+    "title": "Chicago Cubs vs Cardinals",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Cubs",
+      "teamB": "Cardinals",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3627/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3632/image",
+      "eventName": "Chicago Cubs vs St. Louis Cardinals",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/15 18:20:00 +0000",
+      "endTime": "2026/08/15 21:20:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "MLB LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "MLB LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/mlb/2026-08-14/mia-cin",
+        "title": "MLB LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50077,
+    "title": "Toronto Blue Jays vs Yankees",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Blue Jays",
+      "teamB": "Yankees",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3642/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3654/image",
+      "eventName": "Toronto Blue Jays vs New York Yankees",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/15 19:07:00 +0000",
+      "endTime": "2026/08/15 22:07:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "MLB LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "MLB LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://edgestream1.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/mlb/2026-08-14/chw-det",
+        "logo": "",
+        "title": "MLB LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "cached"
+  },
+  {
+    "id": 50078,
+    "title": "Giants vs Colorado Rockies",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Giants",
+      "teamB": "Rockies",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3634/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3628/image",
+      "eventName": "San Francisco Giants vs Colorado Rockies",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/15 20:05:00 +0000",
+      "endTime": "2026/08/15 23:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "MLB LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "MLB LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://edgestream1.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/mlb/2026-08-14/bos-pit",
+        "logo": "",
+        "title": "MLB LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50079,
+    "title": "Mets vs Washington Nationals",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Mets",
+      "teamB": "Nationals",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3629/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/5930/image",
+      "eventName": "New York Mets vs Washington Nationals",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/15 20:10:00 +0000",
+      "endTime": "2026/08/15 23:10:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -3164,8 +3363,8 @@
     "channel_status": "live"
   },
   {
-    "id": 50081,
-    "title": "Tampa Bay Rays vs Orioles",
+    "id": 50080,
+    "title": "Rays vs Baltimore Orioles",
     "image": "o",
     "cat": "MLB",
     "eventInfo": {
@@ -3176,8 +3375,58 @@
       "eventName": "Tampa Bay Rays vs Baltimore Orioles",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/14 23:10:00 +0000",
-      "endTime": "2026/08/15 02:10:00 +0000"
+      "startTime": "2026/08/15 22:10:00 +0000",
+      "endTime": "2026/08/16 01:10:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "MLB LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "MLB LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://edgestream1.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/mlb/2026-08-14/wsh-nym",
+        "logo": "",
+        "title": "MLB LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50081,
+    "title": "Cincinnati Reds vs Miami Marlins",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Reds",
+      "teamB": "Marlins",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3633/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3639/image",
+      "eventName": "Cincinnati Reds vs Miami Marlins",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/15 22:40:00 +0000",
+      "endTime": "2026/08/16 01:40:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -3207,6 +3456,111 @@
         "api": "",
         "link": "https://embedindia.st/embed/mlb/2026-08-14/bal-tb",
         "logo": "",
+        "title": "MLB LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "cached"
+  },
+  {
+    "id": 50082,
+    "title": "Guardians vs San Diego Padres",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Guardians",
+      "teamB": "Padres",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3650/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3636/image",
+      "eventName": "Cleveland Guardians vs San Diego Padres",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/15 23:10:00 +0000",
+      "endTime": "2026/08/16 02:10:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "MLB LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "MLB LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
+        "title": "TNT Sports FHD",
+        "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://edgestream2.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/mlb/2026-08-14/ari-atl",
+        "logo": "",
+        "title": "MLB LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "cached"
+  },
+  {
+    "id": 50083,
+    "title": "Astros vs Seattle Mariners",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Astros",
+      "teamB": "Mariners",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3655/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3641/image",
+      "eventName": "Houston Astros vs Seattle Mariners",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/15 23:10:00 +0000",
+      "endTime": "2026/08/16 02:10:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "MLB LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "MLB LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://edgestream1.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/mlb/2026-08-14/nyy-tor",
         "title": "MLB LIVE [FHD]",
         "type": "2"
       }
