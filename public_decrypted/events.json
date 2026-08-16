@@ -627,100 +627,6 @@
     ]
   },
   {
-    "id": 50023,
-    "title": "Arsenal vs Manchester City",
-    "image": "o",
-    "cat": "Community Shield",
-    "eventInfo": {
-      "teamA": "Arsenal",
-      "teamB": "Man City",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/42/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/17/image",
-      "eventName": "Arsenal vs Manchester City",
-      "eventType": "null",
-      "eventBanner": "https://wsrv.nl/?url=https://iili.io/CipZkLQ.png",
-      "isHot": "0",
-      "startTime": "2026/08/16 14:00:00 +0000",
-      "endTime": "2026/08/16 16:25:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "TNT Sports FHD",
-      "TNT SPORTS HD",
-      "ESPN SPORTS HD",
-      "ESPN BR HD",
-      "DUDE Tv Live",
-      "HD SERVER",
-      "beIN ARABIC HD",
-      "SPX FHD LIVE",
-      "ASTO GRANSTAND",
-      "SD SERVER",
-      "SonyLiv [ENG]",
-      "TNT SPORTS [FHD]",
-      "DAZN DE [FHD]",
-      "Viaplay SPORTS [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "TNT Sports FHD",
-        "logo": ""
-      },
-      {
-        "title": "TNT SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "ESPN SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "ESPN BR HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "beIN ARABIC HD",
-        "logo": ""
-      },
-      {
-        "title": "SPX FHD LIVE",
-        "logo": ""
-      },
-      {
-        "title": "ASTO GRANSTAND",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv [ENG]",
-        "logo": ""
-      },
-      {
-        "title": "TNT SPORTS [FHD]",
-        "logo": ""
-      },
-      {
-        "title": "DAZN DE [FHD]",
-        "logo": ""
-      },
-      {
-        "title": "Viaplay SPORTS [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50027,
     "title": "Atlanta Dream vs Indiana Fever",
     "image": "o",
@@ -1790,17 +1696,27 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "PREMIER SPORTS",
+      "PREMIER SPORTS FHD",
       "D Sports FHD",
+      "PREMIER SPORTS HD",
+      "DUDE Tv Live",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "PREMIER SPORTS",
+        "title": "PREMIER SPORTS FHD",
         "logo": ""
       },
       {
         "title": "D Sports FHD",
+        "logo": ""
+      },
+      {
+        "title": "PREMIER SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       },
       {
@@ -1947,16 +1863,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PARAMOUNT+ FHD",
       "D Sports FHD",
-      "ITALIA 1 FHD"
+      "ITALIA 1 FHD",
+      "LOW SERVER"
     ],
     "formatsNew": [
+      {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
       {
         "title": "D Sports FHD",
         "logo": ""
       },
       {
         "title": "ITALIA 1 FHD",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -2079,34 +2005,6 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50101,
-    "title": "Nacional vs Estoril Praia",
-    "image": "o",
-    "cat": "Liga Portugal",
-    "eventInfo": {
-      "teamA": "Nacional",
-      "teamB": "Estoril",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3013/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4500/image",
-      "eventName": "CD Nacional vs Estoril Praia",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/16 14:30:00 +0000",
-      "endTime": "2026/08/16 16:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
       "Sport TV HD",
       "DUDE Tv Live"
     ],
@@ -2216,34 +2114,6 @@
     ]
   },
   {
-    "id": 50107,
-    "title": "Chapecoense vs Bahia",
-    "image": "o",
-    "cat": "Brasileirão",
-    "eventInfo": {
-      "teamA": "Chapecoense",
-      "teamB": "Bahia",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/21845/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1955/image",
-      "eventName": "Chapecoense vs Bahia",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/16 14:00:00 +0000",
-      "endTime": "2026/08/16 16:10:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PREMIERER BR"
-    ],
-    "formatsNew": [
-      {
-        "title": "PREMIERER BR",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50108,
     "title": "Al Wehda vs Al-Shabab",
     "image": "o",
@@ -2286,34 +2156,6 @@
       "isHot": "0",
       "startTime": "2026/08/16 16:40:00 +0000",
       "endTime": "2026/08/16 18:40:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50110,
-    "title": "Al Bukayriyah vs Al-Hazem",
-    "image": "o",
-    "cat": "Kings Cup",
-    "eventInfo": {
-      "teamA": "Al Bukayriyah",
-      "teamB": "Al-Hazem",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/306937/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/168086/image",
-      "eventName": "Al Bukayriyah vs Al-Hazem",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/16 16:15:00 +0000",
-      "endTime": "2026/08/16 18:15:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -2414,59 +2256,6 @@
     ]
   },
   {
-    "id": 50113,
-    "title": "Watford vs Southampton",
-    "image": "o",
-    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Watford",
-      "teamB": "Southampton",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/24/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/45/image",
-      "eventName": "Watford vs Southampton",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/16 12:30:00 +0000",
-      "endTime": "2026/08/16 14:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN ENGLISH FHD",
-      "CBS NETWORK",
-      "SKY FOOTBALL HD",
-      "ESPN2 BR HD",
-      "DUDE Tv Live",
-      "SPX LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN ENGLISH FHD",
-        "logo": ""
-      },
-      {
-        "title": "CBS NETWORK",
-        "logo": ""
-      },
-      {
-        "title": "SKY FOOTBALL HD",
-        "logo": ""
-      },
-      {
-        "title": "ESPN2 BR HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50114,
     "title": "Liverpool vs Como",
     "image": "o",
@@ -2521,7 +2310,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2829/image",
       "eventName": "Schalke 04 vs Real Madrid",
       "eventType": "null",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/08/16 15:00:00 +0000",
       "endTime": "2026/08/16 17:05:00 +0000"
     },
@@ -2583,140 +2372,6 @@
       },
       {
         "title": "SPX LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50116,
-    "title": "Basel vs Barcelona",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Basel",
-      "teamB": "Barcelona",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2501/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2817/image",
-      "eventName": "Basel vs Barcelona",
-      "eventType": "null",
-      "isHot": "1",
-      "startTime": "2026/08/16 14:30:00 +0000",
-      "endTime": "2026/08/16 16:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "3 CAT TV HD",
-      "Blue Sports HD",
-      "HD SERVER",
-      "SD SERVER",
-      "DUDE Tv Live",
-      "SPX FHD LIVE"
-    ],
-    "formatsNew": [
-      {
-        "title": "3 CAT TV HD",
-        "logo": ""
-      },
-      {
-        "title": "Blue Sports HD",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SPX FHD LIVE",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50117,
-    "title": "Newcastle vs Strasbourg",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Newcastle",
-      "teamB": "Strasbourg",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/39/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1659/image",
-      "eventName": "Newcastle United vs RC Strasbourg",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/16 15:00:00 +0000",
-      "endTime": "2026/08/16 17:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "CASTLE TV HD",
-      "DISNEY+ HD",
-      "DUDE Tv Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "CASTLE TV HD",
-        "logo": ""
-      },
-      {
-        "title": "DISNEY+ HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50118,
-    "title": "Forest vs Stade Brestois",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Forest",
-      "teamB": "Brest",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/14/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1715/image",
-      "eventName": "Nottingham Forest vs Stade Brestois",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/16 13:00:00 +0000",
-      "endTime": "2026/08/16 15:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "FOREST TV HD",
-      "DUDE Tv Live",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "FOREST TV HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
         "logo": ""
       }
     ]
