@@ -639,9 +639,9 @@
       "eventName": "Arsenal vs Manchester City",
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://iili.io/CipZkLQ.png",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/08/16 14:00:00 +0000",
-      "endTime": "2026/08/16 16:10:00 +0000"
+      "endTime": "2026/08/16 16:25:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1980,11 +1980,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "D SPORTS+ FHD"
+      "PARAMOUNT+ FHD",
+      "D SPORTS+ FHD",
+      "DUDE Tv Live",
+      "HD SERVER"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
         "title": "D SPORTS+ FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
         "logo": ""
       }
     ]
@@ -2130,72 +2145,6 @@
     "formatsNew": [
       {
         "title": "SportDigital Fussball",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50103,
-    "title": "Twente vs PEC Zwolle",
-    "image": "o",
-    "cat": "Eredivisie",
-    "eventInfo": {
-      "teamA": "Twente",
-      "teamB": "Zwolle",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2955/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2971/image",
-      "eventName": "FC Twente vs PEC Zwolle",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/16 12:30:00 +0000",
-      "endTime": "2026/08/16 14:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50104,
-    "title": "Feyenoord vs GA Eagles",
-    "image": "o",
-    "cat": "Eredivisie",
-    "eventInfo": {
-      "teamA": "Feyenoord",
-      "teamB": "GA Eagles",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2959/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2979/image",
-      "eventName": "Feyenoord vs GA Eagles",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/16 12:30:00 +0000",
-      "endTime": "2026/08/16 14:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportDigital Fussball",
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "SportDigital Fussball",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
@@ -2964,39 +2913,6 @@
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50130,
-    "title": "Malaysia vs Vietnam",
-    "image": "o",
-    "cat": "ASEAN Championship",
-    "eventInfo": {
-      "teamA": "Malaysia",
-      "teamB": "Vietnam",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/6912/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/7050/image",
-      "eventName": "Malaysia vs Vietnam",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/16 13:00:00 +0000",
-      "endTime": "2026/08/16 15:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
         "logo": ""
       }
     ]
