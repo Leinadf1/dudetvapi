@@ -667,9 +667,9 @@
       "eventName": "Sri Lanka vs India",
       "eventType": "null",
       "eventBanner": "null",
-      "isHot": "1",
-      "startTime": "2026/08/16 04:30:00 +0000",
-      "endTime": "2026/08/16 12:00:00 +0000"
+      "isHot": "0",
+      "startTime": "2026/08/17 04:30:00 +0000",
+      "endTime": "2026/08/17 12:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1244,7 +1244,7 @@
       "eventName": "Arsenal vs Manchester City",
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://iili.io/CipZkLQ.png",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/08/16 14:00:00 +0000",
       "endTime": "2026/08/16 16:10:00 +0000"
     },
@@ -1252,6 +1252,7 @@
     "publish": "1",
     "formats": [
       "TNT Sports FHD",
+      "ESPN SPORTS HD",
       "ESPN BR HD"
     ],
     "formatsNew": [
@@ -1260,23 +1261,15 @@
         "logo": ""
       },
       {
+        "title": "ESPN SPORTS HD",
+        "logo": ""
+      },
+      {
         "title": "ESPN BR HD",
         "logo": ""
       }
     ],
     "decoded_channels": [
-      {
-        "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "title": "TNT Sports FHD",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://rdcstream.life/live/espn/index.m3u8?|Referer=https://bolodechocolate.fit/",
-        "title": "ESPN BR HD",
-        "type": "0"
-      },
       {
         "api": "",
         "link": "https://chatgpt.hereisman.net/playlist/53519/load-playlist?|Referer=https://gooz.aapmains.net",
@@ -1873,7 +1866,8 @@
       "WILLOW - FHD",
       "SKY CRICKET",
       "WILLOW - ALT",
-      "SonyLiv (Asia)",
+      "TAPMAD - FHD",
+      "SKY SPORT NZ",
       "LOW SERVER"
     ],
     "formatsNew": [
@@ -1890,8 +1884,12 @@
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
-        "title": "SonyLiv (Asia)",
+        "title": "TAPMAD - FHD",
         "logo": ""
+      },
+      {
+        "title": "SKY SPORT NZ",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
       },
       {
         "title": "LOW SERVER",
@@ -1900,8 +1898,8 @@
     ],
     "decoded_channels": [
       {
-        "api": "a6da7c3d90997ede43bdc0aa59a51ffd:7664d9539a1d217fb1bcf00b6332eed8",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vrvl6ur6af/out/v1/7ac2d43b1dff45c28977a0917d3b94c5/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "7a615551b0c174ba183d78091ad30b7f:deb41a2ff53a0ca270d055dd0b2218ef",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gdvs7aauzd/out/v1/1054878b9a9b4160bc04479d6d48c828/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW - FHD",
         "type": "1"
@@ -1914,22 +1912,29 @@
         "type": "0"
       },
       {
-        "api": "a6da7c3d90997ede43bdc0aa59a51ffd:7664d9539a1d217fb1bcf00b6332eed8",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vrvl6ur6af/out/v1/7ac2d43b1dff45c28977a0917d3b94c5/cenc.mpd",
+        "api": "7a615551b0c174ba183d78091ad30b7f:deb41a2ff53a0ca270d055dd0b2218ef",
+        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/gdvs7aauzd/out/v1/1054878b9a9b4160bc04479d6d48c828/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW - ALT",
         "type": "1"
       },
       {
         "api": "",
-        "link": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1786733432~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=7b0a04ca46aaf513c723017accd7a781e58fbcf8bd9de5f964ce37b1d79d06b7",
+        "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8",
         "logo": "",
-        "title": "SonyLiv (Asia)",
+        "title": "TAPMAD - FHD",
         "type": "0"
       },
       {
         "api": "",
-        "link": "http://193.47.62.193/hls/AFFFFAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "https://tmaxapp.site/8wirwjs76erftg/skysport2nzf5az.m3u8",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
+        "title": "SKY SPORT NZ",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.42/hls/AMMMAAAAAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
         "title": "LOW SERVER",
         "type": "0"
@@ -3455,11 +3460,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ],
@@ -3472,7 +3482,7 @@
         "type": "0"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
     "id": 50104,
@@ -3899,6 +3909,7 @@
     "formats": [
       "beIN ENGLISH FHD",
       "CBS NETWORK",
+      "SKY FOOTBALL HD",
       "ESPN2 BR HD",
       "DUDE Tv Live",
       "SPX LIVE [FHD]"
@@ -3910,6 +3921,10 @@
       },
       {
         "title": "CBS NETWORK",
+        "logo": ""
+      },
+      {
+        "title": "SKY FOOTBALL HD",
         "logo": ""
       },
       {
@@ -3939,6 +3954,13 @@
         "logo": "",
         "title": "CBS NETWORK",
         "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/54740/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "SKY FOOTBALL HD",
+        "type": "0"
       },
       {
         "api": "",
@@ -4229,20 +4251,44 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "FOREST TV HD",
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
+        "title": "FOREST TV HD",
+        "logo": ""
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
         "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/54746/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "FOREST TV HD",
+        "type": "0"
+      },
+      {
+        "api": "",
         "link": "https://live.vivo200.com/live/sd-1-4613279.m3u8?txSecret=d9fd4008ff7b0fd4661cf457b34ffc99&txTime=6A81B32F|Referer=https://player.online909.com/",
         "logo": "",
         "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.42/hls/AMMMAAAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "SD SERVER",
         "type": "0"
       }
     ],
@@ -4748,11 +4794,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ],
@@ -4765,6 +4816,6 @@
         "type": "0"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   }
 ]

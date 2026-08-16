@@ -335,9 +335,9 @@
       "eventName": "Sri Lanka vs India",
       "eventType": "null",
       "eventBanner": "null",
-      "isHot": "1",
-      "startTime": "2026/08/16 04:30:00 +0000",
-      "endTime": "2026/08/16 12:00:00 +0000"
+      "isHot": "0",
+      "startTime": "2026/08/17 04:30:00 +0000",
+      "endTime": "2026/08/17 12:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -639,7 +639,7 @@
       "eventName": "Arsenal vs Manchester City",
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://iili.io/CipZkLQ.png",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/08/16 14:00:00 +0000",
       "endTime": "2026/08/16 16:10:00 +0000"
     },
@@ -647,11 +647,16 @@
     "publish": "1",
     "formats": [
       "TNT Sports FHD",
+      "ESPN SPORTS HD",
       "ESPN BR HD"
     ],
     "formatsNew": [
       {
         "title": "TNT Sports FHD",
+        "logo": ""
+      },
+      {
+        "title": "ESPN SPORTS HD",
         "logo": ""
       },
       {
@@ -1023,7 +1028,8 @@
       "WILLOW - FHD",
       "SKY CRICKET",
       "WILLOW - ALT",
-      "SonyLiv (Asia)",
+      "TAPMAD - FHD",
+      "SKY SPORT NZ",
       "LOW SERVER"
     ],
     "formatsNew": [
@@ -1040,8 +1046,12 @@
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
-        "title": "SonyLiv (Asia)",
+        "title": "TAPMAD - FHD",
         "logo": ""
+      },
+      {
+        "title": "SKY SPORT NZ",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
       },
       {
         "title": "LOW SERVER",
@@ -2063,11 +2073,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -2365,6 +2380,7 @@
     "formats": [
       "beIN ENGLISH FHD",
       "CBS NETWORK",
+      "SKY FOOTBALL HD",
       "ESPN2 BR HD",
       "DUDE Tv Live",
       "SPX LIVE [FHD]"
@@ -2376,6 +2392,10 @@
       },
       {
         "title": "CBS NETWORK",
+        "logo": ""
+      },
+      {
+        "title": "SKY FOOTBALL HD",
         "logo": ""
       },
       {
@@ -2563,11 +2583,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "FOREST TV HD",
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
+        "title": "FOREST TV HD",
+        "logo": ""
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -2919,11 +2949,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
