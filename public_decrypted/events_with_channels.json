@@ -1462,6 +1462,50 @@
     "channel_status": "live"
   },
   {
+    "id": 50023,
+    "title": "Arsenal vs Manchester City",
+    "image": "o",
+    "cat": "Community Shield",
+    "eventInfo": {
+      "teamA": "Arsenal",
+      "teamB": "Man City",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/42/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/17/image",
+      "eventName": "Arsenal vs Manchester City",
+      "eventType": "null",
+      "eventBanner": "null",
+      "isHot": "0",
+      "startTime": "2026/08/16 14:00:00 +0000",
+      "endTime": "2026/08/16 16:10:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "TNT Sports FHD"
+    ],
+    "formatsNew": [
+      {
+        "title": "TNT Sports FHD",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "TNT Sports FHD",
+        "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/53519/load-playlist?|Referer=https://gooz.aapmains.net",
+        "title": "DUDE Tv WWE",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
     "id": 50032,
     "title": "Arizona Diamondbacks",
     "image": "o",
@@ -1666,10 +1710,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1680,6 +1729,13 @@
       }
     ],
     "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/54735/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv MLB",
+        "type": "0"
+      },
       {
         "api": "",
         "link": "https://edgestream2.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
@@ -1716,10 +1772,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1730,6 +1791,13 @@
       }
     ],
     "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/54736/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv MLB",
+        "type": "0"
+      },
       {
         "api": "",
         "link": "https://edgestream2.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
@@ -2662,6 +2730,7 @@
     "formats": [
       "CANAL5 FHD",
       "ViX MUNDIAL",
+      "DUDE Tv Live",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
@@ -2671,6 +2740,10 @@
       },
       {
         "title": "ViX MUNDIAL",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       },
       {
@@ -2692,6 +2765,13 @@
         "logo": "",
         "title": "ViX MUNDIAL",
         "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://live.vivo200.com/live/sd-1-4553823.m3u8?txSecret=d40befad21eab1f96201ec54446ddad6&txTime=6A811EC6|Referer=https://player.online909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
       },
       {
         "api": "",
@@ -2901,7 +2981,7 @@
         "type": "2"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
     "id": 50084,
@@ -2972,7 +3052,9 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "WILLOW - FHD",
       "TNT Sports FHD",
+      "TAPMAD FHD",
       "FOX CRICKET HD",
       "TNT SPORTS HD",
       "WILLOW HD",
@@ -2981,8 +3063,16 @@
     ],
     "formatsNew": [
       {
+        "title": "WILLOW - FHD",
+        "logo": ""
+      },
+      {
         "title": "TNT Sports FHD",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
+      {
+        "title": "TAPMAD FHD",
+        "logo": ""
       },
       {
         "title": "FOX CRICKET HD",
@@ -3067,38 +3157,48 @@
   },
   {
     "id": 50087,
-    "title": "Fluminense vs Palmeiras",
+    "title": "Claressa Shields vs Kaye Scott",
     "image": "o",
-    "cat": "Brasileirão",
+    "cat": "Boxing",
     "eventInfo": {
-      "teamA": "Fluminense",
-      "teamB": "Palmeiras",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1961/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1963/image",
-      "eventName": "Fluminense vs Palmeiras",
+      "teamA": "C. Shields",
+      "teamB": "K. Scott",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/471697/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1260409/image",
+      "eventName": "Claressa Shields vs Kaye Scott",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/15 19:30:00 +0000",
-      "endTime": "2026/08/15 21:30:00 +0000"
+      "startTime": "2026/08/16 01:30:00 +0000",
+      "endTime": "2026/08/16 04:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "PREMIERER BR"
+      "DAZN PPV HD",
+      "PPV HD LIVE"
     ],
     "formatsNew": [
       {
-        "title": "PREMIERER BR",
+        "title": "DAZN PPV HD",
+        "logo": ""
+      },
+      {
+        "title": "PPV HD LIVE",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
-        "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "PREMIERER BR",
-        "type": "1"
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/54695/load-playlist?|Referer=https://gooz.aapmains.net",
+        "title": "DAZN PPV HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/54733/load-playlist?|Referer=https://gooz.aapmains.net",
+        "title": "PPV HD LIVE",
+        "type": "0"
       }
     ],
     "channel_status": "live"
@@ -3116,8 +3216,8 @@
       "eventName": "Nashville vs Inter Miami CF",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/16 00:30:00 +0000",
-      "endTime": "2026/08/16 02:30:00 +0000"
+      "startTime": "2026/08/16 00:40:00 +0000",
+      "endTime": "2026/08/16 02:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -3216,43 +3316,6 @@
     "channel_status": "live"
   },
   {
-    "id": 50090,
-    "title": "Athletico vs RB Bragantino",
-    "image": "o",
-    "cat": "Brasileirão",
-    "eventInfo": {
-      "teamA": "Athletico",
-      "teamB": "RB Bragantino",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1967/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1999/image",
-      "eventName": "Athletico vs Red Bull Bragantino",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/15 21:30:00 +0000",
-      "endTime": "2026/08/15 23:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PREMIERER BR"
-    ],
-    "formatsNew": [
-      {
-        "title": "PREMIERER BR",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd",
-        "title": "PREMIERER 2",
-        "type": "1"
-      }
-    ],
-    "channel_status": "cached"
-  },
-  {
     "id": 50091,
     "title": "Atlante vs Toluca",
     "image": "o",
@@ -3282,51 +3345,44 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://rdcstream.life/live/new-york-city-x-necaxa/index.m3u8?|Referer=https://bolodechocolate.fit/",
-        "logo": "",
-        "title": "APPLE TV HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/leagues-cup/2026-08-13/nyc-ncx",
+        "link": "https://embedindia.st/embed/liga-mx/2026-08-15/atl-tol",
         "logo": "",
         "title": "SPX LIVE [FHD]",
         "type": "2"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50092,
-    "title": "Sevilla vs Rayo Vallecano",
+    "title": "Espanyol vs Levante",
     "image": "o",
     "cat": "LaLiga 🇪🇸",
     "eventInfo": {
-      "teamA": "Sevilla",
-      "teamB": "Rayo Vallecano",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2833/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2818/image",
-      "eventName": "Sevilla vs Rayo Vallecano",
+      "teamA": "Espanyol",
+      "teamB": "Levante",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2814/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2849/image",
+      "eventName": "Espanyol vs Levante UD",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/15 19:30:00 +0000",
-      "endTime": "2026/08/15 21:40:00 +0000"
+      "startTime": "2026/08/16 17:00:00 +0000",
+      "endTime": "2026/08/16 19:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH FHD",
-      "ESPN DEPORTES HD",
+      "PREMIER SPORTS",
+      "D Sports FHD",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "beIN ENGLISH FHD",
+        "title": "PREMIER SPORTS",
         "logo": ""
       },
       {
-        "title": "ESPN DEPORTES HD",
+        "title": "D Sports FHD",
         "logo": ""
       },
       {
@@ -3336,23 +3392,20 @@
     ],
     "decoded_channels": [
       {
-        "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "beIN ENGLISH FHD",
+        "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "PREMIER SPORTS",
+        "type": "1"
+      },
+      {
+        "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "D Sports FHD",
         "type": "1"
       },
       {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/54696/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "ESPN DEPORTES HD",
-        "type": "0"
-      },
-      {
-        "api": "",
         "link": "https://embedindia.st/embed/laliga/2026-08-15/sev-ray",
-        "logo": "",
         "title": "SPX LIVE [FHD]",
         "type": "2"
       }
@@ -3398,68 +3451,6 @@
     ],
     "decoded_channels": [
       {
-        "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "Premier Sports",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/54682/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "ESPN DEPORTES HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4565316.m3u8?txSecret=ae9e18011df4da0dcfb49b4f71ced368&txTime=6A80B0FF|Referer=https://player.online909.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "cached"
-  },
-  {
-    "id": 50094,
-    "title": "Rio Ave vs FC Porto",
-    "image": "o",
-    "cat": "Liga Portugal",
-    "eventInfo": {
-      "teamA": "Rio Ave",
-      "teamB": "Porto",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3036/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3002/image",
-      "eventName": "Rio Ave vs FC Porto",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/15 19:30:00 +0000",
-      "endTime": "2026/08/15 21:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "D Sports FHD",
-      "Sport TV1 HD",
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "D Sports FHD",
-        "logo": ""
-      },
-      {
-        "title": "Sport TV1 HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
         "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
         "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "",
@@ -3470,220 +3461,222 @@
         "api": "",
         "link": "https://rdcstream.life/live/sport-tv-1-pt/index.m3u8?|Referer=https://bolodechocolate.fit/",
         "logo": "",
-        "title": "Sport TV1 HD",
+        "title": "Sport TV HD",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4578166.m3u8?txSecret=8a0cd6a3cea3a439fc78485e2b30cf66&txTime=6A80CD7B|Referer=https://player.online909.com/",
+        "link": "https://rdcstream.life/live/nashville-sc-x-inter-miami/index.m3u8?|Referer=https://bolodechocolate.fit/",
         "logo": "",
-        "title": "DUDE Tv Live",
+        "title": "ESPN BR HD",
         "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50094,
+    "title": "Lazio vs Mantova",
+    "image": "o",
+    "cat": "Coppa Italia 🇮🇹",
+    "eventInfo": {
+      "teamA": "Lazio",
+      "teamB": "Mantova",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2699/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2770/image",
+      "eventName": "Lazio vs Mantova",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/16 19:15:00 +0000",
+      "endTime": "2026/08/16 21:15:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "PREMIER SPORTS",
+      "D Sports FHD",
+      "SPORT 1 CZ"
+    ],
+    "formatsNew": [
+      {
+        "title": "PREMIER SPORTS",
+        "logo": ""
+      },
+      {
+        "title": "D Sports FHD",
+        "logo": ""
+      },
+      {
+        "title": "SPORT 1 CZ",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "PREMIER SPORTS",
+        "type": "1"
+      },
+      {
+        "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "D Sports FHD",
+        "type": "1"
+      },
+      {
+        "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+        "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+        "title": "SPORT 1 CZ",
+        "type": "1"
       }
     ],
     "channel_status": "live"
   },
   {
     "id": 50095,
-    "title": "Excelsior vs PSV",
+    "title": "Verona vs Virtus Entella",
     "image": "o",
-    "cat": "Eredivisie",
+    "cat": "Coppa Italia 🇮🇹",
     "eventInfo": {
-      "teamA": "Excelsior",
-      "teamB": "PSV",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2967/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2952/image",
-      "eventName": "Excelsior vs PSV Eindhoven",
+      "teamA": "Verona",
+      "teamB": "Entella",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2701/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/43680/image",
+      "eventName": "Hellas Verona vs Virtus Entella",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/15 18:00:00 +0000",
-      "endTime": "2026/08/15 20:05:00 +0000"
+      "startTime": "2026/08/16 18:45:00 +0000",
+      "endTime": "2026/08/16 20:50:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportDigital Fussball",
-      "DUDE Tv Live"
+      "PREMIER SPORTS"
     ],
     "formatsNew": [
       {
-        "title": "SportDigital Fussball",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
+        "title": "PREMIER SPORTS",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
-        "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "SportDigital Fussball",
+        "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "PREMIER SPORTS",
         "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4552159.m3u8?txSecret=a830a3547b48bf014036f4fddf68c6ac&txTime=6A80B1FC|Referer=https://player.online909.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
       }
     ],
     "channel_status": "live"
   },
   {
     "id": 50096,
-    "title": "Gençlerbirliği vs Fenerbahçe",
+    "title": "Genoa vs Ascoli",
     "image": "o",
-    "cat": "Super Lig",
+    "cat": "Coppa Italia 🇮🇹",
     "eventInfo": {
-      "teamA": "Gençlerbirliği",
-      "teamB": "Fenerbahçe",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/7802/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3052/image",
-      "eventName": "Gençlerbirliği vs Fenerbahçe",
+      "teamA": "Genoa",
+      "teamB": "Ascoli",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2713/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2707/image",
+      "eventName": "Genoa vs Ascoli",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/15 18:30:00 +0000",
-      "endTime": "2026/08/15 20:30:00 +0000"
+      "startTime": "2026/08/16 16:30:00 +0000",
+      "endTime": "2026/08/16 18:35:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live",
-      "ESPN4 BR HD",
-      "beIN Sports SD",
-      "SD SERVER"
+      "D Sports FHD",
+      "ITALIA 1 FHD"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "D Sports FHD",
         "logo": ""
       },
       {
-        "title": "ESPN4 BR HD",
-        "logo": ""
-      },
-      {
-        "title": "beIN Sports SD",
-        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
-      },
-      {
-        "title": "SD SERVER",
+        "title": "ITALIA 1 FHD",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
-        "api": "",
-        "link": "https://live.vivo200.com/live/hd-en-1-4581274.m3u8?txSecret=6c2fbe0c38e2a8c38c0abf4bffd402dc&txTime=6A80C5F0|Referer=https://player.online909.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
+        "api": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "D Sports FHD",
+        "type": "1"
       },
       {
-        "api": "",
-        "link": "https://rdcstream.life/live/espn4/index.m3u8?|Referer=https://bolodechocolate.fit/",
-        "logo": "",
-        "title": "ESPN4 BR HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://tmaxapp.site/8wirwjs76erftg/beinsports1tr.m3u8",
-        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
-        "title": "beIN Sports SD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4581274.m3u8?txSecret=8c553a9b59091c6110f6901f838be588&txTime=6A80C673|Referer=https://player.online909.com/",
-        "logo": "",
-        "title": "SD SERVER",
-        "type": "0"
+        "api": "00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587",
+        "link": "https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd",
+        "title": "ITALIA 1 FHD",
+        "type": "1"
       }
     ],
     "channel_status": "live"
   },
   {
     "id": 50097,
-    "title": "Gaziantep vs Alanyaspor",
+    "title": "Frosinone vs Juve Stabia",
     "image": "o",
-    "cat": "Super Lig",
+    "cat": "Coppa Italia 🇮🇹",
     "eventInfo": {
-      "teamA": "Gaziantep",
-      "teamB": "Alanyaspor",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/5138/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/6362/image",
-      "eventName": "Gaziantep vs Alanyaspor",
+      "teamA": "Frosinone",
+      "teamB": "Juve Stabia",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2801/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/5324/image",
+      "eventName": "Frosinone vs Juve Stabia",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/15 18:30:00 +0000",
-      "endTime": "2026/08/15 20:30:00 +0000"
+      "startTime": "2026/08/16 16:00:00 +0000",
+      "endTime": "2026/08/16 18:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live",
-      "SD SERVER"
+      "D SPORTS+ FHD"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
+        "title": "D SPORTS+ FHD",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
-        "api": "",
-        "link": "https://live.vivo200.com/live/hd-en-1-4581273.m3u8?txSecret=6782aa891f393c7935c5308aa53e9e74&txTime=6A80C61E|Referer=https://player.online909.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4581273.m3u8?txSecret=8550bbfa929297409658c64fb1b349bc&txTime=6A80C61E|Referer=https://player.online909.com/",
-        "logo": "",
-        "title": "SD SERVER",
-        "type": "0"
+        "api": "83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "D SPORTS+ FHD",
+        "type": "1"
       }
     ],
     "channel_status": "live"
   },
   {
     "id": 50098,
-    "title": "Konyaspor vs Rizespor",
+    "title": "Famalicão vs CS Marítimo",
     "image": "o",
-    "cat": "CFL",
+    "cat": "Liga Portugal",
     "eventInfo": {
-      "teamA": "Edmonton",
-      "teamB": "Toronto",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4434/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4436/image",
-      "eventName": "Edmonton Elks vs Toronto Argonauts",
+      "teamA": "Famalicão",
+      "teamB": "Marítimo",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/49531/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3007/image",
+      "eventName": "Famalicão vs CS Marítimo",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/15 19:00:00 +0000",
-      "endTime": "2026/08/15 22:00:00 +0000"
+      "startTime": "2026/08/16 19:30:00 +0000",
+      "endTime": "2026/08/16 21:35:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TSN SPORTS FHD",
       "DUDE Tv Live"
     ],
     "formatsNew": [
-      {
-        "title": "TSN SPORTS FHD",
-        "logo": ""
-      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -3691,16 +3684,8 @@
     ],
     "decoded_channels": [
       {
-        "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "TSN SPORTS FHD",
-        "type": "1"
-      },
-      {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/54683/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
+        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
         "title": "DUDE Tv Live",
         "type": "0"
       }
@@ -3708,52 +3693,27 @@
     "channel_status": "live"
   },
   {
-    "id": 50102,
-    "title": "Torino vs Carrarese",
+    "id": 50099,
+    "title": "Braga vs Gil Vicente",
     "image": "o",
-    "cat": "Coppa Italia 🇮🇹",
+    "cat": "Liga Portugal",
     "eventInfo": {
-      "teamA": "Torino",
-      "teamB": "Carrarese",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2696/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2745/image",
-      "eventName": "Torino vs Carrarese",
+      "teamA": "Braga",
+      "teamB": "Gil Vicente",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2999/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3010/image",
+      "eventName": "Sporting Braga vs Gil Vicente",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/15 19:15:00 +0000",
-      "endTime": "2026/08/15 21:15:00 +0000"
+      "startTime": "2026/08/16 19:30:00 +0000",
+      "endTime": "2026/08/16 21:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "PARAMOUNT+ FHD",
-      "Premier Sports FHD",
-      "ITALIA 1 FHD",
-      "D SPORTS+ FHD",
-      "ARENA SPORTS",
       "DUDE Tv Live"
     ],
     "formatsNew": [
-      {
-        "title": "PARAMOUNT+ FHD",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "Premier Sports FHD",
-        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
-      },
-      {
-        "title": "ITALIA 1 FHD",
-        "logo": ""
-      },
-      {
-        "title": "D SPORTS+ FHD",
-        "logo": ""
-      },
-      {
-        "title": "ARENA SPORTS",
-        "logo": ""
-      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -3761,44 +3721,121 @@
     ],
     "decoded_channels": [
       {
-        "api": "df8e4cbede78e762b75700cc8d8b9095:d56b0a0f86b52d4a7d4a67843ab030a3",
-        "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/cyb1secrf7/out/v1/8b900a5914144e2ca0f4303d37b794f9/193f326e-f3ae-445a-a9fb-888363c2af63-cenc.mpd?aws_sessionId=af9db84f-189a-4243-81aa-31c4897e4e2e|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
-        "title": "PARAMOUNT+ FHD",
-        "type": "1"
-      },
-      {
-        "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
-        "title": "Premier Sports FHD",
-        "type": "1"
-      },
-      {
-        "api": "00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587",
-        "link": "https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd",
-        "logo": "",
-        "title": "ITALIA 1 FHD",
-        "type": "1"
-      },
-      {
-        "api": "83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f",
-        "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "D SPORTS+ FHD",
-        "type": "1"
-      },
-      {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/54692/load-playlist?|Referer=https://gooz.aapmains.net",
+        "link": "http://193.47.62.57/hls/RUUUAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
-        "title": "ARENA SPORTS",
+        "title": "SD SERVER",
         "type": "0"
-      },
+      }
+    ],
+    "channel_status": "cached"
+  },
+  {
+    "id": 50100,
+    "title": "Arouca vs Moreirense",
+    "image": "o",
+    "cat": "Liga Portugal",
+    "eventInfo": {
+      "teamA": "Arouca",
+      "teamB": "Moreirense",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/25777/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3014/image",
+      "eventName": "Arouca vs Moreirense",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/16 17:00:00 +0000",
+      "endTime": "2026/08/16 19:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
       {
         "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4564319.m3u8?txSecret=08540d76dba70eb9fa6f02a007fa70ce&txTime=6A80C8D4|Referer=https://player.online909.com/",
+        "link": "https://rdcstream.life/live/sport-tv-1-pt/index.m3u8?|Referer=https://bolodechocolate.fit/",
+        "title": "Sport TV1 HD",
+        "type": "0"
+      }
+    ],
+    "channel_status": "cached"
+  },
+  {
+    "id": 50101,
+    "title": "Nacional vs Estoril Praia",
+    "image": "o",
+    "cat": "Liga Portugal",
+    "eventInfo": {
+      "teamA": "Nacional",
+      "teamB": "Estoril",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3013/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4500/image",
+      "eventName": "CD Nacional vs Estoril Praia",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/16 14:30:00 +0000",
+      "endTime": "2026/08/16 16:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://live.vivo200.com/live/sd-1-4552158.m3u8?txSecret=96f78cfecfc50babe6e6350b1665d163&txTime=6A80A906|Referer=https://player.online909.com/",
         "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      }
+    ],
+    "channel_status": "cached"
+  },
+  {
+    "id": 50102,
+    "title": "Ajax vs SC Heerenveen",
+    "image": "o",
+    "cat": "Eredivisie",
+    "eventInfo": {
+      "teamA": "Ajax",
+      "teamB": "Heerenveen",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2953/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2964/image",
+      "eventName": "AFC Ajax vs SC Heerenveen",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/16 14:45:00 +0000",
+      "endTime": "2026/08/16 16:45:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
         "title": "DUDE Tv Live",
         "type": "0"
       }
@@ -3807,33 +3844,28 @@
   },
   {
     "id": 50103,
-    "title": "Venezia vs Modena",
+    "title": "Twente vs PEC Zwolle",
     "image": "o",
-    "cat": "Coppa Italia 🇮🇹",
+    "cat": "Eredivisie",
     "eventInfo": {
-      "teamA": "Venezia",
-      "teamB": "Modena",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2688/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2706/image",
-      "eventName": "Venezia vs Modena",
+      "teamA": "Twente",
+      "teamB": "Zwolle",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2955/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2971/image",
+      "eventName": "FC Twente vs PEC Zwolle",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/15 18:45:00 +0000",
-      "endTime": "2026/08/15 20:45:00 +0000"
+      "startTime": "2026/08/16 12:30:00 +0000",
+      "endTime": "2026/08/16 14:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live",
-      "HD SERVER"
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
         "logo": ""
       }
     ],
@@ -3853,32 +3885,32 @@
         "type": "0"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
-    "id": 50115,
-    "title": "Mallorca vs Real Valladolid",
+    "id": 50104,
+    "title": "Feyenoord vs GA Eagles",
     "image": "o",
-    "cat": "LaLiga 2",
+    "cat": "Eredivisie",
     "eventInfo": {
-      "teamA": "Mallorca",
-      "teamB": "Real Valladolid",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2826/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2831/image",
-      "eventName": "Mallorca vs Real Valladolid",
+      "teamA": "Feyenoord",
+      "teamB": "GA Eagles",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2959/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2979/image",
+      "eventName": "Feyenoord vs GA Eagles",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/15 19:30:00 +0000",
-      "endTime": "2026/08/15 21:30:00 +0000"
+      "startTime": "2026/08/16 12:30:00 +0000",
+      "endTime": "2026/08/16 14:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "LaLiga Hypermotion Es"
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
-        "title": "LaLiga Hypermotion Es",
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ],
@@ -3887,56 +3919,6 @@
         "api": "",
         "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
         "title": "DUDE Tv Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "cached"
-  },
-  {
-    "id": 50119,
-    "title": "Kaiserslautern vs Karlsruher",
-    "image": "o",
-    "cat": "2. Bundesliga",
-    "eventInfo": {
-      "teamA": "Kaiserslautern",
-      "teamB": "Karlsruhe",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2675/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2553/image",
-      "eventName": "Kaiserslautern vs Karlsruher",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/15 18:30:00 +0000",
-      "endTime": "2026/08/15 20:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4566593.m3u8?txSecret=4f94b1d5832eb7a1b7590f481df5249e&txTime=6A80C3B2|Referer=https://player.online909.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.193/hls/TYTYTYAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "SD SERVER",
         "type": "0"
       }
     ],
