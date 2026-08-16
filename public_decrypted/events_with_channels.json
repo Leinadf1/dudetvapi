@@ -1257,6 +1257,9 @@
       "ESPN BR HD",
       "DUDE Tv Live",
       "HD SERVER",
+      "beIN ARABIC HD",
+      "SPX FHD LIVE",
+      "ASTO GRANSTAND",
       "SD SERVER",
       "SonyLiv [ENG]",
       "TNT SPORTS [FHD]",
@@ -1286,6 +1289,18 @@
       },
       {
         "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "beIN ARABIC HD",
+        "logo": ""
+      },
+      {
+        "title": "SPX FHD LIVE",
+        "logo": ""
+      },
+      {
+        "title": "ASTO GRANSTAND",
         "logo": ""
       },
       {
@@ -1340,7 +1355,7 @@
       },
       {
         "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4543318.m3u8?txSecret=e98e0a414d00e5eb6fbac1d0a3fc3fa9&txTime=6A81D80D|Referer=https://player.online909.com/",
+        "link": "https://live.vivo200.com/live/sd-1-4543318.m3u8?txSecret=ca514bb4c47ac5cb1660ddc4e6976662&txTime=6A81DCBB|Referer=https://player.online909.com/",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
@@ -1350,6 +1365,27 @@
         "link": "https://live2.jxa76.com/live/sd-6Mwe5B21PN1KcexRab_540p.m3u8?txSecret=06c2f8b329930961a0679f189a0f9421&txTime=1A00C25DC4C",
         "logo": "",
         "title": "HD SERVER",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://yuy7ygugyvtdd.koragoal.it.com/live/b1.m3u8",
+        "logo": "",
+        "title": "beIN ARABIC HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://livecdn-tc-dara.maypn.stream/sla/1-6a60e240d7f718fae4958937-hd/chunks.m3u8?is_vip=true&token=1786976603-Kv4cPTAAP5YTi-0-d1b3da78412c28bf3ff36abd7a6ccd91|Referer=https://iframe.rumsport7.live/",
+        "logo": "",
+        "title": "SPX FHD LIVE",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://livecdn-tc-dara.maypn.stream/sla/1-6a60e240d7f718fae4958937/chunks.m3u8?is_vip=true&token=1786976680-Kv4cPTAAP5YTi-0-e7efe8aba7cad80d60f722cd32ec4519|Referer=https://iframe.rumsport7.live/",
+        "logo": "",
+        "title": "ASTO GRANSTAND",
         "type": "0"
       },
       {
@@ -4042,12 +4078,32 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PARAMOUNT+ FHD",
       "beIN ENGLISH FHD",
+      "SKY FOOTBALL HD",
+      "LOW SERVER",
+      "CBS NETWORK HD",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
         "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "SKY FOOTBALL HD",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
+        "logo": ""
+      },
+      {
+        "title": "CBS NETWORK HD",
         "logo": ""
       },
       {
@@ -4057,11 +4113,39 @@
     ],
     "decoded_channels": [
       {
+        "api": "ad3eaee6e411f68f9f2ed6f5aee50772:b4f2e48b561f0dfc83a457df2da42335",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/akmcc6qgzk/out/v1/28662664ad2c40c69916ded94c5ace08/b2f67da3-193f-4089-aad5-2eb72363719f-cenc.mpd?aws_sessionId=55002cfd-a7d4-43e5-840c-3df6024e09f6|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
+        "title": "PARAMOUNT+ FHD",
+        "type": "1"
+      },
+      {
         "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "",
         "title": "beIN ENGLISH FHD",
         "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/54748/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "SKY FOOTBALL HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.42/hls/epppaaaaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "LOW SERVER",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://saka.kpores.ru/live/cbs-sports-network.m3u8",
+        "logo": "",
+        "title": "CBS NETWORK HD",
+        "type": "0"
       },
       {
         "api": "",
@@ -4257,7 +4341,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2829/image",
       "eventName": "Schalke 04 vs Real Madrid",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/08/16 15:00:00 +0000",
       "endTime": "2026/08/16 17:05:00 +0000"
     },
@@ -4268,10 +4352,13 @@
       "FOX DEPORTES",
       "CBS NETWORK",
       "TVE La 1 FHD",
-      "SPX LIVE [FHD]",
+      "FANCODE FHD",
+      "REAL MADRID TV",
+      "DUDE Tv Live",
       "SportyNET BR HD",
       "RMA TV HD",
-      "DUDE Tv Live"
+      "HD SERVER",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
@@ -4291,7 +4378,15 @@
         "logo": ""
       },
       {
-        "title": "SPX LIVE [FHD]",
+        "title": "FANCODE FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
+        "title": "REAL MADRID TV",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       },
       {
@@ -4303,7 +4398,11 @@
         "logo": ""
       },
       {
-        "title": "DUDE Tv Live",
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ],
@@ -4335,6 +4434,20 @@
         "logo": "",
         "title": "TVE La 1 FHD",
         "type": "1"
+      },
+      {
+        "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
+        "title": "FANCODE FHD",
+        "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/54751/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "REAL MADRID TV",
+        "type": "0"
       },
       {
         "api": "",
@@ -4386,7 +4499,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2817/image",
       "eventName": "Basel vs Barcelona",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/08/16 14:30:00 +0000",
       "endTime": "2026/08/16 16:35:00 +0000"
     },
@@ -4394,7 +4507,11 @@
     "publish": "1",
     "formats": [
       "3 CAT TV HD",
-      "DUDE Tv Live"
+      "Blue Sports HD",
+      "HD SERVER",
+      "SD SERVER",
+      "DUDE Tv Live",
+      "SPX FHD LIVE"
     ],
     "formatsNew": [
       {
@@ -4402,16 +4519,53 @@
         "logo": ""
       },
       {
+        "title": "Blue Sports HD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SPX FHD LIVE",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/54747/load-playlist?|Referer=https://gooz.aapmains.net",
+        "link": "https://edgestream6.pro/hls/b0h5fNwDKH.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "3 CAT TV HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://hls.streamhub.media/hls/thesport-api-b73429dd06eabd459b59/master.m3u8",
+        "logo": "",
+        "title": "Blue Sports HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/54747/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "HD SERVER",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://live2.jxa76.com/live/sd-6MxiKJhWn6KVsSDquD_540p.m3u8?txSecret=38fced72fbea6a79a4a5ce8d75a303a2&txTime=1A00C447817",
+        "logo": "",
+        "title": "SD SERVER",
         "type": "0"
       },
       {
@@ -4419,13 +4573,6 @@
         "link": "https://live.vivo200.com/live/sd-1-4611941.m3u8?txSecret=f3a5cbe77cfd2f2c6909080035b1d941&txTime=6A81D9FE|Referer=https://player.online909.com/",
         "logo": "",
         "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://edgestream6.pro/hls/b0h5fNwDKH.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "HD SERVER",
         "type": "0"
       },
       {
@@ -4457,13 +4604,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SPX LIVE HD",
+      "CASTLE TV HD",
       "DISNEY+ HD",
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "SPX LIVE HD",
+        "title": "CASTLE TV HD",
         "logo": ""
       },
       {
@@ -4473,6 +4621,10 @@
       {
         "title": "DUDE Tv Live",
         "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
+        "logo": ""
       }
     ],
     "decoded_channels": [
@@ -4480,7 +4632,7 @@
         "api": "",
         "link": "https://chatgpt.hereisman.net/playlist/54750/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "",
-        "title": "SPX LIVE HD",
+        "title": "CASTLE TV HD",
         "type": "0"
       },
       {
@@ -4495,6 +4647,13 @@
         "link": "https://live.vivo200.com/live/sd-1-4594044.m3u8?txSecret=a44758a9df37e0dba98935ebec4b313c&txTime=6A81DBB6|Referer=https://player.online909.com/",
         "logo": "",
         "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.42/hls/emmm.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "LOW SERVER",
         "type": "0"
       }
     ],
@@ -4677,168 +4836,6 @@
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "title": "PREMIER SPORTS",
         "type": "1"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50122,
-    "title": "Dresden vs Darmstadt",
-    "image": "o",
-    "cat": "2. Bundesliga",
-    "eventInfo": {
-      "teamA": "Dresden",
-      "teamB": "Darmstadt",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2595/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2576/image",
-      "eventName": "Dynamo Dresden vs Darmstadt 98",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/16 11:30:00 +0000",
-      "endTime": "2026/08/16 13:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN ENGLISH FHD",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN ENGLISH FHD",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "beIN ENGLISH FHD",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.42/hls/RBBB.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "SD SERVER",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50123,
-    "title": "Hannover 96 vs Wolfsburg",
-    "image": "o",
-    "cat": "2. Bundesliga",
-    "eventInfo": {
-      "teamA": "Hannover",
-      "teamB": "Wolfsburg",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2541/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2524/image",
-      "eventName": "Hannover 96 vs VfL Wolfsburg",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/16 11:30:00 +0000",
-      "endTime": "2026/08/16 13:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN ENGLISH FHD",
-      "DUDE Tv Live",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN ENGLISH FHD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "beIN ENGLISH FHD",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4566635.m3u8?txSecret=65bb66339b7f227f0e3f794422a14b97&txTime=6A81B165|Referer=https://player.online909.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.42/hls/TTBBBAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "SD SERVER",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50124,
-    "title": "Arminia Bielefeld vs Cottbus",
-    "image": "o",
-    "cat": "2. Bundesliga",
-    "eventInfo": {
-      "teamA": "Bielefeld",
-      "teamB": "Cottbus",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2540/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2532/image",
-      "eventName": "Arminia Bielefeld vs Cottbus",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/16 11:30:00 +0000",
-      "endTime": "2026/08/16 13:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4566585.m3u8?txSecret=4876f2c90293ad8e657829e28de939e0&txTime=6A81B130|Referer=https://player.online909.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.42/hls/TTBBBAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "SD SERVER",
-        "type": "0"
       }
     ],
     "channel_status": "live"
