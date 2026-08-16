@@ -647,12 +647,24 @@
     "publish": "1",
     "formats": [
       "TNT Sports FHD",
+      "TNT SPORTS HD",
       "ESPN SPORTS HD",
-      "ESPN BR HD"
+      "ESPN BR HD",
+      "DUDE Tv Live",
+      "HD SERVER",
+      "SD SERVER",
+      "SonyLiv [ENG]",
+      "TNT SPORTS [FHD]",
+      "DAZN DE [FHD]",
+      "Viaplay SPORTS [FHD]"
     ],
     "formatsNew": [
       {
         "title": "TNT Sports FHD",
+        "logo": ""
+      },
+      {
+        "title": "TNT SPORTS HD",
         "logo": ""
       },
       {
@@ -661,6 +673,34 @@
       },
       {
         "title": "ESPN BR HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv [ENG]",
+        "logo": ""
+      },
+      {
+        "title": "TNT SPORTS [FHD]",
+        "logo": ""
+      },
+      {
+        "title": "DAZN DE [FHD]",
+        "logo": ""
+      },
+      {
+        "title": "Viaplay SPORTS [FHD]",
         "logo": ""
       }
     ]
@@ -1773,16 +1813,36 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "PREMIER SPORTS",
-      "CANAL5 FHD"
+      "PREMIER SPORTS FHD",
+      "CANAL5 FHD",
+      "PREMIER SPORTS HD",
+      "DUDE Tv Live",
+      "SD SERVER",
+      "LALIGA TV [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "PREMIER SPORTS",
+        "title": "PREMIER SPORTS FHD",
         "logo": ""
       },
       {
         "title": "CANAL5 FHD",
+        "logo": ""
+      },
+      {
+        "title": "PREMIER SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LALIGA TV [FHD]",
         "logo": ""
       }
     ]
@@ -2017,9 +2077,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "Sport TV HD",
       "DUDE Tv Live"
     ],
     "formatsNew": [
+      {
+        "title": "Sport TV HD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2350,11 +2415,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH FHD"
+      "beIN ENGLISH FHD",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -2478,8 +2548,10 @@
       "FOX DEPORTES",
       "CBS NETWORK",
       "TVE La 1 FHD",
+      "SPX LIVE [FHD]",
       "SportyNET BR HD",
-      "RMA TV HD"
+      "RMA TV HD",
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
@@ -2499,11 +2571,19 @@
         "logo": ""
       },
       {
+        "title": "SPX LIVE [FHD]",
+        "logo": ""
+      },
+      {
         "title": "SportyNET BR HD",
         "logo": ""
       },
       {
         "title": "RMA TV HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
@@ -2527,9 +2607,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "3 CAT TV HD",
       "DUDE Tv Live"
     ],
     "formatsNew": [
+      {
+        "title": "3 CAT TV HD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2555,11 +2640,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DISNEY+ HD"
+      "SPX LIVE HD",
+      "DISNEY+ HD",
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
+        "title": "SPX LIVE HD",
+        "logo": ""
+      },
+      {
         "title": "DISNEY+ HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
@@ -2898,34 +2993,6 @@
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50129,
-    "title": "Liverpool FC vs Como",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Liverpool FC",
-      "teamB": "Como",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/44/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2704/image",
-      "eventName": "Liverpool FC vs Como",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/16 10:30:00 +0000",
-      "endTime": "2026/08/16 12:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "SD SERVER",
         "logo": ""
       }
     ]

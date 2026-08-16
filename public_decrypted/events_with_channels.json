@@ -1252,12 +1252,24 @@
     "publish": "1",
     "formats": [
       "TNT Sports FHD",
+      "TNT SPORTS HD",
       "ESPN SPORTS HD",
-      "ESPN BR HD"
+      "ESPN BR HD",
+      "DUDE Tv Live",
+      "HD SERVER",
+      "SD SERVER",
+      "SonyLiv [ENG]",
+      "TNT SPORTS [FHD]",
+      "DAZN DE [FHD]",
+      "Viaplay SPORTS [FHD]"
     ],
     "formatsNew": [
       {
         "title": "TNT Sports FHD",
+        "logo": ""
+      },
+      {
+        "title": "TNT SPORTS HD",
         "logo": ""
       },
       {
@@ -1267,9 +1279,114 @@
       {
         "title": "ESPN BR HD",
         "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv [ENG]",
+        "logo": ""
+      },
+      {
+        "title": "TNT SPORTS [FHD]",
+        "logo": ""
+      },
+      {
+        "title": "DAZN DE [FHD]",
+        "logo": ""
+      },
+      {
+        "title": "Viaplay SPORTS [FHD]",
+        "logo": ""
       }
     ],
     "decoded_channels": [
+      {
+        "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "TNT Sports FHD",
+        "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/54754/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "TNT SPORTS HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/54741/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "ESPN SPORTS HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://rdcstream.life/live/espn/index.m3u8?|Referer=https://bolodechocolate.fit/",
+        "logo": "",
+        "title": "ESPN BR HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://live.vivo200.com/live/sd-1-4543318.m3u8?txSecret=e98e0a414d00e5eb6fbac1d0a3fc3fa9&txTime=6A81D80D|Referer=https://player.online909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://live2.jxa76.com/live/sd-6Mwe5B21PN1KcexRab_540p.m3u8?txSecret=06c2f8b329930961a0679f189a0f9421&txTime=1A00C25DC4C",
+        "logo": "",
+        "title": "HD SERVER",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.52/hls/ZIIIIAAXx.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "SD SERVER",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://sonydaimenew.akamaized.net/hls/live/20000301/Football1608/ENG/master.m3u8?hdnea=exp=1786908029~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=ca3e6311cff97dadbdd391c55c774d63e83e4401ac94654c2d09ec316c6ac7ed|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
+        "logo": "",
+        "title": "SonyLiv [ENG]",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/community-shield/2026-08-16/ars-mci",
+        "logo": "",
+        "title": "TNT SPORTS [FHD]",
+        "type": "2"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/community-shield/2026-08-16/ars-mci/dazn-de",
+        "logo": "",
+        "title": "DAZN DE [FHD]",
+        "type": "2"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/community-shield/2026-08-16/ars-mci/viaplay-sport-sv",
+        "logo": "",
+        "title": "Viaplay SPORTS [FHD]",
+        "type": "2"
+      },
       {
         "api": "",
         "link": "https://chatgpt.hereisman.net/playlist/53519/load-playlist?|Referer=https://gooz.aapmains.net",
@@ -3043,16 +3160,36 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "PREMIER SPORTS",
-      "CANAL5 FHD"
+      "PREMIER SPORTS FHD",
+      "CANAL5 FHD",
+      "PREMIER SPORTS HD",
+      "DUDE Tv Live",
+      "SD SERVER",
+      "LALIGA TV [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "PREMIER SPORTS",
+        "title": "PREMIER SPORTS FHD",
         "logo": ""
       },
       {
         "title": "CANAL5 FHD",
+        "logo": ""
+      },
+      {
+        "title": "PREMIER SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LALIGA TV [FHD]",
         "logo": ""
       }
     ],
@@ -3060,14 +3197,44 @@
       {
         "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "title": "PREMIER SPORTS",
+        "logo": "",
+        "title": "PREMIER SPORTS FHD",
         "type": "1"
       },
       {
         "api": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
         "title": "CANAL5 FHD",
         "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/54749/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "PREMIER SPORTS HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://live.vivo200.com/live/hd-en-1-4565322.m3u8?txSecret=f666c1d65486625adba2e1647a20d9b3&txTime=6A81DB11|Referer=https://player.online909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://live.vivo200.com/live/sd-1-4565322.m3u8?txSecret=5f21d4fed7ce9cf4c6755954a8234d92&txTime=6A81DB11|Referer=https://player.online909.com/",
+        "logo": "",
+        "title": "SD SERVER",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/laliga/2026-08-16/rac-vil",
+        "logo": "",
+        "title": "LALIGA TV [FHD]",
+        "type": "2"
       }
     ],
     "channel_status": "live"
@@ -3384,9 +3551,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "Sport TV HD",
       "DUDE Tv Live"
     ],
     "formatsNew": [
+      {
+        "title": "Sport TV HD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -3870,11 +4042,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH FHD"
+      "beIN ENGLISH FHD",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ],
@@ -3882,8 +4059,16 @@
       {
         "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
         "title": "beIN ENGLISH FHD",
         "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/efl-championship/2026-08-16/bur-whu",
+        "logo": "",
+        "title": "SPX LIVE [FHD]",
+        "type": "2"
       }
     ],
     "channel_status": "live"
@@ -4083,8 +4268,10 @@
       "FOX DEPORTES",
       "CBS NETWORK",
       "TVE La 1 FHD",
+      "SPX LIVE [FHD]",
       "SportyNET BR HD",
-      "RMA TV HD"
+      "RMA TV HD",
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
@@ -4104,11 +4291,19 @@
         "logo": ""
       },
       {
+        "title": "SPX LIVE [FHD]",
+        "logo": ""
+      },
+      {
         "title": "SportyNET BR HD",
         "logo": ""
       },
       {
         "title": "RMA TV HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ],
@@ -4143,6 +4338,13 @@
       },
       {
         "api": "",
+        "link": "https://live.vivo200.com/live/sd-1-4602493.m3u8?txSecret=cb1500fb6cbd8e9abad6cc72e5e31201&txTime=6A81DB7D|Referer=https://player.online909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
         "link": "https://rdcstream.life/live/sportynet/index.m3u8?|Referer=https://bolodechocolate.fit/",
         "logo": "",
         "title": "SportyNET BR HD",
@@ -4154,6 +4356,20 @@
         "logo": "",
         "title": "RMA TV HD",
         "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://edgestream6.pro/hls/sqdahach1ax.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "HD SERVER",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/club-friendly/2026-08-16/s04-rma",
+        "logo": "",
+        "title": "SPX LIVE [FHD]",
+        "type": "2"
       }
     ],
     "channel_status": "live"
@@ -4177,9 +4393,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "3 CAT TV HD",
       "DUDE Tv Live"
     ],
     "formatsNew": [
+      {
+        "title": "3 CAT TV HD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -4188,8 +4409,30 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "link": "https://chatgpt.hereisman.net/playlist/54747/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "3 CAT TV HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://live.vivo200.com/live/sd-1-4611941.m3u8?txSecret=f3a5cbe77cfd2f2c6909080035b1d941&txTime=6A81D9FE|Referer=https://player.online909.com/",
+        "logo": "",
         "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://edgestream6.pro/hls/b0h5fNwDKH.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "HD SERVER",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://livecdn-tc-dara.maypn.stream/sla/1-6a779fea9d494141026bc67d/chunks.m3u8?is_vip=true&token=1786976899-Kv4cPTAAP5YTi-0-51a020c6c02b845d29d4c45f5e47e5cd|Referer=https://iframe.rumsport7.live/",
+        "logo": "",
+        "title": "SPX FHD LIVE",
         "type": "0"
       }
     ],
@@ -4214,19 +4457,44 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DISNEY+ HD"
+      "SPX LIVE HD",
+      "DISNEY+ HD",
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
+        "title": "SPX LIVE HD",
+        "logo": ""
+      },
+      {
         "title": "DISNEY+ HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
         "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/54750/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "SPX LIVE HD",
+        "type": "0"
+      },
+      {
+        "api": "",
         "link": "https://rdcstream.life/live/newcastle-x-strasbourg/index.m3u8?|Referer=https://bolodechocolate.fit/",
+        "logo": "",
         "title": "DISNEY+ HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://live.vivo200.com/live/sd-1-4594044.m3u8?txSecret=a44758a9df37e0dba98935ebec4b313c&txTime=6A81DBB6|Referer=https://player.online909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
         "type": "0"
       }
     ],
@@ -4722,58 +4990,6 @@
       }
     ],
     "channel_status": "live"
-  },
-  {
-    "id": 50129,
-    "title": "Liverpool FC vs Como",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Liverpool FC",
-      "teamB": "Como",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/44/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2704/image",
-      "eventName": "Liverpool FC vs Como",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/16 10:30:00 +0000",
-      "endTime": "2026/08/16 12:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "beIN ENGLISH FHD",
-        "type": "1"
-      },
-      {
-        "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "Premier Sports FHD",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4600966.m3u8?txSecret=3545ca58b4e6b222a541d91d6db525fc&txTime=6A80AAAA|Referer=https://player.online909.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "cached"
   },
   {
     "id": 50130,
