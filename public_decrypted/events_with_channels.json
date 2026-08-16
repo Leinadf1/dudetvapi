@@ -729,11 +729,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TAPMAD - FHD",
-      "SKY SPORTS NZ",
       "WILLOW - FHD",
       "WILLOW - AdFree",
+      "TAPMAD - FHD",
       "WILLOW - ALT",
+      "SKY SPORTS NZ",
       "FOX CRICKET HD",
       "LOW SERVER",
       "SKY SPORTS [FHD]",
@@ -741,24 +741,24 @@
     ],
     "formatsNew": [
       {
-        "title": "TAPMAD - FHD",
-        "logo": ""
-      },
-      {
-        "title": "SKY SPORTS NZ",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
-      },
-      {
         "title": "WILLOW - FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+        "logo": ""
       },
       {
         "title": "WILLOW - AdFree",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
+        "title": "TAPMAD - FHD",
+        "logo": ""
+      },
+      {
         "title": "WILLOW - ALT",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "SKY SPORTS NZ",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
       },
       {
         "title": "FOX CRICKET HD",
@@ -779,11 +779,32 @@
     ],
     "decoded_channels": [
       {
+        "api": "35e38e3b5b0512a70fde4eca2b828f7f:4f6819ce0bf3f7348a8e02e99d900494",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ci19vgkifr/out/v1/d217349730524a68aea288307f9e7ee5/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "WILLOW - FHD",
+        "type": "1"
+      },
+      {
+        "api": "1b103b7869788ae6748155df33f7b233:8b2e85a7f1e48f2f6263a3d337c655bc",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x3hwxiq65g/out/v1/548c2dbc4dec4a6594c6a244e9643d14/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "title": "WILLOW - AdFree",
+        "type": "1"
+      },
+      {
         "api": "",
-        "link": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://www.tapmad.com/&Origin=https://www.tapmad.com",
+        "link": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://www.tapmad.com/&Origin=https://www.tapmad.com",
         "logo": "",
         "title": "TAPMAD - FHD",
         "type": "0"
+      },
+      {
+        "api": "1b103b7869788ae6748155df33f7b233:8b2e85a7f1e48f2f6263a3d337c655bc",
+        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/x3hwxiq65g/out/v1/548c2dbc4dec4a6594c6a244e9643d14/cenc.mpd",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "title": "WILLOW - ALT",
+        "type": "1"
       },
       {
         "api": "",
@@ -791,27 +812,6 @@
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
         "title": "SKY SPORTS NZ",
         "type": "0"
-      },
-      {
-        "api": "09c3049d2939b110b2a17591b546f42d:c6f28b360d250d288c224eeca1b68716",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lziskjj7gd/out/v1/ed916cc54b8b4c2a9d7b5f24b1c1f16a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW - FHD",
-        "type": "1"
-      },
-      {
-        "api": "f0150a56b1be7ec9071169fd5bffc237:3f949ad399e6a732e57d9100cc79317e",
-        "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ze0xmkhfw8/out/v1/a36a54f3b43149f7885048f3465ea115/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW - AdFree",
-        "type": "1"
-      },
-      {
-        "api": "09c3049d2939b110b2a17591b546f42d:c6f28b360d250d288c224eeca1b68716",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lziskjj7gd/out/v1/ed916cc54b8b4c2a9d7b5f24b1c1f16a/cenc.mpd",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW - ALT",
-        "type": "1"
       },
       {
         "api": "",
@@ -847,13 +847,6 @@
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
         "title": "FANCODE FHD",
         "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|user-agent=ExoPlayerDemo/6.4.36 (Linux;Android 11) AndroidXMedia3/1.4.1",
-        "logo": "",
-        "title": "TAPMAD FHD",
-        "type": "0"
       },
       {
         "api": "NzA5YzgxMmUxYjQxNzQwMDI2MDVkZjFkMTdkMzRhNGM6MGJiZWU2YzljMjBhMGYwNjViZjhyNjlkBTRjYmY4M2U=",
@@ -1364,89 +1357,6 @@
     "channel_status": "live"
   },
   {
-    "id": 50013,
-    "title": "Jacksonville Jaguars",
-    "image": "o",
-    "cat": "NFL",
-    "eventInfo": {
-      "teamA": "Saints",
-      "teamB": "Jaguars",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4425/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4386/image",
-      "eventName": "New Orleans Saints vs Jacksonville Jaguars",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/15 20:00:00 +0000",
-      "endTime": "2026/08/15 23:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv NFL",
-      "DUDE Tv Live",
-      "NFL LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv NFL",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NFL LIVE [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/54677/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv NFL",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://edgestream3.pro/hls/oipozuezeji33.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/nfl/2026-08-15/jax-no",
-        "logo": "",
-        "title": "NFL LIVE [FHD]",
-        "type": "2"
-      },
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/52927/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv NBA",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://edgestream2.pro/hls/wfazgsqtrezu66.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://instreams.pro/US/NBA2/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
     "id": 50019,
     "title": "ATP & WTA",
     "image": "o",
@@ -1570,10 +1480,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv LIVE",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv LIVE",
         "logo": ""
@@ -1584,6 +1499,13 @@
       }
     ],
     "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/54721/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv MLB",
+        "type": "0"
+      },
       {
         "api": "",
         "link": "https://edgestream2.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
@@ -1620,10 +1542,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1634,6 +1561,13 @@
       }
     ],
     "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/54716/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv MLB",
+        "type": "0"
+      },
       {
         "api": "",
         "link": "https://edgestream4.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
@@ -1670,10 +1604,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1684,6 +1623,13 @@
       }
     ],
     "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/54717/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv MLB",
+        "type": "0"
+      },
       {
         "api": "",
         "link": "https://edgestream4.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
@@ -1696,68 +1642,6 @@
         "link": "https://embedindia.st/embed/mlb/2026-08-15/bos-pit",
         "logo": "",
         "title": "MLB LIVE [FHD]",
-        "type": "2"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50042,
-    "title": "Kansas City Chiefs",
-    "image": "o",
-    "cat": "NFL",
-    "eventInfo": {
-      "teamA": "Chiefs",
-      "teamB": "Rams",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4422/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4387/image",
-      "eventName": "Kansas City Chiefs vs Los Angeles Rams",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/15 20:00:00 +0000",
-      "endTime": "2026/08/15 23:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv NFL",
-      "DUDE Tv Live",
-      "NFL LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv NFL",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NFL LIVE [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/54676/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv NFL",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://edgestream6.pro/hls/uheyztezgj34.m3u8??|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/nfl/2026-08-15/lar-kc",
-        "logo": "",
-        "title": "NFL LIVE [FHD]",
         "type": "2"
       }
     ],
@@ -2257,10 +2141,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv NFL",
       "DUDE Tv Live",
       "NFL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv NFL",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2271,6 +2160,13 @@
       }
     ],
     "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/54704/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv NFL",
+        "type": "0"
+      },
       {
         "api": "",
         "link": "https://edgestream5.pro/hls/jnknjfzbk35.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
@@ -2808,247 +2704,6 @@
     "channel_status": "live"
   },
   {
-    "id": 50076,
-    "title": "Chicago Cubs vs Cardinals",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Cubs",
-      "teamB": "Cardinals",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3627/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3632/image",
-      "eventName": "Chicago Cubs vs St. Louis Cardinals",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/15 18:20:00 +0000",
-      "endTime": "2026/08/15 21:20:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv MLB",
-      "DUDE Tv Live",
-      "MLB LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "MLB LIVE [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/54689/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv MLB",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://edgestream2.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-08-15/stl-chc",
-        "logo": "",
-        "title": "MLB LIVE [FHD]",
-        "type": "2"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50077,
-    "title": "Toronto Blue Jays vs Yankees",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Blue Jays",
-      "teamB": "Yankees",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3642/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3654/image",
-      "eventName": "Toronto Blue Jays vs New York Yankees",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/15 19:07:00 +0000",
-      "endTime": "2026/08/15 22:07:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv MLB",
-      "DUDE Tv Live",
-      "MLB LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "MLB LIVE [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/54691/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv MLB",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://edgestream6.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-08-15/nyy-tor",
-        "logo": "",
-        "title": "MLB LIVE [FHD]",
-        "type": "2"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50078,
-    "title": "Giants vs Colorado Rockies",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Giants",
-      "teamB": "Rockies",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3634/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3628/image",
-      "eventName": "San Francisco Giants vs Colorado Rockies",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/15 20:05:00 +0000",
-      "endTime": "2026/08/15 23:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv MLB",
-      "DUDE Tv Live",
-      "MLB LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "MLB LIVE [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/54698/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv MLB",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://edgestream5.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-08-15/col-sf",
-        "logo": "",
-        "title": "MLB LIVE [FHD]",
-        "type": "2"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50079,
-    "title": "Mets vs Washington Nationals",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Mets",
-      "teamB": "Nationals",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3629/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/5930/image",
-      "eventName": "New York Mets vs Washington Nationals",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/15 20:10:00 +0000",
-      "endTime": "2026/08/15 23:10:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv MLB",
-      "DUDE Tv Live",
-      "MLB LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "MLB LIVE [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://edgestream3.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-08-14/sd-cle",
-        "logo": "",
-        "title": "MLB LIVE [FHD]",
-        "type": "2"
-      }
-    ],
-    "channel_status": "cached"
-  },
-  {
     "id": 50080,
     "title": "Rays vs Baltimore Orioles",
     "image": "o",
@@ -3352,11 +3007,25 @@
     ],
     "decoded_channels": [
       {
+        "api": "b314d10a2f70eee1c346b60a2f49fb8e:f42ce2e9eed095d4d4ffd004ad3e5c21",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zjd0d5jui0/out/v1/dba286ff141e4e5995785fd751bfd7cd/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "WILLOW - FHD",
+        "type": "1"
+      },
+      {
         "api": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
         "title": "TNT Sports FHD",
         "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8?|referer=https://tapmad.com",
+        "logo": "",
+        "title": "TAPMAD FHD",
+        "type": "0"
       },
       {
         "api": "",
@@ -3453,10 +3122,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "APPLE TV+ HD",
       "APPLE TV HD",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "APPLE TV+ HD",
+        "logo": ""
+      },
       {
         "title": "APPLE TV HD",
         "logo": ""
@@ -3467,6 +3141,13 @@
       }
     ],
     "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/54730/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "APPLE TV+ HD",
+        "type": "0"
+      },
       {
         "api": "",
         "link": "https://rdcstream.life/live/nashville-sc-x-inter-miami/index.m3u8?|Referer=https://bolodechocolate.fit/",

@@ -1,10 +1,31 @@
 [
   {
+    "api": "35e38e3b5b0512a70fde4eca2b828f7f:4f6819ce0bf3f7348a8e02e99d900494",
+    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ci19vgkifr/out/v1/d217349730524a68aea288307f9e7ee5/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "WILLOW - FHD",
+    "type": "1"
+  },
+  {
+    "api": "1b103b7869788ae6748155df33f7b233:8b2e85a7f1e48f2f6263a3d337c655bc",
+    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x3hwxiq65g/out/v1/548c2dbc4dec4a6594c6a244e9643d14/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+    "title": "WILLOW - AdFree",
+    "type": "1"
+  },
+  {
     "api": "",
-    "link": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://www.tapmad.com/&Origin=https://www.tapmad.com",
+    "link": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://www.tapmad.com/&Origin=https://www.tapmad.com",
     "logo": "",
     "title": "TAPMAD - FHD",
     "type": "0"
+  },
+  {
+    "api": "1b103b7869788ae6748155df33f7b233:8b2e85a7f1e48f2f6263a3d337c655bc",
+    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/x3hwxiq65g/out/v1/548c2dbc4dec4a6594c6a244e9643d14/cenc.mpd",
+    "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+    "title": "WILLOW - ALT",
+    "type": "1"
   },
   {
     "api": "",
@@ -12,27 +33,6 @@
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
     "title": "SKY SPORTS NZ",
     "type": "0"
-  },
-  {
-    "api": "09c3049d2939b110b2a17591b546f42d:c6f28b360d250d288c224eeca1b68716",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lziskjj7gd/out/v1/ed916cc54b8b4c2a9d7b5f24b1c1f16a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-    "title": "WILLOW - FHD",
-    "type": "1"
-  },
-  {
-    "api": "f0150a56b1be7ec9071169fd5bffc237:3f949ad399e6a732e57d9100cc79317e",
-    "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ze0xmkhfw8/out/v1/a36a54f3b43149f7885048f3465ea115/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-    "title": "WILLOW - AdFree",
-    "type": "1"
-  },
-  {
-    "api": "09c3049d2939b110b2a17591b546f42d:c6f28b360d250d288c224eeca1b68716",
-    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lziskjj7gd/out/v1/ed916cc54b8b4c2a9d7b5f24b1c1f16a/cenc.mpd",
-    "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-    "title": "WILLOW - ALT",
-    "type": "1"
   },
   {
     "api": "",
@@ -68,13 +68,6 @@
     "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
     "title": "FANCODE FHD",
     "type": "1"
-  },
-  {
-    "api": "",
-    "link": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|user-agent=ExoPlayerDemo/6.4.36 (Linux;Android 11) AndroidXMedia3/1.4.1",
-    "logo": "",
-    "title": "TAPMAD FHD",
-    "type": "0"
   },
   {
     "api": "NzA5YzgxMmUxYjQxNzQwMDI2MDVkZjFkMTdkMzRhNGM6MGJiZWU2YzljMjBhMGYwNjViZjhyNjlkBTRjYmY4M2U=",
