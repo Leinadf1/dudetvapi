@@ -1598,9 +1598,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv Live",
       "WNBA LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
       {
         "title": "WNBA LIVE [FHD]",
         "logo": ""
@@ -3292,154 +3297,6 @@
     "channel_status": "live"
   },
   {
-    "id": 50096,
-    "title": "Genoa vs Ascoli",
-    "image": "o",
-    "cat": "Coppa Italia 🇮🇹",
-    "eventInfo": {
-      "teamA": "Genoa",
-      "teamB": "Ascoli",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2713/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2707/image",
-      "eventName": "Genoa vs Ascoli",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/16 16:30:00 +0000",
-      "endTime": "2026/08/16 18:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PARAMOUNT+ FHD",
-      "D Sports FHD",
-      "ITALIA 1 FHD",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "PARAMOUNT+ FHD",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "D Sports FHD",
-        "logo": ""
-      },
-      {
-        "title": "ITALIA 1 FHD",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "ad5ec4271efe50fb0a197843cffe47d9:ce9a8fa43dc115a6d9a7ba8c07127103",
-        "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/lswifer8tq/out/v1/04f1dfd105be4f36bf4edb07e9422f5d/47559adc-efd9-4d03-8322-d79d88b03520-cenc.mpd?aws_sessionId=e1230abf-f534-4ce8-a2a6-d8a4f25762f3|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
-        "title": "PARAMOUNT+ FHD",
-        "type": "1"
-      },
-      {
-        "api": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
-        "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "D Sports FHD",
-        "type": "1"
-      },
-      {
-        "api": "00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587",
-        "link": "https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd",
-        "logo": "",
-        "title": "ITALIA 1 FHD",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.49/hls/ekkkaaAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "LOW SERVER",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50097,
-    "title": "Frosinone vs Juve Stabia",
-    "image": "o",
-    "cat": "Coppa Italia 🇮🇹",
-    "eventInfo": {
-      "teamA": "Frosinone",
-      "teamB": "Juve Stabia",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2801/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/5324/image",
-      "eventName": "Frosinone vs Juve Stabia",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/16 16:00:00 +0000",
-      "endTime": "2026/08/16 18:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PARAMOUNT+ FHD",
-      "D SPORTS+ FHD",
-      "DUDE Tv Live",
-      "HD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "PARAMOUNT+ FHD",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "D SPORTS+ FHD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "a902f4827c739bc642c9e18ab7d7d14d:acb6fb61284bd2eff20a367f36c4c018",
-        "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/sq780pez2y/out/v1/cd62d7a5c5b9422f8c9d7729f0058cbd/13e93c6e-0bdf-4d64-91ae-a97329422a10-cenc.mpd?aws_sessionId=981524ed-fa25-434d-bf02-63c56675397e|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
-        "title": "PARAMOUNT+ FHD",
-        "type": "1"
-      },
-      {
-        "api": "83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f",
-        "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "D SPORTS+ FHD",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://live.vivo200.com/live/hd-en-1-4564320.m3u8?txSecret=04091c15b70505328d2a77079a814c09&txTime=6A81F28E|Referer=https://player.online909.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4564320.m3u8?txSecret=c00b3e1c41b912c18dba5f38565f924a&txTime=6A81F28E|Referer=https://player.online909.com/",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
     "id": 50098,
     "title": "Famalicão vs CS Marítimo",
     "image": "o",
@@ -3480,56 +3337,6 @@
       }
     ],
     "channel_status": "cached"
-  },
-  {
-    "id": 50100,
-    "title": "Arouca vs Moreirense",
-    "image": "o",
-    "cat": "Liga Portugal",
-    "eventInfo": {
-      "teamA": "Arouca",
-      "teamB": "Moreirense",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/25777/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3014/image",
-      "eventName": "Arouca vs Moreirense",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/16 17:00:00 +0000",
-      "endTime": "2026/08/16 19:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "Sport TV HD",
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "Sport TV HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://rdcstream.life/live/sport-tv-2-pt/index.m3u8?|Referer=https://bolodechocolate.fit/",
-        "logo": "",
-        "title": "Sport TV HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4578161.m3u8?txSecret=f9556a7bc85527cfbf42a6a1a05d9c82&txTime=6A81FFB7|Referer=https://player.online909.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
   },
   {
     "id": 50102,
@@ -3892,68 +3699,6 @@
         "link": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
         "title": "Laliga Hypermotion ES",
         "type": "1"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50126,
-    "title": "Girona vs Leganés",
-    "image": "o",
-    "cat": "LaLiga 2",
-    "eventInfo": {
-      "teamA": "Girona",
-      "teamB": "Leganés",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/24264/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2845/image",
-      "eventName": "Girona FC vs Leganés",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/16 17:00:00 +0000",
-      "endTime": "2026/08/16 19:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "Laliga Hypermotion ES",
-      "HD SERVER",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "Laliga Hypermotion ES",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
-        "link": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
-        "logo": "",
-        "title": "Laliga Hypermotion ES",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://pul-tenm.gkykp.com/live/sd-1-4567218.m3u8?txSecret=53ac86e878d6a2c44fd0de64d1070d56&txTime=6A833",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.54/hls/EFFFAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "SD SERVER",
-        "type": "0"
       }
     ],
     "channel_status": "live"
