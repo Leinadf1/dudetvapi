@@ -1243,7 +1243,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/17/image",
       "eventName": "Arsenal vs Manchester City",
       "eventType": "null",
-      "eventBanner": "null",
+      "eventBanner": "https://wsrv.nl/?url=https://iili.io/CipZkLQ.png",
       "isHot": "0",
       "startTime": "2026/08/16 14:00:00 +0000",
       "endTime": "2026/08/16 16:10:00 +0000"
@@ -3417,11 +3417,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "SportDigital Fussball"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "SportDigital Fussball",
         "logo": ""
       }
     ],
@@ -3493,9 +3493,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "SportDigital Fussball",
       "DUDE Tv Live"
     ],
     "formatsNew": [
+      {
+        "title": "SportDigital Fussball",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -3894,7 +3899,9 @@
     "formats": [
       "beIN ENGLISH FHD",
       "CBS NETWORK",
-      "ESPN2 BR HD"
+      "ESPN2 BR HD",
+      "DUDE Tv Live",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
@@ -3907,6 +3914,14 @@
       },
       {
         "title": "ESPN2 BR HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ],
@@ -3938,6 +3953,13 @@
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/efl-championship/2026-08-16/wat-sou",
+        "logo": "",
+        "title": "SPX LIVE [FHD]",
+        "type": "2"
       }
     ],
     "channel_status": "live"
@@ -4364,11 +4386,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH FHD"
+      "beIN ENGLISH FHD",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ],
@@ -4409,11 +4436,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH FHD"
+      "beIN ENGLISH FHD",
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ],
@@ -4461,11 +4498,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ],
@@ -4686,5 +4728,43 @@
       }
     ],
     "channel_status": "cached"
+  },
+  {
+    "id": 50130,
+    "title": "Malaysia vs Vietnam",
+    "image": "o",
+    "cat": "ASEAN Championship",
+    "eventInfo": {
+      "teamA": "Malaysia",
+      "teamB": "Vietnam",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/6912/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/7050/image",
+      "eventName": "Malaysia vs Vietnam",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/16 13:00:00 +0000",
+      "endTime": "2026/08/16 15:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://live.vivo200.com/live/sd-1-4612551.m3u8?txSecret=4848a889f0d4d2c425969ceb1381e4a6&txTime=6A81B397|Referer=https://player.online909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
   }
 ]
