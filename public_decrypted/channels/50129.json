@@ -1,23 +1,30 @@
 [
   {
-    "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "api": "ea178e28af00ed57e7101255f977c222:f29602a280f41950d1935f0c6816dc12",
+    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/ffwqzsa0zr/out/v1/752ac25588ff4607b45f3876a8e89223/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "logo": "",
-    "title": "beIN ENGLISH FHD",
-    "type": "1"
-  },
-  {
-    "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-    "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-    "logo": "",
-    "title": "Premier Sports FHD",
+    "title": "ITV SPORTS FHD",
     "type": "1"
   },
   {
     "api": "",
-    "link": "https://live.vivo200.com/live/sd-1-4600966.m3u8?txSecret=3545ca58b4e6b222a541d91d6db525fc&txTime=6A80AAAA|Referer=https://player.online909.com/",
+    "link": "https://rdcstream.life/live/sport-tv-3-pt/index.m3u8?|Referer=https://bolodechocolate.fit/",
     "logo": "",
-    "title": "DUDE Tv Live",
+    "title": "Sport TV3 HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8",
+    "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg",
+    "title": "beIN Sports HD",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "http://193.47.62.51/hls/T5555.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "logo": "",
+    "title": "SD SERVER",
     "type": "0"
   }
 ]
