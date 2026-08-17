@@ -1358,11 +1358,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "PREMIER SPORTS"
+      "PREMIER SPORTS",
+      "CBS SPORTS",
+      "PREMIER SPORTS HD",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "PREMIER SPORTS",
+        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
+      },
+      {
+        "title": "CBS SPORTS",
+        "logo": "https://iili.io/BtCdabj.png"
+      },
+      {
+        "title": "PREMIER SPORTS HD",
+        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
