@@ -622,6 +622,39 @@
     ]
   },
   {
+    "id": 50027,
+    "title": "Connecticut Sun vs Sparks",
+    "image": "o",
+    "cat": "WNBA",
+    "eventInfo": {
+      "teamA": "Sun",
+      "teamB": "Sparks",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/35547/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3447/image",
+      "eventName": "Connecticut Sun vs Los Angeles Sparks",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/18 23:00:00 +0000",
+      "endTime": "2026/08/19 02:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "WNBA LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "WNBA LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50032,
     "title": "Minnesota Twins",
     "image": "o",
@@ -782,6 +815,105 @@
       },
       {
         "title": "MLB LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50055,
+    "title": "Tempo vs Indiana Fever",
+    "image": "o",
+    "cat": "WNBA",
+    "eventInfo": {
+      "teamA": "Tempo",
+      "teamB": "Fever",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1166445/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3452/image",
+      "eventName": "Toronto Tempo vs Indiana Fever",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/18 23:00:00 +0000",
+      "endTime": "2026/08/19 02:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "WNBA LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "WNBA LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50056,
+    "title": "Chicago Sky vs Liberty",
+    "image": "o",
+    "cat": "WNBA",
+    "eventInfo": {
+      "teamA": "Sky",
+      "teamB": "Liberty",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/35546/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3446/image",
+      "eventName": "Chicago Sky vs New York Liberty",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/19 01:00:00 +0000",
+      "endTime": "2026/08/19 04:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "WNBA LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "WNBA LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50058,
+    "title": "Aces vs Atlanta Dream",
+    "image": "o",
+    "cat": "WNBA",
+    "eventInfo": {
+      "teamA": "Aces",
+      "teamB": "Dream",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/35550/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/35545/image",
+      "eventName": "Las Vegas Aces vs Atlanta Dream",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/19 01:00:00 +0000",
+      "endTime": "2026/08/19 04:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "WNBA LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "WNBA LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1334,7 +1466,9 @@
     "publish": "1",
     "formats": [
       "CBS NETWORK",
-      "TNT BRASIL HD"
+      "NOVA SPORTS HD",
+      "TNT BRASIL HD",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
@@ -1342,7 +1476,15 @@
         "logo": ""
       },
       {
+        "title": "NOVA SPORTS HD",
+        "logo": ""
+      },
+      {
         "title": "TNT BRASIL HD",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1367,7 +1509,9 @@
     "publish": "1",
     "formats": [
       "TNT Sports FHD",
-      "TNT BRASIL HD"
+      "TNT SPORTS HD",
+      "TNT BRASIL HD",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
@@ -1375,7 +1519,15 @@
         "logo": ""
       },
       {
+        "title": "TNT SPORTS HD",
+        "logo": ""
+      },
+      {
         "title": "TNT BRASIL HD",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1400,7 +1552,9 @@
     "publish": "1",
     "formats": [
       "TNT Sports FHD",
-      "TUDN MEXICO"
+      "TUDN MEXICO",
+      "TNT SPORTS HD",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
@@ -1409,6 +1563,14 @@
       },
       {
         "title": "TUDN MEXICO",
+        "logo": ""
+      },
+      {
+        "title": "TNT SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1432,11 +1594,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER",
+      "HD SERVER 2",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER 2",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1460,11 +1637,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1569,39 +1756,6 @@
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50100,
-    "title": "Heidenheim vs Bayern",
-    "image": "o",
-    "cat": "Club Friendly",
-    "eventInfo": {
-      "teamA": "Heidenheim",
-      "teamB": "Bayern",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/5885/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2672/image",
-      "eventName": "Heidenheim vs Bayern München",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/18 16:00:00 +0000",
-      "endTime": "2026/08/18 18:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
         "logo": ""
       }
     ]
