@@ -345,7 +345,6 @@
       "WILLOW - FHD",
       "TNT Sports FHD",
       "WILLOW - ALT",
-      "WILLOW HD",
       "TAPMAD - FHD",
       "LOW SERVER",
       "SonyLiv [ENG]",
@@ -357,19 +356,15 @@
     "formatsNew": [
       {
         "title": "WILLOW - FHD",
-        "logo": ""
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
         "title": "TNT Sports FHD",
-        "logo": ""
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
       },
       {
         "title": "WILLOW - ALT",
-        "logo": ""
-      },
-      {
-        "title": "WILLOW HD",
-        "logo": ""
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
         "title": "TAPMAD - FHD",
@@ -872,6 +867,7 @@
     "publish": "1",
     "formats": [
       "TUDN MX FHD",
+      "DUDE Tv Live",
       "FHD QUALITY",
       "HD QUALITY",
       "SPX LIVE [FHD]"
@@ -879,6 +875,10 @@
     "formatsNew": [
       {
         "title": "TUDN MX FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       },
       {
@@ -1244,26 +1244,448 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "WILLOW - FHD",
       "TNT Sports FHD",
-      "TAPMAD FHD",
-      "TAPMAD - FHD"
+      "TAPMAD FHD"
     ],
     "formatsNew": [
       {
-        "title": "WILLOW - FHD",
+        "title": "TNT Sports FHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
+      {
+        "title": "TAPMAD FHD",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50087,
+    "title": "Universidad Católica vs Estudiantes",
+    "image": "o",
+    "cat": "CON. Libertadores",
+    "eventInfo": {
+      "teamA": "Universidad Católica",
+      "teamB": "Estudiantes",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3151/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3206/image",
+      "eventName": "Universidad Católica vs Estudiantes de La Plata",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/19 00:30:00 +0000",
+      "endTime": "2026/08/19 02:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "beIN ENGLISH",
+      "ESPN BR HD"
+    ],
+    "formatsNew": [
+      {
+        "title": "beIN ENGLISH",
         "logo": ""
       },
+      {
+        "title": "ESPN BR HD",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50088,
+    "title": "Rivadavia vs Fluminense",
+    "image": "o",
+    "cat": "CON. Libertadores",
+    "eventInfo": {
+      "teamA": "Ind. Rivadavia",
+      "teamB": "Fluminense",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/36842/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1961/image",
+      "eventName": "Independiente Rivadavia vs Fluminense",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/18 22:00:00 +0000",
+      "endTime": "2026/08/19 00:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "beIN ENGLISH",
+      "ESPN BR HD"
+    ],
+    "formatsNew": [
+      {
+        "title": "beIN ENGLISH",
+        "logo": ""
+      },
+      {
+        "title": "ESPN BR HD",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50089,
+    "title": "Recoleta FC vs Boca Juniors",
+    "image": "o",
+    "cat": "CON. Sudamericana",
+    "eventInfo": {
+      "teamA": "Recoleta",
+      "teamB": "Boca Juniors",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/292595/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3202/image",
+      "eventName": "Recoleta FC vs Boca Juniors",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/18 22:00:00 +0000",
+      "endTime": "2026/08/19 00:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SportDigital Fussball",
+      "PARAMOUNT+ HD"
+    ],
+    "formatsNew": [
+      {
+        "title": "SportDigital Fussball",
+        "logo": ""
+      },
+      {
+        "title": "PARAMOUNT+ HD",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50090,
+    "title": "São Paulo vs Bolívar",
+    "image": "o",
+    "cat": "CON. Sudamericana",
+    "eventInfo": {
+      "teamA": "São Paulo",
+      "teamB": "Bolívar",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1981/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/7059/image",
+      "eventName": "São Paulo vs Bolívar",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/19 00:30:00 +0000",
+      "endTime": "2026/08/19 02:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "D Sports FHD",
+      "SportDigital Fussball",
+      "ESPN BR HD"
+    ],
+    "formatsNew": [
+      {
+        "title": "D Sports FHD",
+        "logo": ""
+      },
+      {
+        "title": "SportDigital Fussball",
+        "logo": ""
+      },
+      {
+        "title": "ESPN BR HD",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50092,
+    "title": "Fenerbahçe vs Olympique Lyon",
+    "image": "o",
+    "cat": "UCL",
+    "eventInfo": {
+      "teamA": "Fenerbahçe",
+      "teamB": "Lyon",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3052/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1649/image",
+      "eventName": "Fenerbahçe vs Olympique Lyonnais",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/18 19:00:00 +0000",
+      "endTime": "2026/08/18 21:10:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "CBS NETWORK",
+      "TNT BRASIL HD"
+    ],
+    "formatsNew": [
+      {
+        "title": "CBS NETWORK",
+        "logo": ""
+      },
+      {
+        "title": "TNT BRASIL HD",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50093,
+    "title": "Dinamo Zagreb vs Viking",
+    "image": "o",
+    "cat": "UCL",
+    "eventInfo": {
+      "teamA": "Dinamo",
+      "teamB": "Viking",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2032/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1164/image",
+      "eventName": "GNK Dinamo Zagreb vs Viking FK",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/18 19:00:00 +0000",
+      "endTime": "2026/08/18 21:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "TNT Sports FHD",
+      "TNT BRASIL HD"
+    ],
+    "formatsNew": [
       {
         "title": "TNT Sports FHD",
         "logo": ""
       },
       {
-        "title": "TAPMAD FHD",
+        "title": "TNT BRASIL HD",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50094,
+    "title": "Levski Sofia vs AEK Athens",
+    "image": "o",
+    "cat": "UCL",
+    "eventInfo": {
+      "teamA": "Levski Sofia",
+      "teamB": "AEK",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3273/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3250/image",
+      "eventName": "Levski Sofia vs AEK Athens",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/18 19:00:00 +0000",
+      "endTime": "2026/08/18 21:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "TNT Sports FHD",
+      "TUDN MEXICO"
+    ],
+    "formatsNew": [
+      {
+        "title": "TNT Sports FHD",
         "logo": ""
       },
       {
-        "title": "TAPMAD - FHD",
+        "title": "TUDN MEXICO",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50095,
+    "title": "Al Diriyah vs Al-Nassr",
+    "image": "o",
+    "cat": "Kings Cup",
+    "eventInfo": {
+      "teamA": "Al Diriyah",
+      "teamB": "Al-Nassr",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/853574/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/23400/image",
+      "eventName": "Al Diriyah vs Al-Nassr",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/18 18:00:00 +0000",
+      "endTime": "2026/08/18 20:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50096,
+    "title": "Al Faisaly vs Neom",
+    "image": "o",
+    "cat": "Kings Cup",
+    "eventInfo": {
+      "teamA": "Al Faisaly",
+      "teamB": "Neom",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/56035/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/530631/image",
+      "eventName": "Al Faisaly vs Neom SC",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/18 18:00:00 +0000",
+      "endTime": "2026/08/18 20:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50097,
+    "title": "Al-Najma SC vs Al-Ittihad",
+    "image": "o",
+    "cat": "Kings Cup",
+    "eventInfo": {
+      "teamA": "Al-Najma",
+      "teamB": "Al-Ittihad",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/395831/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/34315/image",
+      "eventName": "Al-Najma SC vs Al-Ittihad",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/18 16:15:00 +0000",
+      "endTime": "2026/08/18 18:15:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50098,
+    "title": "Al Jabalin vs Al-Ettifaq",
+    "image": "o",
+    "cat": "Kings Cup",
+    "eventInfo": {
+      "teamA": "Al Jabalin",
+      "teamB": "Al-Ettifaq",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/213003/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/34318/image",
+      "eventName": "Al Jabalin vs Al-Ettifaq",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/18 16:15:00 +0000",
+      "endTime": "2026/08/18 18:15:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50099,
+    "title": "Al-Okhdood vs Al-Khaleej",
+    "image": "o",
+    "cat": "Kings Cup",
+    "eventInfo": {
+      "teamA": "Al-Okhdood",
+      "teamB": "Al-Khaleej",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/336456/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/167228/image",
+      "eventName": "Al-Okhdood vs Al-Khaleej",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/18 16:15:00 +0000",
+      "endTime": "2026/08/18 18:15:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50100,
+    "title": "Heidenheim vs Bayern",
+    "image": "o",
+    "cat": "Club Friendly",
+    "eventInfo": {
+      "teamA": "Heidenheim",
+      "teamB": "Bayern",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/5885/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2672/image",
+      "eventName": "Heidenheim vs Bayern München",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/18 16:00:00 +0000",
+      "endTime": "2026/08/18 18:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50101,
+    "title": "Thailand vs Singapore",
+    "image": "o",
+    "cat": "ASEAN Championship",
+    "eventInfo": {
+      "teamA": "Thailand",
+      "teamB": "Singapore",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4730/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4738/image",
+      "eventName": "Thailand vs Singapore",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/18 13:00:00 +0000",
+      "endTime": "2026/08/18 15:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
