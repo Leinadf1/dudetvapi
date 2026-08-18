@@ -1488,11 +1488,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1516,11 +1526,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1572,40 +1592,12 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50101,
-    "title": "Thailand vs Singapore",
-    "image": "o",
-    "cat": "ASEAN Championship",
-    "eventInfo": {
-      "teamA": "Thailand",
-      "teamB": "Singapore",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4730/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4738/image",
-      "eventName": "Thailand vs Singapore",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/18 13:00:00 +0000",
-      "endTime": "2026/08/18 15:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "HD SERVER",
+      "DUDE Tv Live",
       "SD SERVER"
     ],
     "formatsNew": [
       {
-        "title": "HD SERVER",
+        "title": "DUDE Tv Live",
         "logo": ""
       },
       {
