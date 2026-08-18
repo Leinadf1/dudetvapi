@@ -1220,56 +1220,6 @@
     "channel_status": "live"
   },
   {
-    "id": 50027,
-    "title": "Golden State Valkyries",
-    "image": "o",
-    "cat": "WNBA",
-    "eventInfo": {
-      "teamA": "Valkyries",
-      "teamB": "Wings",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1041936/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3450/image",
-      "eventName": "Golden State Valkyries vs Dallas Wings",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/18 02:00:00 +0000",
-      "endTime": "2026/08/18 04:45:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "WNBA LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "WNBA LIVE [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://edgestream6.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/wnba/2026-08-17/dal-gs",
-        "logo": "",
-        "title": "WNBA LIVE [FHD]",
-        "type": "2"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
     "id": 50032,
     "title": "Minnesota Twins",
     "image": "o",
