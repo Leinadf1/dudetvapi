@@ -186,8 +186,8 @@
       "eventName": "🥊 WWE NXT",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/19 00:00:00 +0000",
-      "endTime": "2026/08/19 02:00:00 +0000"
+      "startTime": "2026/08/26 00:00:00 +0000",
+      "endTime": "2026/08/26 02:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -410,8 +410,8 @@
       "eventType": "null",
       "eventBanner": "https://iili.io/BihxDjj.png",
       "isHot": "0",
-      "startTime": "2026/08/14 12:30:00 +0000",
-      "endTime": "2026/08/14 16:30:00 +0000"
+      "startTime": "2026/08/21 12:30:00 +0000",
+      "endTime": "2026/08/21 16:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -581,13 +581,14 @@
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://iili.io/CUvi3T7.png",
       "isHot": "0",
-      "startTime": "2026/08/18 15:00:00 +0000",
-      "endTime": "2026/08/19 04:00:00 +0000"
+      "startTime": "2026/08/19 15:00:00 +0000",
+      "endTime": "2026/08/20 04:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
       "beIN ENGLISH (ATP)",
+      "beIN ENGLISH (WTA)",
       "TENNIS 2 FHD",
       "PREMIER1 SPORTS (EU)",
       "PREMIER2 SPORTS (EU)",
@@ -597,6 +598,10 @@
     "formatsNew": [
       {
         "title": "beIN ENGLISH (ATP)",
+        "logo": ""
+      },
+      {
+        "title": "beIN ENGLISH (WTA)",
         "logo": ""
       },
       {
@@ -1223,8 +1228,8 @@
       "eventName": "Caribbean Premier League",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/19 00:00:00 +0000",
-      "endTime": "2026/08/19 03:45:00 +0000"
+      "startTime": "2026/08/19 23:00:00 +0000",
+      "endTime": "2026/08/20 02:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1235,10 +1240,38 @@
     "formatsNew": [
       {
         "title": "TNT Sports FHD",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+        "logo": ""
       },
       {
         "title": "TAPMAD FHD",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50086,
+    "title": "LA Galaxy vs San Jose",
+    "image": "o",
+    "cat": "MLS 🇺🇸",
+    "eventInfo": {
+      "teamA": "LA Galaxy",
+      "teamB": "San Jose",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2513/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/21825/image",
+      "eventName": "LA Galaxy vs San Jose Earthquakes",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/20 02:30:00 +0000",
+      "endTime": "2026/08/20 04:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "FOX SPORTS FHD"
+    ],
+    "formatsNew": [
+      {
+        "title": "FOX SPORTS FHD",
         "logo": ""
       }
     ]
@@ -1366,6 +1399,39 @@
     "formatsNew": [
       {
         "title": "ESPN BR HD",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50091,
+    "title": "Vancouver vs Houston Dynamo",
+    "image": "o",
+    "cat": "MLS 🇺🇸",
+    "eventInfo": {
+      "teamA": "Vancouver",
+      "teamB": "Houston",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/22010/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2508/image",
+      "eventName": "Vancouver Whitecaps vs Houston Dynamo",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/20 02:30:00 +0000",
+      "endTime": "2026/08/20 04:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "TSN4 SPORTS",
+      "TSN5 SPORTS"
+    ],
+    "formatsNew": [
+      {
+        "title": "TSN4 SPORTS",
+        "logo": ""
+      },
+      {
+        "title": "TSN5 SPORTS",
         "logo": ""
       }
     ]
@@ -1600,7 +1666,7 @@
     "id": 50099,
     "title": "Philadelphia Union vs Inter Miami",
     "image": "o",
-    "cat": "UCL",
+    "cat": "MLS 🇺🇸",
     "eventInfo": {
       "teamA": "Philadelphia",
       "teamB": "Inter Miami",
@@ -1676,6 +1742,118 @@
     "formatsNew": [
       {
         "title": "FOX SPORTS",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50102,
+    "title": "Al Ula vs Al-Fateh",
+    "image": "o",
+    "cat": "Kings Cup",
+    "eventInfo": {
+      "teamA": "Al Ula",
+      "teamB": "Al-Fateh",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/853576/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/56023/image",
+      "eventName": "Al Ula vs Al-Fateh",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/19 18:00:00 +0000",
+      "endTime": "2026/08/19 20:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50103,
+    "title": "Jeddah vs Al-Kholood",
+    "image": "o",
+    "cat": "Kings Cup",
+    "eventInfo": {
+      "teamA": "Jeddah",
+      "teamB": "Al-Kholood",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/265323/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/269199/image",
+      "eventName": "Jeddah vs Al-Kholood",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/19 16:30:00 +0000",
+      "endTime": "2026/08/19 18:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50104,
+    "title": "Damac vs Al-Taawoun",
+    "image": "o",
+    "cat": "Kings Cup",
+    "eventInfo": {
+      "teamA": "Damac",
+      "teamB": "Al-Taawoun",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/204126/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/56021/image",
+      "eventName": "Damac FC vs Al-Taawoun",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/19 16:15:00 +0000",
+      "endTime": "2026/08/19 18:15:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50105,
+    "title": "Vietnam vs Malaysia",
+    "image": "o",
+    "cat": "ASEAN Championship",
+    "eventInfo": {
+      "teamA": "Vietnam",
+      "teamB": "Malaysia",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/7050/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/6912/image",
+      "eventName": "Vietnam vs Malaysia",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/19 13:00:00 +0000",
+      "endTime": "2026/08/19 15:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
