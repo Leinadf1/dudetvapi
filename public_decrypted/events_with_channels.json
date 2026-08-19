@@ -2605,9 +2605,11 @@
     "publish": "1",
     "formats": [
       "PREMIER SPORTS",
-      "beIN ENGLISH 3",
+      "beIN ENGLISH FHD",
       "D Sports FHD",
       "FANCODE FHD",
+      "PREMIER SPORTS HD",
+      "DUDE Tv Live",
       "HD SERVER",
       "ESPN+ EN [FHD]",
       "ESPN+ ES [FHD]"
@@ -2618,7 +2620,7 @@
         "logo": ""
       },
       {
-        "title": "beIN ENGLISH 3",
+        "title": "beIN ENGLISH FHD",
         "logo": ""
       },
       {
@@ -2627,6 +2629,14 @@
       },
       {
         "title": "FANCODE FHD",
+        "logo": ""
+      },
+      {
+        "title": "PREMIER SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       },
       {
@@ -2676,6 +2686,13 @@
         "link": "https://chatgpt.hereisman.net/playlist/54858/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "",
         "title": "PREMIER SPORTS HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://live.vivo200.com/live/hd-en-1-4565317.m3u8?txSecret=e4c2e34c82d74ee4b9f9a59b50d4c563&txTime=6A860FC1|Referer=https://player.online909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
         "type": "0"
       },
       {
@@ -2821,8 +2838,11 @@
     "formats": [
       "TNT Sports FHD",
       "CBS NETWORK",
+      "TNT SPORTS HD",
+      "DUDE Tv Live",
       "HBO MAX BR HD",
       "HD SERVER",
+      "HD SERVER 2",
       "PARAMOUNT+ [FHD]",
       "TNT SPORTS [FHD]"
     ],
@@ -2836,11 +2856,23 @@
         "logo": ""
       },
       {
+        "title": "TNT SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
         "title": "HBO MAX BR HD",
         "logo": ""
       },
       {
         "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER 2",
         "logo": ""
       },
       {
@@ -2876,6 +2908,13 @@
       },
       {
         "api": "",
+        "link": "https://live.vivo200.com/live/hd-en-1-4608831.m3u8?txSecret=bd7c7ca6c933f98e626096936889ad88&txTime=6A860F39|Referer=https://player.online909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
         "link": "https://rdcstream.life/live/celtic-x-lask-linz/index.m3u8?|Referer=https://bolodechocolate.fit/",
         "logo": "",
         "title": "HBO MAX BR HD",
@@ -2883,9 +2922,16 @@
       },
       {
         "api": "",
-        "link": "https://edgestream6.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://hls.live123.fans/live/4608831.m3u8",
         "logo": "",
         "title": "HD SERVER",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://edgestream6.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "HD SERVER 2",
         "type": "0"
       },
       {
@@ -2925,8 +2971,11 @@
     "publish": "1",
     "formats": [
       "TNT Sports FHD",
+      "TNT SPORTS HD",
+      "DUDE Tv Live",
       "HBO MAX BR HD",
       "HD SERVER",
+      "HD SERVER 2",
       "PARAMOUNT+ [FHD]"
     ],
     "formatsNew": [
@@ -2935,11 +2984,23 @@
         "logo": ""
       },
       {
+        "title": "TNT SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
         "title": "HBO MAX BR HD",
         "logo": ""
       },
       {
         "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER 2",
         "logo": ""
       },
       {
@@ -2964,6 +3025,13 @@
       },
       {
         "api": "",
+        "link": "https://live.vivo200.com/live/hd-en-1-4608845.m3u8?txSecret=c0a8b35298134d4f5d5e5917d2408f92&txTime=6A860F98|Referer=https://player.online909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
         "link": "https://rdcstream.life/live/nec-nijmegen-x-bodoglimt/index.m3u8?|Referer=https://bolodechocolate.fit/",
         "logo": "",
         "title": "HBO MAX BR HD",
@@ -2971,9 +3039,16 @@
       },
       {
         "api": "",
-        "link": "https://edgestream3.pro/hls/b0h5fNwDKH.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://hls.live123.fans/live/4608845.m3u8",
         "logo": "",
         "title": "HD SERVER",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://edgestream3.pro/hls/b0h5fNwDKH.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "HD SERVER 2",
         "type": "0"
       },
       {
@@ -3006,8 +3081,11 @@
     "publish": "1",
     "formats": [
       "TNT Sports FHD",
+      "TNT SPORTS HD",
+      "DUDE Tv Live",
       "HBO MAX BR HD",
       "HD SERVER",
+      "HD SERVER 2",
       "PARAMOUNT+ [FHD]"
     ],
     "formatsNew": [
@@ -3016,11 +3094,23 @@
         "logo": ""
       },
       {
+        "title": "TNT SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
         "title": "HBO MAX BR HD",
         "logo": ""
       },
       {
         "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER 2",
         "logo": ""
       },
       {
@@ -3045,6 +3135,13 @@
       },
       {
         "api": "",
+        "link": "https://live.vivo200.com/live/hd-en-1-4608838.m3u8?txSecret=fd384a7ee6dba703369bfb2d682098b7&txTime=6A860F5F|Referer=https://player.online909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
         "link": "https://rdcstream.life/live/slovan-bratislava-x-celje/index.m3u8?|Referer=https://bolodechocolate.fit/",
         "logo": "",
         "title": "HBO MAX BR HD",
@@ -3052,9 +3149,16 @@
       },
       {
         "api": "",
-        "link": "https://edgestream6.pro/hls/eJmauBDCIf.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://hls.live123.fans/live/4608838.m3u8",
         "logo": "",
         "title": "HD SERVER",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://edgestream6.pro/hls/eJmauBDCIf.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "HD SERVER 2",
         "type": "0"
       },
       {
@@ -3086,10 +3190,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "ARENA SPORTS HD",
       "HBO MAX BR HD",
       "PARAMOUNT+ [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "ARENA SPORTS HD",
+        "logo": ""
+      },
       {
         "title": "HBO MAX BR HD",
         "logo": ""

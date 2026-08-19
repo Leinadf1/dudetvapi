@@ -1529,9 +1529,11 @@
     "publish": "1",
     "formats": [
       "PREMIER SPORTS",
-      "beIN ENGLISH 3",
+      "beIN ENGLISH FHD",
       "D Sports FHD",
       "FANCODE FHD",
+      "PREMIER SPORTS HD",
+      "DUDE Tv Live",
       "HD SERVER",
       "ESPN+ EN [FHD]",
       "ESPN+ ES [FHD]"
@@ -1542,7 +1544,7 @@
         "logo": ""
       },
       {
-        "title": "beIN ENGLISH 3",
+        "title": "beIN ENGLISH FHD",
         "logo": ""
       },
       {
@@ -1551,6 +1553,14 @@
       },
       {
         "title": "FANCODE FHD",
+        "logo": ""
+      },
+      {
+        "title": "PREMIER SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       },
       {
@@ -1641,8 +1651,11 @@
     "formats": [
       "TNT Sports FHD",
       "CBS NETWORK",
+      "TNT SPORTS HD",
+      "DUDE Tv Live",
       "HBO MAX BR HD",
       "HD SERVER",
+      "HD SERVER 2",
       "PARAMOUNT+ [FHD]",
       "TNT SPORTS [FHD]"
     ],
@@ -1656,11 +1669,23 @@
         "logo": ""
       },
       {
+        "title": "TNT SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
         "title": "HBO MAX BR HD",
         "logo": ""
       },
       {
         "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER 2",
         "logo": ""
       },
       {
@@ -1693,8 +1718,11 @@
     "publish": "1",
     "formats": [
       "TNT Sports FHD",
+      "TNT SPORTS HD",
+      "DUDE Tv Live",
       "HBO MAX BR HD",
       "HD SERVER",
+      "HD SERVER 2",
       "PARAMOUNT+ [FHD]"
     ],
     "formatsNew": [
@@ -1703,11 +1731,23 @@
         "logo": ""
       },
       {
+        "title": "TNT SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
         "title": "HBO MAX BR HD",
         "logo": ""
       },
       {
         "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER 2",
         "logo": ""
       },
       {
@@ -1736,8 +1776,11 @@
     "publish": "1",
     "formats": [
       "TNT Sports FHD",
+      "TNT SPORTS HD",
+      "DUDE Tv Live",
       "HBO MAX BR HD",
       "HD SERVER",
+      "HD SERVER 2",
       "PARAMOUNT+ [FHD]"
     ],
     "formatsNew": [
@@ -1746,11 +1789,23 @@
         "logo": ""
       },
       {
+        "title": "TNT SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
         "title": "HBO MAX BR HD",
         "logo": ""
       },
       {
         "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER 2",
         "logo": ""
       },
       {
@@ -1778,10 +1833,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "ARENA SPORTS HD",
       "HBO MAX BR HD",
       "PARAMOUNT+ [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "ARENA SPORTS HD",
+        "logo": ""
+      },
       {
         "title": "HBO MAX BR HD",
         "logo": ""
