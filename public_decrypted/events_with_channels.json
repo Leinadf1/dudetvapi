@@ -1852,10 +1852,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1868,20 +1873,27 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream1.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://chatgpt.hereisman.net/playlist/54855/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv MLB",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://edgestream3.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-08-18/mia-phi",
+        "link": "https://embedindia.st/embed/mlb/2026-08-19/chw-chc",
         "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50079,
@@ -2642,7 +2654,7 @@
         "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "",
-        "title": "beIN ENGLISH 3",
+        "title": "beIN ENGLISH FHD",
         "type": "1"
       },
       {
@@ -2658,6 +2670,13 @@
         "logo": "",
         "title": "FANCODE FHD",
         "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/54858/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "PREMIER SPORTS HD",
+        "type": "0"
       },
       {
         "api": "",
@@ -2703,6 +2722,7 @@
     "publish": "1",
     "formats": [
       "ON SPORTS+ FHD",
+      "DUDE Tv Live",
       "HD SERVER",
       "BARCA TV HD",
       "BarcaPlay EN [FHD]",
@@ -2711,6 +2731,10 @@
     "formatsNew": [
       {
         "title": "ON SPORTS+ FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       },
       {
@@ -2736,6 +2760,13 @@
         "link": "https://fastly.live.brightcove.com/6384149663112/us-east-1/6416013238001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieWN3Ymx1LmVncmVzcy5zenkzeHgiLCJhY2NvdW50X2lkIjoiNjQxNjAxMzIzODAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE2MDEzMjM4MDAxIl0sImp0aSI6IjYzODQxNDk2NjMxMTIifQ.0yJpNEV0ZSId11mURgeaOhXZvov07Uj-VI_0qt0LLSQ/playlist-hls.m3u8",
         "logo": "",
         "title": "ON SPORTS+ FHD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://play.aarray.cn/rrty/sd-1-4595895_gqzm.m3u8?auth_key=1787166467-0-0-ee527ac20033e95f14eeacefa538c9c2&token=711db3fd906589b0&device=4&platform=rrty",
+        "logo": "",
+        "title": "DUDE Tv Live",
         "type": "0"
       },
       {
@@ -2838,6 +2869,13 @@
       },
       {
         "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/54859/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "TNT SPORTS HD",
+        "type": "0"
+      },
+      {
+        "api": "",
         "link": "https://rdcstream.life/live/celtic-x-lask-linz/index.m3u8?|Referer=https://bolodechocolate.fit/",
         "logo": "",
         "title": "HBO MAX BR HD",
@@ -2919,6 +2957,13 @@
       },
       {
         "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/54856/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "TNT SPORTS HD",
+        "type": "0"
+      },
+      {
+        "api": "",
         "link": "https://rdcstream.life/live/nec-nijmegen-x-bodoglimt/index.m3u8?|Referer=https://bolodechocolate.fit/",
         "logo": "",
         "title": "HBO MAX BR HD",
@@ -2990,6 +3035,13 @@
         "logo": "",
         "title": "TNT Sports FHD",
         "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/54860/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "TNT SPORTS HD",
+        "type": "0"
       },
       {
         "api": "",
@@ -3206,24 +3258,60 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER",
+      "HD SERVER 2",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER 2",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
         "api": "",
-        "link": "http://193.47.62.44/hls/aaaab.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "https://live.vivo200.com/live/sd-1-4570056.m3u8?txSecret=93cb9a057b6f5e5ae4337c9912f8d83e&txTime=6A860546|Referer=https://player.online909.com/",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://hls.live123.fans/live/4570056.m3u8",
+        "logo": "",
+        "title": "HD SERVER",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://stream.sports3.win/iptv/live/signal-4570056-41043.m3u8",
+        "logo": "",
+        "title": "HD SERVER 2",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.41/hls/OPPP.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "LOW SERVER",
+        "type": "0"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50103,
