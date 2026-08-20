@@ -2370,7 +2370,7 @@
         "type": "0"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
     "id": 50094,
@@ -2650,11 +2650,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "HD SERVER",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ],
@@ -2687,11 +2692,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "HD SERVER",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ],
@@ -2806,20 +2816,33 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "link": "https://edgestream6.pro/hls/nbekiurtghjhfza83.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/uefa-conference-league-qualifying/2026-08-20/hom-vie",
+        "logo": "",
+        "title": "SPX LIVE [FHD]",
+        "type": "2"
       }
     ],
     "channel_status": "live"
@@ -2854,9 +2877,10 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "title": "DUDE Tv Live",
-        "type": "0"
+        "link": "https://embedindia.st/embed/uefa-conference-league-qualifying/2026-08-20/mot-scf",
+        "logo": "",
+        "title": "SPX LIVE [FHD]",
+        "type": "2"
       }
     ],
     "channel_status": "live"
@@ -3034,11 +3058,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "HD SERVER",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ],
@@ -3174,6 +3203,79 @@
         "link": "https://rdcstream.life/live/espn4/index.m3u8?|Referer=https://bolodechocolate.fit/",
         "title": "ESPN4 BR HD",
         "type": "0"
+      }
+    ],
+    "channel_status": "cached"
+  },
+  {
+    "id": 50112,
+    "title": "Kairat Almaty vs RSC Anderlecht",
+    "image": "o",
+    "cat": "UEFA Europa",
+    "eventInfo": {
+      "teamA": "Kairat Almaty",
+      "teamB": "RSC Anderlecht",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/5172/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2900/image",
+      "eventName": "Kairat Almaty vs RSC Anderlecht",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/20 15:00:00 +0000",
+      "endTime": "2026/08/20 17:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SPX LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "SPX LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "ad3eaee6e411f68f9f2ed6f5aee50772:b4f2e48b561f0dfc83a457df2da42335",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/akmcc6qgzk/out/v1/28662664ad2c40c69916ded94c5ace08/b2f67da3-193f-4089-aad5-2eb72363719f-cenc.mpd?aws_sessionId=55002cfd-a7d4-43e5-840c-3df6024e09f6|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
+        "title": "PARAMOUNT+ FHD",
+        "type": "1"
+      },
+      {
+        "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "beIN ENGLISH FHD",
+        "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/54748/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "SKY FOOTBALL HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.42/hls/epppaaaaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "LOW SERVER",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://saka.kpores.ru/live/cbs-sports-network.m3u8",
+        "logo": "",
+        "title": "CBS NETWORK HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/efl-championship/2026-08-16/bur-whu",
+        "logo": "",
+        "title": "SPX LIVE [FHD]",
+        "type": "2"
       }
     ],
     "channel_status": "cached"

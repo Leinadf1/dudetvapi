@@ -1482,11 +1482,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "HD SERVER",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1510,11 +1515,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "HD SERVER",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1594,11 +1604,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1762,11 +1777,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "HD SERVER",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1851,6 +1871,34 @@
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50112,
+    "title": "Kairat Almaty vs RSC Anderlecht",
+    "image": "o",
+    "cat": "UEFA Europa",
+    "eventInfo": {
+      "teamA": "Kairat Almaty",
+      "teamB": "RSC Anderlecht",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/5172/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2900/image",
+      "eventName": "Kairat Almaty vs RSC Anderlecht",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/20 15:00:00 +0000",
+      "endTime": "2026/08/20 17:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SPX LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
