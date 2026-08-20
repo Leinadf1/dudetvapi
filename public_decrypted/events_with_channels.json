@@ -1748,9 +1748,14 @@
     "publish": "1",
     "formats": [
       "DUDE Tv Live",
+      "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1763,18 +1768,27 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream6.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://chatgpt.hereisman.net/playlist/54912/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-08-19/det-pit",
+        "link": "https://edgestream6.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/mlb/2026-08-20/stl-cin",
+        "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50076,
@@ -2862,12 +2876,22 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv Live",
       "HD SERVER",
+      "SD SERVER",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
         "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       },
       {
@@ -2878,12 +2902,34 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "link": "https://live.666666.zip/live/4608866.m3u8",
+        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://edgestream7.pro/hls/sdghjvqazhvg80.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "HD SERVER",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.44/hls/EJJJAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "SD SERVER",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/uefa-europa-league-qualfiying/2026-08-20/mja-slz",
+        "logo": "",
+        "title": "SPX LIVE [FHD]",
+        "type": "2"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50099,
@@ -3395,29 +3441,36 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
         "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
       }
     ],
     "decoded_channels": [
       {
-        "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "title": "beIN ENGLISH FHD",
-        "type": "1"
+        "api": "",
+        "link": "https://play.aarray.cn/rrty/sd-1-4608894_gqzm.m3u8?auth_key=1787245708-0-0-a2f66360eea6fa88036d131fe48d6adc",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
       },
       {
         "api": "",
-        "link": "https://rdcstream.life/live/espn4/index.m3u8?|Referer=https://bolodechocolate.fit/",
-        "title": "ESPN4 BR HD",
+        "link": "https://stream.sports3.win/iptv/live/signal-4608894-41388.m3u8",
+        "logo": "",
+        "title": "HD SERVER",
         "type": "0"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50112,

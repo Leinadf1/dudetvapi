@@ -927,9 +927,14 @@
     "publish": "1",
     "formats": [
       "DUDE Tv Live",
+      "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1596,12 +1601,22 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv Live",
       "HD SERVER",
+      "SD SERVER",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
         "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       },
       {
@@ -1980,11 +1995,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
         "logo": ""
       }
     ]
