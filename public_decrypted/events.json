@@ -1236,9 +1236,8 @@
       "teamBFlag": "https://our.today/wp-content/uploads/2026/07/CPL-Caribbean-Premier-League.jpg",
       "eventName": "Caribbean Premier League",
       "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/19 23:00:00 +0000",
-      "endTime": "2026/08/20 02:45:00 +0000"
+      "startTime": "2026/08/20 23:00:00 +0000",
+      "endTime": "2026/08/21 03:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1557,11 +1556,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER",
+      "HD SERVER 2",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER 2",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]

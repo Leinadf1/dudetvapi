@@ -2217,9 +2217,8 @@
       "teamBFlag": "https://our.today/wp-content/uploads/2026/07/CPL-Caribbean-Premier-League.jpg",
       "eventName": "Caribbean Premier League",
       "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/19 23:00:00 +0000",
-      "endTime": "2026/08/20 02:45:00 +0000"
+      "startTime": "2026/08/20 23:00:00 +0000",
+      "endTime": "2026/08/21 03:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -2752,80 +2751,60 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "HD SERVER",
+      "HD SERVER 2",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
         "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER 2",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
       }
     ],
     "decoded_channels": [
       {
-        "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "TNT Sports FHD",
-        "type": "1"
-      },
-      {
-        "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "CBS NETWORK",
-        "type": "1"
-      },
-      {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/54859/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "TNT SPORTS HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://live.vivo200.com/live/hd-en-1-4608831.m3u8?txSecret=bd7c7ca6c933f98e626096936889ad88&txTime=6A860F39|Referer=https://player.online909.com/",
+        "link": "https://hls.live123.fans/live/4608875.m3u8",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://rdcstream.life/live/celtic-x-lask-linz/index.m3u8?|Referer=https://bolodechocolate.fit/",
-        "logo": "",
-        "title": "HBO MAX BR HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://hls.live123.fans/live/4608831.m3u8",
+        "link": "https://stream.sports3.win/iptv/live/signal-4608875-41521.m3u8",
         "logo": "",
         "title": "HD SERVER",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://edgestream6.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://hls.streamhub.media/hls/thesport-api-5ed05d76ef771a0858ea/master.m3u8",
         "logo": "",
         "title": "HD SERVER 2",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/uefa-champions-league-qualifying/2026-08-19/cel-las/paramount-en",
+        "link": "http://193.47.62.53/hls/RQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
         "logo": "",
-        "title": "PARAMOUNT+ [FHD]",
+        "title": "SD SERVER",
         "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/uefa-champions-league-qualifying/2026-08-19/cel-las",
-        "logo": "",
-        "title": "TNT SPORTS [FHD]",
-        "type": "2"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50096,
