@@ -627,109 +627,94 @@
     ]
   },
   {
-    "id": 50052,
-    "title": "Houston Astros",
+    "id": 50027,
+    "title": "Dallas Wings vs Indiana Fever",
     "image": "o",
-    "cat": "MLB",
+    "cat": "WNBA",
     "eventInfo": {
-      "teamA": "Astros",
-      "teamB": "Angels",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3655/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/5929/image",
-      "eventName": "Houston Astros vs Los Angeles Angels",
+      "teamA": "Wings",
+      "teamB": "Fever",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3450/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3452/image",
+      "eventName": "Dallas Wings vs Indiana Fever",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/20 00:10:00 +0000",
-      "endTime": "2026/08/20 03:10:00 +0000"
+      "startTime": "2026/08/21 00:00:00 +0000",
+      "endTime": "2026/08/21 02:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv MLB",
       "DUDE Tv Live",
-      "MLB LIVE [FHD]"
+      "WNBA LIVE [FHD]"
     ],
     "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
       },
       {
-        "title": "MLB LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50053,
-    "title": "Colorado Rockies",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Rockies",
-      "teamB": "Dodgers",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3628/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3638/image",
-      "eventName": "Colorado Rockies vs Los Angeles Dodgers",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/20 00:40:00 +0000",
-      "endTime": "2026/08/20 03:40:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv MLB",
-      "DUDE Tv Live",
-      "MLB LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "MLB LIVE [FHD]",
+        "title": "WNBA LIVE [FHD]",
         "logo": ""
       }
     ]
   },
   {
     "id": 50055,
-    "title": "Valkyries vs Minnesota Lynx",
+    "title": "Aces vs Connecticut Sun",
     "image": "o",
     "cat": "WNBA",
     "eventInfo": {
-      "teamA": "Valkyries",
-      "teamB": "Lynx",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1041936/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3440/image",
-      "eventName": "Golden State Valkyries vs Minnesota Lynx",
+      "teamA": "Aces",
+      "teamB": "Sun",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/35550/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/35547/image",
+      "eventName": "Las Vegas Aces vs Connecticut Sun",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/20 02:00:00 +0000",
-      "endTime": "2026/08/20 04:45:00 +0000"
+      "startTime": "2026/08/21 02:00:00 +0000",
+      "endTime": "2026/08/21 04:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv WNBA",
       "DUDE Tv Live",
       "WNBA LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv WNBA",
+        "title": "DUDE Tv Live",
         "logo": ""
       },
+      {
+        "title": "WNBA LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50056,
+    "title": "Sparks vs Atlanta Dream",
+    "image": "o",
+    "cat": "WNBA",
+    "eventInfo": {
+      "teamA": "Sparks",
+      "teamB": "Dream",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3447/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/35545/image",
+      "eventName": "Los Angeles Sparks vs Atlanta Dream",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/21 02:00:00 +0000",
+      "endTime": "2026/08/21 04:45:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "WNBA LIVE [FHD]"
+    ],
+    "formatsNew": [
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1119,72 +1104,128 @@
     ]
   },
   {
-    "id": 50086,
-    "title": "LA Galaxy vs San Jose",
+    "id": 50087,
+    "title": "LDU vs Mirassol",
     "image": "o",
-    "cat": "MLS 🇺🇸",
+    "cat": "CON. Libertadores",
     "eventInfo": {
-      "teamA": "LA Galaxy",
-      "teamB": "San Jose",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2513/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/21825/image",
-      "eventName": "LA Galaxy vs San Jose Earthquakes",
+      "teamA": "LDU",
+      "teamB": "Mirassol",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/5257/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/21982/image",
+      "eventName": "LDU vs Mirassol",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/20 02:30:00 +0000",
-      "endTime": "2026/08/20 04:35:00 +0000"
+      "startTime": "2026/08/20 22:00:00 +0000",
+      "endTime": "2026/08/21 00:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "FOX SPORTS FHD",
-      "MLS LEAGUE [FHD]"
+      "beIN ENGLISH"
     ],
     "formatsNew": [
       {
-        "title": "FOX SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "MLS LEAGUE [FHD]",
+        "title": "beIN ENGLISH",
         "logo": ""
       }
     ]
   },
   {
-    "id": 50091,
-    "title": "Vancouver vs Houston Dynamo",
+    "id": 50088,
+    "title": "Corinthians vs Rosario Central",
     "image": "o",
-    "cat": "MLS 🇺🇸",
+    "cat": "CON. Libertadores",
     "eventInfo": {
-      "teamA": "Vancouver",
-      "teamB": "Houston",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/22010/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2508/image",
-      "eventName": "Vancouver Whitecaps vs Houston Dynamo",
+      "teamA": "Corinthians",
+      "teamB": "Rosario Central",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1957/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3217/image",
+      "eventName": "Corinthians vs Rosario Central",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/20 02:30:00 +0000",
-      "endTime": "2026/08/20 04:35:00 +0000"
+      "startTime": "2026/08/21 00:30:00 +0000",
+      "endTime": "2026/08/21 02:35:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TSN4 SPORTS",
-      "TSN5 SPORTS",
-      "MLS LEAGUE [FHD]"
+      "beIN ENGLISH"
     ],
     "formatsNew": [
       {
-        "title": "TSN4 SPORTS",
+        "title": "beIN ENGLISH",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50089,
+    "title": "Macará vs Santos",
+    "image": "o",
+    "cat": "CON. Sudamericana",
+    "eventInfo": {
+      "teamA": "Macará",
+      "teamB": "Santos",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/6001/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1968/image",
+      "eventName": "Macará vs Santos",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/20 22:00:00 +0000",
+      "endTime": "2026/08/21 00:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "beIN ENGLISH FHD",
+      "SportDigital Fussball"
+    ],
+    "formatsNew": [
+      {
+        "title": "beIN ENGLISH FHD",
         "logo": ""
       },
       {
-        "title": "TSN5 SPORTS",
+        "title": "SportDigital Fussball",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50090,
+    "title": "Botafogo vs Cienciano",
+    "image": "o",
+    "cat": "CON. Sudamericana",
+    "eventInfo": {
+      "teamA": "Botafogo",
+      "teamB": "Cienciano",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1958/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2301/image",
+      "eventName": "Botafogo vs Cienciano",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/21 00:30:00 +0000",
+      "endTime": "2026/08/21 02:40:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "beIN ENGLISH",
+      "D Sports FHD",
+      "SportDigital Fussball"
+    ],
+    "formatsNew": [
+      {
+        "title": "beIN ENGLISH",
         "logo": ""
       },
       {
-        "title": "MLS LEAGUE [FHD]",
+        "title": "D Sports FHD",
+        "logo": ""
+      },
+      {
+        "title": "SportDigital Fussball",
         "logo": ""
       }
     ]
@@ -1266,6 +1307,515 @@
       },
       {
         "title": "ESPN+ ES [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50094,
+    "title": "Al-Fayha vs Al-Hilal",
+    "image": "o",
+    "cat": "Pro League 🇸🇦",
+    "eventInfo": {
+      "teamA": "Al-Fayha",
+      "teamB": "Al-Hilal",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/168094/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/21895/image",
+      "eventName": "Al-Fayha vs Al-Hilal",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/20 18:00:00 +0000",
+      "endTime": "2026/08/20 20:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "FOX DEPORTES",
+      "SportDigital Fussball"
+    ],
+    "formatsNew": [
+      {
+        "title": "FOX DEPORTES",
+        "logo": ""
+      },
+      {
+        "title": "SportDigital Fussball",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50095,
+    "title": "Benfica vs AGF",
+    "image": "o",
+    "cat": "UEFA Europa",
+    "eventInfo": {
+      "teamA": "Benfica",
+      "teamB": "AGF",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3006/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1291/image",
+      "eventName": "Benfica vs AGF",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/20 19:00:00 +0000",
+      "endTime": "2026/08/20 21:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50096,
+    "title": "Trabzonspor vs Ferencváros",
+    "image": "o",
+    "cat": "UEFA Europa",
+    "eventInfo": {
+      "teamA": "Trabzonspor",
+      "teamB": "Ferencváros",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3051/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1925/image",
+      "eventName": "Trabzonspor vs Ferencváros TC",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/20 17:00:00 +0000",
+      "endTime": "2026/08/20 19:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50097,
+    "title": "Beşiktaş vs Kauno Žalgiris",
+    "image": "o",
+    "cat": "UEFA Europa",
+    "eventInfo": {
+      "teamA": "Beşiktaş",
+      "teamB": "Kauno Žalgiris",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3050/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/80741/image",
+      "eventName": "Beşiktaş vs Kauno Žalgiris",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/20 17:00:00 +0000",
+      "endTime": "2026/08/20 19:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50098,
+    "title": "Mjällby vs RB Salzburg",
+    "image": "o",
+    "cat": "UEFA Europa",
+    "eventInfo": {
+      "teamA": "Mjällby",
+      "teamB": "RB Salzburg",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1783/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2046/image",
+      "eventName": "Mjällby vs RB Salzburg",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/20 16:00:00 +0000",
+      "endTime": "2026/08/20 18:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50099,
+    "title": "Rangers vs Jablonec",
+    "image": "o",
+    "cat": "UEFA Conference",
+    "eventInfo": {
+      "teamA": "Rangers",
+      "teamB": "Jablonec",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2351/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2205/image",
+      "eventName": "Rangers vs Jablonec",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/20 18:45:00 +0000",
+      "endTime": "2026/08/20 20:50:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50100,
+    "title": "Sporting Braga vs Austria Wien",
+    "image": "o",
+    "cat": "UEFA Conference",
+    "eventInfo": {
+      "teamA": "Braga",
+      "teamB": "Austria Wien",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2999/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2203/image",
+      "eventName": "Sporting Braga vs FK Austria Wien",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/20 19:00:00 +0000",
+      "endTime": "2026/08/20 21:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50101,
+    "title": "Getafe vs FK Partizan",
+    "image": "o",
+    "cat": "UEFA Conference",
+    "eventInfo": {
+      "teamA": "Getafe",
+      "teamB": "Partizan",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2859/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/5152/image",
+      "eventName": "Getafe vs FK Partizan",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/20 19:00:00 +0000",
+      "endTime": "2026/08/20 21:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50102,
+    "title": "Hearts vs SK Rapid Wien",
+    "image": "o",
+    "cat": "UEFA Conference",
+    "eventInfo": {
+      "teamA": "Hearts",
+      "teamB": "Rapid",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2353/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2055/image",
+      "eventName": "Hearts vs SK Rapid Wien",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/20 18:45:00 +0000",
+      "endTime": "2026/08/20 20:50:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50103,
+    "title": "Motherwell vs SC Freiburg",
+    "image": "o",
+    "cat": "UEFA Conference",
+    "eventInfo": {
+      "teamA": "Motherwell",
+      "teamB": "Freiburg",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2346/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2538/image",
+      "eventName": "Motherwell vs SC Freiburg",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/20 18:30:00 +0000",
+      "endTime": "2026/08/20 20:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50104,
+    "title": "KAA Gent vs Hibernian",
+    "image": "o",
+    "cat": "UEFA Conference",
+    "eventInfo": {
+      "teamA": "Gent",
+      "teamB": "Hibernian",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2903/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2354/image",
+      "eventName": "KAA Gent vs Hibernian",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/20 18:30:00 +0000",
+      "endTime": "2026/08/20 20:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50105,
+    "title": "Atalanta vs Tel Aviv",
+    "image": "o",
+    "cat": "UEFA Conference",
+    "eventInfo": {
+      "teamA": "Atalanta",
+      "teamB": "H. Tel Aviv",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2686/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/5396/image",
+      "eventName": "Atalanta vs Tel Aviv",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/20 18:30:00 +0000",
+      "endTime": "2026/08/20 20:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50106,
+    "title": "Sion vs AFC Ajax",
+    "image": "o",
+    "cat": "UEFA Conference",
+    "eventInfo": {
+      "teamA": "Sion",
+      "teamB": "Ajax",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2452/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2953/image",
+      "eventName": "FC Sion vs AFC Ajax",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/20 18:15:00 +0000",
+      "endTime": "2026/08/20 20:15:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50107,
+    "title": "Twente vs Qarabağ",
+    "image": "o",
+    "cat": "UEFA Conference",
+    "eventInfo": {
+      "teamA": "Twente",
+      "teamB": "Qarabağ",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2955/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/5962/image",
+      "eventName": "Twente vs Qarabağ",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/20 18:00:00 +0000",
+      "endTime": "2026/08/20 20:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50108,
+    "title": "Górnik Zabrze vs AS Monaco",
+    "image": "o",
+    "cat": "UEFA Conference",
+    "eventInfo": {
+      "teamA": "Górnik",
+      "teamB": "AS Monaco",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3110/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1653/image",
+      "eventName": "Górnik Zabrze vs AS Monaco",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/20 18:00:00 +0000",
+      "endTime": "2026/08/20 20:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50109,
+    "title": "Midtjylland vs HNK Rijeka",
+    "image": "o",
+    "cat": "UEFA Conference",
+    "eventInfo": {
+      "teamA": "Midtjylland",
+      "teamB": "Rijeka",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1289/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2039/image",
+      "eventName": "FC Midtjylland vs HNK Rijeka",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/20 17:00:00 +0000",
+      "endTime": "2026/08/20 19:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50110,
+    "title": "Tromsø IL vs Brighton",
+    "image": "o",
+    "cat": "UEFA Conference",
+    "eventInfo": {
+      "teamA": "Tromsø",
+      "teamB": "Brighton",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/660/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/30/image",
+      "eventName": "Tromsø IL vs Brighton",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/20 17:00:00 +0000",
+      "endTime": "2026/08/20 19:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50111,
+    "title": "Inter vs København",
+    "image": "o",
+    "cat": "UEFA Conference",
+    "eventInfo": {
+      "teamA": "Inter",
+      "teamB": "København",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2247/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1284/image",
+      "eventName": "Inter Turku vs FC København",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/20 16:00:00 +0000",
+      "endTime": "2026/08/20 18:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
