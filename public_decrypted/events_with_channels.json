@@ -1277,14 +1277,14 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream4.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream7.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/wnba/2026-08-19/tor-wsh",
+        "link": "https://embedindia.st/embed/wnba/2026-08-20/ind-dal",
         "logo": "",
         "title": "WNBA LIVE [FHD]",
         "type": "2"
@@ -1327,13 +1327,15 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream4.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream7.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/wnba/2026-08-19/min-gs",
+        "link": "https://embedindia.st/embed/wnba/2026-08-20/con-lv",
+        "logo": "",
         "title": "WNBA LIVE [FHD]",
         "type": "2"
       }
@@ -1373,20 +1375,6 @@
       }
     ],
     "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://edgestream7.pro/hls/pllmazjkdzajh72.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/wnba/2026-08-18/ny-chi",
-        "logo": "",
-        "title": "WNBA LIVE [FHD]",
-        "type": "2"
-      },
       {
         "api": "YTdlZDhkNGExZmEyZWI0NzFhNmJlNTVmZTJkMmQyNDg6MDE0NWJlYzY4YmM0MWE4YTBiOTUzM3E0NG80NGQzOWM=",
         "link": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9ursje3pdu/out/v1/b794975bb9304d08b362b47ed428f4f1/cenc.mpd",
@@ -1603,7 +1591,7 @@
         "type": "2"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
     "id": 50076,
@@ -1640,13 +1628,15 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream1.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream5.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-08-19/sd-nym",
+        "link": "https://embedindia.st/embed/mlb/2026-08-20/sf-cle",
+        "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
       }
@@ -1672,9 +1662,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
       {
         "title": "MLB LIVE [FHD]",
         "logo": ""
@@ -1683,7 +1678,15 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-08-19/atl-min",
+        "link": "https://edgestream5.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/mlb/2026-08-20/tor-tb",
+        "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
       }
@@ -1725,13 +1728,15 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream3.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream4.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-08-19/chw-chc",
+        "link": "https://embedindia.st/embed/mlb/2026-08-20/atl-chw",
+        "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
       }
@@ -1784,7 +1789,7 @@
         "type": "2"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
     "id": 50080,
@@ -1821,20 +1826,20 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream7.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream7.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-08-19/mia-phi",
+        "link": "https://embedindia.st/embed/mlb/2026-08-20/sea-mil",
         "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50081,
@@ -1871,14 +1876,14 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream5.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream7.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-08-19/nyy-bal",
+        "link": "https://embedindia.st/embed/mlb/2026-08-20/nyy-bal",
         "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
@@ -1934,7 +1939,7 @@
         "type": "2"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
     "id": 50083,
@@ -1971,14 +1976,14 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream3.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream6.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-08-19/sf-cle",
+        "link": "https://embedindia.st/embed/mlb/2026-08-20/laa-hou",
         "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
@@ -2661,7 +2666,7 @@
         "type": "0"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
     "id": 50099,
@@ -2693,27 +2698,20 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/54878/load-playlist?|Referer=https://gooz.aapmains.net",
+        "link": "https://edgestream7.pro/hls/ioazuryeahrfvzed84.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
-        "title": "APPLE TV HD",
+        "title": "HD SERVER",
         "type": "0"
       },
       {
-        "api": "cce5ececce2050388b470e4a71f2c459:3328a68a01770131d1dc2ebe805c2672",
-        "link": "https://abgrq4vaaaaaaaamhc5j5iesienxp.ta.bia-cf.live.pv-cdn.net/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/hnb1pxgcx3/out/v1/411e9045d8564f8d980b361f23f988d6/f3a229a8-9f58-4c39-9fef-32c8a0422b83-cenc.mpd?amznDtid=AOAGZA014O5RE&amznPN=xp&amznPV=ATVWebPlayerSDK-1.0.242020.0&encoding=segmentBase|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "",
+        "link": "https://embedindia.st/embed/uefa-conference-league-qualifying/2026-08-20/ran-jabl",
         "logo": "",
-        "title": "MLS LEAGUE AQ",
-        "type": "1"
-      },
-      {
-        "api": "8dfcbc2f71d1f5f509391115fad72926:f433b39284188d6e7defb076ec8037e0",
-        "link": "https://abgrq4vaaaaaaaampsyx3sspvxzan.ta.bia-cf.live.pv-cdn.net/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/auq2ercnt0/out/v1/7ee50ab92ef94ab98a855d948be207b3/5a495046-7ef3-4f47-946c-4a3af3107708-cenc.mpd?amznDtid=AOAGZA014O5RE&amznPN=xp&amznPV=ATVWebPlayerSDK-1.0.242020.0&encoding=segmentBase",
-        "logo": "",
-        "title": "Spanish AQ",
-        "type": "1"
+        "title": "SPX LIVE [FHD]",
+        "type": "2"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50100,
@@ -3047,27 +3045,20 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4563511.m3u8?txSecret=1b1a7fca68639cc9a6fbe26ba77d9c8b&txTime=6A808033|Referer=https://player.online909.com/",
+        "link": "https://edgestream7.pro/hls/dsqhjbjhsqd81.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
-        "title": "DUDE Tv Live",
+        "title": "HD SERVER",
         "type": "0"
       },
       {
         "api": "",
-        "link": "http://193.47.62.192/hls/AAFFF.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "SD SERVER",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/efl-championship/2026-08-15/stk-swa",
+        "link": "https://embedindia.st/embed/uefa-conference-league-qualifying/2026-08-20/gor-mon",
         "logo": "",
         "title": "SPX LIVE [FHD]",
         "type": "2"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50109,
