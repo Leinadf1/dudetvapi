@@ -1499,10 +1499,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2226,10 +2231,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "WILLOW FHD",
       "TNT Sports FHD",
       "TAPMAD FHD"
     ],
     "formatsNew": [
+      {
+        "title": "WILLOW FHD",
+        "logo": ""
+      },
       {
         "title": "TNT Sports FHD",
         "logo": ""
@@ -2241,14 +2251,23 @@
     ],
     "decoded_channels": [
       {
+        "api": "07fc3c0be561a7574013335336a4567d:9d61851df9fbb1f59f434efbad5053ea",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/afavrdziqc/out/v1/811a385a5ac447419e0054d697e0ba41/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "WILLOW FHD",
+        "type": "1"
+      },
+      {
         "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
         "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
         "title": "TNT Sports FHD",
         "type": "1"
       },
       {
         "api": "",
-        "link": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8?|referer=https://tapmad.com",
+        "link": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8?|referer=https://tapmad.com",
+        "logo": "",
         "title": "TAPMAD FHD",
         "type": "0"
       }
@@ -2373,11 +2392,16 @@
     "publish": "1",
     "formats": [
       "beIN ENGLISH",
+      "DUDE Tv Live",
       "PARAMOUNT+ HD"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       },
       {
@@ -2389,12 +2413,21 @@
       {
         "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
         "title": "beIN ENGLISH",
         "type": "1"
       },
       {
         "api": "",
+        "link": "https://live.vivo200.com/live/sd-1-4592472.m3u8?txSecret=e0bb992a930f79969728f9cdc4701a9f&txTime=6A865DCC|Referer=https://player.online909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
         "link": "https://rdcstream.life/live/flamengo-x-cruzeiro/index.m3u8?|Referer=https://bolodechocolate.fit/",
+        "logo": "",
         "title": "PARAMOUNT+ HD",
         "type": "0"
       }
@@ -2421,11 +2454,16 @@
     "publish": "1",
     "formats": [
       "D Sports FHD",
+      "DUDE Tv Live",
       "PARAMOUNT+ HD"
     ],
     "formatsNew": [
       {
         "title": "D Sports FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       },
       {
@@ -2437,12 +2475,21 @@
       {
         "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
         "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
         "title": "D Sports FHD",
         "type": "1"
       },
       {
         "api": "",
+        "link": "https://live.vivo200.com/live/sd-1-4601372.m3u8?txSecret=86b240226986ba19339037f2ec829222&txTime=6A865E18|Referer=https://player.online909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
         "link": "https://rdcstream.life/live/montevideo-city-torque-x-tigre/index.m3u8?|Referer=https://bolodechocolate.fit/",
+        "logo": "",
         "title": "PARAMOUNT+ HD",
         "type": "0"
       }
@@ -2556,43 +2603,6 @@
         "logo": "",
         "title": "MLS LEAGUE [FHD]",
         "type": "2"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50092,
-    "title": "Atlético Mineiro vs RB Bragantino",
-    "image": "o",
-    "cat": "CON. Sudamericana",
-    "eventInfo": {
-      "teamA": "Atlético-MG",
-      "teamB": "RB Bragantino",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1977/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1999/image",
-      "eventName": "Atlético Mineiro vs RB Bragantino",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/19 22:00:00 +0000",
-      "endTime": "2026/08/20 00:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "HD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://rdcstream.life/live/atletico-mg-x-red-bull-bragantino/index.m3u8?|Referer=https://bolodechocolate.fit/",
-        "title": "HD SERVER",
-        "type": "0"
       }
     ],
     "channel_status": "live"
@@ -2732,407 +2742,6 @@
     "channel_status": "live"
   },
   {
-    "id": 50095,
-    "title": "Celtic vs LASK",
-    "image": "o",
-    "cat": "UCL",
-    "eventInfo": {
-      "teamA": "Celtic",
-      "teamB": "LASK",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2352/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2058/image",
-      "eventName": "Celtic vs LASK",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/19 19:00:00 +0000",
-      "endTime": "2026/08/19 21:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "TNT Sports FHD",
-      "CBS NETWORK",
-      "TNT SPORTS HD",
-      "DUDE Tv Live",
-      "HBO MAX BR HD",
-      "HD SERVER",
-      "HD SERVER 2",
-      "PARAMOUNT+ [FHD]",
-      "TNT SPORTS [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "TNT Sports FHD",
-        "logo": ""
-      },
-      {
-        "title": "CBS NETWORK",
-        "logo": ""
-      },
-      {
-        "title": "TNT SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HBO MAX BR HD",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER 2",
-        "logo": ""
-      },
-      {
-        "title": "PARAMOUNT+ [FHD]",
-        "logo": ""
-      },
-      {
-        "title": "TNT SPORTS [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "TNT Sports FHD",
-        "type": "1"
-      },
-      {
-        "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "CBS NETWORK",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/54859/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "TNT SPORTS HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://live.vivo200.com/live/hd-en-1-4608831.m3u8?txSecret=bd7c7ca6c933f98e626096936889ad88&txTime=6A860F39|Referer=https://player.online909.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://rdcstream.life/live/celtic-x-lask-linz/index.m3u8?|Referer=https://bolodechocolate.fit/",
-        "logo": "",
-        "title": "HBO MAX BR HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://hls.live123.fans/live/4608831.m3u8",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://edgestream6.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "HD SERVER 2",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/uefa-champions-league-qualifying/2026-08-19/cel-las/paramount-en",
-        "logo": "",
-        "title": "PARAMOUNT+ [FHD]",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/uefa-champions-league-qualifying/2026-08-19/cel-las",
-        "logo": "",
-        "title": "TNT SPORTS [FHD]",
-        "type": "2"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50096,
-    "title": "Nijmegen vs BodO/Glimt",
-    "image": "o",
-    "cat": "UCL",
-    "eventInfo": {
-      "teamA": "NEC",
-      "teamB": "Bodø/Glimt",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2962/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/656/image",
-      "eventName": "NEC Nijmegen vs Bodø/Glimt",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/19 19:00:00 +0000",
-      "endTime": "2026/08/19 21:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "TNT Sports FHD",
-      "TNT SPORTS HD",
-      "DUDE Tv Live",
-      "HBO MAX BR HD",
-      "HD SERVER",
-      "HD SERVER 2",
-      "PARAMOUNT+ [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "TNT Sports FHD",
-        "logo": ""
-      },
-      {
-        "title": "TNT SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HBO MAX BR HD",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER 2",
-        "logo": ""
-      },
-      {
-        "title": "PARAMOUNT+ [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "TNT Sports FHD",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/54856/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "TNT SPORTS HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://live.vivo200.com/live/hd-en-1-4608845.m3u8?txSecret=c0a8b35298134d4f5d5e5917d2408f92&txTime=6A860F98|Referer=https://player.online909.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://rdcstream.life/live/nec-nijmegen-x-bodoglimt/index.m3u8?|Referer=https://bolodechocolate.fit/",
-        "logo": "",
-        "title": "HBO MAX BR HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://hls.live123.fans/live/4608845.m3u8",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://edgestream3.pro/hls/b0h5fNwDKH.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "HD SERVER 2",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/uefa-champions-league-qualifying/2026-08-19/nec-bodo/paramount-en",
-        "logo": "",
-        "title": "PARAMOUNT+ [FHD]",
-        "type": "2"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50097,
-    "title": "Slovan Bratislava vs NK Celje",
-    "image": "o",
-    "cat": "UCL",
-    "eventInfo": {
-      "teamA": "Slovan",
-      "teamB": "Celje",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2404/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2413/image",
-      "eventName": "ŠK Slovan Bratislava vs NK Celje",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/19 19:00:00 +0000",
-      "endTime": "2026/08/19 21:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "TNT Sports FHD",
-      "TNT SPORTS HD",
-      "DUDE Tv Live",
-      "HBO MAX BR HD",
-      "HD SERVER",
-      "HD SERVER 2",
-      "PARAMOUNT+ [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "TNT Sports FHD",
-        "logo": ""
-      },
-      {
-        "title": "TNT SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HBO MAX BR HD",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER 2",
-        "logo": ""
-      },
-      {
-        "title": "PARAMOUNT+ [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "TNT Sports FHD",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/54860/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "TNT SPORTS HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://live.vivo200.com/live/hd-en-1-4608838.m3u8?txSecret=fd384a7ee6dba703369bfb2d682098b7&txTime=6A860F5F|Referer=https://player.online909.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://rdcstream.life/live/slovan-bratislava-x-celje/index.m3u8?|Referer=https://bolodechocolate.fit/",
-        "logo": "",
-        "title": "HBO MAX BR HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://hls.live123.fans/live/4608838.m3u8",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://edgestream6.pro/hls/eJmauBDCIf.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-        "logo": "",
-        "title": "HD SERVER 2",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/uefa-champions-league-qualifying/2026-08-19/slb-nkc/paramount-en",
-        "logo": "",
-        "title": "PARAMOUNT+ [FHD]",
-        "type": "2"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50098,
-    "title": "Sheva vs Sabah FK",
-    "image": "o",
-    "cat": "UCL",
-    "eventInfo": {
-      "teamA": "H. Be'er Sheva",
-      "teamB": "Sabah",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/5202/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/267828/image",
-      "eventName": "Hapoel Be'er Sheva vs Sabah FK",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/19 19:00:00 +0000",
-      "endTime": "2026/08/19 21:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "ARENA SPORTS HD",
-      "HBO MAX BR HD",
-      "PARAMOUNT+ [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "ARENA SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "HBO MAX BR HD",
-        "logo": ""
-      },
-      {
-        "title": "PARAMOUNT+ [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://rdcstream.life/live/hapoel-beer-sheva-x-sabah-baku/index.m3u8?|Referer=https://bolodechocolate.fit/",
-        "title": "HBO MAX BR HD",
-        "type": "0"
-      }
-    ],
-    "channel_status": "cached"
-  },
-  {
     "id": 50099,
     "title": "Philadelphia Union vs Inter Miami",
     "image": "o",
@@ -3151,21 +2760,45 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "MLS LEAGUE [FHD]"
+      "APPLE TV HD",
+      "MLS LEAGUE AQ",
+      "Spanish AQ"
     ],
     "formatsNew": [
       {
-        "title": "MLS LEAGUE [FHD]",
+        "title": "APPLE TV HD",
+        "logo": ""
+      },
+      {
+        "title": "MLS LEAGUE AQ",
+        "logo": ""
+      },
+      {
+        "title": "Spanish AQ",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mls/2026-08-19/phi-mia",
+        "link": "https://chatgpt.hereisman.net/playlist/54878/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "",
-        "title": "MLS LEAGUE [FHD]",
-        "type": "2"
+        "title": "APPLE TV HD",
+        "type": "0"
+      },
+      {
+        "api": "cce5ececce2050388b470e4a71f2c459:3328a68a01770131d1dc2ebe805c2672",
+        "link": "https://abgrq4vaaaaaaaamhc5j5iesienxp.ta.bia-cf.live.pv-cdn.net/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/hnb1pxgcx3/out/v1/411e9045d8564f8d980b361f23f988d6/f3a229a8-9f58-4c39-9fef-32c8a0422b83-cenc.mpd?amznDtid=AOAGZA014O5RE&amznPN=xp&amznPV=ATVWebPlayerSDK-1.0.242020.0&encoding=segmentBase|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "MLS LEAGUE AQ",
+        "type": "1"
+      },
+      {
+        "api": "8dfcbc2f71d1f5f509391115fad72926:f433b39284188d6e7defb076ec8037e0",
+        "link": "https://abgrq4vaaaaaaaampsyx3sspvxzan.ta.bia-cf.live.pv-cdn.net/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/auq2ercnt0/out/v1/7ee50ab92ef94ab98a855d948be207b3/5a495046-7ef3-4f47-946c-4a3af3107708-cenc.mpd?amznDtid=AOAGZA014O5RE&amznPN=xp&amznPV=ATVWebPlayerSDK-1.0.242020.0&encoding=segmentBase",
+        "logo": "",
+        "title": "Spanish AQ",
+        "type": "1"
       }
     ],
     "channel_status": "live"
@@ -3258,180 +2891,6 @@
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "title": "FOX SPORTS",
         "type": "1"
-      }
-    ],
-    "channel_status": "cached"
-  },
-  {
-    "id": 50102,
-    "title": "Al Ula vs Al-Fateh",
-    "image": "o",
-    "cat": "Kings Cup",
-    "eventInfo": {
-      "teamA": "Al Ula",
-      "teamB": "Al-Fateh",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/853576/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/56023/image",
-      "eventName": "Al Ula vs Al-Fateh",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/19 18:00:00 +0000",
-      "endTime": "2026/08/19 20:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "HD SERVER",
-      "HD SERVER 2",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER 2",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4570056.m3u8?txSecret=93cb9a057b6f5e5ae4337c9912f8d83e&txTime=6A860546|Referer=https://player.online909.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://hls.live123.fans/live/4570056.m3u8",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://stream.sports3.win/iptv/live/signal-4570056-41043.m3u8",
-        "logo": "",
-        "title": "HD SERVER 2",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.41/hls/OPPP.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "LOW SERVER",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50103,
-    "title": "Jeddah vs Al-Kholood",
-    "image": "o",
-    "cat": "Kings Cup",
-    "eventInfo": {
-      "teamA": "Jeddah",
-      "teamB": "Al-Kholood",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/265323/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/269199/image",
-      "eventName": "Jeddah vs Al-Kholood",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/19 16:30:00 +0000",
-      "endTime": "2026/08/19 18:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4570044.m3u8?txSecret=bfc1051166b3529810fd619dd0cb4223&txTime=6A85DFAD|Referer=https://player.online909.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.41/hls/OKKKAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "LOW SERVER",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50104,
-    "title": "Damac vs Al-Taawoun",
-    "image": "o",
-    "cat": "Kings Cup",
-    "eventInfo": {
-      "teamA": "Damac",
-      "teamB": "Al-Taawoun",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/204126/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/56021/image",
-      "eventName": "Damac FC vs Al-Taawoun",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/19 16:15:00 +0000",
-      "endTime": "2026/08/19 18:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "SportDigital Fussball",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4552162.m3u8?txSecret=aa5f8362381f4b08e46c444aa4c0f562&txTime=6A81B256|Referer=https://player.online909.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
       }
     ],
     "channel_status": "cached"

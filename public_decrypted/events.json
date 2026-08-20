@@ -810,10 +810,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1274,10 +1279,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "WILLOW FHD",
       "TNT Sports FHD",
       "TAPMAD FHD"
     ],
     "formatsNew": [
+      {
+        "title": "WILLOW FHD",
+        "logo": ""
+      },
       {
         "title": "TNT Sports FHD",
         "logo": ""
@@ -1374,11 +1384,16 @@
     "publish": "1",
     "formats": [
       "beIN ENGLISH",
+      "DUDE Tv Live",
       "PARAMOUNT+ HD"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       },
       {
@@ -1407,11 +1422,16 @@
     "publish": "1",
     "formats": [
       "D Sports FHD",
+      "DUDE Tv Live",
       "PARAMOUNT+ HD"
     ],
     "formatsNew": [
       {
         "title": "D Sports FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       },
       {
@@ -1487,34 +1507,6 @@
     ]
   },
   {
-    "id": 50092,
-    "title": "Atlético Mineiro vs RB Bragantino",
-    "image": "o",
-    "cat": "CON. Sudamericana",
-    "eventInfo": {
-      "teamA": "Atlético-MG",
-      "teamB": "RB Bragantino",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1977/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1999/image",
-      "eventName": "Atlético Mineiro vs RB Bragantino",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/19 22:00:00 +0000",
-      "endTime": "2026/08/20 00:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "HD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50093,
     "title": "Atlético Madrid vs Málaga",
     "image": "o",
@@ -1583,228 +1575,6 @@
     ]
   },
   {
-    "id": 50095,
-    "title": "Celtic vs LASK",
-    "image": "o",
-    "cat": "UCL",
-    "eventInfo": {
-      "teamA": "Celtic",
-      "teamB": "LASK",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2352/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2058/image",
-      "eventName": "Celtic vs LASK",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/19 19:00:00 +0000",
-      "endTime": "2026/08/19 21:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "TNT Sports FHD",
-      "CBS NETWORK",
-      "TNT SPORTS HD",
-      "DUDE Tv Live",
-      "HBO MAX BR HD",
-      "HD SERVER",
-      "HD SERVER 2",
-      "PARAMOUNT+ [FHD]",
-      "TNT SPORTS [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "TNT Sports FHD",
-        "logo": ""
-      },
-      {
-        "title": "CBS NETWORK",
-        "logo": ""
-      },
-      {
-        "title": "TNT SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HBO MAX BR HD",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER 2",
-        "logo": ""
-      },
-      {
-        "title": "PARAMOUNT+ [FHD]",
-        "logo": ""
-      },
-      {
-        "title": "TNT SPORTS [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50096,
-    "title": "Nijmegen vs BodO/Glimt",
-    "image": "o",
-    "cat": "UCL",
-    "eventInfo": {
-      "teamA": "NEC",
-      "teamB": "Bodø/Glimt",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2962/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/656/image",
-      "eventName": "NEC Nijmegen vs Bodø/Glimt",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/19 19:00:00 +0000",
-      "endTime": "2026/08/19 21:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "TNT Sports FHD",
-      "TNT SPORTS HD",
-      "DUDE Tv Live",
-      "HBO MAX BR HD",
-      "HD SERVER",
-      "HD SERVER 2",
-      "PARAMOUNT+ [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "TNT Sports FHD",
-        "logo": ""
-      },
-      {
-        "title": "TNT SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HBO MAX BR HD",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER 2",
-        "logo": ""
-      },
-      {
-        "title": "PARAMOUNT+ [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50097,
-    "title": "Slovan Bratislava vs NK Celje",
-    "image": "o",
-    "cat": "UCL",
-    "eventInfo": {
-      "teamA": "Slovan",
-      "teamB": "Celje",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2404/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2413/image",
-      "eventName": "ŠK Slovan Bratislava vs NK Celje",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/19 19:00:00 +0000",
-      "endTime": "2026/08/19 21:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "TNT Sports FHD",
-      "TNT SPORTS HD",
-      "DUDE Tv Live",
-      "HBO MAX BR HD",
-      "HD SERVER",
-      "HD SERVER 2",
-      "PARAMOUNT+ [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "TNT Sports FHD",
-        "logo": ""
-      },
-      {
-        "title": "TNT SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HBO MAX BR HD",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER 2",
-        "logo": ""
-      },
-      {
-        "title": "PARAMOUNT+ [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50098,
-    "title": "Sheva vs Sabah FK",
-    "image": "o",
-    "cat": "UCL",
-    "eventInfo": {
-      "teamA": "H. Be'er Sheva",
-      "teamB": "Sabah",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/5202/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/267828/image",
-      "eventName": "Hapoel Be'er Sheva vs Sabah FK",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/19 19:00:00 +0000",
-      "endTime": "2026/08/19 21:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "ARENA SPORTS HD",
-      "HBO MAX BR HD",
-      "PARAMOUNT+ [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "ARENA SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "HBO MAX BR HD",
-        "logo": ""
-      },
-      {
-        "title": "PARAMOUNT+ [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50099,
     "title": "Philadelphia Union vs Inter Miami",
     "image": "o",
@@ -1823,11 +1593,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "MLS LEAGUE [FHD]"
+      "APPLE TV HD",
+      "MLS LEAGUE AQ",
+      "Spanish AQ"
     ],
     "formatsNew": [
       {
-        "title": "MLS LEAGUE [FHD]",
+        "title": "APPLE TV HD",
+        "logo": ""
+      },
+      {
+        "title": "MLS LEAGUE AQ",
+        "logo": ""
+      },
+      {
+        "title": "Spanish AQ",
         "logo": ""
       }
     ]
@@ -1894,115 +1674,6 @@
       },
       {
         "title": "MLS LEAGUE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50102,
-    "title": "Al Ula vs Al-Fateh",
-    "image": "o",
-    "cat": "Kings Cup",
-    "eventInfo": {
-      "teamA": "Al Ula",
-      "teamB": "Al-Fateh",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/853576/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/56023/image",
-      "eventName": "Al Ula vs Al-Fateh",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/19 18:00:00 +0000",
-      "endTime": "2026/08/19 20:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "HD SERVER",
-      "HD SERVER 2",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER 2",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50103,
-    "title": "Jeddah vs Al-Kholood",
-    "image": "o",
-    "cat": "Kings Cup",
-    "eventInfo": {
-      "teamA": "Jeddah",
-      "teamB": "Al-Kholood",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/265323/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/269199/image",
-      "eventName": "Jeddah vs Al-Kholood",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/19 16:30:00 +0000",
-      "endTime": "2026/08/19 18:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50104,
-    "title": "Damac vs Al-Taawoun",
-    "image": "o",
-    "cat": "Kings Cup",
-    "eventInfo": {
-      "teamA": "Damac",
-      "teamB": "Al-Taawoun",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/204126/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/56021/image",
-      "eventName": "Damac FC vs Al-Taawoun",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/19 16:15:00 +0000",
-      "endTime": "2026/08/19 18:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
         "logo": ""
       }
     ]
