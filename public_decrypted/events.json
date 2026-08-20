@@ -281,12 +281,13 @@
       "FOX CRICKET HD",
       "LOW SERVER",
       "SKY SPORTS [FHD]",
-      "SPX LIVE [FHD]"
+      "SPX LIVE [FHD]",
+      "TNT Sports 1"
     ],
     "formatsNew": [
       {
         "title": "WILLOW - FHD",
-        "logo": ""
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
         "title": "WILLOW - AdFree",
@@ -319,6 +320,10 @@
       {
         "title": "SPX LIVE [FHD]",
         "logo": ""
+      },
+      {
+        "title": "TNT Sports 1",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
       }
     ]
   },
@@ -747,8 +752,13 @@
       "WILLOW - FHD",
       "SKY CRICKET",
       "WILLOW - ALT",
-      "SKY SPORT",
-      "FOX CRICKET HD"
+      "TAPMAD - FHD",
+      "TAMASHA - FHD",
+      "SKY SPORT NZ",
+      "FOX CRICKET HD",
+      "TEN SPORTS HD",
+      "SonyLiv",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
@@ -764,12 +774,32 @@
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
-        "title": "SKY SPORT",
+        "title": "TAPMAD - FHD",
+        "logo": ""
+      },
+      {
+        "title": "TAMASHA - FHD",
+        "logo": ""
+      },
+      {
+        "title": "SKY SPORT NZ",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
       },
       {
         "title": "FOX CRICKET HD",
         "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "title": "TEN SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
+        "logo": ""
       }
     ]
   },
