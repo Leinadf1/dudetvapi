@@ -281,8 +281,7 @@
       "FOX CRICKET HD",
       "LOW SERVER",
       "SKY SPORTS [FHD]",
-      "SPX LIVE [FHD]",
-      "TNT Sports 1"
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
@@ -320,10 +319,6 @@
       {
         "title": "SPX LIVE [FHD]",
         "logo": ""
-      },
-      {
-        "title": "TNT Sports 1",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
       }
     ]
   },
@@ -2013,9 +2008,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv Live",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
       {
         "title": "SPX LIVE [FHD]",
         "logo": ""
