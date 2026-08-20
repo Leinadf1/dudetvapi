@@ -573,6 +573,44 @@
     ]
   },
   {
+    "id": 50013,
+    "title": "Houston Texans",
+    "image": "o",
+    "cat": "NFL",
+    "eventInfo": {
+      "teamA": "Texans",
+      "teamB": "Raiders",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4324/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4390/image",
+      "eventName": "Houston Texans vs Las Vegas Raiders",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/21 00:00:00 +0000",
+      "endTime": "2026/08/21 03:10:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv NFL",
+      "DUDE Tv Live",
+      "NFL LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv NFL",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NFL LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50019,
     "title": "ATP & WTA",
     "image": "o",
@@ -660,6 +698,77 @@
       },
       {
         "title": "WNBA LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50042,
+    "title": "San Francisco 49ers",
+    "image": "o",
+    "cat": "NFL",
+    "eventInfo": {
+      "teamA": "Chargers",
+      "teamB": "49ers",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4429/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4389/image",
+      "eventName": "Los Angeles Chargers vs San Francisco 49ers",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/21 02:00:00 +0000",
+      "endTime": "2026/08/21 05:10:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv NFL",
+      "DUDE Tv Live",
+      "NFL LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv NFL",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NFL LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50054,
+    "title": "CFL",
+    "image": "o",
+    "cat": "CFL",
+    "eventInfo": {
+      "teamA": "Montréal",
+      "teamB": "Ottawa",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4439/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4437/image",
+      "eventName": "Montreal Alouettes vs Ottawa Redblacks",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/20 23:30:00 +0000",
+      "endTime": "2026/08/21 02:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "TSN SPORTS",
+      "SPX LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "TSN SPORTS",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1320,8 +1429,10 @@
       "PREMIER SPORTS",
       "beIN ENGLISH FHD",
       "FANCODE FHD",
-      "ESPN+ EN [FHD]",
-      "ESPN+ ES [FHD]"
+      "HD SERVER",
+      "LaLiga TV [FHD]",
+      "ESPN+ ES [FHD]",
+      "DAZN ES [FHD]"
     ],
     "formatsNew": [
       {
@@ -1337,11 +1448,19 @@
         "logo": ""
       },
       {
-        "title": "ESPN+ EN [FHD]",
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LaLiga TV [FHD]",
         "logo": ""
       },
       {
         "title": "ESPN+ ES [FHD]",
+        "logo": ""
+      },
+      {
+        "title": "DAZN ES [FHD]",
         "logo": ""
       }
     ]
@@ -1454,11 +1573,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1637,11 +1756,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
