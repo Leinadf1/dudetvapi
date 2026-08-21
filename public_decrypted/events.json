@@ -714,6 +714,39 @@
     ]
   },
   {
+    "id": 50042,
+    "title": "Jacksonville Jaguars",
+    "image": "o",
+    "cat": "NFL",
+    "eventInfo": {
+      "teamA": "Jaguars",
+      "teamB": "Panthers",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4386/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4415/image",
+      "eventName": "Jacksonville Jaguars vs Carolina Panthers",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/21 23:30:00 +0000",
+      "endTime": "2026/08/22 02:40:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "NFL LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NFL LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50052,
     "title": "Pittsburgh Pirates",
     "image": "o",
@@ -881,6 +914,39 @@
       },
       {
         "title": "LOW SERVER",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50064,
+    "title": "Denver Broncos",
+    "image": "o",
+    "cat": "NFL",
+    "eventInfo": {
+      "teamA": "Broncos",
+      "teamB": "Packers",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4418/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4420/image",
+      "eventName": "Denver Broncos vs Green Bay Packers",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/22 01:00:00 +0000",
+      "endTime": "2026/08/22 04:10:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "NFL LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NFL LIVE [FHD]",
         "logo": ""
       }
     ]
