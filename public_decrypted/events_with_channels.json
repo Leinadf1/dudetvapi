@@ -2519,7 +2519,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/11/image",
       "eventName": "Arsenal vs Coventry City",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/08/21 19:00:00 +0000",
       "endTime": "2026/08/21 21:05:00 +0000"
     },
@@ -2527,6 +2527,14 @@
     "publish": "1",
     "formats": [
       "FUBO SPORTS",
+      "HUB PREMIER FHD",
+      "USA TV HD",
+      "DUDE Tv Live",
+      "Sportscast FHD",
+      "SKY SPORT NZ",
+      "HD SERVER",
+      "HD SERVER 3",
+      "LOW SERVER",
       "SKY PREM [FHD]",
       "USA NETWORK [FHD]",
       "DAZN ES [FHD]"
@@ -2534,6 +2542,38 @@
     "formatsNew": [
       {
         "title": "FUBO SPORTS",
+        "logo": ""
+      },
+      {
+        "title": "HUB PREMIER FHD",
+        "logo": ""
+      },
+      {
+        "title": "USA TV HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "Sportscast FHD",
+        "logo": ""
+      },
+      {
+        "title": "SKY SPORT NZ",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER 3",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       },
       {
@@ -2558,6 +2598,34 @@
         "type": "1"
       },
       {
+        "api": "d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b",
+        "link": "https://mh-bks400-04.starhubgo.com/bpk-token/2ac@j5r3ojx1hw1fnhnsdz3ted13sw0pmxl0j5heozda/bpk-tv/HubPremier1/output/manifest.mpd?bkm-query",
+        "logo": "",
+        "title": "HUB PREMIER FHD",
+        "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/54955/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "USA TV HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://live.vivo200.com/live/hd-en-1-4558449.m3u8?txSecret=10621dbd268d903a88f415c7a8472481&txTime=6A88B259|Referer=https://player.online909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/0d658aef-79ab-4317-80e0-e44b15baf11a/master.m3u8",
+        "logo": "",
+        "title": "Sportscast FHD",
+        "type": "0"
+      },
+      {
         "api": "",
         "link": "https://tmaxapp.site/8wirwjs76erftg/skysport8nz74xda.m3u8",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
@@ -2569,13 +2637,6 @@
         "link": "https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
         "logo": "",
         "title": "HD SERVER",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/0d658aef-79ab-4317-80e0-e44b15baf11a/master.m3u8",
-        "logo": "",
-        "title": "HD SERVER 2",
         "type": "0"
       },
       {
@@ -2628,7 +2689,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2824/image",
       "eventName": "Real Betis vs Real Sociedad",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/08/21 19:00:00 +0000",
       "endTime": "2026/08/21 21:10:00 +0000"
     },
@@ -2638,12 +2699,16 @@
       "PREMIER SPORTS",
       "beIN ENGLISH",
       "FANCODE FHD",
+      "D SPORTS FHD",
+      "ESPN DEPORTES HD",
+      "DUDE Tv Live",
+      "LOW SERVER",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "PREMIER SPORTS",
-        "logo": ""
+        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
       },
       {
         "title": "beIN ENGLISH",
@@ -2651,6 +2716,22 @@
       },
       {
         "title": "FANCODE FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
+        "title": "D SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "ESPN DEPORTES HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       },
       {
@@ -2686,6 +2767,20 @@
         "logo": "",
         "title": "D SPORTS FHD",
         "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/54954/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "ESPN DEPORTES HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://live.vivo200.com/live/hd-en-1-4565329.m3u8?txSecret=b40fbe6ca88e358fbc555571d2df29d6&txTime=6A88B288|Referer=https://player.online909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
       },
       {
         "api": "",
@@ -3060,19 +3155,24 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/1659/image",
       "eventName": "Marseille vs RC Strasbourg",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/08/21 18:45:00 +0000",
       "endTime": "2026/08/21 20:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "LIGUE1+ FHD",
       "DUDE Tv Live",
       "HD SERVER",
       "SD SERVER",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "LIGUE1+ FHD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -3091,6 +3191,13 @@
       }
     ],
     "decoded_channels": [
+      {
+        "api": "62dbac124bbef865507610070019f875:3dca8ca0a86cca296de7f91583d88939",
+        "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/78yadthwhn/out/v1/7ce475ea35b74693abdf651e2ee2fef3/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "LIGUE1+ FHD",
+        "type": "1"
+      },
       {
         "api": "",
         "link": "https://live.vivo200.com/live/hd-en-1-4550846.m3u8?txSecret=df4d6fbbae74cbc320e757a27b1efa1c&txTime=6A88AB9B|Referer=https://player.online909.com/",
@@ -3215,11 +3322,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "Laliga Hypermotion ES"
+      "Laliga Hypermotion ES",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "Laliga Hypermotion ES",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ],

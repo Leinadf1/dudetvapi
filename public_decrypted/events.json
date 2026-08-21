@@ -1468,7 +1468,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/11/image",
       "eventName": "Arsenal vs Coventry City",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/08/21 19:00:00 +0000",
       "endTime": "2026/08/21 21:05:00 +0000"
     },
@@ -1476,6 +1476,14 @@
     "publish": "1",
     "formats": [
       "FUBO SPORTS",
+      "HUB PREMIER FHD",
+      "USA TV HD",
+      "DUDE Tv Live",
+      "Sportscast FHD",
+      "SKY SPORT NZ",
+      "HD SERVER",
+      "HD SERVER 3",
+      "LOW SERVER",
       "SKY PREM [FHD]",
       "USA NETWORK [FHD]",
       "DAZN ES [FHD]"
@@ -1483,6 +1491,38 @@
     "formatsNew": [
       {
         "title": "FUBO SPORTS",
+        "logo": ""
+      },
+      {
+        "title": "HUB PREMIER FHD",
+        "logo": ""
+      },
+      {
+        "title": "USA TV HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "Sportscast FHD",
+        "logo": ""
+      },
+      {
+        "title": "SKY SPORT NZ",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER 3",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       },
       {
@@ -1511,7 +1551,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2824/image",
       "eventName": "Real Betis vs Real Sociedad",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/08/21 19:00:00 +0000",
       "endTime": "2026/08/21 21:10:00 +0000"
     },
@@ -1521,12 +1561,16 @@
       "PREMIER SPORTS",
       "beIN ENGLISH",
       "FANCODE FHD",
+      "D SPORTS FHD",
+      "ESPN DEPORTES HD",
+      "DUDE Tv Live",
+      "LOW SERVER",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "PREMIER SPORTS",
-        "logo": ""
+        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
       },
       {
         "title": "beIN ENGLISH",
@@ -1534,6 +1578,22 @@
       },
       {
         "title": "FANCODE FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
+        "title": "D SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "ESPN DEPORTES HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       },
       {
@@ -1783,19 +1843,24 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/1659/image",
       "eventName": "Marseille vs RC Strasbourg",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/08/21 18:45:00 +0000",
       "endTime": "2026/08/21 20:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "LIGUE1+ FHD",
       "DUDE Tv Live",
       "HD SERVER",
       "SD SERVER",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "LIGUE1+ FHD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1876,11 +1941,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "Laliga Hypermotion ES"
+      "Laliga Hypermotion ES",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "Laliga Hypermotion ES",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
