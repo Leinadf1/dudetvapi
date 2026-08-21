@@ -19,27 +19,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TSN SPORTS",
+      "FANCODE FHD",
       "DUDE Tv F1 HD",
       "Sportscast FHD",
-      "SKY SPORTS UHD",
-      "APPLE TV FHD",
+      "SKY SPORTS [FHD]",
+      "APPLE TV [FHD]",
       "RUSSIA FEED",
-      "SKY F1 DEU",
-      "DAZN ESPANOL",
-      "SKY ITALY FHD",
+      "SKY F1 DEU [FHD]",
+      "DAZN ESPANOL [FHD]",
+      "SKY ITALY [FHD]",
       "LOW QUALITY",
-      "P1 DRIVER",
-      "P2 DRIVER",
-      "P3 DRIVER",
-      "MIXED ON BOARD",
-      "Driver: Max Verstappen",
-      "Driver: Lewis Hamilton",
-      "Driver: Lando Norris",
-      "Driver: Charles Leclerc",
-      "Driver: Kimi Antonelli",
-      "Driver: Oscar Piastri",
-      "Driver: George Russell",
       "SKY SPORTS [FHD]",
       "APPLE TV [FHD]",
       "FOX 506 [FHD]",
@@ -52,7 +41,7 @@
     ],
     "formatsNew": [
       {
-        "title": "TSN SPORTS",
+        "title": "FANCODE FHD",
         "logo": ""
       },
       {
@@ -64,11 +53,11 @@
         "logo": ""
       },
       {
-        "title": "SKY SPORTS UHD",
+        "title": "SKY SPORTS [FHD]",
         "logo": ""
       },
       {
-        "title": "APPLE TV FHD",
+        "title": "APPLE TV [FHD]",
         "logo": ""
       },
       {
@@ -76,63 +65,19 @@
         "logo": ""
       },
       {
-        "title": "SKY F1 DEU",
+        "title": "SKY F1 DEU [FHD]",
         "logo": ""
       },
       {
-        "title": "DAZN ESPANOL",
+        "title": "DAZN ESPANOL [FHD]",
         "logo": ""
       },
       {
-        "title": "SKY ITALY FHD",
+        "title": "SKY ITALY [FHD]",
         "logo": ""
       },
       {
         "title": "LOW QUALITY",
-        "logo": ""
-      },
-      {
-        "title": "P1 DRIVER",
-        "logo": ""
-      },
-      {
-        "title": "P2 DRIVER",
-        "logo": ""
-      },
-      {
-        "title": "P3 DRIVER",
-        "logo": ""
-      },
-      {
-        "title": "MIXED ON BOARD",
-        "logo": ""
-      },
-      {
-        "title": "Driver: Max Verstappen",
-        "logo": ""
-      },
-      {
-        "title": "Driver: Lewis Hamilton",
-        "logo": ""
-      },
-      {
-        "title": "Driver: Lando Norris",
-        "logo": ""
-      },
-      {
-        "title": "Driver: Charles Leclerc",
-        "logo": ""
-      },
-      {
-        "title": "Driver: Kimi Antonelli",
-        "logo": ""
-      },
-      {
-        "title": "Driver: Oscar Piastri",
-        "logo": ""
-      },
-      {
-        "title": "Driver: George Russell",
         "logo": ""
       },
       {
@@ -174,182 +119,135 @@
     ],
     "decoded_channels": [
       {
-        "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "title": "TSN SPORTS",
+        "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "FANCODE FHD",
         "type": "1"
       },
       {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/53722/load-playlist?|Referer=https://gooz.aapmains.net",
+        "link": "https://chatgpt.hereisman.net/playlist/54936/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
         "title": "DUDE Tv F1 HD",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/1bcd3c63-b6fb-436b-af37-21e34de6234b/master.m3u8",
+        "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/755a947b-7731-4f1f-aaea-91d8fca9e0c4/master.m3u8",
+        "logo": "",
         "title": "Sportscast FHD",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://g001.sadhoofiton.shop/out/v2/cc75a7584192385b3cdfcf871a074397/index.m3u8?|referer=https://pushembdz.store/",
-        "title": "SKY SPORTS UHD",
-        "type": "0"
+        "link": "https://pushembdz.store/embed/4bb08f27-0b69-42d9-b9f2-12acfd5bff95",
+        "logo": "",
+        "title": "SKY SPORTS [FHD]",
+        "type": "2"
       },
       {
         "api": "",
-        "link": "https://g001.sadhoofiton.shop/out/v2/f7e084915a36d98fd570abe5785f1e00/index.m3u8?|referer=https://pushembdz.store/",
-        "title": "APPLE TV FHD",
+        "link": "https://pushembdz.store/embed/920bb6bd-ecd1-40d6-9428-b0813c4fefde",
+        "logo": "",
+        "title": "APPLE TV [FHD]",
         "type": "0"
       },
       {
         "api": "",
         "link": "https://bl.rutube.ru/livestream/8d838029ed38ee3be92af7472ac078f4/index.m3u8?s=db9PB4LNQRpvmwwHW_8Jsg&e=1785156374&scheme=https|user-agent=Mozilla",
+        "logo": "",
         "title": "RUSSIA FEED",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://g001.sadhoofiton.shop/out/v2/ff1b694fb9b98805eb70bb7dd74986a4/index.m3u8?|referer=https://pushembdz.store/",
-        "title": "SKY F1 DEU",
+        "link": "https://pushembdz.store/embed/c2b5873e-3c95-4ff4-9b72-49be3de0380f",
+        "logo": "",
+        "title": "SKY F1 DEU [FHD]",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://g001.sadhoofiton.shop/out/v2/ea464b1f66cfbd061183f8d20be86316/index.m3u8?|referer=https://pushembdz.store/",
-        "title": "DAZN ESPANOL",
-        "type": "0"
+        "link": "https://pushembdz.store/embed/2db248aa-0bd2-45d6-bc6a-c614c6e7dcfe",
+        "logo": "",
+        "title": "DAZN ESPANOL [FHD]",
+        "type": "2"
       },
       {
         "api": "",
-        "link": "https://g001.sadhoofiton.shop/out/v2/0fa855f86cbd9ec38d0164442a9863b1/index.m3u8?|referer=https://pushembdz.store/",
-        "title": "SKY ITALY FHD",
-        "type": "0"
+        "link": "https://pushembdz.store/embed/d110d7ed-d489-430f-86ee-ca5f105a25fe",
+        "logo": "",
+        "title": "SKY ITALY [FHD]",
+        "type": "2"
       },
       {
         "api": "",
         "link": "https://g001.sadhoofiton.shop/out/v2/cc75a7584192385b3cdfcf871a074397/tracks-v2a0/mono.ts.m3u8?|referer=https://pushembdz.store/",
+        "logo": "",
         "title": "LOW QUALITY",
         "type": "0"
       },
       {
-        "api": "f56d56de2d2e9d7402b386e2d2ba64da:1eb5512a0582b5b2365303d64286611b",
-        "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/seokyq3vh1/out/v1/cdc4b78635504d65aede4e4c80413746/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "title": "P1 DRIVER",
-        "type": "1"
-      },
-      {
-        "api": "617dafed2c24eddcb0d3f0978dc03f45:122cd103bf3f9537df552b655f9fffc2",
-        "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/g6ssuvaio5/out/v1/061a5659e0564c3bbe8bd6619a5931a5/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "title": "P2 DRIVER",
-        "type": "1"
-      },
-      {
-        "api": "66f901e0531dac3c1b1a67d99e7c5f86:e03f3dc7a3628b495cda4d047c76c229",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ojhbld8mty/out/v1/939b1a9a672c440fa9af29e3911a45a1/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "title": "P3 DRIVER",
-        "type": "1"
-      },
-      {
-        "api": "e644836e8b1e87ad5d684fd4ad58e375:b9601de9e150d514c20d19c20d922365",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/av9rryjmfh/out/v1/dc587d2edd254017a118ad8065a1d9ac/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "title": "MIXED ON BOARD",
-        "type": "1"
-      },
-      {
-        "api": "cad123d3a86d41325016ee30a1f7b1f8:0b73247b015359e2d38fd5efafb6b18f",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/r5tprsdufn/out/v1/f47b9b8405bb471986161cff33a0b2b6/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "title": "Driver: Max Verstappen",
-        "type": "1"
-      },
-      {
-        "api": "e42e8e1a58534eb5fdd44f60166b1027:579115df1241bc5ea2b71928591a2d2d",
-        "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/rdgsixtfki/out/v1/bcf746abf8254c54a4e557915d502c98/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "title": "Driver: Lewis Hamilton",
-        "type": "1"
-      },
-      {
-        "api": "af2a72ee18da3181bee707fb4ed879b7:d2b574348c06090867fb01684391c32c",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jkpwofxvyg/out/v1/5f5f6576aa78472cbf2658cfc20e3a42/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "title": "Driver: Lando Norris",
-        "type": "1"
-      },
-      {
-        "api": "2d6f02c24c86c458e4cee47ef629315c:65f744c4bdaba4799e5bbee2ca11f73b",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/abrcyqbclb/out/v1/2ed19fd867d44ec3b246c51304287bb7/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "title": "Driver: Charles Leclerc",
-        "type": "1"
-      },
-      {
-        "api": "1544f9171a1c1dc9595f15651ae7dbcb:0c14c5c7d322d03a2c1e7cbcea627b2b",
-        "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/vcy5m4uy4n/out/v1/a2257868fb7742d581032d992cd75110/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "title": "Driver: Kimi Antonelli",
-        "type": "1"
-      },
-      {
-        "api": "91f52b1e1e18a364b29a09f93530b956:0d18ce060562df4a42b01fa6aa4f50c1",
-        "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tdrxijayhy/out/v1/1f52712001be4f238822eac001379c8b/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "title": "Driver: Oscar Piastri",
-        "type": "1"
-      },
-      {
-        "api": "32e1cf346fe62c46de292b76363fc9d5:bc5e48ef66f8d6a820ebffab9770e7fc",
-        "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mas3cwwzwv/out/v1/caf0bc8157d04ad1a2b441cc585bd52d/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "title": "Driver: George Russell",
-        "type": "1"
-      },
-      {
         "api": "",
         "link": "https://embedindia.st/embed/f1/2026/hungary/race",
+        "logo": "",
         "title": "SKY SPORTS [FHD]",
         "type": "2"
       },
       {
         "api": "",
         "link": "https://embedindia.st/embed/f1/2026/hungary/race/f1tv",
+        "logo": "",
         "title": "APPLE TV [FHD]",
         "type": "2"
       },
       {
         "api": "",
         "link": "https://logic.icelanders.st/embed/fox-sports-506",
+        "logo": "",
         "title": "FOX 506 [FHD]",
         "type": "2"
       },
       {
         "api": "",
         "link": "https://embedindia.st/embed/f1/2026/hungary/race/viaplay-nl",
+        "logo": "",
         "title": "VIAPLAY NL [FHD]",
         "type": "2"
       },
       {
         "api": "",
         "link": "https://embedindia.st/embed/f1/2026/hungary/race/dazn-f1-es",
+        "logo": "",
         "title": "DAZN ESP [FHD]",
         "type": "2"
       },
       {
         "api": "",
         "link": "https://edgestream3.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "SKY SPORTS HD",
         "type": "0"
       },
       {
         "api": "",
         "link": "http://193.47.62.193/hls/ZLLLQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
         "title": "SD SERVER",
         "type": "0"
       },
       {
         "api": "6695688f79dc36f7a41f7db13bff5aca:22ef689af2162aefbf745cba2adb4fe9",
         "link": "https://simplitv-live.mdn.ors.at/live/eds/sky_sport_f1_hd/dash/sky_sport_f1_hd.mpd",
+        "logo": "",
         "title": "F1 GERMANY [USA]",
         "type": "1"
       },
       {
         "api": "",
         "link": "https://channels.forestgump.space/track/577?|referer=https://channels.forestgump.space/",
+        "logo": "",
         "title": "F1 ITALY SD",
         "type": "0"
       }
