@@ -1452,6 +1452,54 @@
     "channel_status": "cached"
   },
   {
+    "id": 50054,
+    "title": "CFL",
+    "image": "o",
+    "cat": "CFL",
+    "eventInfo": {
+      "teamA": "Edmonton",
+      "teamB": "Winnipeg",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4434/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4435/image",
+      "eventName": "Edmonton Elks vs Winnipeg Blue Bombers",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/22 01:30:00 +0000",
+      "endTime": "2026/08/22 04:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "TSN SPORTS",
+      "SPX LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "TSN SPORTS",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "TSN SPORTS",
+        "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/cfl/2026-08-20/ott-mtl",
+        "title": "SPX LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
     "id": 50060,
     "title": "England vs Pakistan",
     "image": "o",
@@ -1464,8 +1512,8 @@
       "eventName": "England vs Pakistan",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/21 10:00:00 +0000",
-      "endTime": "2026/08/21 17:30:00 +0000"
+      "startTime": "2026/08/27 10:00:00 +0000",
+      "endTime": "2026/08/27 17:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -2217,24 +2265,20 @@
       "teamBFlag": "https://our.today/wp-content/uploads/2026/07/CPL-Caribbean-Premier-League.jpg",
       "eventName": "Caribbean Premier League",
       "eventType": "null",
-      "startTime": "2026/08/20 23:00:00 +0000",
-      "endTime": "2026/08/21 03:00:00 +0000"
+      "isHot": "0",
+      "startTime": "2026/08/21 23:00:00 +0000",
+      "endTime": "2026/08/22 03:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "WILLOW FHD",
       "TNT Sports FHD",
       "TAPMAD FHD"
     ],
     "formatsNew": [
       {
-        "title": "WILLOW FHD",
-        "logo": ""
-      },
-      {
         "title": "TNT Sports FHD",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+        "logo": ""
       },
       {
         "title": "TAPMAD FHD",
@@ -2243,23 +2287,14 @@
     ],
     "decoded_channels": [
       {
-        "api": "d2cb13aa4117d6797188a2fc701fca43:3d5e508819ffec2b1362044642f2bcf7",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/gfadqgkkc0/out/v1/8614b574d2d1458fb5ab4ddc1d0f2b09/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "WILLOW FHD",
-        "type": "1"
-      },
-      {
-        "api": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
+        "api": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "title": "TNT Sports FHD",
         "type": "1"
       },
       {
         "api": "",
         "link": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8?|referer=https://tapmad.com",
-        "logo": "",
         "title": "TAPMAD FHD",
         "type": "0"
       }
@@ -3120,17 +3155,42 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "FANCODE FHD",
       "FOX DEPORTES",
       "SporTV BR",
+      "SportDigital Fussball",
+      "FOX SOCCER+ HD",
+      "DUDE Tv Live",
+      "SD SERVER",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "FANCODE FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
       {
         "title": "FOX DEPORTES",
         "logo": ""
       },
       {
         "title": "SporTV BR",
+        "logo": "https://iili.io/CFFRvqJ.png"
+      },
+      {
+        "title": "SportDigital Fussball",
+        "logo": ""
+      },
+      {
+        "title": "FOX SOCCER+ HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       },
       {
@@ -3161,6 +3221,13 @@
         "type": "1"
       },
       {
+        "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "SportDigital Fussball",
+        "type": "1"
+      },
+      {
         "api": "",
         "link": "https://chatgpt.hereisman.net/playlist/54941/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "",
@@ -3172,6 +3239,13 @@
         "link": "https://live.vivo200.com/live/sd-1-4599550.m3u8?txSecret=a3bc0a3614d1e4b5461ffe03acf5b313&txTime=6A8885FC|Referer=https://player.online909.com/",
         "logo": "",
         "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.59/hls/KEEEAAAA.m3u8?|Referer=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "SD SERVER",
         "type": "0"
       },
       {
@@ -3203,11 +3277,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ],
@@ -3217,6 +3296,13 @@
         "link": "https://live.vivo200.com/live/sd-1-4599551.m3u8?txSecret=b57a312c7df880422ba3ffed367a9951&txTime=6A88862A|Referer=https://player.online909.com/",
         "logo": "",
         "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.59/hls/KEEEAAAAA.m3u8?|Referer=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "SD SERVER",
         "type": "0"
       }
     ],
@@ -3296,5 +3382,105 @@
       }
     ],
     "channel_status": "cached"
+  },
+  {
+    "id": 50111,
+    "title": "Münster vs Karlsruher",
+    "image": "o",
+    "cat": "DFB Pokal",
+    "eventInfo": {
+      "teamA": "Münster",
+      "teamB": "Karlsruher",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2590/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2553/image",
+      "eventName": "Preußen Münster vs Karlsruher SC",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/21 16:00:00 +0000",
+      "endTime": "2026/08/21 18:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "SD SERVER"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://live.vivo200.com/live/sd-1-4550493.m3u8?txSecret=a6aa752b16f42bdd31fbe929ca7755b9&txTime=6A8886C0|Referer=https://player.online909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.44/hls/KEEEA.m3u8?|Referer=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "SD SERVER",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50112,
+    "title": "Mannheim vs Kaiserslautern",
+    "image": "o",
+    "cat": "DFB Pokal",
+    "eventInfo": {
+      "teamA": "Mannheim",
+      "teamB": "Kaiserslautern",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2680/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2675/image",
+      "eventName": "Mannheim vs Kaiserslautern",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/21 16:00:00 +0000",
+      "endTime": "2026/08/21 18:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "SD SERVER"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://live.vivo200.com/live/sd-1-4550494.m3u8?txSecret=90baf5503f201cf4dff418756411ff20&txTime=6A8886F2|Referer=https://player.online909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.44/hls/KEEE.m3u8?|Referer=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "SD SERVER",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
   }
 ]
