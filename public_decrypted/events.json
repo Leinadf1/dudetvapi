@@ -759,49 +759,6 @@
     ]
   },
   {
-    "id": 50042,
-    "title": "San Francisco 49ers",
-    "image": "o",
-    "cat": "NFL",
-    "eventInfo": {
-      "teamA": "Chargers",
-      "teamB": "49ers",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4429/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4389/image",
-      "eventName": "Los Angeles Chargers vs San Francisco 49ers",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/21 02:00:00 +0000",
-      "endTime": "2026/08/21 05:10:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv NFL",
-      "BACKUP HD",
-      "DUDE Tv Live",
-      "NFL LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv NFL",
-        "logo": ""
-      },
-      {
-        "title": "BACKUP HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NFL LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50052,
     "title": "Pittsburgh Pirates",
     "image": "o",
@@ -863,82 +820,6 @@
       },
       {
         "title": "MLB LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50055,
-    "title": "Aces vs Connecticut Sun",
-    "image": "o",
-    "cat": "WNBA",
-    "eventInfo": {
-      "teamA": "Aces",
-      "teamB": "Sun",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/35550/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/35547/image",
-      "eventName": "Las Vegas Aces vs Connecticut Sun",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/21 02:00:00 +0000",
-      "endTime": "2026/08/21 04:45:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv WNBA",
-      "DUDE Tv Live",
-      "WNBA LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv WNBA",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "WNBA LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50056,
-    "title": "Sparks vs Atlanta Dream",
-    "image": "o",
-    "cat": "WNBA",
-    "eventInfo": {
-      "teamA": "Sparks",
-      "teamB": "Dream",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3447/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/35545/image",
-      "eventName": "Los Angeles Sparks vs Atlanta Dream",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/21 02:00:00 +0000",
-      "endTime": "2026/08/21 04:45:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv WNBA",
-      "DUDE Tv Live",
-      "WNBA LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv WNBA",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "WNBA LIVE [FHD]",
         "logo": ""
       }
     ]
