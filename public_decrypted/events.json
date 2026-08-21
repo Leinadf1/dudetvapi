@@ -587,12 +587,18 @@
     "publish": "1",
     "formats": [
       "DUDE Tv NFL",
+      "BACKUP HD",
       "DUDE Tv Live",
-      "NFL LIVE [FHD]"
+      "NFL LIVE [FHD]",
+      "ESPN NFL [FHD]"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv NFL",
+        "logo": ""
+      },
+      {
+        "title": "BACKUP HD",
         "logo": ""
       },
       {
@@ -601,6 +607,10 @@
       },
       {
         "title": "NFL LIVE [FHD]",
+        "logo": ""
+      },
+      {
+        "title": "ESPN NFL [FHD]",
         "logo": ""
       }
     ]
@@ -683,10 +693,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv WNBA",
       "DUDE Tv Live",
       "WNBA LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv WNBA",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -716,10 +731,20 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv NFL",
+      "BACKUP HD",
       "DUDE Tv Live",
       "NFL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv NFL",
+        "logo": ""
+      },
+      {
+        "title": "BACKUP HD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -782,10 +807,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv WNBA",
       "DUDE Tv Live",
       "WNBA LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv WNBA",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -815,10 +845,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv WNBA",
       "DUDE Tv Live",
       "WNBA LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv WNBA",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -898,120 +933,6 @@
       },
       {
         "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50078,
-    "title": "White Sox vs Atlanta Braves",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "White Sox",
-      "teamB": "Braves",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3644/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3656/image",
-      "eventName": "Chicago White Sox vs Atlanta Braves",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/20 18:10:00 +0000",
-      "endTime": "2026/08/20 21:10:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv MLB",
-      "DUDE Tv Live",
-      "MLB LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "MLB LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50079,
-    "title": "Kansas City Royals vs Athletics",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Royals",
-      "teamB": "Athletics",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3651/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3645/image",
-      "eventName": "Kansas City Royals vs Athletics",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/20 18:10:00 +0000",
-      "endTime": "2026/08/20 21:10:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv MLB",
-      "DUDE Tv Live",
-      "MLB LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "MLB LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50080,
-    "title": "Brewers vs Seattle Mariners",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Brewers",
-      "teamB": "Mariners",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3630/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3641/image",
-      "eventName": "Milwaukee Brewers vs Seattle Mariners",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/20 18:10:00 +0000",
-      "endTime": "2026/08/20 21:10:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv MLB",
-      "DUDE Tv Live",
-      "MLB LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "MLB LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1219,6 +1140,212 @@
       },
       {
         "title": "SportDigital Fussball",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50092,
+    "title": "Arsenal vs Coventry City",
+    "image": "o",
+    "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "eventInfo": {
+      "teamA": "Arsenal",
+      "teamB": "Coventry",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/42/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/11/image",
+      "eventName": "Arsenal vs Coventry City",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/21 19:00:00 +0000",
+      "endTime": "2026/08/21 21:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50093,
+    "title": "Real Betis vs Real Sociedad",
+    "image": "o",
+    "cat": "LaLiga 🇪🇸",
+    "eventInfo": {
+      "teamA": "Real Betis",
+      "teamB": "Real Sociedad",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2816/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2824/image",
+      "eventName": "Real Betis vs Real Sociedad",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/21 19:00:00 +0000",
+      "endTime": "2026/08/21 21:10:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "PREMIER SPORTS",
+      "beIN ENGLISH",
+      "FANCODE FHD"
+    ],
+    "formatsNew": [
+      {
+        "title": "PREMIER SPORTS",
+        "logo": ""
+      },
+      {
+        "title": "beIN ENGLISH",
+        "logo": ""
+      },
+      {
+        "title": "FANCODE FHD",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50094,
+    "title": "Hull City vs Manchester United",
+    "image": "o",
+    "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "eventInfo": {
+      "teamA": "Hull",
+      "teamB": "Man Utd",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/96/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/35/image",
+      "eventName": "Hull City vs Manchester United",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/22 11:30:00 +0000",
+      "endTime": "2026/08/22 13:35:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "TNT Sports FHD"
+    ],
+    "formatsNew": [
+      {
+        "title": "TNT Sports FHD",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50095,
+    "title": "Everton vs Crystal Palace",
+    "image": "o",
+    "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "eventInfo": {
+      "teamA": "Everton",
+      "teamB": "Crystal Palace",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/48/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/7/image",
+      "eventName": "Everton vs Crystal Palace",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/22 14:00:00 +0000",
+      "endTime": "2026/08/22 16:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50096,
+    "title": "Ipswich Town vs Sunderland",
+    "image": "o",
+    "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "eventInfo": {
+      "teamA": "Ipswich",
+      "teamB": "Sunderland",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/32/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/41/image",
+      "eventName": "Ipswich Town vs Sunderland",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/22 14:00:00 +0000",
+      "endTime": "2026/08/22 16:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50097,
+    "title": "Forest vs Leeds United",
+    "image": "o",
+    "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "eventInfo": {
+      "teamA": "Forest",
+      "teamB": "Leeds",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/14/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/34/image",
+      "eventName": "Nottingham Forest vs Leeds United",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/22 14:00:00 +0000",
+      "endTime": "2026/08/22 16:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50098,
+    "title": "Brentford vs Tottenham",
+    "image": "o",
+    "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "eventInfo": {
+      "teamA": "Brentford",
+      "teamB": "Tottenham",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/50/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/33/image",
+      "eventName": "Brentford vs Tottenham Hotspur",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/22 16:30:00 +0000",
+      "endTime": "2026/08/22 18:40:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "FUBO SPORTS"
+    ],
+    "formatsNew": [
+      {
+        "title": "FUBO SPORTS",
         "logo": ""
       }
     ]
