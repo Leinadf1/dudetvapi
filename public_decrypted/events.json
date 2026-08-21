@@ -12,14 +12,17 @@
       "eventName": "Formula 1 - Dutch Grand Prix",
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://iili.io/CUsqBs4.png",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/08/21 10:30:00 +0000",
       "endTime": "2026/08/21 16:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "Sky Via APPLE TV",
+      "APPLE TV FHD",
       "FANCODE FHD",
+      "beIN SPORTS FHD",
       "DUDE Tv F1 HD",
       "Sportscast FHD",
       "SKY SPORTS [FHD]",
@@ -31,17 +34,27 @@
       "LOW QUALITY",
       "SKY SPORTS [FHD]",
       "APPLE TV [FHD]",
-      "FOX 506 [FHD]",
       "VIAPLAY NL [FHD]",
       "DAZN ESP [FHD]",
       "SKY SPORTS HD",
       "SD SERVER",
-      "F1 GERMANY [USA]",
-      "F1 ITALY SD"
+      "F1 GERMANY [USA]"
     ],
     "formatsNew": [
       {
+        "title": "Sky Via APPLE TV",
+        "logo": ""
+      },
+      {
+        "title": "APPLE TV FHD",
+        "logo": ""
+      },
+      {
         "title": "FANCODE FHD",
+        "logo": ""
+      },
+      {
+        "title": "beIN SPORTS FHD",
         "logo": ""
       },
       {
@@ -89,10 +102,6 @@
         "logo": ""
       },
       {
-        "title": "FOX 506 [FHD]",
-        "logo": ""
-      },
-      {
         "title": "VIAPLAY NL [FHD]",
         "logo": ""
       },
@@ -110,10 +119,6 @@
       },
       {
         "title": "F1 GERMANY [USA]",
-        "logo": ""
-      },
-      {
-        "title": "F1 ITALY SD",
         "logo": ""
       }
     ]
