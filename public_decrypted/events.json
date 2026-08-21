@@ -1962,5 +1962,104 @@
         "logo": ""
       }
     ]
+  },
+  {
+    "id": 50111,
+    "title": "Collingwood Magpies vs Brisbane Lions",
+    "image": "o",
+    "cat": "AFL",
+    "eventInfo": {
+      "teamA": "Collingwood Magpies",
+      "teamB": "Brisbane Lions",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4448/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4444/image",
+      "eventName": "Collingwood Magpies vs Brisbane Lions",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/21 09:40:00 +0000",
+      "endTime": "2026/08/21 12:40:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "FOX SPORTS HD",
+      "FOX SPORTS [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "FOX SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "FOX SPORTS [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50112,
+    "title": "Dolphins vs Parramatta Eels",
+    "image": "o",
+    "cat": "NRL Rugby",
+    "eventInfo": {
+      "teamA": "Dolphins",
+      "teamB": "Parramatta Eels",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/465010/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4261/image",
+      "eventName": "Dolphins vs Parramatta Eels",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/21 10:00:00 +0000",
+      "endTime": "2026/08/21 13:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SKY SPORTS HD",
+      "SPX LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "SKY SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50113,
+    "title": "Canberra Raiders vs Brisbane Broncos",
+    "image": "o",
+    "cat": "NRL Rugby",
+    "eventInfo": {
+      "teamA": "Canberra Raiders",
+      "teamB": "Brisbane Broncos",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4256/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4258/image",
+      "eventName": "Canberra Raiders vs Brisbane Broncos",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/21 08:00:00 +0000",
+      "endTime": "2026/08/21 11:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SKY SPORTS HD",
+      "SPX LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "SKY SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
+        "logo": ""
+      }
+    ]
   }
 ]
