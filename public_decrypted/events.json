@@ -1017,6 +1017,72 @@
     ]
   },
   {
+    "id": 50073,
+    "title": "Juárez vs Club América",
+    "image": "o",
+    "cat": "Liga MX",
+    "eventInfo": {
+      "teamA": "Juárez",
+      "teamB": "América",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/201624/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1939/image",
+      "eventName": "FC Juárez vs Club América",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/22 03:10:00 +0000",
+      "endTime": "2026/08/22 05:15:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "FOX DEPORTES",
+      "FOX ONE [MX VPN]",
+      "Liga MX [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "FOX DEPORTES",
+        "logo": ""
+      },
+      {
+        "title": "FOX ONE [MX VPN]",
+        "logo": ""
+      },
+      {
+        "title": "Liga MX [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50074,
+    "title": "Querétaro vs CD Toluca",
+    "image": "o",
+    "cat": "Liga MX",
+    "eventInfo": {
+      "teamA": "Querétaro",
+      "teamB": "Toluca",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1951/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1931/image",
+      "eventName": "Querétaro FC vs CD Toluca",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/22 03:10:00 +0000",
+      "endTime": "2026/08/22 05:15:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "TUDN MEXICO"
+    ],
+    "formatsNew": [
+      {
+        "title": "TUDN MEXICO",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50075,
     "title": "Brewers vs Atlanta Braves",
     "image": "o",
