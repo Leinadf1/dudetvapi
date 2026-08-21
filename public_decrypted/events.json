@@ -19,9 +19,9 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "Sky Via APPLE TV",
-      "APPLE TV FHD",
+      "TSN SPORTS FHD",
       "FANCODE FHD",
+      "APPLE TV HDR",
       "beIN SPORTS FHD",
       "SporTV FHD",
       "DUDE Tv F1 HD",
@@ -43,16 +43,16 @@
     ],
     "formatsNew": [
       {
-        "title": "Sky Via APPLE TV",
-        "logo": ""
-      },
-      {
-        "title": "APPLE TV FHD",
-        "logo": ""
+        "title": "TSN SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
       },
       {
         "title": "FANCODE FHD",
         "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
+        "title": "APPLE TV HDR",
+        "logo": ""
       },
       {
         "title": "beIN SPORTS FHD",
@@ -1380,11 +1380,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "FUBO SPORTS"
+      "FUBO SPORTS",
+      "SKY PREM [FHD]",
+      "USA NETWORK [FHD]",
+      "DAZN ES [FHD]"
     ],
     "formatsNew": [
       {
         "title": "FUBO SPORTS",
+        "logo": ""
+      },
+      {
+        "title": "SKY PREM [FHD]",
+        "logo": ""
+      },
+      {
+        "title": "USA NETWORK [FHD]",
+        "logo": ""
+      },
+      {
+        "title": "DAZN ES [FHD]",
         "logo": ""
       }
     ]
@@ -1410,7 +1425,8 @@
     "formats": [
       "PREMIER SPORTS",
       "beIN ENGLISH",
-      "FANCODE FHD"
+      "FANCODE FHD",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
@@ -1423,6 +1439,10 @@
       },
       {
         "title": "FANCODE FHD",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1675,11 +1695,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1821,7 +1841,8 @@
     "publish": "1",
     "formats": [
       "FOX DEPORTES",
-      "SporTV BR"
+      "SporTV BR",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
@@ -1830,6 +1851,10 @@
       },
       {
         "title": "SporTV BR",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1914,105 +1939,6 @@
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50111,
-    "title": "Collingwood Magpies vs Brisbane Lions",
-    "image": "o",
-    "cat": "AFL",
-    "eventInfo": {
-      "teamA": "Collingwood Magpies",
-      "teamB": "Brisbane Lions",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4448/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4444/image",
-      "eventName": "Collingwood Magpies vs Brisbane Lions",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/21 09:40:00 +0000",
-      "endTime": "2026/08/21 12:40:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "FOX SPORTS HD",
-      "FOX SPORTS [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "FOX SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "FOX SPORTS [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50112,
-    "title": "Dolphins vs Parramatta Eels",
-    "image": "o",
-    "cat": "NRL Rugby",
-    "eventInfo": {
-      "teamA": "Dolphins",
-      "teamB": "Parramatta Eels",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/465010/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4261/image",
-      "eventName": "Dolphins vs Parramatta Eels",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/21 10:00:00 +0000",
-      "endTime": "2026/08/21 13:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SKY SPORTS HD",
-      "SPX LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "SKY SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50113,
-    "title": "Canberra Raiders vs Brisbane Broncos",
-    "image": "o",
-    "cat": "NRL Rugby",
-    "eventInfo": {
-      "teamA": "Canberra Raiders",
-      "teamB": "Brisbane Broncos",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4256/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4258/image",
-      "eventName": "Canberra Raiders vs Brisbane Broncos",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/21 08:00:00 +0000",
-      "endTime": "2026/08/21 11:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SKY SPORTS HD",
-      "SPX LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "SKY SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
