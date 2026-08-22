@@ -12,9 +12,9 @@
       "eventName": "Formula 1 - Dutch Grand Prix",
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://iili.io/CUsqBs4.png",
-      "isHot": "1",
-      "startTime": "2026/08/22 14:00:00 +0000",
-      "endTime": "2026/08/22 16:00:00 +0000"
+      "isHot": "0",
+      "startTime": "2026/08/23 13:00:00 +0000",
+      "endTime": "2026/08/23 15:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -3800,336 +3800,6 @@
     "channel_status": "live"
   },
   {
-    "id": 50095,
-    "title": "Everton vs Crystal Palace",
-    "image": "o",
-    "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Everton",
-      "teamB": "Crystal Palace",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/48/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/7/image",
-      "eventName": "Everton vs Crystal Palace",
-      "eventType": "null",
-      "isHot": "1",
-      "startTime": "2026/08/22 14:00:00 +0000",
-      "endTime": "2026/08/22 16:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "FUBO SPORTS FHD",
-      "USA TV HD",
-      "DUDE Tv Live",
-      "HD SERVER",
-      "LOW SERVER",
-      "SKY SPORTS [FHD]",
-      "USA NETWORK [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "FUBO SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "USA TV HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SKY SPORTS [FHD]",
-        "logo": ""
-      },
-      {
-        "title": "USA NETWORK [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "d04394c90111a1b3f37451c777f76210:aab352fbdb92a43e9091ebaec7d52f57",
-        "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/qfucwnqldz/out/v1/978e096457814e22b1f743277a2896b7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "FUBO SPORTS FHD",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/55015/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "USA TV HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://live.vivo200.com/live/hd-en-1-4558452.m3u8?txSecret=55a544578b146e60fa5067b74aafab00&txTime=6A89BE3F|Referer=https://player.online909.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ec5b73e2-2b45-40a8-87b1-877980a47949/master.m3u8",
-        "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.50/hls/LLLLQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "LOW SERVER",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/pl/2026-08-22/eve-cry",
-        "logo": "",
-        "title": "SKY SPORTS [FHD]",
-        "type": "2"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/pl/2026-08-22/eve-cry/usa-network-en-us",
-        "logo": "",
-        "title": "USA NETWORK [FHD]",
-        "type": "2"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50096,
-    "title": "Ipswich Town vs Sunderland",
-    "image": "o",
-    "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Ipswich",
-      "teamB": "Sunderland",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/32/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/41/image",
-      "eventName": "Ipswich Town vs Sunderland",
-      "eventType": "null",
-      "isHot": "1",
-      "startTime": "2026/08/22 14:00:00 +0000",
-      "endTime": "2026/08/22 16:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "FUBO SPORTS FHD",
-      "PEACOCK TV HDR",
-      "Peacock TV HD",
-      "DUDE Tv Live",
-      "LOW SERVER",
-      "PEACOCK TV [FHD]",
-      "SKY SPORTS [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "FUBO SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "PEACOCK TV HDR",
-        "logo": ""
-      },
-      {
-        "title": "Peacock TV HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      },
-      {
-        "title": "PEACOCK TV [FHD]",
-        "logo": ""
-      },
-      {
-        "title": "SKY SPORTS [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "910ba61bdc72026711f3ddcb6f81121f:f5418dc4716a47ab60950f6401bc1218",
-        "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/lqqsf5baly/out/v1/6fc16cc53c234c7bac703332db834b74/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "FUBO SPORTS FHD",
-        "type": "1"
-      },
-      {
-        "api": "32f3d2d4eb9d71894db0060bac9716db:3d7bc62d01a434a63d83b692deffe630",
-        "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mxdd2hwnzw/out/v1/46e11da4204f4da99d8216e8ca98baa2/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "PEACOCK TV HDR",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/55014/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "Peacock TV HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://live.vivo200.com/live/hd-en-1-4558454.m3u8?txSecret=aa787d3018957f33ed562bdf7114ef90&txTime=6A89BD7E|Referer=https://player.online909.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.50/hls/LLLLQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "LOW SERVER",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/pl/2026-08-22/ips-sun",
-        "logo": "",
-        "title": "PEACOCK TV [FHD]",
-        "type": "2"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/pl/2026-08-22/ips-sun/sky-sport-8-nz-goal-rush-en-nz",
-        "logo": "",
-        "title": "SKY SPORTS [FHD]",
-        "type": "2"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50097,
-    "title": "Forest vs Leeds United",
-    "image": "o",
-    "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Forest",
-      "teamB": "Leeds",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/14/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/34/image",
-      "eventName": "Nottingham Forest vs Leeds United",
-      "eventType": "null",
-      "isHot": "1",
-      "startTime": "2026/08/22 14:00:00 +0000",
-      "endTime": "2026/08/22 16:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PUBO SPORTS FHD",
-      "PEACOCK TV HDR",
-      "Peacock TV HD",
-      "DUDE Tv Live",
-      "LOW SERVER",
-      "PEACOCK TV [FHD]",
-      "SKY SPORTS [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "PUBO SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "PEACOCK TV HDR",
-        "logo": ""
-      },
-      {
-        "title": "Peacock TV HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      },
-      {
-        "title": "PEACOCK TV [FHD]",
-        "logo": ""
-      },
-      {
-        "title": "SKY SPORTS [FHD]",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "f1437190a54e62a75f5b6d7e8faa5f6a:e41d0ff21c2e70a3f5ee0e082f03ca20",
-        "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ycifnnxvvd/out/v1/af017ada0ebd4d5a9f7396ab4a4d85d1/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "PUBO SPORTS FHD",
-        "type": "1"
-      },
-      {
-        "api": "f1e837eeb45c29a72de7ccb88e295a5e:cb38704a165e54cd8b1bcd383b1e9c2e",
-        "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/qpw5a7mw5e/out/v1/8ac3baa563a540fa8707a0f0cdea673b/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "PEACOCK TV HDR",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/55013/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "Peacock TV HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://live.vivo200.com/live/hd-en-1-4558457.m3u8?txSecret=5b7136dce4cabd90e098fec44f6cdc4d&txTime=6A89BD67|Referer=https://player.online909.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.46/hls/LLLLQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "LOW SERVER",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/pl/2026-08-22/nfo-lee",
-        "logo": "",
-        "title": "PEACOCK TV [FHD]",
-        "type": "2"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/pl/2026-08-22/nfo-lee/sky-sport-9-nz-en-nz",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-        "title": "SKY SPORTS [FHD]",
-        "type": "2"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
     "id": 50098,
     "title": "Brentford vs Tottenham",
     "image": "o",
@@ -4141,7 +3811,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/33/image",
       "eventName": "Brentford vs Tottenham Hotspur",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/08/22 16:30:00 +0000",
       "endTime": "2026/08/22 18:40:00 +0000"
     },
@@ -4158,10 +3828,46 @@
     ],
     "decoded_channels": [
       {
-        "api": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "c387c5521edf61057dbdda6bcfa7b6d0:24738f6cc7f70b5c7bf94b2667ba35fc",
+        "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/soeo23j7q3/out/v1/0ac073a00228420ea600b6359fc1e017/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
         "title": "FUBO SPORTS",
         "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/55026/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "SPX LIVE HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://live.vivo200.com/live/hd-en-1-4558461.m3u8?txSecret=620e684b0ab18a69f056f654f87e9765&txTime=6A89E19E|Referer=https://player.online909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/pl/2026-08-22/bre-tot",
+        "logo": "",
+        "title": "SKY SPORTS [FHD]",
+        "type": "2"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/pl/2026-08-22/bre-tot/peacock-en-us",
+        "logo": "",
+        "title": "PEACOCK EN [FHD]",
+        "type": "2"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/pl/2026-08-22/bre-tot/dazn-es",
+        "logo": "",
+        "title": "DAZN SPORTS [FHD]",
+        "type": "2"
       }
     ],
     "channel_status": "live"
@@ -4395,11 +4101,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TSN SPORTS FHD",
       "DUDE Tv NFL",
       "DUDE Tv Live",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "TSN SPORTS FHD",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
+      },
       {
         "title": "DUDE Tv NFL",
         "logo": ""
@@ -4415,13 +4126,35 @@
     ],
     "decoded_channels": [
       {
+        "api": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg",
+        "title": "TSN SPORTS FHD",
+        "type": "1"
+      },
+      {
         "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "link": "https://chatgpt.hereisman.net/playlist/54952/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv NFL",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://edgestream3.pro/hls/JHDAJBDnjdna30.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/nfl/2026-08-22/wsh-det",
+        "logo": "",
+        "title": "SPX LIVE [FHD]",
+        "type": "2"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50103,
@@ -4456,6 +4189,13 @@
       }
     ],
     "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/55019/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv NFL",
+        "type": "0"
+      },
       {
         "api": "",
         "link": "https://edgestream6.pro/hls/qsdnajbq32.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
@@ -4508,6 +4248,13 @@
     "decoded_channels": [
       {
         "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/55018/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv NFL",
+        "type": "0"
+      },
+      {
+        "api": "",
         "link": "https://edgestream1.pro/hls/oipozuezeji33.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "DUDE Tv Live",
@@ -4556,6 +4303,13 @@
       }
     ],
     "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/55020/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv NFL",
+        "type": "0"
+      },
       {
         "api": "",
         "link": "https://edgestream2.pro/hls/sfjnzabacah31.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
@@ -4734,7 +4488,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2729/image",
       "eventName": "Inter vs Monza",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/08/22 16:30:00 +0000",
       "endTime": "2026/08/22 18:35:00 +0000"
     },
@@ -4761,22 +4515,46 @@
     ],
     "decoded_channels": [
       {
+        "api": "a89b2a551b37d21803b40cc0bebb4a13:ebe00f590cb29b5501c33f282dad5699",
+        "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bo0mjnhpmn/out/v1/e50e3821e338477eb24166eb27839b51/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "PARAMOUNT+ FHD",
+        "type": "1"
+      },
+      {
         "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
         "title": "beIN ENGLISH",
         "type": "1"
       },
       {
         "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
         "title": "CBS NETWORK",
         "type": "1"
       },
       {
         "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
         "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+        "logo": "",
         "title": "SPORT 1 CZ",
         "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/55025/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "Paramount+ HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://live.vivo200.com/live/hd-en-1-4549142.m3u8?txSecret=1494a37b1a3a478a3cc0d123623b0f5f&txTime=6A89E0DE|Referer=https://player.online909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
       }
     ],
     "channel_status": "live"
@@ -4800,9 +4578,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PARAMOUNT+ FHD",
       "DUDE Tv Live"
     ],
     "formatsNew": [
+      {
+        "title": "PARAMOUNT+ FHD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -4810,14 +4593,28 @@
     ],
     "decoded_channels": [
       {
+        "api": "1b3c1fa6ea0382c79953ecb87acb3e63:b92239eec7c7e76277dbac71adc84b5f",
+        "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/yetgduub7l/out/v1/439611cf43f341969bfc382516bc3147/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "PARAMOUNT+ FHD",
+        "type": "1"
+      },
+      {
         "api": "",
-        "link": "http://193.47.62.58/hls/IIIIAAAaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "link": "https://chatgpt.hereisman.net/playlist/55024/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "CBS SPORTS HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://live.vivo200.com/live/hd-en-1-4549159.m3u8?txSecret=b54e3c026d3d267b21d9b582037e348a&txTime=6A89E089|Referer=https://player.online909.com/",
         "logo": "",
         "title": "DUDE Tv Live",
-        "type": "0"
+        "type": "1"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50110,
@@ -5231,19 +5028,32 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "link": "https://live.vivo200.com/live/sd-1-4581285.m3u8?txSecret=0d7e3513729d61739cea0f973ebd6649&txTime=6A89D80A|Referer=https://player.online909.com/",
+        "logo": "",
         "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.41/hls/ESESESAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "LOW SERVER",
         "type": "0"
       }
     ],
@@ -5268,11 +5078,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ],
@@ -6039,11 +5854,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ],
@@ -6055,45 +5875,7 @@
         "type": "0"
       }
     ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50139,
-    "title": "Thailand vs Vietnam",
-    "image": "o",
-    "cat": "ASEAN Championship",
-    "eventInfo": {
-      "teamA": "Thailand",
-      "teamB": "Vietnam",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4730/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/7050/image",
-      "eventName": "Thailand vs Vietnam",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/22 13:00:00 +0000",
-      "endTime": "2026/08/22 15:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4622587.m3u8?txSecret=d76b4fd67f16891837ba2e738794b777&txTime=6A89B016|Referer=https://player.online909.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
     "id": 50140,
