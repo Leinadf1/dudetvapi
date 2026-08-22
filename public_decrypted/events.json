@@ -12,15 +12,18 @@
       "eventName": "Formula 1 - Dutch Grand Prix",
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://iili.io/CUsqBs4.png",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/08/22 10:00:00 +0000",
       "endTime": "2026/08/22 15:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "APPLE TV FHD",
       "TSN SPORTS FHD",
+      "Sky Via Apple TV",
       "FANCODE FHD",
+      "APPLE TV HDR",
       "DUDE Tv F1 HD",
       "Sportscast FHD",
       "SKY SPORTS [FHD]",
@@ -40,11 +43,23 @@
     ],
     "formatsNew": [
       {
+        "title": "APPLE TV FHD",
+        "logo": ""
+      },
+      {
         "title": "TSN SPORTS FHD",
         "logo": ""
       },
       {
+        "title": "Sky Via Apple TV",
+        "logo": ""
+      },
+      {
         "title": "FANCODE FHD",
+        "logo": ""
+      },
+      {
+        "title": "APPLE TV HDR",
         "logo": ""
       },
       {
@@ -1766,11 +1781,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TNT Sports FHD"
+      "TNT Sports FHD",
+      "USA NETWORK [FHD]",
+      "UNIVERSO [FHD]"
     ],
     "formatsNew": [
       {
         "title": "TNT Sports FHD",
+        "logo": ""
+      },
+      {
+        "title": "USA NETWORK [FHD]",
+        "logo": ""
+      },
+      {
+        "title": "UNIVERSO [FHD]",
         "logo": ""
       }
     ]
