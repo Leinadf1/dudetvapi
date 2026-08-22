@@ -2043,7 +2043,11 @@
     "formats": [
       "beIN ENGLISH",
       "D Sports FHD",
-      "CANAL5 FHD"
+      "CANAL5 FHD",
+      "ESPN ENGLISH HD",
+      "ESPN DEPORTES HD",
+      "DUDE Tv Live",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
@@ -2056,6 +2060,22 @@
       },
       {
         "title": "CANAL5 FHD",
+        "logo": ""
+      },
+      {
+        "title": "ESPN ENGLISH HD",
+        "logo": ""
+      },
+      {
+        "title": "ESPN DEPORTES HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -2079,11 +2099,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "PREMIER SPORTS"
+      "PREMIER SPORTS",
+      "FANCODE FHD"
     ],
     "formatsNew": [
       {
         "title": "PREMIER SPORTS",
+        "logo": ""
+      },
+      {
+        "title": "FANCODE FHD",
         "logo": ""
       }
     ]
@@ -2107,11 +2132,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH"
+      "beIN ENGLISH",
+      "FANCODE FHD"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH",
+        "logo": ""
+      },
+      {
+        "title": "FANCODE FHD",
         "logo": ""
       }
     ]
@@ -2135,11 +2165,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv NFL",
+      "DUDE Tv Live",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
+        "title": "DUDE Tv NFL",
+        "logo": ""
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -2163,11 +2203,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -2191,11 +2236,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -2219,11 +2269,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -2491,11 +2546,36 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "beIN SPORTS HD",
+      "HD SERVER",
+      "SD SERVER",
+      "beIN USA [FHD]",
+      "LIGUE1+ [FHD]"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "beIN SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "beIN USA [FHD]",
+        "logo": ""
+      },
+      {
+        "title": "LIGUE1+ [FHD]",
         "logo": ""
       }
     ]
@@ -2720,11 +2800,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportDigital Fussball"
+      "SportDigital Fussball",
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
         "title": "SportDigital Fussball",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
@@ -2778,6 +2863,7 @@
     "formats": [
       "PARAMOUNT+ FHD",
       "beIN ENGLISH",
+      "FANCODE FHD",
       "ARENA SPORTS HD",
       "DUDE Tv Live",
       "SD SERVER",
@@ -2790,6 +2876,10 @@
       },
       {
         "title": "beIN ENGLISH",
+        "logo": ""
+      },
+      {
+        "title": "FANCODE FHD",
         "logo": ""
       },
       {
@@ -3083,11 +3173,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "FOX DEPORTES"
+      "FOX DEPORTES",
+      "FANCODE FHD"
     ],
     "formatsNew": [
       {
         "title": "FOX DEPORTES",
+        "logo": ""
+      },
+      {
+        "title": "FANCODE FHD",
         "logo": ""
       }
     ]
