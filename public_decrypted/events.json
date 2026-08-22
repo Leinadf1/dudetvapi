@@ -1839,11 +1839,41 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "FUBO SPORTS"
+      "FUBO SPORTS",
+      "PEACOCK TV HDR",
+      "SPX LIVE HD",
+      "DUDE Tv Live",
+      "SKY SPORTS [FHD]",
+      "PEACOCK EN [FHD]",
+      "DAZN SPORTS [FHD]"
     ],
     "formatsNew": [
       {
         "title": "FUBO SPORTS",
+        "logo": ""
+      },
+      {
+        "title": "PEACOCK TV HDR",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SKY SPORTS [FHD]",
+        "logo": ""
+      },
+      {
+        "title": "PEACOCK EN [FHD]",
+        "logo": ""
+      },
+      {
+        "title": "DAZN SPORTS [FHD]",
         "logo": ""
       }
     ]
@@ -1926,7 +1956,10 @@
     "publish": "1",
     "formats": [
       "PREMIER SPORTS",
-      "FANCODE FHD"
+      "FANCODE FHD",
+      "DUDE Tv Live",
+      "HD SERVER",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
@@ -1935,6 +1968,18 @@
       },
       {
         "title": "FANCODE FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -2034,10 +2079,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv NFL",
       "DUDE Tv Live",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv NFL",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2067,10 +2117,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv NFL",
       "DUDE Tv Live",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv NFL",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2100,10 +2155,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv NFL",
       "DUDE Tv Live",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv NFL",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2135,7 +2195,10 @@
     "formats": [
       "TNT Sports FHD",
       "CBS NETWORK",
-      "SPORT 1 CZ"
+      "SPORT 1 CZ",
+      "HD SERVER",
+      "Paramount+ EN [FHD]",
+      "DAZN Italia [FHD]"
     ],
     "formatsNew": [
       {
@@ -2148,6 +2211,18 @@
       },
       {
         "title": "SPORT 1 CZ",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "Paramount+ EN [FHD]",
+        "logo": ""
+      },
+      {
+        "title": "DAZN Italia [FHD]",
         "logo": ""
       }
     ]
@@ -2199,11 +2274,18 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PARAMOUNT+ FHD",
       "beIN ENGLISH",
       "CBS NETWORK",
-      "SPORT 1 CZ"
+      "SPORT 1 CZ",
+      "Paramount+ HD",
+      "DUDE Tv Live"
     ],
     "formatsNew": [
+      {
+        "title": "PARAMOUNT+ FHD",
+        "logo": ""
+      },
       {
         "title": "beIN ENGLISH",
         "logo": ""
@@ -2214,6 +2296,14 @@
       },
       {
         "title": "SPORT 1 CZ",
+        "logo": ""
+      },
+      {
+        "title": "Paramount+ HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
@@ -2238,7 +2328,9 @@
     "publish": "1",
     "formats": [
       "PARAMOUNT+ FHD",
-      "DUDE Tv Live"
+      "CBS SPORTS HD",
+      "DUDE Tv Live",
+      "DAZN ITALY [FHD]"
     ],
     "formatsNew": [
       {
@@ -2246,7 +2338,15 @@
         "logo": ""
       },
       {
+        "title": "CBS SPORTS HD",
+        "logo": ""
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "DAZN ITALY [FHD]",
         "logo": ""
       }
     ]
@@ -2270,11 +2370,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "HD SERVER",
+      "beIN USA [FHD]",
+      "Ligue1+ [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "beIN USA [FHD]",
+        "logo": ""
+      },
+      {
+        "title": "Ligue1+ [FHD]",
         "logo": ""
       }
     ]
@@ -2298,11 +2408,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "HD SERVER",
+      "beIN USA [FHD]",
+      "Ligue1+ [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "beIN USA [FHD]",
+        "logo": ""
+      },
+      {
+        "title": "Ligue1+ [FHD]",
         "logo": ""
       }
     ]
@@ -2326,11 +2446,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "HD SERVER",
+      "beIN USA [FHD]",
+      "Ligue1+ [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "beIN USA [FHD]",
+        "logo": ""
+      },
+      {
+        "title": "Ligue1+ [FHD]",
         "logo": ""
       }
     ]
@@ -2354,11 +2484,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "beIN SPORTS HD",
+      "Ligue1+ [FHD]",
+      "beIN USA [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "beIN SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "Ligue1+ [FHD]",
+        "logo": ""
+      },
+      {
+        "title": "beIN USA [FHD]",
         "logo": ""
       }
     ]
@@ -2463,11 +2603,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -2586,15 +2731,25 @@
     "publish": "1",
     "formats": [
       "Premier Sports",
-      "SportDigital Fussball"
+      "beIN ENGLISH FHD",
+      "SportDigital Fussball",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "Premier Sports",
+        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
+      },
+      {
+        "title": "beIN ENGLISH FHD",
         "logo": ""
       },
       {
         "title": "SportDigital Fussball",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -2679,137 +2834,8 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50126,
-    "title": "West Ham vs Charlton Athletic",
-    "image": "o",
-    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "West Ham",
-      "teamB": "Charlton",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/37/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/47/image",
-      "eventName": "West Ham United vs Charlton Athletic",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/22 14:00:00 +0000",
-      "endTime": "2026/08/22 16:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PARAMOUNT+ FHD",
-      "beIN ENGLISH",
-      "FANCODE FHD",
-      "ARENA SPORTS HD",
       "DUDE Tv Live",
-      "SD SERVER",
-      "SPX LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "PARAMOUNT+ FHD",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "beIN ENGLISH",
-        "logo": ""
-      },
-      {
-        "title": "FANCODE FHD",
-        "logo": ""
-      },
-      {
-        "title": "ARENA SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50129,
-    "title": "Wrexham vs Watford",
-    "image": "o",
-    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Wrexham",
-      "teamB": "Watford",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/64/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/24/image",
-      "eventName": "Wrexham vs Watford",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/22 14:00:00 +0000",
-      "endTime": "2026/08/22 16:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PARAMOUNT+ FHD",
-      "DUDE Tv Live",
-      "SD SERVER",
-      "SPX LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "PARAMOUNT+ FHD",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50130,
-    "title": "Swansea City vs Sheffield United",
-    "image": "o",
-    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Swansea",
-      "teamB": "Sheffield Utd",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/74/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/15/image",
-      "eventName": "Swansea City vs Sheffield United",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/22 14:00:00 +0000",
-      "endTime": "2026/08/22 16:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "SD SERVER"
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
@@ -2817,74 +2843,8 @@
         "logo": ""
       },
       {
-        "title": "SD SERVER",
+        "title": "LOW SERVER",
         "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50131,
-    "title": "Southampton vs Stoke City",
-    "image": "o",
-    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Southampton",
-      "teamB": "Stoke",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/45/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/29/image",
-      "eventName": "Southampton vs Stoke City",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/22 14:00:00 +0000",
-      "endTime": "2026/08/22 16:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50132,
-    "title": "Preston vs Wolves",
-    "image": "o",
-    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Preston",
-      "teamB": "Wolves",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/21/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3/image",
-      "eventName": "Preston North End vs Wolverhampton",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/22 14:00:00 +0000",
-      "endTime": "2026/08/22 16:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PARAMOUNT+ FHD",
-      "CBS SPORTS HD"
-    ],
-    "formatsNew": [
-      {
-        "title": "PARAMOUNT+ FHD",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "CBS SPORTS HD",
-        "logo": "https://iili.io/BtCdabj.png"
       }
     ]
   },
@@ -2991,11 +2951,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "HD SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "HD SERVER",
         "logo": ""
       }
     ]
@@ -3058,82 +3018,6 @@
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50140,
-    "title": "Leicester City vs Burton Albion",
-    "image": "o",
-    "cat": "League One 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Leicester City",
-      "teamB": "Burton Albion",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/31/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/134/image",
-      "eventName": "Leicester City vs Burton Albion",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/22 14:00:00 +0000",
-      "endTime": "2026/08/22 16:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50141,
-    "title": "Blackburn Rovers vs Middlesbrough",
-    "image": "o",
-    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Blackburn Rovers",
-      "teamB": "Middlesbrough",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/46/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/36/image",
-      "eventName": "Blackburn Rovers vs Middlesbrough",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/22 14:00:00 +0000",
-      "endTime": "2026/08/22 16:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PARAMOUNT+ FHD",
-      "DUDE Tv Live",
-      "HD SERVER",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "PARAMOUNT+ FHD",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
         "logo": ""
       },
       {
