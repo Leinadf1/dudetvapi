@@ -1043,10 +1043,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv NFL",
       "DUDE Tv Live",
       "NFL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv NFL",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1057,6 +1062,13 @@
       }
     ],
     "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/55039/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv NFL",
+        "type": "0"
+      },
       {
         "api": "",
         "link": "https://edgestream4.pro/hls/uheyztezgj34.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
@@ -1475,10 +1487,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv NFL",
       "DUDE Tv Live",
       "NFL LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv NFL",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1489,6 +1506,13 @@
       }
     ],
     "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/55040/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv NFL",
+        "type": "0"
+      },
       {
         "api": "",
         "link": "https://edgestream7.pro/hls/jnknjfzbk35.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
@@ -3863,116 +3887,6 @@
     "channel_status": "live"
   },
   {
-    "id": 50098,
-    "title": "Brentford vs Tottenham",
-    "image": "o",
-    "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Brentford",
-      "teamB": "Tottenham",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/50/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/33/image",
-      "eventName": "Brentford vs Tottenham Hotspur",
-      "eventType": "null",
-      "isHot": "1",
-      "startTime": "2026/08/22 16:30:00 +0000",
-      "endTime": "2026/08/22 18:40:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "FUBO SPORTS",
-      "PEACOCK TV HDR",
-      "SPX LIVE HD",
-      "DUDE Tv Live",
-      "SKY SPORTS [FHD]",
-      "PEACOCK EN [FHD]",
-      "DAZN SPORTS [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "FUBO SPORTS",
-        "logo": ""
-      },
-      {
-        "title": "PEACOCK TV HDR",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SKY SPORTS [FHD]",
-        "logo": ""
-      },
-      {
-        "title": "PEACOCK EN [FHD]",
-        "logo": ""
-      },
-      {
-        "title": "DAZN SPORTS [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "c387c5521edf61057dbdda6bcfa7b6d0:24738f6cc7f70b5c7bf94b2667ba35fc",
-        "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/soeo23j7q3/out/v1/0ac073a00228420ea600b6359fc1e017/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "FUBO SPORTS",
-        "type": "1"
-      },
-      {
-        "api": "b6cd50541840a025de9c9ffa43e2bd95:280f7d1572b2d9fd93e06ed55a528b59",
-        "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/2a4ne5tht4/out/v1/ad4f63f0fdb74f97b49ec37194723b4e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "PEACOCK TV HDR",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/55026/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "SPX LIVE HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://live.vivo200.com/live/hd-en-1-4558461.m3u8?txSecret=620e684b0ab18a69f056f654f87e9765&txTime=6A89E19E|Referer=https://player.online909.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/pl/2026-08-22/bre-tot",
-        "logo": "",
-        "title": "SKY SPORTS [FHD]",
-        "type": "2"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/pl/2026-08-22/bre-tot/peacock-en-us",
-        "logo": "",
-        "title": "PEACOCK EN [FHD]",
-        "type": "2"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/pl/2026-08-22/bre-tot/dazn-es",
-        "logo": "",
-        "title": "DAZN SPORTS [FHD]",
-        "type": "2"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
     "id": 50099,
     "title": "Athletic Club vs Sevilla",
     "image": "o",
@@ -4216,7 +4130,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2829/image",
       "eventName": "Espanyol vs Real Madrid",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/08/22 19:30:00 +0000",
       "endTime": "2026/08/22 21:35:00 +0000"
     },
@@ -4226,6 +4140,9 @@
       "beIN ENGLISH",
       "D Sports FHD",
       "FANCODE FHD",
+      "ESPN ENGLISH HD",
+      "ESPN DEPORTES HD",
+      "DUDE Tv Live",
       "HD SERVER",
       "SPX LIVE [FHD]"
     ],
@@ -4240,6 +4157,18 @@
       },
       {
         "title": "FANCODE FHD",
+        "logo": ""
+      },
+      {
+        "title": "ESPN ENGLISH HD",
+        "logo": ""
+      },
+      {
+        "title": "ESPN DEPORTES HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       },
       {
@@ -4272,6 +4201,27 @@
         "logo": "",
         "title": "FANCODE FHD",
         "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/55037/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "ESPN ENGLISH HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/55038/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "ESPN DEPORTES HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://live.vivo200.com/live/hd-en-1-4565331.m3u8?txSecret=9a09e99145e7fd3631025c951706e105&txTime=6A8A039C|Referer=https://player.online909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
       },
       {
         "api": "",
@@ -4581,14 +4531,20 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PARAMOUNT+ FHD",
       "TNT Sports FHD",
       "CBS NETWORK",
       "SPORT 1 CZ",
+      "DUDE Tv Live",
       "HD SERVER",
       "Paramount+ EN [FHD]",
       "DAZN Italia [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "PARAMOUNT+ FHD",
+        "logo": ""
+      },
       {
         "title": "TNT Sports FHD",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
@@ -4599,6 +4555,10 @@
       },
       {
         "title": "SPORT 1 CZ",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       },
       {
@@ -4693,14 +4653,24 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PARAMOUNT+ FHD",
       "CBS SPORTS HD",
+      "DUDE Tv Live",
       "HD SERVER",
       "Paramount+ EN [FHD]",
       "DAZN Italia [FHD]"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": ""
+      },
+      {
         "title": "CBS SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       },
       {
@@ -4774,7 +4744,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2729/image",
       "eventName": "Inter vs Monza",
       "eventType": "null",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/08/22 16:30:00 +0000",
       "endTime": "2026/08/22 18:35:00 +0000"
     },
@@ -4953,11 +4923,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv Live",
       "HD SERVER",
       "beIN USA [FHD]",
       "Ligue1+ [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
       {
         "title": "HD SERVER",
         "logo": ""
@@ -5022,11 +4997,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv Live",
       "HD SERVER",
       "beIN USA [FHD]",
       "Ligue1+ [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
       {
         "title": "HD SERVER",
         "logo": ""
@@ -5091,11 +5071,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv Live",
       "HD SERVER",
       "beIN USA [FHD]",
       "Ligue1+ [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
       {
         "title": "HD SERVER",
         "logo": ""
@@ -5160,11 +5145,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv Live",
       "beIN SPORTS HD",
       "Ligue1+ [FHD]",
       "beIN USA [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
       {
         "title": "beIN SPORTS HD",
         "logo": ""
@@ -5230,7 +5220,8 @@
     "publish": "1",
     "formats": [
       "SportDigital Fussball",
-      "D SPORTS FHD"
+      "D SPORTS FHD",
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
@@ -5239,6 +5230,10 @@
       },
       {
         "title": "D SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ],
@@ -5256,6 +5251,13 @@
         "logo": "",
         "title": "D SPORTS FHD",
         "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://live.vivo200.com/live/sd-1-4578175.m3u8?txSecret=0f3e558196d6579eb3bd97534f3675b5&txTime=6A8A0246|Referer=https://player.online909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
       }
     ],
     "channel_status": "live"
@@ -5329,9 +5331,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv Live",
       "LOW SERVER"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
       {
         "title": "LOW SERVER",
         "logo": ""
@@ -5343,98 +5350,6 @@
         "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
         "title": "DUDE Tv Live",
         "type": "0"
-      }
-    ],
-    "channel_status": "cached"
-  },
-  {
-    "id": 50118,
-    "title": "Rizespor vs Samsunspor",
-    "image": "o",
-    "cat": "Super Lig",
-    "eventInfo": {
-      "teamA": "Rizespor",
-      "teamB": "Samsunspor",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3064/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3053/image",
-      "eventName": "Çaykur Rizespor vs Samsunspor",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/22 16:00:00 +0000",
-      "endTime": "2026/08/22 18:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4581285.m3u8?txSecret=0d7e3513729d61739cea0f973ebd6649&txTime=6A89D80A|Referer=https://player.online909.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.41/hls/ESESESAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "LOW SERVER",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50119,
-    "title": "Çorum FK vs Kasımpaşa",
-    "image": "o",
-    "cat": "Super Lig",
-    "eventInfo": {
-      "teamA": "Çorum",
-      "teamB": "Kasımpaşa",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/77629/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/6063/image",
-      "eventName": "Çorum FK vs Kasımpaşa",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/22 16:00:00 +0000",
-      "endTime": "2026/08/22 18:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "title": "beIN ENGLISH FHD",
-        "type": "1"
       }
     ],
     "channel_status": "cached"
@@ -5548,7 +5463,7 @@
         "type": "0"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
     "id": 50123,
@@ -5701,7 +5616,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2672/image",
       "eventName": "Borussia Dortmund vs Bayern München",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/08/22 18:30:00 +0000",
       "endTime": "2026/08/22 20:35:00 +0000"
     },
@@ -5709,12 +5624,17 @@
     "publish": "1",
     "formats": [
       "USA SPORTS HD",
+      "DUDE Tv Live",
       "HD SERVER",
       "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "USA SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       },
       {
@@ -5807,47 +5727,5 @@
       }
     ],
     "channel_status": "live"
-  },
-  {
-    "id": 50138,
-    "title": "Al-Fateh vs Al-Ettifaq",
-    "image": "o",
-    "cat": "Pro League 🇸🇦",
-    "eventInfo": {
-      "teamA": "Al-Fateh",
-      "teamB": "Al-Ettifaq",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/56023/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/34318/image",
-      "eventName": "Al-Fateh vs Al-Ettifaq",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/22 15:45:00 +0000",
-      "endTime": "2026/08/22 17:45:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "cached"
   }
 ]
