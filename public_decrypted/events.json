@@ -610,6 +610,35 @@
     ]
   },
   {
+    "id": 50023,
+    "title": "rolly vs teofimo",
+    "image": "o",
+    "cat": "Boxing",
+    "eventInfo": {
+      "teamA": "Rolando Romero",
+      "teamB": "Teofimo Lopez",
+      "teamAFlag": "https://www.premierboxingchampions.com/sites/default/files/styles/responsive_960_x_1706/public/FullBody_Rolly2.jpg",
+      "teamBFlag": "https://www.premierboxingchampions.com/sites/default/files/styles/responsive_960_x_1706/public/FullBody_Teofimo.jpg",
+      "eventName": "Rolando Romero vs Teofimo Lopez",
+      "eventType": "null",
+      "eventBanner": "https://wsrv.nl/?url=https://iili.io/CZbRjFn.png",
+      "isHot": "0",
+      "startTime": "2026/08/22 23:00:00 +0000",
+      "endTime": "2026/08/23 03:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SPX LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "SPX LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50027,
     "title": "Liberty vs Indiana Fever",
     "image": "o",
@@ -1192,11 +1221,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "CANAL5 FHD"
+      "CANAL5 FHD",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "CANAL5 FHD",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1220,10 +1254,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1253,10 +1292,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1956,9 +2000,12 @@
     "publish": "1",
     "formats": [
       "PREMIER SPORTS",
+      "D SPORTS FHD",
       "FANCODE FHD",
+      "ESPN DEPORTES HD",
       "DUDE Tv Live",
       "HD SERVER",
+      "SD SERVER",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
@@ -1967,7 +2014,15 @@
         "logo": ""
       },
       {
+        "title": "D SPORTS FHD",
+        "logo": ""
+      },
+      {
         "title": "FANCODE FHD",
+        "logo": ""
+      },
+      {
+        "title": "ESPN DEPORTES HD",
         "logo": ""
       },
       {
@@ -1976,6 +2031,10 @@
       },
       {
         "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       },
       {
@@ -2004,7 +2063,10 @@
     "publish": "1",
     "formats": [
       "beIN ENGLISH",
-      "FANCODE FHD"
+      "D Sports FHD",
+      "FANCODE FHD",
+      "HD SERVER",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
@@ -2012,7 +2074,19 @@
         "logo": ""
       },
       {
+        "title": "D Sports FHD",
+        "logo": ""
+      },
+      {
         "title": "FANCODE FHD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -2118,12 +2192,17 @@
     "publish": "1",
     "formats": [
       "DUDE Tv NFL",
+      "BACKUP HD",
       "DUDE Tv Live",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv NFL",
+        "logo": ""
+      },
+      {
+        "title": "BACKUP HD",
         "logo": ""
       },
       {
@@ -2246,11 +2325,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "CBS SPORTS HD",
+      "HD SERVER",
+      "Paramount+ EN [FHD]",
+      "DAZN Italia [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "CBS SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "Paramount+ EN [FHD]",
+        "logo": ""
+      },
+      {
+        "title": "DAZN Italia [FHD]",
         "logo": ""
       }
     ]
@@ -2504,59 +2598,6 @@
     ]
   },
   {
-    "id": 50114,
-    "title": "Lens vs Auxerre",
-    "image": "o",
-    "cat": "Ligue 1 🇫🇷",
-    "eventInfo": {
-      "teamA": "Lens",
-      "teamB": "Auxerre",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1648/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1646/image",
-      "eventName": "RC Lens vs Auxerre",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/22 15:15:00 +0000",
-      "endTime": "2026/08/22 17:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "beIN SPORTS HD",
-      "HD SERVER",
-      "SD SERVER",
-      "beIN USA [FHD]",
-      "LIGUE1+ [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "beIN SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "beIN USA [FHD]",
-        "logo": ""
-      },
-      {
-        "title": "LIGUE1+ [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50115,
     "title": "Sporting CP vs FC Alverca",
     "image": "o",
@@ -2575,11 +2616,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportDigital Fussball"
+      "SportDigital Fussball",
+      "D SPORTS FHD"
     ],
     "formatsNew": [
       {
         "title": "SportDigital Fussball",
+        "logo": ""
+      },
+      {
+        "title": "D SPORTS FHD",
         "logo": ""
       }
     ]
@@ -2636,11 +2682,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -2783,39 +2829,6 @@
     ]
   },
   {
-    "id": 50122,
-    "title": "Fortuna Sittard vs AZ Alkmaar",
-    "image": "o",
-    "cat": "Eredivisie",
-    "eventInfo": {
-      "teamA": "Fortuna",
-      "teamB": "AZ",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2957/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2950/image",
-      "eventName": "Fortuna Sittard vs AZ Alkmaar",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/22 14:30:00 +0000",
-      "endTime": "2026/08/22 16:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportDigital Fussball",
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "SportDigital Fussball",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50123,
     "title": "Sparta Rotterdam vs FC Utrecht",
     "image": "o",
@@ -2905,34 +2918,6 @@
     ]
   },
   {
-    "id": 50135,
-    "title": "Real Oviedo vs Leganés",
-    "image": "o",
-    "cat": "LaLiga 2",
-    "eventInfo": {
-      "teamA": "Real Oviedo",
-      "teamB": "Leganés",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2851/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2845/image",
-      "eventName": "Real Oviedo vs Leganés",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/22 15:00:00 +0000",
-      "endTime": "2026/08/22 17:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "Laliga Hypermotion ES"
-    ],
-    "formatsNew": [
-      {
-        "title": "Laliga Hypermotion ES",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50136,
     "title": "Dortmund vs Bayern München",
     "image": "o",
@@ -2951,11 +2936,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "HD SERVER"
+      "USA SPORTS HD",
+      "HD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "USA SPORTS HD",
+        "logo": ""
+      },
+      {
         "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]

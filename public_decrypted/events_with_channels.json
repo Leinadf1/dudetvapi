@@ -1212,6 +1212,44 @@
     "channel_status": "live"
   },
   {
+    "id": 50023,
+    "title": "rolly vs teofimo",
+    "image": "o",
+    "cat": "Boxing",
+    "eventInfo": {
+      "teamA": "Rolando Romero",
+      "teamB": "Teofimo Lopez",
+      "teamAFlag": "https://www.premierboxingchampions.com/sites/default/files/styles/responsive_960_x_1706/public/FullBody_Rolly2.jpg",
+      "teamBFlag": "https://www.premierboxingchampions.com/sites/default/files/styles/responsive_960_x_1706/public/FullBody_Teofimo.jpg",
+      "eventName": "Rolando Romero vs Teofimo Lopez",
+      "eventType": "null",
+      "eventBanner": "https://wsrv.nl/?url=https://iili.io/CZbRjFn.png",
+      "isHot": "0",
+      "startTime": "2026/08/22 23:00:00 +0000",
+      "endTime": "2026/08/23 03:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SPX LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "SPX LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/53519/load-playlist?|Referer=https://gooz.aapmains.net",
+        "title": "DUDE Tv WWE",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
     "id": 50027,
     "title": "Liberty vs Indiana Fever",
     "image": "o",
@@ -2807,11 +2845,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "CANAL5 FHD"
+      "CANAL5 FHD",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "CANAL5 FHD",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ],
@@ -2819,8 +2862,16 @@
       {
         "api": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
         "title": "CANAL5 FHD",
         "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/liga-mx/2026-08-22/caz-ats",
+        "logo": "",
+        "title": "SPX LIVE [FHD]",
+        "type": "2"
       }
     ],
     "channel_status": "live"
@@ -2844,10 +2895,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2901,10 +2957,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2917,20 +2978,27 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream7.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://chatgpt.hereisman.net/playlist/55033/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv MLB",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://edgestream4.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-08-21/stl-phi",
+        "link": "https://embedindia.st/embed/mlb/2026-08-22/atl-mil",
         "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50077,
@@ -4034,9 +4102,12 @@
     "publish": "1",
     "formats": [
       "PREMIER SPORTS",
+      "D SPORTS FHD",
       "FANCODE FHD",
+      "ESPN DEPORTES HD",
       "DUDE Tv Live",
       "HD SERVER",
+      "SD SERVER",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
@@ -4045,7 +4116,15 @@
         "logo": ""
       },
       {
+        "title": "D SPORTS FHD",
+        "logo": ""
+      },
+      {
         "title": "FANCODE FHD",
+        "logo": ""
+      },
+      {
+        "title": "ESPN DEPORTES HD",
         "logo": ""
       },
       {
@@ -4054,6 +4133,10 @@
       },
       {
         "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       },
       {
@@ -4141,7 +4224,10 @@
     "publish": "1",
     "formats": [
       "beIN ENGLISH",
-      "FANCODE FHD"
+      "D Sports FHD",
+      "FANCODE FHD",
+      "HD SERVER",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
@@ -4149,7 +4235,19 @@
         "logo": ""
       },
       {
+        "title": "D Sports FHD",
+        "logo": ""
+      },
+      {
         "title": "FANCODE FHD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ],
@@ -4348,12 +4446,17 @@
     "publish": "1",
     "formats": [
       "DUDE Tv NFL",
+      "BACKUP HD",
       "DUDE Tv Live",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv NFL",
+        "logo": ""
+      },
+      {
+        "title": "BACKUP HD",
         "logo": ""
       },
       {
@@ -4513,6 +4616,13 @@
     ],
     "decoded_channels": [
       {
+        "api": "e3e789757fb52e171aff2be3825d6699:abe43d5731771eecd71256cd2ed05ba4",
+        "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/hlsxi1zfm5/out/v1/9f946893ed9846718544585b53de9b03/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "PARAMOUNT+ FHD",
+        "type": "1"
+      },
+      {
         "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
         "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
@@ -4532,6 +4642,13 @@
         "logo": "",
         "title": "SPORT 1 CZ",
         "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://live.vivo200.com/live/hd-en-1-4549143.m3u8?txSecret=5d5a169c7712c5606e1dc923ec08d27b&txTime=6A89FE3F|Referer=https://player.online909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
       },
       {
         "api": "",
@@ -4576,15 +4693,51 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "CBS SPORTS HD",
+      "HD SERVER",
+      "Paramount+ EN [FHD]",
+      "DAZN Italia [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "CBS SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "Paramount+ EN [FHD]",
+        "logo": ""
+      },
+      {
+        "title": "DAZN Italia [FHD]",
         "logo": ""
       }
     ],
     "decoded_channels": [
+      {
+        "api": "5a041a6d26c80de0b47a6c481d71ca02:44c22d4c4dcb3fe0665bb70b3743676a",
+        "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/irk6hkwvbr/out/v1/b1325eb4f7de42198b398cf7b3355348/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "PARAMOUNT+ FHD",
+        "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/55035/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "CBS SPORTS HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://live.vivo200.com/live/hd-en-1-4549151.m3u8?txSecret=96f538e71bf15f9c89d7d4f713f39349&txTime=6A89FE79|Referer=https://player.online909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
       {
         "api": "",
         "link": "https://edgestream4.pro/hls/syaLqucEne4k.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
@@ -4821,6 +4974,13 @@
     "decoded_channels": [
       {
         "api": "",
+        "link": "https://live.vivo200.com/live/hd-en-1-4550850.m3u8?txSecret=31fea25121c1263bf1a4e12f3594193b&txTime=6A89FF1C|Referer=https://player.online909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
         "link": "https://edgestream4.pro/hls/iozauyezaioyur82.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "HD SERVER",
@@ -4881,6 +5041,13 @@
       }
     ],
     "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://live.vivo200.com/live/hd-en-1-4550844.m3u8?txSecret=f1ebffe5be562619f161520ad6c11d53&txTime=6A89FEB8|Referer=https://player.online909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
       {
         "api": "",
         "link": "https://edgestream3.pro/hls/ioazuryeahrfvzed84.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
@@ -4945,6 +5112,13 @@
     "decoded_channels": [
       {
         "api": "",
+        "link": "https://live.vivo200.com/live/hd-en-1-4550847.m3u8?txSecret=8eca2901b2edfd77e618eaaf6722534f&txTime=6A89FEFC|Referer=https://player.online909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
         "link": "https://edgestream5.pro/hls/nbekiurtghjhfza83.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "HD SERVER",
@@ -5007,106 +5181,30 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "cached"
-  },
-  {
-    "id": 50114,
-    "title": "Lens vs Auxerre",
-    "image": "o",
-    "cat": "Ligue 1 🇫🇷",
-    "eventInfo": {
-      "teamA": "Lens",
-      "teamB": "Auxerre",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1648/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1646/image",
-      "eventName": "RC Lens vs Auxerre",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/22 15:15:00 +0000",
-      "endTime": "2026/08/22 17:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "beIN SPORTS HD",
-      "HD SERVER",
-      "SD SERVER",
-      "beIN USA [FHD]",
-      "LIGUE1+ [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "beIN SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "beIN USA [FHD]",
-        "logo": ""
-      },
-      {
-        "title": "LIGUE1+ [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4550845.m3u8?txSecret=3ddcc252a80dc60fd40632372ed3caba&txTime=6A89C5C4|Referer=https://player.online909.com/",
+        "link": "https://live.vivo200.com/live/hd-en-1-4550849.m3u8?txSecret=7d19d2e6ad02102c54dd1c3c6a4b5cdb&txTime=6A89FEDF|Referer=https://player.online909.com/",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://edgestream5.pro/hls/dza5z8f69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream3.pro/hls/dza5z8f69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "beIN SPORTS HD",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://hls.live123.fans/live/4550845.m3u8",
+        "link": "https://embedindia.st/embed/ligue1/2026-08-22/tou-lyon/ligue-1-fr",
         "logo": "",
-        "title": "HD SERVER",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.41/hls/FIIIAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "SD SERVER",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/ligue1/2026-08-22/rcl-aux",
-        "logo": "",
-        "title": "beIN USA [FHD]",
+        "title": "Ligue1+ [FHD]",
         "type": "2"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/ligue1/2026-08-22/rcl-aux/ligue-1-fr",
+        "link": "https://embedindia.st/embed/ligue1/2026-08-22/tou-lyon",
         "logo": "",
-        "title": "LIGUE1+ [FHD]",
+        "title": "beIN USA [FHD]",
         "type": "2"
       }
     ],
@@ -5131,11 +5229,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportDigital Fussball"
+      "SportDigital Fussball",
+      "D SPORTS FHD"
     ],
     "formatsNew": [
       {
         "title": "SportDigital Fussball",
+        "logo": ""
+      },
+      {
+        "title": "D SPORTS FHD",
         "logo": ""
       }
     ],
@@ -5226,11 +5329,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "LOW SERVER",
         "logo": ""
       }
     ],
@@ -5242,7 +5345,7 @@
         "type": "0"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
     "id": 50118,
@@ -5448,56 +5551,6 @@
     "channel_status": "live"
   },
   {
-    "id": 50122,
-    "title": "Fortuna Sittard vs AZ Alkmaar",
-    "image": "o",
-    "cat": "Eredivisie",
-    "eventInfo": {
-      "teamA": "Fortuna",
-      "teamB": "AZ",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2957/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2950/image",
-      "eventName": "Fortuna Sittard vs AZ Alkmaar",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/22 14:30:00 +0000",
-      "endTime": "2026/08/22 16:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportDigital Fussball",
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "SportDigital Fussball",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "SportDigital Fussball",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4552165.m3u8?txSecret=dae2da057b7a4a93a06657206a37ec11&txTime=6A89C510|Referer=https://player.online909.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
     "id": 50123,
     "title": "Sparta Rotterdam vs FC Utrecht",
     "image": "o",
@@ -5637,43 +5690,6 @@
     "channel_status": "cached"
   },
   {
-    "id": 50135,
-    "title": "Real Oviedo vs Leganés",
-    "image": "o",
-    "cat": "LaLiga 2",
-    "eventInfo": {
-      "teamA": "Real Oviedo",
-      "teamB": "Leganés",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2851/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2845/image",
-      "eventName": "Real Oviedo vs Leganés",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/22 15:00:00 +0000",
-      "endTime": "2026/08/22 17:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "Laliga Hypermotion ES"
-    ],
-    "formatsNew": [
-      {
-        "title": "Laliga Hypermotion ES",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
-        "link": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
-        "title": "Laliga Hypermotion ES",
-        "type": "1"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
     "id": 50136,
     "title": "Dortmund vs Bayern München",
     "image": "o",
@@ -5692,20 +5708,51 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "HD SERVER"
+      "USA SPORTS HD",
+      "HD SERVER",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "USA SPORTS HD",
+        "logo": ""
+      },
+      {
         "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
         "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/54993/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "USA SPORTS HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://live.vivo200.com/live/hd-en-1-4546031.m3u8?txSecret=846ceb2eec69884fc1bfe5424a9a4539&txTime=6A89FDD7|Referer=https://player.online909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
         "link": "https://edgestream4.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "HD SERVER",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "http://193.47.62.51/hls/BRBRBRBRQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+        "logo": "",
+        "title": "LOW SERVER",
         "type": "0"
       }
     ],
