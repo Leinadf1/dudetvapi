@@ -3713,7 +3713,6 @@
     "publish": "1",
     "formats": [
       "TNT Sports FHD",
-      "HUB PREMIER FHD",
       "USA TV HD",
       "DUDE Tv Live",
       "HD SERVER",
@@ -3724,10 +3723,6 @@
     "formatsNew": [
       {
         "title": "TNT Sports FHD",
-        "logo": ""
-      },
-      {
-        "title": "HUB PREMIER FHD",
         "logo": ""
       },
       {
@@ -3761,13 +3756,6 @@
         "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "",
         "title": "TNT Sports FHD",
-        "type": "1"
-      },
-      {
-        "api": "d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b",
-        "link": "https://mh-bks400-06.starhubgo.com/bpk-token/2ac@b4vq0wi4xck1slr15ebcglbvnzqpfuwfb0r0bzaa/bpk-tv/HubPremier1/output/manifest.mpd?bkm-query",
-        "logo": "",
-        "title": "HUB PREMIER FHD",
         "type": "1"
       },
       {
@@ -5166,11 +5154,17 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PARAMOUNT+ FHD",
       "beIN ENGLISH",
       "SKY FOOTBALL HD",
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
+      {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
       {
         "title": "beIN ENGLISH",
         "logo": ""
@@ -5181,6 +5175,10 @@
       },
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ],
@@ -5279,16 +5277,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PARAMOUNT+ FHD",
       "CBS NETWORK",
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
+      {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
       {
         "title": "CBS NETWORK",
         "logo": ""
       },
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ],
@@ -5855,7 +5863,8 @@
     "publish": "1",
     "formats": [
       "DUDE Tv Live",
-      "HD SERVER"
+      "HD SERVER",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
@@ -5864,6 +5873,10 @@
       },
       {
         "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ],

@@ -1782,7 +1782,6 @@
     "publish": "1",
     "formats": [
       "TNT Sports FHD",
-      "HUB PREMIER FHD",
       "USA TV HD",
       "DUDE Tv Live",
       "HD SERVER",
@@ -1793,10 +1792,6 @@
     "formatsNew": [
       {
         "title": "TNT Sports FHD",
-        "logo": ""
-      },
-      {
-        "title": "HUB PREMIER FHD",
         "logo": ""
       },
       {
@@ -2719,11 +2714,17 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PARAMOUNT+ FHD",
       "beIN ENGLISH",
       "SKY FOOTBALL HD",
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
+      {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
       {
         "title": "beIN ENGLISH",
         "logo": ""
@@ -2734,6 +2735,10 @@
       },
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -2785,16 +2790,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PARAMOUNT+ FHD",
       "CBS NETWORK",
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
+      {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
       {
         "title": "CBS NETWORK",
         "logo": ""
       },
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -3188,7 +3203,8 @@
     "publish": "1",
     "formats": [
       "DUDE Tv Live",
-      "HD SERVER"
+      "HD SERVER",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
@@ -3197,6 +3213,10 @@
       },
       {
         "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
