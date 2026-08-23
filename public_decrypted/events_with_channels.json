@@ -652,7 +652,6 @@
     "publish": "1",
     "formats": [
       "WILLOW - FHD",
-      "WILLOW - AdFree",
       "TAPMAD - FHD",
       "WILLOW - ALT",
       "TEN SPORTS HD",
@@ -663,10 +662,6 @@
     "formatsNew": [
       {
         "title": "WILLOW - FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "WILLOW - AdFree",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
@@ -696,17 +691,10 @@
     ],
     "decoded_channels": [
       {
-        "api": "339dfcd56cef8059e103f700a76e6686:ca520f7dd020dacc1b2a7c7b94d0c897",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/g7afpcleho/out/v1/1d54fcc2fcf6456f9cb464b8344dd299/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "f3b91297bf1b32f957b9ad9df063cccf:1dffa592b7bbeeda714ac1ba3b70f04b",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wm7nvzuo81/out/v1/4be515e8c9c3450c9d73b2d2d8c25d46/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW - FHD",
-        "type": "1"
-      },
-      {
-        "api": "9714d9bfcbebf339bad30efd1c9fdcd3:c1b210135327a0f463c6deb397546970",
-        "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xdwk6pwhmo/out/v1/a23136e223be4bf0898f0f69ffc84155/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW - AdFree",
         "type": "1"
       },
       {
@@ -717,8 +705,8 @@
         "type": "0"
       },
       {
-        "api": "339dfcd56cef8059e103f700a76e6686:ca520f7dd020dacc1b2a7c7b94d0c897",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g7afpcleho/out/v1/1d54fcc2fcf6456f9cb464b8344dd299/cenc.mpd",
+        "api": "f3b91297bf1b32f957b9ad9df063cccf:1dffa592b7bbeeda714ac1ba3b70f04b",
+        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wm7nvzuo81/out/v1/4be515e8c9c3450c9d73b2d2d8c25d46/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW - ALT",
         "type": "1"
