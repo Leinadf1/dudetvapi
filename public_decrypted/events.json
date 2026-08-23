@@ -1572,18 +1572,43 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/44/image",
       "eventName": "Newcastle United vs Liverpool FC",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/08/23 15:30:00 +0000",
       "endTime": "2026/08/23 17:40:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SKY PREM [FHD]"
+      "USA TV HD",
+      "HD SERVER",
+      "DUDE Tv Live",
+      "SKY PREM [FHD]",
+      "USA NETWORK [FHD]",
+      "TELEMUNDO [FHD]"
     ],
     "formatsNew": [
       {
+        "title": "USA TV HD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
         "title": "SKY PREM [FHD]",
+        "logo": ""
+      },
+      {
+        "title": "USA NETWORK [FHD]",
+        "logo": ""
+      },
+      {
+        "title": "TELEMUNDO [FHD]",
         "logo": ""
       }
     ]
@@ -1648,7 +1673,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/60/image",
       "eventName": "Manchester City vs Bournemouth",
       "eventType": "null",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/08/23 13:00:00 +0000",
       "endTime": "2026/08/23 15:05:00 +0000"
     },
@@ -1695,54 +1720,6 @@
     ]
   },
   {
-    "id": 50095,
-    "title": "Brighton vs Aston Villa",
-    "image": "o",
-    "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Brighton",
-      "teamB": "Aston Villa",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/30/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/40/image",
-      "eventName": "Brighton vs Aston Villa",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/23 13:00:00 +0000",
-      "endTime": "2026/08/23 15:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "FUBO SPORTS FHD",
-      "SKY PREMIER TV HD",
-      "DUDE Tv Live",
-      "LOW SERVER",
-      "SPX LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "FUBO SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "SKY PREMIER TV HD",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50096,
     "title": "Atlético Madrid vs Villarreal",
     "image": "o",
@@ -1762,15 +1739,45 @@
     "publish": "1",
     "formats": [
       "PREMIER SPORTS",
-      "beIN ENGLISH"
+      "beIN ENGLISH",
+      "FANCODE - FHD",
+      "ESPN ENGLISH HD",
+      "ESPN DEPORTES HD",
+      "DUDE Tv Live",
+      "HD SERVER",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "PREMIER SPORTS",
-        "logo": ""
+        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
       },
       {
         "title": "beIN ENGLISH",
+        "logo": ""
+      },
+      {
+        "title": "FANCODE - FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
+        "title": "ESPN ENGLISH HD",
+        "logo": ""
+      },
+      {
+        "title": "ESPN DEPORTES HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1977,11 +1984,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "beIN USA HD",
+      "DUDE Tv Live",
+      "SD SERVER",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
+        "title": "beIN USA HD",
+        "logo": ""
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -2282,34 +2304,6 @@
       },
       {
         "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50114,
-    "title": "PSV Eindhoven vs Groningen",
-    "image": "o",
-    "cat": "Eredivisie",
-    "eventInfo": {
-      "teamA": "PSV",
-      "teamB": "Groningen",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2952/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2951/image",
-      "eventName": "PSV Eindhoven vs Groningen",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/23 12:30:00 +0000",
-      "endTime": "2026/08/23 14:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportDigital Fussball"
-    ],
-    "formatsNew": [
-      {
-        "title": "SportDigital Fussball",
         "logo": ""
       }
     ]
