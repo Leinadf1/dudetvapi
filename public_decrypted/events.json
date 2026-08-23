@@ -2353,11 +2353,31 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH"
+      "PARAMOUNT+ FHD",
+      "beIN ENGLISH FHD",
+      "CBS NETWORK",
+      "SKY FOOTBALL HD",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "beIN ENGLISH",
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
+        "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "CBS NETWORK",
+        "logo": ""
+      },
+      {
+        "title": "SKY FOOTBALL HD",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
