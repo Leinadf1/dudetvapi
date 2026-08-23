@@ -633,144 +633,6 @@
     "channel_status": "live"
   },
   {
-    "id": 50007,
-    "title": "Australia vs Bangladesh",
-    "image": "o",
-    "cat": "Cricket",
-    "eventInfo": {
-      "teamA": "AUS",
-      "teamB": "BAN",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187746/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187744/image",
-      "eventName": "Australia vs Bangladesh",
-      "eventType": "null",
-      "isHot": "1",
-      "startTime": "2026/08/23 00:00:00 +0000",
-      "endTime": "2026/08/23 07:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "WILLOW - FHD",
-      "TAPMAD - FHD",
-      "WILLOW - ALT",
-      "TEN SPORTS HD",
-      "LOW SERVER",
-      "SKY SPORTS [FHD]",
-      "SPX LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "WILLOW - FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "TAPMAD - FHD",
-        "logo": ""
-      },
-      {
-        "title": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "TEN SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SKY SPORTS [FHD]",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
-      },
-      {
-        "title": "SPX LIVE [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "f3b91297bf1b32f957b9ad9df063cccf:1dffa592b7bbeeda714ac1ba3b70f04b",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wm7nvzuo81/out/v1/4be515e8c9c3450c9d73b2d2d8c25d46/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW - FHD",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://www.tapmad.com/&Origin=https://www.tapmad.com",
-        "logo": "",
-        "title": "TAPMAD - FHD",
-        "type": "0"
-      },
-      {
-        "api": "f3b91297bf1b32f957b9ad9df063cccf:1dffa592b7bbeeda714ac1ba3b70f04b",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wm7nvzuo81/out/v1/4be515e8c9c3450c9d73b2d2d8c25d46/cenc.mpd",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW - ALT",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809396.m3u8",
-        "logo": "",
-        "title": "TEN SPORTS HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.192/hls/DIIID.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "LOW SERVER",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://cdx-08192.website/embed/skysport4-nz",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
-        "title": "SKY SPORTS [FHD]",
-        "type": "2"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/cricket/2026-08-15/aus-bgd",
-        "logo": "",
-        "title": "SPX LIVE [FHD]",
-        "type": "2"
-      },
-      {
-        "api": "MDY1MDUxYjk5YmY1Y2Y4ZDlhM2JkZTVjYmRlNmFhZjk6MjE0YmQxNzY4MzI4NzIzMzljZTF3NDMzCDMyMGY5YTI=",
-        "link": "https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/h35gev6jft/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-        "title": "FANCODE FHD",
-        "type": "1"
-      },
-      {
-        "api": "NzA5YzgxMmUxYjQxNzQwMDI2MDVkZjFkMTdkMzRhNGM6MGJiZWU2YzljMjBhMGYwNjViZjhyNjlkBTRjYmY4M2U=",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-        "title": "FANCODE SD",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://in-mc-fblive.fancode.com/mumbai/143402_english_hls_f613f0001e43912_1ta-di_h264/index.m3u8",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-        "title": "FANCODE - IN",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/zimbabwe_vs_bangladesh_143404_english.m3u8",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-        "title": "FANCODE - BD",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
     "id": 50008,
     "title": "Sri Lanka vs India",
     "image": "o",
@@ -931,8 +793,8 @@
       "eventType": "null",
       "eventBanner": "https://iili.io/BihxDjj.png",
       "isHot": "0",
-      "startTime": "2026/08/21 12:30:00 +0000",
-      "endTime": "2026/08/21 16:30:00 +0000"
+      "startTime": "2026/08/28 12:30:00 +0000",
+      "endTime": "2026/08/28 16:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1399,75 +1261,6 @@
         "link": "https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd",
         "title": "EUROSPORT2 FHD",
         "type": "1"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50023,
-    "title": "rolly vs teofimo",
-    "image": "o",
-    "cat": "Boxing",
-    "eventInfo": {
-      "teamA": "Rolando Romero",
-      "teamB": "Teofimo Lopez",
-      "teamAFlag": "https://www.premierboxingchampions.com/sites/default/files/styles/responsive_960_x_1706/public/FullBody_Rolly2.jpg",
-      "teamBFlag": "https://www.premierboxingchampions.com/sites/default/files/styles/responsive_960_x_1706/public/FullBody_Teofimo.jpg",
-      "eventName": "Rolando Romero vs Teofimo Lopez",
-      "eventType": "null",
-      "eventBanner": "https://wsrv.nl/?url=https://iili.io/CZbRjFn.png",
-      "isHot": "0",
-      "startTime": "2026/08/22 23:00:00 +0000",
-      "endTime": "2026/08/23 05:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "SERVER 2 HD",
-      "SPX LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SERVER 2 HD",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/55009/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/55067/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "SERVER 2 HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/rolly-vs-teofimo",
-        "logo": "",
-        "title": "SPX LIVE [FHD]",
-        "type": "2"
-      },
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/53519/load-playlist?|Referer=https://gooz.aapmains.net",
-        "title": "DUDE Tv WWE",
-        "type": "0"
       }
     ],
     "channel_status": "live"
@@ -2956,44 +2749,6 @@
         "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
         "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "title": "D Sports FHD",
-        "type": "1"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50091,
-    "title": "Earthquakes vs Minnesota United",
-    "image": "o",
-    "cat": "MLS 🇺🇸",
-    "eventInfo": {
-      "teamA": "San Jose",
-      "teamB": "Minnesota",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/21825/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/41618/image",
-      "eventName": "SJ Earthquakes vs Minnesota United",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/23 02:30:00 +0000",
-      "endTime": "2026/08/23 04:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "TSN SPORTS"
-    ],
-    "formatsNew": [
-      {
-        "title": "TSN SPORTS",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "TSN SPORTS",
         "type": "1"
       }
     ],

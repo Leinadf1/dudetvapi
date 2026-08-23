@@ -299,64 +299,6 @@
     ]
   },
   {
-    "id": 50007,
-    "title": "Australia vs Bangladesh",
-    "image": "o",
-    "cat": "Cricket",
-    "eventInfo": {
-      "teamA": "AUS",
-      "teamB": "BAN",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187746/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187744/image",
-      "eventName": "Australia vs Bangladesh",
-      "eventType": "null",
-      "isHot": "1",
-      "startTime": "2026/08/23 00:00:00 +0000",
-      "endTime": "2026/08/23 07:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "WILLOW - FHD",
-      "TAPMAD - FHD",
-      "WILLOW - ALT",
-      "TEN SPORTS HD",
-      "LOW SERVER",
-      "SKY SPORTS [FHD]",
-      "SPX LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "WILLOW - FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "TAPMAD - FHD",
-        "logo": ""
-      },
-      {
-        "title": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "TEN SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SKY SPORTS [FHD]",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
-      },
-      {
-        "title": "SPX LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50008,
     "title": "Sri Lanka vs India",
     "image": "o",
@@ -444,8 +386,8 @@
       "eventType": "null",
       "eventBanner": "https://iili.io/BihxDjj.png",
       "isHot": "0",
-      "startTime": "2026/08/21 12:30:00 +0000",
-      "endTime": "2026/08/21 16:30:00 +0000"
+      "startTime": "2026/08/28 12:30:00 +0000",
+      "endTime": "2026/08/28 16:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -689,45 +631,6 @@
       },
       {
         "title": "Toronto (WTA)",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50023,
-    "title": "rolly vs teofimo",
-    "image": "o",
-    "cat": "Boxing",
-    "eventInfo": {
-      "teamA": "Rolando Romero",
-      "teamB": "Teofimo Lopez",
-      "teamAFlag": "https://www.premierboxingchampions.com/sites/default/files/styles/responsive_960_x_1706/public/FullBody_Rolly2.jpg",
-      "teamBFlag": "https://www.premierboxingchampions.com/sites/default/files/styles/responsive_960_x_1706/public/FullBody_Teofimo.jpg",
-      "eventName": "Rolando Romero vs Teofimo Lopez",
-      "eventType": "null",
-      "eventBanner": "https://wsrv.nl/?url=https://iili.io/CZbRjFn.png",
-      "isHot": "0",
-      "startTime": "2026/08/22 23:00:00 +0000",
-      "endTime": "2026/08/23 05:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "SERVER 2 HD",
-      "SPX LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SERVER 2 HD",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1669,34 +1572,6 @@
       },
       {
         "title": "D Sports FHD",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50091,
-    "title": "Earthquakes vs Minnesota United",
-    "image": "o",
-    "cat": "MLS 🇺🇸",
-    "eventInfo": {
-      "teamA": "San Jose",
-      "teamB": "Minnesota",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/21825/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/41618/image",
-      "eventName": "SJ Earthquakes vs Minnesota United",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/23 02:30:00 +0000",
-      "endTime": "2026/08/23 04:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "TSN SPORTS"
-    ],
-    "formatsNew": [
-      {
-        "title": "TSN SPORTS",
         "logo": ""
       }
     ]
