@@ -12,7 +12,7 @@
       "eventName": "Formula 1 - Dutch Grand Prix",
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://iili.io/CUsqBs4.png",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/08/23 13:00:00 +0000",
       "endTime": "2026/08/23 15:30:00 +0000"
     },
@@ -1579,14 +1579,20 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "FUBO SPORTS",
       "USA TV HD",
       "HD SERVER",
       "DUDE Tv Live",
+      "SD SERVER",
       "SKY PREM [FHD]",
       "USA NETWORK [FHD]",
       "TELEMUNDO [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "FUBO SPORTS",
+        "logo": ""
+      },
       {
         "title": "USA TV HD",
         "logo": ""
@@ -1597,6 +1603,10 @@
       },
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       },
       {
@@ -1657,64 +1667,6 @@
       },
       {
         "title": "SPX LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50094,
-    "title": "Manchester City vs Bournemouth",
-    "image": "o",
-    "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Man City",
-      "teamB": "Bournemouth",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/17/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/60/image",
-      "eventName": "Manchester City vs Bournemouth",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/23 13:00:00 +0000",
-      "endTime": "2026/08/23 15:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "FUBO SPORTS",
-      "USA TV HD",
-      "Cazetv TV - FHD",
-      "SKY SPORT HD",
-      "MAIN EVENT",
-      "DUDE Tv Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "FUBO SPORTS",
-        "logo": ""
-      },
-      {
-        "title": "USA TV HD",
-        "logo": ""
-      },
-      {
-        "title": "Cazetv TV - FHD",
-        "logo": ""
-      },
-      {
-        "title": "SKY SPORT HD",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
-      },
-      {
-        "title": "MAIN EVENT",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -2060,11 +2012,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -2088,64 +2045,8 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50107,
-    "title": "Krieschow vs Mainz 05",
-    "image": "o",
-    "cat": "DFB Pokal",
-    "eventInfo": {
-      "teamA": "1921 Krieschow",
-      "teamB": "Mainz 05",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/258720/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2556/image",
-      "eventName": "Krieschow vs Mainz 05",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/23 13:30:00 +0000",
-      "endTime": "2026/08/23 15:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50108,
-    "title": "Schott Mainz vs M'gladbach",
-    "image": "o",
-    "cat": "DFB Pokal",
-    "eventInfo": {
-      "teamA": "Schott Mainz",
-      "teamB": "M'gladbach",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/162354/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2527/image",
-      "eventName": "Schott Mainz vs M'gladbach",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/23 13:30:00 +0000",
-      "endTime": "2026/08/23 15:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
       "DUDE Tv Live",
-      "LOW SERVER"
+      "SD SERVER"
     ],
     "formatsNew": [
       {
@@ -2153,40 +2054,7 @@
         "logo": ""
       },
       {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50109,
-    "title": "Braunschweig vs Union Berlin",
-    "image": "o",
-    "cat": "DFB Pokal",
-    "eventInfo": {
-      "teamA": "Braunschweig",
-      "teamB": "Union Berlin",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2557/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2547/image",
-      "eventName": "Eintracht Braunschweig vs Union Berlin",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/23 13:30:00 +0000",
-      "endTime": "2026/08/23 15:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -2383,11 +2251,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "beIN SPORTS SD",
+      "beIN XTRA",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "beIN SPORTS SD",
+        "logo": ""
+      },
+      {
+        "title": "beIN XTRA",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -2411,11 +2294,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "SD SERVER",
+      "beIN SPORTS"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "beIN SPORTS",
         "logo": ""
       }
     ]
