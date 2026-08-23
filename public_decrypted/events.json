@@ -466,8 +466,8 @@
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://iili.io/CUvi3T7.png",
       "isHot": "0",
-      "startTime": "2026/08/22 17:30:00 +0000",
-      "endTime": "2026/08/23 03:00:00 +0000"
+      "startTime": "2026/08/23 18:00:00 +0000",
+      "endTime": "2026/08/24 04:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -925,153 +925,72 @@
     ]
   },
   {
-    "id": 50075,
-    "title": "Orioles vs Tampa Bay Rays",
+    "id": 50073,
+    "title": "San Luis vs Pachuca",
     "image": "o",
-    "cat": "MLB",
+    "cat": "Liga MX",
     "eventInfo": {
-      "teamA": "Orioles",
-      "teamB": "Rays",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3652/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3653/image",
-      "eventName": "Baltimore Orioles vs Tampa Bay Rays",
+      "teamA": "San Luis",
+      "teamB": "Pachuca",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1950/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1936/image",
+      "eventName": "Atlético San Luis vs Pachuca",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/23 17:35:00 +0000",
-      "endTime": "2026/08/23 20:35:00 +0000"
+      "startTime": "2026/08/23 23:00:00 +0000",
+      "endTime": "2026/08/24 01:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv MLB",
-      "DUDE Tv Live",
-      "MLB LIVE [FHD]"
+      "ViX MUNDIAL",
+      "Liga MX [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv MLB",
+        "title": "ViX MUNDIAL",
         "logo": ""
       },
       {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "MLB LIVE [FHD]",
+        "title": "Liga MX [FHD]",
         "logo": ""
       }
     ]
   },
   {
-    "id": 50076,
-    "title": "Yankees vs Blue Jays",
+    "id": 50074,
+    "title": "Pumas UNAM vs Club Necaxa",
     "image": "o",
-    "cat": "MLB",
+    "cat": "Liga MX",
     "eventInfo": {
-      "teamA": "Yankees",
-      "teamB": "Blue Jays",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3654/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3642/image",
-      "eventName": "New York Yankees vs Toronto Blue Jays",
+      "teamA": "Pumas",
+      "teamB": "Necaxa",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1933/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1944/image",
+      "eventName": "Pumas UNAM vs Club Necaxa",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/23 17:35:00 +0000",
-      "endTime": "2026/08/23 20:35:00 +0000"
+      "startTime": "2026/08/24 01:00:00 +0000",
+      "endTime": "2026/08/24 03:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv MLB",
-      "DUDE Tv Live",
-      "MLB LIVE [FHD]"
+      "CANAL5 FHD",
+      "ViX MUNDIAL",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv MLB",
+        "title": "CANAL5 FHD",
         "logo": ""
       },
       {
-        "title": "DUDE Tv Live",
+        "title": "ViX MUNDIAL",
         "logo": ""
       },
       {
-        "title": "MLB LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50077,
-    "title": "Philadelphia Phillies vs Cardinals",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Phillies",
-      "teamB": "Cardinals",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3635/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3632/image",
-      "eventName": "Philadelphia Phillies vs St. Louis Cardinals",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/23 17:35:00 +0000",
-      "endTime": "2026/08/23 20:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv MLB",
-      "DUDE Tv Live",
-      "MLB LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "MLB LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50078,
-    "title": "Miami Marlins vs Nationals",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Marlins",
-      "teamB": "Nationals",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3639/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/5930/image",
-      "eventName": "Miami Marlins vs Washington Nationals",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/23 17:40:00 +0000",
-      "endTime": "2026/08/23 20:40:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv MLB",
-      "DUDE Tv Live",
-      "MLB LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "MLB LIVE [FHD]",
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1432,69 +1351,6 @@
     ]
   },
   {
-    "id": 50092,
-    "title": "Newcastle United vs Liverpool",
-    "image": "o",
-    "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Newcastle",
-      "teamB": "Liverpool",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/39/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/44/image",
-      "eventName": "Newcastle United vs Liverpool FC",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/23 15:30:00 +0000",
-      "endTime": "2026/08/23 17:40:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "FUBO SPORTS",
-      "USA TV HD",
-      "HD SERVER",
-      "DUDE Tv Live",
-      "SD SERVER",
-      "SKY PREM [FHD]",
-      "USA NETWORK [FHD]",
-      "TELEMUNDO [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "FUBO SPORTS",
-        "logo": ""
-      },
-      {
-        "title": "USA TV HD",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SKY PREM [FHD]",
-        "logo": ""
-      },
-      {
-        "title": "USA NETWORK [FHD]",
-        "logo": ""
-      },
-      {
-        "title": "TELEMUNDO [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50093,
     "title": "Elche vs FC Barcelona",
     "image": "o",
@@ -1506,7 +1362,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2817/image",
       "eventName": "Elche vs FC Barcelona",
       "eventType": "null",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/08/23 19:30:00 +0000",
       "endTime": "2026/08/23 21:40:00 +0000"
     },
@@ -1612,7 +1468,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2692/image",
       "eventName": "Torino vs AC Milan",
       "eventType": "null",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/08/23 18:45:00 +0000",
       "endTime": "2026/08/23 20:50:00 +0000"
     },
@@ -1728,7 +1584,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/1644/image",
       "eventName": "Stade Rennais vs PSG",
       "eventType": "null",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/08/23 18:45:00 +0000",
       "endTime": "2026/08/23 20:50:00 +0000"
     },
@@ -1793,39 +1649,6 @@
     "formatsNew": [
       {
         "title": "D Sports FHD",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50111,
-    "title": "Santa Clara vs Famalicão",
-    "image": "o",
-    "cat": "Liga Portugal",
-    "eventInfo": {
-      "teamA": "Santa Clara",
-      "teamB": "Famalicão",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3011/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/49531/image",
-      "eventName": "Santa Clara vs Famalicão",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/23 17:00:00 +0000",
-      "endTime": "2026/08/23 19:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportDigital Fussball",
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "SportDigital Fussball",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
@@ -1916,34 +1739,6 @@
       "isHot": "0",
       "startTime": "2026/08/23 19:30:00 +0000",
       "endTime": "2026/08/23 21:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "Laliga Hypermotion ES"
-    ],
-    "formatsNew": [
-      {
-        "title": "Laliga Hypermotion ES",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50122,
-    "title": "Sporting Gijón vs Burgos",
-    "image": "o",
-    "cat": "LaLiga 2",
-    "eventInfo": {
-      "teamA": "Sporting",
-      "teamB": "Burgos",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2852/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2854/image",
-      "eventName": "Sporting Gijón vs Burgos",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/23 17:00:00 +0000",
-      "endTime": "2026/08/23 19:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
