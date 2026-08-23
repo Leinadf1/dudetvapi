@@ -2985,7 +2985,7 @@
       },
       {
         "api": "",
-        "link": "https://live.vivo200.com/live/hd-en-1-4558470.m3u8?txSecret=6c7c0e0a6b23a2b8c025db04995b703e&txTime=6A8AFF65|Referer=https://player.online909.com/",
+        "link": "https://live.vivo200.com/live/hd-en-1-4558470.m3u8?txSecret=c3d44bd02c38360e4d197c5a8256a0f6&txTime=6A8B1285|Referer=https://player.online909.com/",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
@@ -3064,7 +3064,7 @@
       },
       {
         "api": "",
-        "link": "https://live.vivo200.com/live/hd-en-1-4558465.m3u8?txSecret=373e2f60b5bbc70cbc8d8f495436693e&txTime=6A8AFF2F|Referer=https://player.online909.com/",
+        "link": "https://live.vivo200.com/live/hd-en-1-4558465.m3u8?txSecret=dcd9de7886212b3b881bd019aacf4d2c&txTime=6A8B12BA|Referer=https://player.online909.com/",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
@@ -3523,7 +3523,7 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://live.vivo200.com/live/hd-en-1-4550842.m3u8?txSecret=83bb4ec50a259c52532b6a79a5ffb7d4&txTime=6A8AFF7E|Referer=https://player.online909.com/",
+        "link": "https://live.vivo200.com/live/hd-en-1-4550842.m3u8?txSecret=b4b3d819f4a5abe4f9cd3db4b555ac9f&txTime=6A8B12DE|Referer=https://player.online909.com/",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
@@ -3734,11 +3734,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ],
@@ -3779,11 +3784,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ],
@@ -3914,7 +3924,7 @@
         "type": "0"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
     "id": 50113,
@@ -3935,11 +3945,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SportDigital Fussball"
+      "SportDigital Fussball",
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
         "title": "SportDigital Fussball",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ],
@@ -3947,8 +3962,16 @@
       {
         "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
         "title": "SportDigital Fussball",
         "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://live.vivo200.com/live/sd-1-4552171.m3u8?txSecret=ef18d2ae2ca98e8de4d2bb9ae7c74027&txTime=6A8B1418|Referer=https://player.online909.com/",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
       }
     ],
     "channel_status": "live"
@@ -3986,56 +4009,6 @@
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "title": "SportDigital Fussball",
         "type": "1"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50115,
-    "title": "GA Eagles vs ADO",
-    "image": "o",
-    "cat": "Eredivisie",
-    "eventInfo": {
-      "teamA": "GA Eagles",
-      "teamB": "ADO",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2979/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2966/image",
-      "eventName": "GA Eagles vs ADO",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/23 10:15:00 +0000",
-      "endTime": "2026/08/23 12:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://live.vivo200.com/live/sd-1-4552169.m3u8?txSecret=3914ec8390b671d58ffaf5a2f4082187&txTime=6A8ADDCB|Referer=https://player.online909.com/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.41/hls/TGGGAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "SD SERVER",
-        "type": "0"
       }
     ],
     "channel_status": "live"
@@ -4184,92 +4157,6 @@
         "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
         "title": "DUDE Tv Live",
         "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50120,
-    "title": "West Bromwich vs Burnley",
-    "image": "o",
-    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "West Brom",
-      "teamB": "Burnley",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/8/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/6/image",
-      "eventName": "West Bromwich vs Burnley",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/23 11:00:00 +0000",
-      "endTime": "2026/08/23 13:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PARAMOUNT+ FHD",
-      "beIN ENGLISH FHD",
-      "CBS NETWORK",
-      "SKY FOOTBALL HD",
-      "SPX LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "PARAMOUNT+ FHD",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "beIN ENGLISH FHD",
-        "logo": ""
-      },
-      {
-        "title": "CBS NETWORK",
-        "logo": ""
-      },
-      {
-        "title": "SKY FOOTBALL HD",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "f74676b3a4640f372623d32572eee531:3e3c9681e63d87689e43a94f6cdda8dd",
-        "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/5s0mncfvuz/out/v1/b218415c76674e66bde28288724015f3/e46a8c3e-4ac7-482a-9da8-d987844f1a94-cenc.mpd?aws_sessionId=71ced78d-6654-49d0-957b-276be5002134|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
-        "title": "PARAMOUNT+ FHD",
-        "type": "1"
-      },
-      {
-        "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "beIN ENGLISH FHD",
-        "type": "1"
-      },
-      {
-        "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "CBS NETWORK",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/55058/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "SKY FOOTBALL HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://embedindia.st/embed/efl-championship/2026-08-23/wba-bur",
-        "logo": "",
-        "title": "SPX LIVE [FHD]",
-        "type": "2"
       }
     ],
     "channel_status": "live"
