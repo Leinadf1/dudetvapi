@@ -1799,7 +1799,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/38/image",
       "eventName": "Fulham vs Chelsea",
       "eventType": "null",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/08/24 19:00:00 +0000",
       "endTime": "2026/08/24 21:05:00 +0000"
     },
@@ -1810,6 +1810,7 @@
       "USA NETWORK HD",
       "beIN Sports HD",
       "SKY SPORT EPL HD",
+      "USA TV HD",
       "HD SERVER",
       "LOW SERVER",
       "SKY PREM [FHD]",
@@ -1831,6 +1832,10 @@
       {
         "title": "SKY SPORT EPL HD",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
+      },
+      {
+        "title": "USA TV HD",
+        "logo": ""
       },
       {
         "title": "HD SERVER",
@@ -1876,6 +1881,13 @@
         "link": "https://tmaxapp.site/8wirwjs76erftg/skysportspl.m3u8",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph",
         "title": "SKY SPORT EPL HD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://1nyaler.streamhostingcdn.top/stream/68/index.m3u8",
+        "logo": "",
+        "title": "USA TV HD",
         "type": "0"
       },
       {
@@ -2093,7 +2105,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2693/image",
       "eventName": "AS Roma vs Fiorentina",
       "eventType": "null",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/08/24 18:45:00 +0000",
       "endTime": "2026/08/24 20:50:00 +0000"
     },
@@ -2105,6 +2117,7 @@
       "FUBO SPORTS",
       "CBS NETWORK",
       "CBS SPORTS HD",
+      "DAZN SPORTS HD",
       "SPORT TV HD",
       "HD SERVER",
       "LOW SERVER"
@@ -2129,6 +2142,10 @@
       {
         "title": "CBS SPORTS HD",
         "logo": "https://iili.io/BtCdabj.png"
+      },
+      {
+        "title": "DAZN SPORTS HD",
+        "logo": ""
       },
       {
         "title": "SPORT TV HD",
@@ -2468,7 +2485,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2530/image",
       "eventName": "Hallescher FC vs FC Schalke 04",
       "eventType": "null",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/08/24 18:45:00 +0000",
       "endTime": "2026/08/24 20:45:00 +0000"
     },
@@ -2505,118 +2522,6 @@
       }
     ],
     "channel_status": "live"
-  },
-  {
-    "id": 50101,
-    "title": "Würzburger Kickers vs Köln",
-    "image": "o",
-    "cat": "DFB Pokal",
-    "eventInfo": {
-      "teamA": "Würzburger Kickers",
-      "teamB": "Köln",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/23947/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2671/image",
-      "eventName": "Würzburger Kickers vs Köln",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/24 16:00:00 +0000",
-      "endTime": "2026/08/24 18:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "cached"
-  },
-  {
-    "id": 50102,
-    "title": "Verl vs Hamburger SV",
-    "image": "o",
-    "cat": "DFB Pokal",
-    "eventInfo": {
-      "teamA": "Verl",
-      "teamB": "HSV",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2593/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2676/image",
-      "eventName": "Verl vs Hamburger SV",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/24 16:00:00 +0000",
-      "endTime": "2026/08/24 18:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "http://193.47.62.41/hls/EBBBAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50103,
-    "title": "Altglienicke vs Wolfsburg",
-    "image": "o",
-    "cat": "DFB Pokal",
-    "eventInfo": {
-      "teamA": "Altglienicke",
-      "teamB": "Wolfsburg",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/74483/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2524/image",
-      "eventName": "VSG Altglienicke vs Wolfsburg",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/24 16:00:00 +0000",
-      "endTime": "2026/08/24 18:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "",
-        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
-        "title": "DUDE Tv Live",
-        "type": "0"
-      }
-    ],
-    "channel_status": "cached"
   },
   {
     "id": 50104,
