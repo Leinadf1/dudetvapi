@@ -1159,16 +1159,41 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PARAMOUNT [EN/IT]",
       "beIN ENGLISH",
-      "FUBO SPORTS"
+      "FUBO SPORTS",
+      "CBS NETWORK HD",
+      "HD SERVER",
+      "LOW SERVER",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "PARAMOUNT [EN/IT]",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
       {
         "title": "beIN ENGLISH",
         "logo": ""
       },
       {
         "title": "FUBO SPORTS",
+        "logo": ""
+      },
+      {
+        "title": "CBS NETWORK HD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
