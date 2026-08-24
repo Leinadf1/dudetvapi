@@ -1138,7 +1138,8 @@
     "formats": [
       "beIN ENGLISH",
       "FUBO SPORTS",
-      "CBS NETWORK"
+      "CBS NETWORK",
+      "SPORT TV HD"
     ],
     "formatsNew": [
       {
@@ -1151,6 +1152,10 @@
       },
       {
         "title": "CBS NETWORK",
+        "logo": ""
+      },
+      {
+        "title": "SPORT TV HD",
         "logo": ""
       }
     ]
