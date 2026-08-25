@@ -1555,6 +1555,7 @@
     "formats": [
       "FOX SPORTS FHD",
       "FOX DEPORTES",
+      "DUDE Tv Live",
       "SD SERVER"
     ],
     "formatsNew": [
@@ -1564,6 +1565,10 @@
       },
       {
         "title": "FOX DEPORTES",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       },
       {
@@ -1619,9 +1624,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv Live",
       "SD SERVER"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
       {
         "title": "SD SERVER",
         "logo": ""
@@ -1648,7 +1658,9 @@
     "publish": "1",
     "formats": [
       "TNT SPORTS FHD",
-      "TNT2 SPORTS FHD"
+      "TNT2 SPORTS FHD",
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
@@ -1657,6 +1669,14 @@
       },
       {
         "title": "TNT2 SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
