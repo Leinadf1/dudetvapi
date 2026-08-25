@@ -366,7 +366,7 @@
       "eventName": "Sri Lanka vs India",
       "eventType": "null",
       "eventBanner": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/08/25 04:30:00 +0000",
       "endTime": "2026/08/25 12:00:00 +0000"
     },
@@ -376,6 +376,7 @@
       "WILLOW - FHD",
       "TNT SPORTS",
       "WILLOW - ALT",
+      "TAPMAD - FHD",
       "TEN SPORTS HD",
       "SonyLiv - English",
       "SonyLiv - Hindi",
@@ -396,6 +397,10 @@
       {
         "title": "WILLOW - ALT",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "TAPMAD - FHD",
+        "logo": ""
       },
       {
         "title": "TEN SPORTS HD",
@@ -428,8 +433,8 @@
     ],
     "decoded_channels": [
       {
-        "api": "6f56f327399f2a6f58a875c57fee77f6:a8ba4ecc2bf32075e4d5509b8abc6c12",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uouwsfqlxw/out/v1/4b5eadb9eb274d2b917f870bb1ce9375/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "api": "3448cef71b3ff74e7ccf1ceb639320cb:e096d49c986fe62f713fcb489bbf8d91",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qc3g1qukb/out/v1/0c2c7c41bdd54fcc9cc086a83b28e5f5/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW - FHD",
         "type": "1"
@@ -442,11 +447,18 @@
         "type": "1"
       },
       {
-        "api": "6f56f327399f2a6f58a875c57fee77f6:a8ba4ecc2bf32075e4d5509b8abc6c12",
-        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/uouwsfqlxw/out/v1/4b5eadb9eb274d2b917f870bb1ce9375/cenc.mpd",
+        "api": "3448cef71b3ff74e7ccf1ceb639320cb:e096d49c986fe62f713fcb489bbf8d91",
+        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5qc3g1qukb/out/v1/0c2c7c41bdd54fcc9cc086a83b28e5f5/cenc.mpd",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW - ALT",
         "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://www.tapmad.com/",
+        "logo": "",
+        "title": "TAPMAD - FHD",
+        "type": "0"
       },
       {
         "api": "",
