@@ -1554,7 +1554,8 @@
     "publish": "1",
     "formats": [
       "FOX SPORTS FHD",
-      "FOX DEPORTES"
+      "FOX DEPORTES",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
@@ -1563,6 +1564,10 @@
       },
       {
         "title": "FOX DEPORTES",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1614,11 +1619,11 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "SD SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
