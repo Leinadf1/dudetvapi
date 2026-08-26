@@ -1332,5 +1332,99 @@
         "logo": ""
       }
     ]
+  },
+  {
+    "id": 50099,
+    "title": "Al Diriyah vs Al-Kholood",
+    "image": "o",
+    "cat": "Pro League 🇸🇦",
+    "eventInfo": {
+      "teamA": "Al Diriyah",
+      "teamB": "Al-Kholood",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/853574/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/269199/image",
+      "eventName": "Al Diriyah vs Al-Kholood",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/26 18:00:00 +0000",
+      "endTime": "2026/08/26 20:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50100,
+    "title": "Al Faisaly vs Al-Fateh",
+    "image": "o",
+    "cat": "Pro League 🇸🇦",
+    "eventInfo": {
+      "teamA": "Al Faisaly",
+      "teamB": "Al-Fateh",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/56035/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/56023/image",
+      "eventName": "Al Faisaly vs Al-Fateh",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/26 16:00:00 +0000",
+      "endTime": "2026/08/26 18:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SD SERVER",
+      "Thmanyah HD"
+    ],
+    "formatsNew": [
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "Thmanyah HD",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50101,
+    "title": "Rapid Wien vs Hearts",
+    "image": "o",
+    "cat": "UEFA Conference",
+    "eventInfo": {
+      "teamA": "Rapid",
+      "teamB": "Hearts",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2055/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2353/image",
+      "eventName": "Rapid Wien vs Heart of Midlothian",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/26 16:45:00 +0000",
+      "endTime": "2026/08/26 18:50:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "SD SERVER",
+      "SPX LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
+        "logo": ""
+      }
+    ]
   }
 ]
