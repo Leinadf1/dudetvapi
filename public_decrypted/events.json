@@ -190,16 +190,17 @@
     "publish": "1",
     "formats": [
       "WILLOW - FHD",
-      "TNT SPORTS",
+      "TNT SPORTS - FHD",
       "WILLOW - ALT",
       "TAPMAD - FHD",
+      "FOX CRICKET HD",
       "TEN SPORTS HD",
-      "SonyLiv - English",
-      "SonyLiv - Hindi",
-      "SonyLiv - Telugu",
-      "SonyLiv - Tamil",
-      "SonyLiv - Kannada",
-      "LOW SERVER "
+      "SonyLiv [ENG]",
+      "SonyLiv [Hindi]",
+      "SonyLiv [Telugu]",
+      "SonyLiv [Tamil]",
+      "SonyLiv [Kannada]",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
@@ -207,7 +208,7 @@
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       },
       {
-        "title": "TNT SPORTS",
+        "title": "TNT SPORTS - FHD",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
       },
       {
@@ -219,31 +220,35 @@
         "logo": ""
       },
       {
+        "title": "FOX CRICKET HD",
+        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj"
+      },
+      {
         "title": "TEN SPORTS HD",
         "logo": ""
       },
       {
-        "title": "SonyLiv - English",
+        "title": "SonyLiv [ENG]",
         "logo": ""
       },
       {
-        "title": "SonyLiv - Hindi",
+        "title": "SonyLiv [Hindi]",
         "logo": ""
       },
       {
-        "title": "SonyLiv - Telugu",
+        "title": "SonyLiv [Telugu]",
         "logo": ""
       },
       {
-        "title": "SonyLiv - Tamil",
+        "title": "SonyLiv [Tamil]",
         "logo": ""
       },
       {
-        "title": "SonyLiv - Kannada",
+        "title": "SonyLiv [Kannada]",
         "logo": ""
       },
       {
-        "title": "LOW SERVER ",
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1242,34 +1247,6 @@
       },
       {
         "title": "TAPMAD FHD",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50088,
-    "title": "Independiente vs Deportes",
-    "image": "o",
-    "cat": "CON. Libertadores",
-    "eventInfo": {
-      "teamA": "Ind. del Valle",
-      "teamB": "Tolima",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/39723/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/6111/image",
-      "eventName": "Independiente vs Deportes Tolima",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/26 00:30:00 +0000",
-      "endTime": "2026/08/26 02:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN ENGLISH FHD"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN ENGLISH FHD",
         "logo": ""
       }
     ]
