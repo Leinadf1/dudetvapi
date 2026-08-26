@@ -1673,10 +1673,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1689,20 +1694,27 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream5.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://chatgpt.hereisman.net/playlist/55248/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv MLB",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://edgestream7.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-08-25/bos-mia",
+        "link": "https://embedindia.st/embed/mlb/2026-08-26/chc-ari",
         "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50077,
@@ -2155,6 +2167,43 @@
     "channel_status": "live"
   },
   {
+    "id": 50088,
+    "title": "River Plate vs Independiente",
+    "image": "o",
+    "cat": "CON. Sudamericana",
+    "eventInfo": {
+      "teamA": "River Plate",
+      "teamB": "Santa Fe",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3211/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/6116/image",
+      "eventName": "River Plate vs Independiente Santa Fe",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/27 00:30:00 +0000",
+      "endTime": "2026/08/27 02:36:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "beIN ENGLISH FHD"
+    ],
+    "formatsNew": [
+      {
+        "title": "beIN ENGLISH FHD",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "beIN ENGLISH FHD",
+        "type": "1"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
     "id": 50089,
     "title": "Bradford City vs Burnley",
     "image": "o",
@@ -2350,7 +2399,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/47/image",
       "eventName": "Tottenham Hotspur vs Charlton Athletic",
       "eventType": "null",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/08/26 18:45:00 +0000",
       "endTime": "2026/08/26 20:50:00 +0000"
     },
@@ -2474,6 +2523,7 @@
       "TSN SPORTS HD",
       "ESPN DEPORTES HD",
       "DUDE Tv Live",
+      "beIN Arabic HD",
       "M+ LALIGA HD",
       "HD SERVER",
       "SD SERVER",
@@ -2507,6 +2557,10 @@
       },
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "beIN Arabic HD",
         "logo": ""
       },
       {
@@ -2578,6 +2632,13 @@
         "link": "https://live.vivo200.com/live/hd-en-1-4565323.m3u8?txSecret=c478b160c1d91ab97edee819a39ba39d&txTime=6A8F4642|Referer=https://player.online909.com/",
         "logo": "",
         "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://gomystream.xyz/stream/stream1/playlist.m3u8|referer=https://gomystream.xyz/",
+        "logo": "",
+        "title": "beIN Arabic HD",
         "type": "0"
       },
       {
@@ -3171,7 +3232,7 @@
     "formats": [
       "PARAMOUNT + FHD",
       "beiN ENGLISH FHD",
-      "PARAMOUNT+ HD",
+      "SKY FOOTBALL HD",
       "SKY MAIN EVENT",
       "HD SERVER",
       "LOW SERVER"
@@ -3186,7 +3247,7 @@
         "logo": ""
       },
       {
-        "title": "PARAMOUNT+ HD",
+        "title": "SKY FOOTBALL HD",
         "logo": ""
       },
       {
