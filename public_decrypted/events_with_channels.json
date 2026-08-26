@@ -230,8 +230,8 @@
       "eventName": "🥊 WWE NXT",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/26 00:00:00 +0000",
-      "endTime": "2026/08/26 02:00:00 +0000"
+      "startTime": "2026/09/02 00:00:00 +0000",
+      "endTime": "2026/09/02 02:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -367,8 +367,8 @@
       "eventType": "null",
       "eventBanner": "null",
       "isHot": "0",
-      "startTime": "2026/08/26 04:30:00 +0000",
-      "endTime": "2026/08/26 12:00:00 +0000"
+      "startTime": "2026/08/27 04:30:00 +0000",
+      "endTime": "2026/08/27 12:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -612,8 +612,8 @@
       "eventName": "🥊 WWE Monday Night RAW",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/24 23:00:00 +0000",
-      "endTime": "2026/08/25 02:00:00 +0000"
+      "startTime": "2026/08/31 23:00:00 +0000",
+      "endTime": "2026/09/01 02:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1255,6 +1255,92 @@
     "channel_status": "live"
   },
   {
+    "id": 50061,
+    "title": "ETPL",
+    "image": "o",
+    "cat": "ETPL",
+    "eventInfo": {
+      "teamA": "ETPL",
+      "teamB": "ETPL",
+      "teamAFlag": "https://upload.wikimedia.org/wikipedia/en/1/10/ETPL_Blue_Logo.png",
+      "teamBFlag": "https://upload.wikimedia.org/wikipedia/en/1/10/ETPL_Blue_Logo.png",
+      "eventName": "European T20 Premier League",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/26 13:30:00 +0000",
+      "endTime": "2026/08/26 17:15:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "TNT SPORTS FHD",
+      "WILLOW - FHD",
+      "WILLOW - ALT",
+      "TAPMAD FHD",
+      "FOX CRICKET"
+    ],
+    "formatsNew": [
+      {
+        "title": "TNT SPORTS FHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
+      {
+        "title": "WILLOW - FHD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "WILLOW - ALT",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "TAPMAD FHD",
+        "logo": ""
+      },
+      {
+        "title": "FOX CRICKET",
+        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj"
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
+        "title": "TNT SPORTS FHD",
+        "type": "1"
+      },
+      {
+        "api": "68ed4e1c2ffeb7f9133a7624d126c0b1:9772b4fed3a42a93ffb622a8e4367e1b",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/st9ogvodch/out/v1/ee8a9f8060e845f497cd83bb229a32fb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "title": "WILLOW - FHD",
+        "type": "1"
+      },
+      {
+        "api": "b219ceefaace66c8e3373c741bcc05aa:f7ca0a04d4d697f36d7444fae029c097",
+        "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/st9ogvodch/out/v1/ee8a9f8060e845f497cd83bb229a32fb/cenc.mpd",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "title": "WILLOW - ALT",
+        "type": "1"
+      },
+      {
+        "api": "",
+        "link": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://www.tapmad.com/",
+        "logo": "",
+        "title": "TAPMAD FHD",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8",
+        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj",
+        "title": "FOX CRICKET",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
     "id": 50075,
     "title": "Detroit Tigers vs Rays",
     "image": "o",
@@ -1717,8 +1803,8 @@
       "eventName": "Caribbean Premier League",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/25 23:00:00 +0000",
-      "endTime": "2026/08/26 03:00:00 +0000"
+      "startTime": "2026/08/26 23:00:00 +0000",
+      "endTime": "2026/08/27 03:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",

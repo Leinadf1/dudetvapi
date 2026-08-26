@@ -101,8 +101,8 @@
       "eventName": "🥊 WWE NXT",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/26 00:00:00 +0000",
-      "endTime": "2026/08/26 02:00:00 +0000"
+      "startTime": "2026/09/02 00:00:00 +0000",
+      "endTime": "2026/09/02 02:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -183,8 +183,8 @@
       "eventType": "null",
       "eventBanner": "null",
       "isHot": "0",
-      "startTime": "2026/08/26 04:30:00 +0000",
-      "endTime": "2026/08/26 12:00:00 +0000"
+      "startTime": "2026/08/27 04:30:00 +0000",
+      "endTime": "2026/08/27 12:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -310,8 +310,8 @@
       "eventName": "🥊 WWE Monday Night RAW",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/24 23:00:00 +0000",
-      "endTime": "2026/08/25 02:00:00 +0000"
+      "startTime": "2026/08/31 23:00:00 +0000",
+      "endTime": "2026/09/01 02:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -656,6 +656,54 @@
     ]
   },
   {
+    "id": 50061,
+    "title": "ETPL",
+    "image": "o",
+    "cat": "ETPL",
+    "eventInfo": {
+      "teamA": "ETPL",
+      "teamB": "ETPL",
+      "teamAFlag": "https://upload.wikimedia.org/wikipedia/en/1/10/ETPL_Blue_Logo.png",
+      "teamBFlag": "https://upload.wikimedia.org/wikipedia/en/1/10/ETPL_Blue_Logo.png",
+      "eventName": "European T20 Premier League",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/26 13:30:00 +0000",
+      "endTime": "2026/08/26 17:15:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "TNT SPORTS FHD",
+      "WILLOW - FHD",
+      "WILLOW - ALT",
+      "TAPMAD FHD",
+      "FOX CRICKET"
+    ],
+    "formatsNew": [
+      {
+        "title": "TNT SPORTS FHD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
+      {
+        "title": "WILLOW - FHD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "WILLOW - ALT",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "TAPMAD FHD",
+        "logo": ""
+      },
+      {
+        "title": "FOX CRICKET",
+        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj"
+      }
+    ]
+  },
+  {
     "id": 50075,
     "title": "Detroit Tigers vs Rays",
     "image": "o",
@@ -965,8 +1013,8 @@
       "eventName": "Caribbean Premier League",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/25 23:00:00 +0000",
-      "endTime": "2026/08/26 03:00:00 +0000"
+      "startTime": "2026/08/26 23:00:00 +0000",
+      "endTime": "2026/08/27 03:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
