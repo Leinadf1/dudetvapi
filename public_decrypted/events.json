@@ -13,8 +13,8 @@
       "eventType": "null",
       "eventBanner": "null",
       "isHot": "0",
-      "startTime": "2026/08/29 09:00:00 +0000",
-      "endTime": "2026/08/29 11:00:00 +0000"
+      "startTime": "2026/08/29 08:00:00 +0000",
+      "endTime": "2026/08/29 17:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -294,7 +294,6 @@
       "DUDE Tv WWE",
       "WWE LIVE FHD",
       "SPX LIVE [FHD]",
-      "USA NETWORK",
       "HD SERVER",
       "DUDE Tv TV+ HD",
       "HD QUALITY",
@@ -312,10 +311,6 @@
       },
       {
         "title": "SPX LIVE [FHD]",
-        "logo": ""
-      },
-      {
-        "title": "USA NETWORK",
         "logo": ""
       },
       {
@@ -387,8 +382,8 @@
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://iili.io/CUvi3T7.png",
       "isHot": "0",
-      "startTime": "2026/08/26 18:00:00 +0000",
-      "endTime": "2026/08/27 06:30:00 +0000"
+      "startTime": "2026/08/28 20:00:00 +0000",
+      "endTime": "2026/08/29 04:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -467,7 +462,7 @@
   },
   {
     "id": 50032,
-    "title": "Minnesota Twins vs White Sox",
+    "title": "Minnesota Twins",
     "image": "o",
     "cat": "MLB",
     "eventInfo": {
@@ -871,8 +866,8 @@
       "eventName": "European T20 Premier League",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/28 13:15:00 +0000",
-      "endTime": "2026/08/28 17:30:00 +0000"
+      "startTime": "2026/08/29 09:30:00 +0000",
+      "endTime": "2026/08/29 17:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -940,6 +935,39 @@
       "teamAFlag": "https://img.sofascore.com/api/v1/team/4392/image",
       "teamBFlag": "https://img.sofascore.com/api/v1/team/4425/image",
       "eventName": "Dallas Cowboys vs New Orleans Saints",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/29 00:00:00 +0000",
+      "endTime": "2026/08/29 03:10:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "NFL LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NFL LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50065,
+    "title": "Arizona Cardinals",
+    "image": "o",
+    "cat": "NFL",
+    "eventInfo": {
+      "teamA": "Packers",
+      "teamB": "Cardinals",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4420/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4412/image",
+      "eventName": "Green Bay Packers vs Arizona Cardinals",
       "eventType": "null",
       "isHot": "0",
       "startTime": "2026/08/29 00:00:00 +0000",
@@ -1142,10 +1170,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1322,6 +1355,39 @@
     ]
   },
   {
+    "id": 50081,
+    "title": "Atlanta Braves vs Colorado Rockies",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Braves",
+      "teamB": "Rockies",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3656/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3628/image",
+      "eventName": "Atlanta Braves vs Colorado Rockies",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/28 23:15:00 +0000",
+      "endTime": "2026/08/29 02:15:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "MLB LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "MLB LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50082,
     "title": "Yankees vs Boston Red Sox",
     "image": "o",
@@ -1433,8 +1499,8 @@
       "eventName": "Caribbean Premier League",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/27 23:00:00 +0000",
-      "endTime": "2026/08/28 03:00:00 +0000"
+      "startTime": "2026/08/28 23:00:00 +0000",
+      "endTime": "2026/08/29 03:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1446,7 +1512,7 @@
     "formatsNew": [
       {
         "title": "TNT SPORTS FHD",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+        "logo": ""
       },
       {
         "title": "TAPMAD FHD",
@@ -1454,7 +1520,106 @@
       },
       {
         "title": "WILLOW HD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50088,
+    "title": "Baltimore Ravens vs Commanders",
+    "image": "o",
+    "cat": "NFL",
+    "eventInfo": {
+      "teamA": "Ravens",
+      "teamB": "Commanders",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4413/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4432/image",
+      "eventName": "Baltimore Ravens vs Washington Commanders",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/28 22:00:00 +0000",
+      "endTime": "2026/08/29 01:10:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "NFL LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NFL LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50089,
+    "title": "Miami Dolphins vs Atlanta Falcons",
+    "image": "o",
+    "cat": "NFL",
+    "eventInfo": {
+      "teamA": "Dolphins",
+      "teamB": "Falcons",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4287/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4393/image",
+      "eventName": "Miami Dolphins vs Atlanta Falcons",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/28 23:00:00 +0000",
+      "endTime": "2026/08/29 02:10:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "NFL LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NFL LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50090,
+    "title": "Panthers vs Houston Texans",
+    "image": "o",
+    "cat": "NFL",
+    "eventInfo": {
+      "teamA": "Panthers",
+      "teamB": "Texans",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/4415/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/4324/image",
+      "eventName": "Carolina Panthers vs Houston Texans",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/28 23:00:00 +0000",
+      "endTime": "2026/08/29 02:10:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "NFL LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "NFL LIVE [FHD]",
+        "logo": ""
       }
     ]
   },
@@ -1477,11 +1642,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "PREMIER SPORTS"
+      "PREMIER SPORTS",
+      "FANCODE FHD",
+      "DUDE Tv Live",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "PREMIER SPORTS",
+        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
+      },
+      {
+        "title": "FANCODE FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1498,7 +1678,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/17/image",
       "eventName": "Crystal Palace vs Manchester City",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/08/28 19:00:00 +0000",
       "endTime": "2026/08/28 21:05:00 +0000"
     },
@@ -1506,8 +1686,16 @@
     "publish": "1",
     "formats": [
       "FUBO SPORTS",
-      "SETANTA SPORTS",
-      "SPX LIVE [FHD]"
+      "HUB PREMIER FHD",
+      "USA TV HD",
+      "SPORTSCAST - RU",
+      "DUDE Tv Live",
+      "beIN Sports HD",
+      "SKY MAIN EVENT",
+      "HD SERVER",
+      "SD SERVER",
+      "SPX LIVE [FHD]",
+      "SETANTA SPORTS"
     ],
     "formatsNew": [
       {
@@ -1515,11 +1703,43 @@
         "logo": ""
       },
       {
-        "title": "SETANTA SPORTS",
+        "title": "HUB PREMIER FHD",
+        "logo": ""
+      },
+      {
+        "title": "USA TV HD",
+        "logo": ""
+      },
+      {
+        "title": "SPORTSCAST - RU",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "beIN Sports HD",
+        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
+      },
+      {
+        "title": "SKY MAIN EVENT",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       },
       {
         "title": "SPX LIVE [FHD]",
+        "logo": ""
+      },
+      {
+        "title": "SETANTA SPORTS",
         "logo": ""
       }
     ]
@@ -1770,15 +1990,50 @@
     "publish": "1",
     "formats": [
       "PREMIER SPORTS",
-      "CAZE TV FHD"
+      "beIN ENGLISH",
+      "FANCODE - FHD",
+      "CAZE TV FHD",
+      "ESPN DEPORTES HD",
+      "DUDE Tv Live",
+      "TAPMAD - FHD",
+      "HD SERVER",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "PREMIER SPORTS",
+        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
+      },
+      {
+        "title": "beIN ENGLISH",
         "logo": ""
       },
       {
+        "title": "FANCODE - FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
         "title": "CAZE TV FHD",
+        "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
+      },
+      {
+        "title": "ESPN DEPORTES HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "TAPMAD - FHD",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1795,23 +2050,48 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2677/image",
       "eventName": "Bayern München vs VfB Stuttgart",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/08/28 18:30:00 +0000",
       "endTime": "2026/08/28 20:35:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DAZN SPORTS FHD",
       "SETANTA SPORTS",
-      "SporTV BR FHD"
+      "SporTV BR FHD",
+      "ViaPlay Sports",
+      "DUDE Tv Live",
+      "HD SERVER",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DAZN SPORTS FHD",
+        "logo": ""
+      },
       {
         "title": "SETANTA SPORTS",
         "logo": ""
       },
       {
         "title": "SporTV BR FHD",
+        "logo": ""
+      },
+      {
+        "title": "ViaPlay Sports",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1828,18 +2108,53 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2688/image",
       "eventName": "AC Milan vs Venezia",
       "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/28 18:45:00 +0000",
-      "endTime": "2026/08/28 20:50:00 +0000"
+      "isHot": "1",
+      "startTime": "2026/08/28 18:50:00 +0000",
+      "endTime": "2026/08/28 20:55:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH FHD"
+      "PARAMOUNT+ (EN/IT)",
+      "beIN ENGLISH FHD",
+      "SPORT 1 CZ",
+      "CBS SPORTS HD",
+      "DUDE Tv Live",
+      "HD SERVER",
+      "SD SERVER",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ (EN/IT)",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
         "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "SPORT 1 CZ",
+        "logo": ""
+      },
+      {
+        "title": "CBS SPORTS HD",
+        "logo": "https://iili.io/BtCdabj.png"
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "HD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1856,18 +2171,53 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/1644/image",
       "eventName": "Lille vs Paris Saint-Germain",
       "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/28 18:45:00 +0000",
-      "endTime": "2026/08/28 20:50:00 +0000"
+      "isHot": "1",
+      "startTime": "2026/08/28 19:00:00 +0000",
+      "endTime": "2026/08/28 21:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "PRIME VIDEO FHD",
+      "LIGUE1+ HD",
+      "DUDE Tv Live",
+      "beIN SPORTS HD",
+      "LIGUE1+ HD",
+      "SPORT TV HD",
+      "SD SERVER",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
+        "title": "PRIME VIDEO FHD",
+        "logo": ""
+      },
+      {
+        "title": "LIGUE1+ HD",
+        "logo": ""
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "beIN SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "LIGUE1+ HD",
+        "logo": ""
+      },
+      {
+        "title": "SPORT TV HD",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -1891,9 +2241,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "D Sports FHD",
       "SportDigital Fussball"
     ],
     "formatsNew": [
+      {
+        "title": "D Sports FHD",
+        "logo": ""
+      },
       {
         "title": "SportDigital Fussball",
         "logo": ""
@@ -1919,11 +2274,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "SD SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
         "logo": ""
       }
     ]
@@ -1975,11 +2335,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH FHD"
+      "beIN ENGLISH FHD",
+      "SKY SPORTS HD",
+      "SD SERVER",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH FHD",
+        "logo": ""
+      },
+      {
+        "title": "SKY SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -2031,11 +2406,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH"
+      "beIN ENGLISH",
+      "DUDE Tv Live",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "beIN ENGLISH",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -2059,11 +2444,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -2087,11 +2477,41 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "FOX DEPORTES"
+      "FOX DEPORTES",
+      "SportDigital Fussball",
+      "FOX SOCCER+ HD",
+      "DUDE Tv Live",
+      "THMANYAH HD",
+      "SPORT TV HD",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "FOX DEPORTES",
+        "logo": ""
+      },
+      {
+        "title": "SportDigital Fussball",
+        "logo": ""
+      },
+      {
+        "title": "FOX SOCCER+ HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "THMANYAH HD",
+        "logo": ""
+      },
+      {
+        "title": "SPORT TV HD",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -2115,166 +2535,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50115,
-    "title": "Al-Riyadh vs Neom",
-    "image": "o",
-    "cat": "Pro League 🇸🇦",
-    "eventInfo": {
-      "teamA": "Al-Riyadh",
-      "teamB": "Neom",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/168088/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/530631/image",
-      "eventName": "Al-Riyadh vs Neom SC",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/28 15:50:00 +0000",
-      "endTime": "2026/08/28 17:50:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50116,
-    "title": "Al-Fayha vs Abha",
-    "image": "o",
-    "cat": "Pro League 🇸🇦",
-    "eventInfo": {
-      "teamA": "Al-Fayha",
-      "teamB": "Abha",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/168094/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/168090/image",
-      "eventName": "Al-Fayha vs Abha",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/28 16:00:00 +0000",
-      "endTime": "2026/08/28 18:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50117,
-    "title": "Miami Dolphins vs Atlanta Falcons",
-    "image": "o",
-    "cat": "NFL",
-    "eventInfo": {
-      "teamA": "Dolphins",
-      "teamB": "Falcons",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4287/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4393/image",
-      "eventName": "Miami Dolphins vs Atlanta Falcons",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/28 23:00:00 +0000",
-      "endTime": "2026/08/29 02:10:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
+      "THMANYAH HD",
       "DUDE Tv Live",
-      "NFL LIVE [FHD]"
+      "LOW SERVER"
     ],
     "formatsNew": [
+      {
+        "title": "THMANYAH HD",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
       },
       {
-        "title": "NFL LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50118,
-    "title": "Panthers vs Houston Texans",
-    "image": "o",
-    "cat": "NFL",
-    "eventInfo": {
-      "teamA": "Panthers",
-      "teamB": "Texans",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4415/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4324/image",
-      "eventName": "Carolina Panthers vs Houston Texans",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/28 23:00:00 +0000",
-      "endTime": "2026/08/29 02:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "NFL LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NFL LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50119,
-    "title": "Baltimore Ravens vs Commanders",
-    "image": "o",
-    "cat": "NFL",
-    "eventInfo": {
-      "teamA": "Ravens",
-      "teamB": "Commanders",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4413/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4432/image",
-      "eventName": "Baltimore Ravens vs Washington Commanders",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/28 22:00:00 +0000",
-      "endTime": "2026/08/29 01:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "NFL LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NFL LIVE [FHD]",
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
