@@ -389,44 +389,6 @@
     ]
   },
   {
-    "id": 50013,
-    "title": "Indianapolis Colts",
-    "image": "o",
-    "cat": "NFL",
-    "eventInfo": {
-      "teamA": "Colts",
-      "teamB": "Lions",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4421/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4419/image",
-      "eventName": "Indianapolis Colts vs Detroit Lions",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/29 17:00:00 +0000",
-      "endTime": "2026/08/29 20:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv NFL",
-      "DUDE Tv Live",
-      "NFL LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv NFL",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NFL LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50019,
     "title": "ATP & WTA",
     "image": "o",
@@ -1037,120 +999,6 @@
     ]
   },
   {
-    "id": 50075,
-    "title": "Yankees vs Boston Red Sox",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Yankees",
-      "teamB": "Red Sox",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3654/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3646/image",
-      "eventName": "New York Yankees vs Boston Red Sox",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/29 17:05:00 +0000",
-      "endTime": "2026/08/29 20:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv MLB",
-      "DUDE Tv Live",
-      "MLB LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "MLB LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50076,
-    "title": "Detroit Tigers vs Dodgers",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Tigers",
-      "teamB": "Dodgers",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3648/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3638/image",
-      "eventName": "Detroit Tigers vs Los Angeles Dodgers",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/29 17:10:00 +0000",
-      "endTime": "2026/08/29 20:10:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv MLB",
-      "DUDE Tv Live",
-      "MLB LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "MLB LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50077,
-    "title": "Minnesota Twins vs White Sox",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Twins",
-      "teamB": "White Sox",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3649/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3644/image",
-      "eventName": "Minnesota Twins vs Chicago White Sox",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/29 18:10:00 +0000",
-      "endTime": "2026/08/29 21:10:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv MLB",
-      "DUDE Tv Live",
-      "MLB LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "MLB LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50078,
     "title": "Cardinals vs Pittsburgh Pirates",
     "image": "o",
@@ -1717,7 +1565,7 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/2690/image",
       "eventName": "Juventus vs Parma",
       "eventType": "null",
-      "isHot": "1",
+      "isHot": "0",
       "startTime": "2026/08/29 18:45:00 +0000",
       "endTime": "2026/08/29 20:50:00 +0000"
     },
