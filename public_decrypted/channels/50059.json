@@ -1,23 +1,58 @@
 [
   {
-    "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-    "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-    "title": "WILLOW - FHD",
+    "api": "b39c55d3b132cf0cbc93c55242394d5f:ca3ba9aff4e53f6a0b74029c0f8c7294",
+    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mnplbxlyoi/out/v1/15347ae61ffa404b8830d554abb7e524/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "logo": "",
+    "title": "WILLOW -FHD",
+    "type": "1"
+  },
+  {
+    "api": "b39c55d3b132cf0cbc93c55242394d5f:ca3ba9aff4e53f6a0b74029c0f8c7294",
+    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mnplbxlyoi/out/v1/15347ae61ffa404b8830d554abb7e524/cenc.mpd",
+    "logo": "",
+    "title": "WILLOW - ALT",
     "type": "1"
   },
   {
     "api": "",
-    "link": "https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8|referer=https://tapmad.com",
+    "link": "https://tvsen7.aynascope.net/Sports1/index.m3u8",
     "logo": "",
-    "title": "TAPMAD - FHD",
+    "title": "T SPORTS HD",
     "type": "0"
   },
   {
     "api": "",
-    "link": "https://dai-fancode.pages.dev/mumbai/4247429_english_hls_46b6a5959242798_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-    "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
-    "title": "FANCODE - IN",
+    "link": "https://sonymtmnew.akamaized.net/hls/live/2105079/cricodi2908/ENG/master.m3u8?hdnea=exp=1788052217~acl=/*~id=a6d9ab1b5d6e9819397de681043bd0da-1788009003182~hmac=d08fe574076e64aff0a9e0f6e6dfb9294de80aa843aa498043628da68ad88a14|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a04fca66ff29bbf13e28faf787068b29-1788012605069",
+    "logo": "",
+    "title": "SonyLiv - English",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://sonymtmnew.akamaized.net/hls/live/2037143/cricodi2908/HIN/master.m3u8?hdnea=exp=1788052217~acl=/*~id=a6d9ab1b5d6e9819397de681043bd0da-1788009003182~hmac=d08fe574076e64aff0a9e0f6e6dfb9294de80aa843aa498043628da68ad88a14|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a04fca66ff29bbf13e28faf787068b29-1788012605069",
+    "logo": "",
+    "title": "SonyLiv - Hindi",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://sonymtmnew.akamaized.net/hls/live/2105080/cricodi2908/TAM/master.m3u8?hdnea=exp=1788052217~acl=/*~id=a6d9ab1b5d6e9819397de681043bd0da-1788009003182~hmac=d08fe574076e64aff0a9e0f6e6dfb9294de80aa843aa498043628da68ad88a14|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a04fca66ff29bbf13e28faf787068b29-1788012605069",
+    "logo": "",
+    "title": "SonyLiv - Tamil",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://sonymtmnew.akamaized.net/hls/live/2043696/cricodi2908/TEL/master.m3u8?hdnea=exp=1788052217~acl=/*~id=a6d9ab1b5d6e9819397de681043bd0da-1788009003182~hmac=d08fe574076e64aff0a9e0f6e6dfb9294de80aa843aa498043628da68ad88a14|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a04fca66ff29bbf13e28faf787068b29-1788012605069",
+    "logo": "",
+    "title": "SonyLiv - Telugu",
+    "type": "0"
+  },
+  {
+    "api": "",
+    "link": "https://sonymtmnew.akamaized.net/hls/live/2094590/cricodi2908/KAN/master.m3u8?hdnea=exp=1788052217~acl=/*~id=a6d9ab1b5d6e9819397de681043bd0da-1788009003182~hmac=d08fe574076e64aff0a9e0f6e6dfb9294de80aa843aa498043628da68ad88a14|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a04fca66ff29bbf13e28faf787068b29-1788012605069",
+    "logo": "",
+    "title": "SonyLiv - Kannada",
     "type": "0"
   }
 ]

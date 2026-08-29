@@ -1,20 +1,73 @@
 [
   {
+    "id": 50003,
+    "title": "MotoGP",
+    "image": "o",
+    "cat": "MotoGP",
+    "eventInfo": {
+      "teamA": "MotoGP",
+      "teamB": "MotoGP",
+      "teamAFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8fGgE14VBFQKRIMiWIvOlIwpL6AEobQtL3OkLLu7AzsBPGzeXGHsz5PL0NED5DHlAyKCFhPHoNaFB4Z1csH_vvpU47Pbtslr1za618knr-wojLCDa1hyW40v59Qw_UjMGWLREzicm9ZDl7yMuylyu7xMdMoQG3-XXKLoZafem7lpKqxfKavQu-33Mbck/s1600/mgp.png",
+      "teamBFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8fGgE14VBFQKRIMiWIvOlIwpL6AEobQtL3OkLLu7AzsBPGzeXGHsz5PL0NED5DHlAyKCFhPHoNaFB4Z1csH_vvpU47Pbtslr1za618knr-wojLCDa1hyW40v59Qw_UjMGWLREzicm9ZDl7yMuylyu7xMdMoQG3-XXKLoZafem7lpKqxfKavQu-33Mbck/s1600/mgp.png",
+      "eventName": "MotoGP - Gran Premio de Aragon",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/30 12:00:00 +0000",
+      "endTime": "2026/08/30 14:15:00 +0000"
+    },
+    "adsLimit": "11",
+    "publish": "1",
+    "formats": [
+      "TNT SPORTS",
+      "FANCODE - FHD",
+      "SP0TV FHD",
+      "MotoGP FHD",
+      "DUDE Tv Live",
+      "TNT SPORTS HD"
+    ],
+    "formatsNew": [
+      {
+        "title": "TNT SPORTS",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      },
+      {
+        "title": "FANCODE - FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
+        "title": "SP0TV FHD",
+        "logo": ""
+      },
+      {
+        "title": "MotoGP FHD",
+        "logo": "https://img.sofascore.com/api/v1/category/1325/image"
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "TNT SPORTS HD",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+      }
+    ]
+  },
+  {
     "id": 50004,
     "title": "UFC",
     "image": "o",
     "cat": "UFC",
     "eventInfo": {
-      "teamA": "U. Nurmagomedov",
-      "teamB": "Y. Song",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/461384/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/467443/image",
-      "eventName": "UFC Fight Night: Nurmagomedov vs Song",
+      "teamA": "S. Parnasse",
+      "teamB": "D. Hooker",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/478792/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/461713/image",
+      "eventName": "UFC Fight Night: Parnasse vs Hooker",
       "eventType": "null",
       "eventBanner": "null",
       "isHot": "0",
-      "startTime": "2026/08/29 07:00:00 +0000",
-      "endTime": "2026/08/29 17:00:00 +0000"
+      "startTime": "2026/09/05 18:00:00 +0000",
+      "endTime": "2026/09/05 20:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -527,6 +580,39 @@
     ]
   },
   {
+    "id": 50034,
+    "title": "Baltimore Orioles",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Athletics",
+      "teamB": "Orioles",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3645/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3652/image",
+      "eventName": "Athletics vs Baltimore Orioles",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/30 02:05:00 +0000",
+      "endTime": "2026/08/30 05:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "MLB LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "MLB LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50042,
     "title": "Tennessee Titans",
     "image": "o",
@@ -560,6 +646,72 @@
     ]
   },
   {
+    "id": 50052,
+    "title": "Arizona Diamondbacks",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Giants",
+      "teamB": "Diamondbacks",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3634/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3640/image",
+      "eventName": "San Francisco Giants vs Arizona Diamondbacks",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/30 02:05:00 +0000",
+      "endTime": "2026/08/30 05:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "MLB LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "MLB LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50053,
+    "title": "Philadelphia Phillies",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Angels",
+      "teamB": "Phillies",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/5929/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3635/image",
+      "eventName": "Los Angeles Angels vs Philadelphia Phillies",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/30 02:07:00 +0000",
+      "endTime": "2026/08/30 05:07:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "MLB LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "MLB LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50055,
     "title": "Mercury vs Toronto Tempo",
     "image": "o",
@@ -588,6 +740,69 @@
       },
       {
         "title": "WNBA LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50059,
+    "title": "Sri Lanka W vs UAE Women",
+    "image": "o",
+    "cat": "Asia Cup",
+    "eventInfo": {
+      "teamA": "SL-W",
+      "teamB": "UAE-W",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/187806/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/291494/image",
+      "eventName": "Sri Lanka Women vs United Arab Emirates Women",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/08/29 14:30:00 +0000",
+      "endTime": "2026/08/29 18:15:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "WILLOW -FHD",
+      "WILLOW - ALT",
+      "T SPORTS HD",
+      "SonyLiv - English",
+      "SonyLiv - Hindi",
+      "SonyLiv - Tamil",
+      "SonyLiv - Telugu",
+      "SonyLiv - Kannada"
+    ],
+    "formatsNew": [
+      {
+        "title": "WILLOW -FHD",
+        "logo": ""
+      },
+      {
+        "title": "WILLOW - ALT",
+        "logo": ""
+      },
+      {
+        "title": "T SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv - English",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv - Hindi",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv - Tamil",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv - Telugu",
+        "logo": ""
+      },
+      {
+        "title": "SonyLiv - Kannada",
         "logo": ""
       }
     ]
@@ -668,7 +883,7 @@
       "eventName": "European T20 Premier League",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/29 09:30:00 +0000",
+      "startTime": "2026/08/29 13:30:00 +0000",
       "endTime": "2026/08/29 17:30:00 +0000"
     },
     "adsLimit": "0",
@@ -717,12 +932,12 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "FANCODE - FHD"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
-        "logo": ""
+        "title": "FANCODE - FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       }
     ]
   },
@@ -1201,18 +1416,43 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/48/image",
       "eventName": "Bournemouth vs Everton",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/08/29 14:00:00 +0000",
       "endTime": "2026/08/29 16:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "SETANTA SPORTS"
+      "FUBO SPORTS FHD",
+      "PEACOCK TV HDR",
+      "Sportcast RU",
+      "SPX LIVE HD",
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "SETANTA SPORTS",
+        "title": "FUBO SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "PEACOCK TV HDR",
+        "logo": ""
+      },
+      {
+        "title": "Sportcast RU",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1229,56 +1469,66 @@
       "teamBFlag": "https://img.sofascore.com/api/v1/team/96/image",
       "eventName": "Coventry City vs Hull City",
       "eventType": "null",
-      "isHot": "0",
+      "isHot": "1",
       "startTime": "2026/08/29 14:00:00 +0000",
       "endTime": "2026/08/29 16:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "FUBO SPORTS FHD",
+      "Sportscast RU",
+      "SPX LIVE HD",
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "FUBO SPORTS FHD",
+        "logo": ""
+      },
+      {
+        "title": "Sportscast RU",
+        "logo": ""
+      },
+      {
+        "title": "SPX LIVE HD",
+        "logo": ""
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
   },
   {
     "id": 50098,
-    "title": "Liverpool vs Nottingham",
+    "title": "Al-Kholood vs Al-Ahli",
     "image": "o",
-    "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "cat": "Pro League 🇸🇦",
     "eventInfo": {
-      "teamA": "Liverpool",
-      "teamB": "Forest",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/44/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/14/image",
-      "eventName": "Liverpool vs Nottingham Forest",
+      "teamA": "Al-Kholood",
+      "teamB": "Al-Ahli",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/269199/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/34469/image",
+      "eventName": "Al-Kholood vs Al-Ahli",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/29 11:30:00 +0000",
-      "endTime": "2026/08/29 13:35:00 +0000"
+      "startTime": "2026/08/29 16:05:00 +0000",
+      "endTime": "2026/08/29 18:10:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TNT SPORTS",
-      "FUBO SPORTS",
-      "SETANTA SPORTS"
+      "FOX DEPORTES"
     ],
     "formatsNew": [
       {
-        "title": "TNT SPORTS",
-        "logo": ""
-      },
-      {
-        "title": "FUBO SPORTS",
-        "logo": ""
-      },
-      {
-        "title": "SETANTA SPORTS",
+        "title": "FOX DEPORTES",
         "logo": ""
       }
     ]
@@ -1341,16 +1591,21 @@
     "publish": "1",
     "formats": [
       "PREMIER SPORTS",
-      "CAZE TV FHD"
+      "CAZE TV FHD",
+      "FANCODE FHD"
     ],
     "formatsNew": [
       {
         "title": "PREMIER SPORTS",
-        "logo": ""
+        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
       },
       {
         "title": "CAZE TV FHD",
-        "logo": ""
+        "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
+      },
+      {
+        "title": "FANCODE FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
       }
     ]
   },
@@ -1545,6 +1800,12 @@
     "formats": [
       "beIN ENGLISH",
       "CAZE TV FHD",
+      "ARENA SPORT HD",
+      "DUDE Tv Live",
+      "DAZN SPORTS HD",
+      "ELEVEN SPORTS HD",
+      "SKY BUNDESLIGA HD",
+      "LOW SERVER",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
@@ -1554,6 +1815,30 @@
       },
       {
         "title": "CAZE TV FHD",
+        "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
+      },
+      {
+        "title": "ARENA SPORT HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "DAZN SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "ELEVEN SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "SKY BUNDESLIGA HD",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       },
       {
@@ -1581,13 +1866,33 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "beIN ENGLISH",
       "SporTV BR",
+      "DUDE Tv Live",
+      "SKY BUNDESLIGA HD",
+      "LOW SERVER",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
+        "title": "beIN ENGLISH",
+        "logo": ""
+      },
+      {
         "title": "SporTV BR",
         "logo": "https://iili.io/CFFRvqJ.png"
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SKY BUNDESLIGA HD",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
+        "logo": ""
       },
       {
         "title": "SPX LIVE [FHD]",
@@ -1614,9 +1919,19 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv Live",
+      "SD SERVER",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SD SERVER",
+        "logo": ""
+      },
       {
         "title": "SPX LIVE [FHD]",
         "logo": ""
@@ -1642,9 +1957,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv Live",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
       {
         "title": "SPX LIVE [FHD]",
         "logo": ""
@@ -1670,9 +1990,29 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv Live",
+      "SKY BUNDESLIGA HD",
+      "ARENA SPORT HD",
+      "SPORT KLUB HD",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "SKY BUNDESLIGA HD",
+        "logo": ""
+      },
+      {
+        "title": "ARENA SPORT HD",
+        "logo": ""
+      },
+      {
+        "title": "SPORT KLUB HD",
+        "logo": ""
+      },
       {
         "title": "SPX LIVE [FHD]",
         "logo": ""
@@ -2156,36 +2496,9 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN ENGLISH",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50128,
-    "title": "Middlesbrough vs West Bromwich",
-    "image": "o",
-    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Middlesbrough",
-      "teamB": "West Brom",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/36/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/8/image",
-      "eventName": "Middlesbrough vs West Bromwich Albion",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/29 11:30:00 +0000",
-      "endTime": "2026/08/29 13:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
       "beIN ENGLISH",
-      "CBS NETWORK"
+      "CBS SPORTS HD",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
@@ -2193,7 +2506,11 @@
         "logo": ""
       },
       {
-        "title": "CBS NETWORK",
+        "title": "CBS SPORTS HD",
+        "logo": "https://iili.io/BtCdabj.png"
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -2217,11 +2534,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "CBS NETWORK"
+      "CBS NETWORK",
+      "CBS SPORTS HD",
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "CBS NETWORK",
+        "logo": ""
+      },
+      {
+        "title": "CBS SPORTS HD",
+        "logo": "https://iili.io/BtCdabj.png"
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -2245,11 +2577,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -2273,39 +2610,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "CBS SPORTS HD",
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
+      {
+        "title": "CBS SPORTS HD",
+        "logo": "https://iili.io/BtCdabj.png"
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50132,
-    "title": "Wolverhampton vs Stoke City",
-    "image": "o",
-    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Wolves",
-      "teamB": "Stoke",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/29/image",
-      "eventName": "Wolverhampton vs Stoke City",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/29 11:30:00 +0000",
-      "endTime": "2026/08/29 13:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
+      },
       {
-        "title": "DUDE Tv Live",
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -2314,7 +2633,7 @@
     "id": 50133,
     "title": "MK Dons vs Leicester City",
     "image": "o",
-    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "cat": "League One 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
     "eventInfo": {
       "teamA": "MK Dons",
       "teamB": "Leicester",
@@ -2329,11 +2648,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "PARAMOUNT+ FHD",
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
+      {
         "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -2446,90 +2775,6 @@
     "formatsNew": [
       {
         "title": "Laliga Hypermotion ES",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50138,
-    "title": "Karlsruher vs Wolfsburg",
-    "image": "o",
-    "cat": "2. Bundesliga",
-    "eventInfo": {
-      "teamA": "Karlsruhe",
-      "teamB": "Wolfsburg",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2553/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2524/image",
-      "eventName": "Karlsruher SC vs VfL Wolfsburg",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/29 11:00:00 +0000",
-      "endTime": "2026/08/29 13:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN ENGLISH"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN ENGLISH",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50139,
-    "title": "Heidenheim vs Dynamo Dresden",
-    "image": "o",
-    "cat": "2. Bundesliga",
-    "eventInfo": {
-      "teamA": "Heidenheim",
-      "teamB": "Dresden",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/5885/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2595/image",
-      "eventName": "Heidenheim vs Dynamo Dresden",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/29 11:00:00 +0000",
-      "endTime": "2026/08/29 13:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN ENGLISH"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN ENGLISH",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50140,
-    "title": "Energie Cottbus vs Greuther Fürth",
-    "image": "o",
-    "cat": "2. Bundesliga",
-    "eventInfo": {
-      "teamA": "Cottbus",
-      "teamB": "Fürth",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2532/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2551/image",
-      "eventName": "Energie Cottbus vs Greuther Fürth",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/29 11:00:00 +0000",
-      "endTime": "2026/08/29 13:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
