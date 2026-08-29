@@ -1,7 +1,7 @@
 [
   {
-    "api": "efc8bb9daa84f1dd920fef86d737639f:33b20adaa6f2cd068a1ad8f29491d020",
-    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7c07gtopq0/out/v1/8d0379d617ee4a578e7dd7e6fe540e1a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+    "api": "0bbbc154dd73f9ccee54dd1112458616:20322e913ab288675fc246c1158c8410",
+    "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b4ucq4oftf/out/v1/cd942b7b9a8d40d4af75866734dac72a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
     "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
     "title": "WILLOW - FHD",
     "type": "1"
@@ -14,15 +14,15 @@
     "type": "0"
   },
   {
-    "api": "efc8bb9daa84f1dd920fef86d737639f:33b20adaa6f2cd068a1ad8f29491d020",
-    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7c07gtopq0/out/v1/8d0379d617ee4a578e7dd7e6fe540e1a/cenc.mpd",
+    "api": "0bbbc154dd73f9ccee54dd1112458616:20322e913ab288675fc246c1158c8410",
+    "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/b4ucq4oftf/out/v1/cd942b7b9a8d40d4af75866734dac72a/cenc.mpd",
     "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
     "title": "WILLOW - ALT",
     "type": "1"
   },
   {
     "api": "",
-    "link": "https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36&Referer=https://www.tapmad.com/",
+    "link": "https://fifafreeprod1-cdn.tapmad.com/v1/019f016b670f15e8f060057b6797/019f01971a6315e8f412028003fc/main.m3u8|referer=https://tapmad.com",
     "logo": "",
     "title": "TAPMAD - FHD",
     "type": "0"
@@ -43,14 +43,14 @@
   },
   {
     "api": "",
-    "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/cricodi2708/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=b043eacd29e24116a4f97e19d5db6fdc-1787131803231",
+    "link": "https://sonymtmnew.akamaized.net/hls/live/2094588/criclive2808/ENG/master.m3u8?hdnea=exp=1787945430~acl=/*~id=1e59773c21397cb66186d9d64a593afb-1787902201811~hmac=89b8dc83f856e52b4d77a2c815aefdfc17fdf6a27335b2417c55859e332d2fb0|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=3ba8748d26b5d07946f764e5ba0f121e-1787909402798",
     "logo": "",
     "title": "SonyLiv",
     "type": "0"
   },
   {
     "api": "",
-    "link": "http://193.47.62.194/hls/QQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+    "link": "http://193.47.62.42/hls/FTTTA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
     "logo": "",
     "title": "LOW SERVER",
     "type": "0"
