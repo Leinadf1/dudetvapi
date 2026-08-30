@@ -448,82 +448,6 @@
     ]
   },
   {
-    "id": 50032,
-    "title": "Milwaukee Brewers",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Brewers",
-      "teamB": "Rangers",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3630/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3647/image",
-      "eventName": "Milwaukee Brewers vs Texas Rangers",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/29 23:15:00 +0000",
-      "endTime": "2026/08/30 02:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv MLB",
-      "DUDE Tv LIVE",
-      "MLB LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv LIVE",
-        "logo": ""
-      },
-      {
-        "title": "MLB LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50033,
-    "title": "Boston Red Sox",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Yankees",
-      "teamB": "Red Sox",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3654/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3646/image",
-      "eventName": "New York Yankees vs Boston Red Sox",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/29 23:15:00 +0000",
-      "endTime": "2026/08/30 02:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv MLB",
-      "DUDE Tv Live",
-      "MLB LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "MLB LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50034,
     "title": "Baltimore Orioles",
     "image": "o",
@@ -542,54 +466,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
       },
       {
         "title": "MLB LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50042,
-    "title": "Tennessee Titans",
-    "image": "o",
-    "cat": "NFL",
-    "eventInfo": {
-      "teamA": "Titans",
-      "teamB": "Bears",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4431/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4391/image",
-      "eventName": "Tennessee Titans vs Chicago Bears",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/29 22:00:00 +0000",
-      "endTime": "2026/08/30 01:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv NFL",
-      "DUDE Tv Live",
-      "NFL LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv NFL",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "NFL LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -613,10 +504,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -646,49 +542,21 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
       },
       {
         "title": "MLB LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50054,
-    "title": "CFL",
-    "image": "o",
-    "cat": "CFL",
-    "eventInfo": {
-      "teamA": "Saskatchewan",
-      "teamB": "Toronto",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/4438/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4436/image",
-      "eventName": "Saskatchewan Roughriders vs Toronto Argonauts",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/29 23:00:00 +0000",
-      "endTime": "2026/08/30 02:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "TSN SPORTS",
-      "SPX LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "TSN SPORTS",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
@@ -712,10 +580,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv WNBA",
       "DUDE Tv Live",
       "WNBA LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv WNBA",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -829,39 +702,6 @@
       {
         "title": "FOX CRICKET",
         "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj"
-      }
-    ]
-  },
-  {
-    "id": 50073,
-    "title": "Club América vs Club Puebla",
-    "image": "o",
-    "cat": "Liga MX",
-    "eventInfo": {
-      "teamA": "América",
-      "teamB": "Puebla",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1939/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1941/image",
-      "eventName": "Club América vs Club Puebla",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/30 01:05:00 +0000",
-      "endTime": "2026/08/30 03:10:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "CANAL5 FHD",
-      "Liga MX [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "CANAL5 FHD",
-        "logo": ""
-      },
-      {
-        "title": "Liga MX [FHD]",
-        "logo": ""
       }
     ]
   },
@@ -1263,100 +1103,6 @@
       {
         "title": "WILLOW HD",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      }
-    ]
-  },
-  {
-    "id": 50089,
-    "title": "São Paulo vs RB Bragantino",
-    "image": "o",
-    "cat": "Brasileirão",
-    "eventInfo": {
-      "teamA": "São Paulo",
-      "teamB": "RB Bragantino",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1981/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1999/image",
-      "eventName": "São Paulo vs Red Bull Bragantino",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/29 23:00:00 +0000",
-      "endTime": "2026/08/30 01:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PREMIERER BR",
-      "SporTV BR"
-    ],
-    "formatsNew": [
-      {
-        "title": "PREMIERER BR",
-        "logo": ""
-      },
-      {
-        "title": "SporTV BR",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50090,
-    "title": "Vasco da Gama vs Cruzeiro",
-    "image": "o",
-    "cat": "Brasileirão",
-    "eventInfo": {
-      "teamA": "Vasco",
-      "teamB": "Cruzeiro",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1974/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1954/image",
-      "eventName": "Vasco da Gama vs Cruzeiro",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/30 00:20:00 +0000",
-      "endTime": "2026/08/30 02:25:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PREMIERER BR"
-    ],
-    "formatsNew": [
-      {
-        "title": "PREMIERER BR",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50091,
-    "title": "Inter Miami vs Montréal",
-    "image": "o",
-    "cat": "MLS 🇺🇸",
-    "eventInfo": {
-      "teamA": "Inter Miami",
-      "teamB": "Montréal",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/337602/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/22006/image",
-      "eventName": "Inter Miami vs Montréal",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/29 23:30:00 +0000",
-      "endTime": "2026/08/30 01:40:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv MLS",
-      "MLS LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv MLS",
-        "logo": ""
-      },
-      {
-        "title": "MLS LIVE [FHD]",
-        "logo": ""
       }
     ]
   },
