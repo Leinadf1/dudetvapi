@@ -279,8 +279,8 @@
       "eventName": "🥊 WWE Monday Night RAW",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/31 23:00:00 +0000",
-      "endTime": "2026/09/01 02:00:00 +0000"
+      "startTime": "2026/09/01 00:00:00 +0000",
+      "endTime": "2026/09/01 02:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -466,10 +466,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv LIVE",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv LIVE",
         "logo": ""
@@ -515,58 +520,33 @@
   },
   {
     "id": 50059,
-    "title": "Bangladesh W vs Indonesia W",
+    "title": "Pakistan W vs Thailand W",
     "image": "o",
     "cat": "Asia Cup",
     "eventInfo": {
-      "teamA": "BAN-W",
-      "teamB": "INA-W",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187809/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/454472/image",
-      "eventName": "Bangladesh Women vs Indonesia Women",
+      "teamA": "PAK-W",
+      "teamB": "THA-W",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/187808/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/446070/image",
+      "eventName": "Pakistan Women vs Thailand Women",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/31 14:30:00 +0000",
-      "endTime": "2026/08/31 18:15:00 +0000"
+      "startTime": "2026/09/01 14:30:00 +0000",
+      "endTime": "2026/09/01 18:15:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
       "WILLOW - FHD",
-      "WILLOW - ALT",
-      "SonyLiv - English",
-      "SonyLiv - Hindi",
-      "SonyLiv - Tamil",
-      "SonyLiv - Telugu",
-      "SonyLiv - Kannada"
+      "WILLOW - ALT"
     ],
     "formatsNew": [
       {
         "title": "WILLOW - FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+        "logo": ""
       },
       {
         "title": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "SonyLiv - English",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv - Hindi",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv - Tamil",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv - Telugu",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv - Kannada",
         "logo": ""
       }
     ]
@@ -616,19 +596,19 @@
   },
   {
     "id": 50062,
-    "title": "Namibia vs Zimbabwe",
+    "title": "Zimbabwe vs South Africa",
     "image": "o",
     "cat": "Cricket",
     "eventInfo": {
-      "teamA": "NAM",
-      "teamB": "ZIM",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/199275/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187745/image",
-      "eventName": "Namibia vs Zimbabwe",
+      "teamA": "ZIM",
+      "teamB": "SA",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/187745/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/187747/image",
+      "eventName": "Zimbabwe vs South Africa",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/31 12:00:00 +0000",
-      "endTime": "2026/08/31 15:45:00 +0000"
+      "startTime": "2026/09/01 12:00:00 +0000",
+      "endTime": "2026/09/01 15:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -661,10 +641,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -694,10 +679,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -727,10 +717,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -760,10 +755,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -793,10 +793,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -826,10 +831,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -859,10 +869,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -892,10 +907,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -925,10 +945,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -958,10 +983,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1012,45 +1042,31 @@
   },
   {
     "id": 50093,
-    "title": "Barcelona vs Rayo Vallecano",
+    "title": "Real Sociedad vs Celta Vigo",
     "image": "o",
     "cat": "LaLiga 🇪🇸",
     "eventInfo": {
-      "teamA": "Barcelona",
-      "teamB": "Rayo Vallecano",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2817/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2818/image",
-      "eventName": "FC Barcelona vs Rayo Vallecano",
+      "teamA": "Real Sociedad",
+      "teamB": "Celta",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2824/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2821/image",
+      "eventName": "Real Sociedad vs Celta Vigo",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/31 19:30:00 +0000",
-      "endTime": "2026/08/31 21:35:00 +0000"
+      "startTime": "2026/09/03 19:00:00 +0000",
+      "endTime": "2026/09/03 21:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "TSN SPORTS FHD",
       "PREMIER SPORTS",
       "beIN ENGLISH",
-      "FANCODE FHD",
-      "CAZE TV FHD",
-      "ESPN ENGLISH HD",
-      "ESPN DEPORTES HD",
-      "TSN SPORTS HD",
-      "M+ LaLiga HD",
-      "HD SERVER",
-      "CCTV5 HD",
-      "LOW SERVER",
-      "SPX LIVE [FHD]"
+      "FANCODE FHD"
     ],
     "formatsNew": [
       {
-        "title": "TSN SPORTS FHD",
-        "logo": "https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg"
-      },
-      {
         "title": "PREMIER SPORTS",
-        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
+        "logo": ""
       },
       {
         "title": "beIN ENGLISH",
@@ -1058,351 +1074,134 @@
       },
       {
         "title": "FANCODE FHD",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      },
-      {
-        "title": "CAZE TV FHD",
-        "logo": "https://duckduckgo.com/i/dab0d6887915781c.png"
-      },
-      {
-        "title": "ESPN ENGLISH HD",
-        "logo": ""
-      },
-      {
-        "title": "ESPN DEPORTES HD",
-        "logo": ""
-      },
-      {
-        "title": "TSN SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "M+ LaLiga HD",
-        "logo": ""
-      },
-      {
-        "title": "HD SERVER",
-        "logo": ""
-      },
-      {
-        "title": "CCTV5 HD",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      },
-      {
-        "title": "SPX LIVE [FHD]",
         "logo": ""
       }
     ]
   },
   {
     "id": 50094,
-    "title": "Aston Villa vs Arsenal",
+    "title": "Ipswich Town vs Liverpool",
     "image": "o",
     "cat": "EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
     "eventInfo": {
-      "teamA": "Aston Villa",
-      "teamB": "Arsenal",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/40/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/42/image",
-      "eventName": "Aston Villa vs Arsenal",
+      "teamA": "Ipswich",
+      "teamB": "Liverpool",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/32/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/44/image",
+      "eventName": "Ipswich Town vs Liverpool FC",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/31 19:00:00 +0000",
-      "endTime": "2026/08/31 21:10:00 +0000"
+      "startTime": "2026/09/04 19:00:00 +0000",
+      "endTime": "2026/09/04 21:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "FUBO SPORTS FHD",
-      "USA TV HD",
-      "USA NETWROK HD",
-      "DAZN SPORTS HD",
-      "STAN SPORTS HD",
-      "SKY SPORTS EPL",
-      "SKY MAIN EVENT",
-      "NOVA SPORTS HD",
-      "CANAL+ ENG HD",
-      "LOW SERVER"
+      "FUBO SPORTS FHD"
     ],
     "formatsNew": [
       {
         "title": "FUBO SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "USA TV HD",
-        "logo": ""
-      },
-      {
-        "title": "USA NETWROK HD",
-        "logo": ""
-      },
-      {
-        "title": "DAZN SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "STAN SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "SKY SPORTS EPL",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph"
-      },
-      {
-        "title": "SKY MAIN EVENT",
-        "logo": ""
-      },
-      {
-        "title": "NOVA SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "CANAL+ ENG HD",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
         "logo": ""
       }
     ]
   },
   {
     "id": 50095,
-    "title": "Osasuna vs Getafe",
+    "title": "Torino vs Monza",
     "image": "o",
-    "cat": "LaLiga 🇪🇸",
+    "cat": "Coppa Italia 🇮🇹",
     "eventInfo": {
-      "teamA": "Osasuna",
-      "teamB": "Getafe",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2820/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2859/image",
-      "eventName": "Osasuna vs Getafe",
+      "teamA": "Torino",
+      "teamB": "Monza",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2696/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2729/image",
+      "eventName": "Torino vs Monza",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/31 17:30:00 +0000",
-      "endTime": "2026/08/31 19:35:00 +0000"
+      "startTime": "2026/09/01 19:00:00 +0000",
+      "endTime": "2026/09/01 21:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
       "PREMIER SPORTS",
-      "beIN ENGLISH",
-      "D Sports FHD",
-      "FANCODE - FHD",
-      "CazeTV - FHD",
-      "ESPN DEPORTES HD",
-      "LOW SERVER"
+      "ITALIA 1 FHD",
+      "SPORT 1 CZ"
     ],
     "formatsNew": [
       {
         "title": "PREMIER SPORTS",
-        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
-      },
-      {
-        "title": "beIN ENGLISH",
         "logo": ""
       },
       {
-        "title": "D Sports FHD",
+        "title": "ITALIA 1 FHD",
         "logo": ""
       },
       {
-        "title": "FANCODE - FHD",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
-      },
-      {
-        "title": "CazeTV - FHD",
-        "logo": ""
-      },
-      {
-        "title": "ESPN DEPORTES HD",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
+        "title": "SPORT 1 CZ",
         "logo": ""
       }
     ]
   },
   {
     "id": 50096,
-    "title": "Atalanta vs Bologna",
+    "title": "Parma vs Cremonese",
     "image": "o",
-    "cat": "Serie A 🇮🇹",
+    "cat": "Coppa Italia 🇮🇹",
     "eventInfo": {
-      "teamA": "Atalanta",
-      "teamB": "Bologna",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2686/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2685/image",
-      "eventName": "Atalanta vs Bologna",
+      "teamA": "Parma",
+      "teamB": "Cremonese",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2690/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2761/image",
+      "eventName": "Parma vs Cremonese",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/31 18:45:00 +0000",
-      "endTime": "2026/08/31 20:50:00 +0000"
+      "startTime": "2026/09/01 16:00:00 +0000",
+      "endTime": "2026/09/01 18:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "PARAMOUNT+ (EN/IT)",
-      "beIN ENGLISH",
-      "CBS NETWORK",
-      "SPORT 1 CZ",
-      "CBS NETWORK HD",
-      "SPORT TV HD",
-      "DAZN SPORTS HD",
-      "LOW SERVER "
+      "PREMIER SPORTS",
+      "FUBO SPORTS",
+      "ITALIA 1 FHD",
+      "CBS NETWORK"
     ],
     "formatsNew": [
       {
-        "title": "PARAMOUNT+ (EN/IT)",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+        "title": "PREMIER SPORTS",
+        "logo": ""
       },
       {
-        "title": "beIN ENGLISH",
+        "title": "FUBO SPORTS",
+        "logo": ""
+      },
+      {
+        "title": "ITALIA 1 FHD",
         "logo": ""
       },
       {
         "title": "CBS NETWORK",
-        "logo": ""
-      },
-      {
-        "title": "SPORT 1 CZ",
-        "logo": ""
-      },
-      {
-        "title": "CBS NETWORK HD",
-        "logo": ""
-      },
-      {
-        "title": "SPORT TV HD",
-        "logo": ""
-      },
-      {
-        "title": "DAZN SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER ",
         "logo": ""
       }
     ]
   },
   {
     "id": 50097,
-    "title": "Lecce vs AS Roma",
+    "title": "Hamburg vs Borussia Dortmund",
     "image": "o",
-    "cat": "Serie A 🇮🇹",
+    "cat": "DFB Pokal",
     "eventInfo": {
-      "teamA": "Lecce",
-      "teamB": "Roma",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2689/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2702/image",
-      "eventName": "Lecce vs AS Roma",
+      "teamA": "HEBC Hamburg",
+      "teamB": "Dortmund",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/291525/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2673/image",
+      "eventName": "Hamburg Eimsbütteler vs Borussia Dortmund",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/31 16:30:00 +0000",
-      "endTime": "2026/08/31 18:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PARAMOUNT+ (EN/IT)",
-      "beIN ENGLISH",
-      "CBS NETWORK",
-      "SPORT 1 CZ",
-      "DAZN SPORTS HD",
-      "SPORT TV HD",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "PARAMOUNT+ (EN/IT)",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "beIN ENGLISH",
-        "logo": ""
-      },
-      {
-        "title": "CBS NETWORK",
-        "logo": ""
-      },
-      {
-        "title": "SPORT 1 CZ",
-        "logo": ""
-      },
-      {
-        "title": "DAZN SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "SPORT TV HD",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50098,
-    "title": "Benfica vs Estoril Praia",
-    "image": "o",
-    "cat": "Liga Portugal",
-    "eventInfo": {
-      "teamA": "Benfica",
-      "teamB": "Estoril",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3006/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/4500/image",
-      "eventName": "Benfica vs Estoril Praia",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/31 19:15:00 +0000",
-      "endTime": "2026/08/31 21:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SportDigital Fussball",
-      "D Sports FHD",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "SportDigital Fussball",
-        "logo": ""
-      },
-      {
-        "title": "D Sports FHD",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50099,
-    "title": "Sporting Braga vs Vitória",
-    "image": "o",
-    "cat": "Liga Portugal",
-    "eventInfo": {
-      "teamA": "Braga",
-      "teamB": "Vitória",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2999/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3009/image",
-      "eventName": "Sporting Braga vs Vitória SC",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/08/31 19:15:00 +0000",
-      "endTime": "2026/08/31 21:15:00 +0000"
+      "startTime": "2026/09/01 18:45:00 +0000",
+      "endTime": "2026/09/01 20:50:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1417,57 +1216,113 @@
     ]
   },
   {
-    "id": 50100,
-    "title": "Burgos vs Real Sociedad",
+    "id": 50098,
+    "title": "Stoke City vs Norwich City",
     "image": "o",
-    "cat": "LaLiga 2",
+    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
     "eventInfo": {
-      "teamA": "Burgos",
-      "teamB": "Real Sociedad B",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2854/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/24360/image",
-      "eventName": "Burgos vs Real Sociedad B",
+      "teamA": "Stoke",
+      "teamB": "Norwich",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/29/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/263/image",
+      "eventName": "Stoke City vs Norwich City",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/31 17:00:00 +0000",
-      "endTime": "2026/08/31 19:00:00 +0000"
+      "startTime": "2026/09/01 19:00:00 +0000",
+      "endTime": "2026/09/01 21:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "Laliga Hypermotion ES"
+      "beIN ENGLISH FHD"
     ],
     "formatsNew": [
       {
-        "title": "Laliga Hypermotion ES",
+        "title": "beIN ENGLISH FHD",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50099,
+    "title": "West Ham vs Wolverhampton",
+    "image": "o",
+    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "eventInfo": {
+      "teamA": "West Ham",
+      "teamB": "Wolves",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/37/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3/image",
+      "eventName": "West Ham United vs Wolverhampton",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/01 18:45:00 +0000",
+      "endTime": "2026/09/01 20:50:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "CBS NETWORK"
+    ],
+    "formatsNew": [
+      {
+        "title": "CBS NETWORK",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50100,
+    "title": "Birmingham vs Southampton",
+    "image": "o",
+    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "eventInfo": {
+      "teamA": "Birmingham",
+      "teamB": "Southampton",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/9/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/45/image",
+      "eventName": "Birmingham City vs Southampton",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/01 19:00:00 +0000",
+      "endTime": "2026/09/01 21:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
   },
   {
     "id": 50101,
-    "title": "Celta Fortuna vs CD Castellón",
+    "title": "Sheffield United vs Bolton",
     "image": "o",
-    "cat": "LaLiga 2",
+    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
     "eventInfo": {
-      "teamA": "Celta Fortuna",
-      "teamB": "Castellón",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/24336/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/5067/image",
-      "eventName": "Celta Fortuna vs CD Castellón",
+      "teamA": "Sheffield Utd",
+      "teamB": "Bolton",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/15/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/5/image",
+      "eventName": "Sheffield United vs Bolton Wanderers",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/08/31 19:30:00 +0000",
-      "endTime": "2026/08/31 21:30:00 +0000"
+      "startTime": "2026/09/01 18:45:00 +0000",
+      "endTime": "2026/09/01 20:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "Laliga Hypermotion ES"
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
-        "title": "Laliga Hypermotion ES",
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
