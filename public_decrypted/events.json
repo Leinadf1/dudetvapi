@@ -637,6 +637,77 @@
     ]
   },
   {
+    "id": 50032,
+    "title": "Chicago White Sox",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Astros",
+      "teamB": "White Sox",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3655/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3644/image",
+      "eventName": "Houston Astros vs Chicago White Sox",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/02 00:10:00 +0000",
+      "endTime": "2026/09/02 03:10:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv MLB",
+      "DUDE Tv LIVE",
+      "MLB LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv LIVE",
+        "logo": ""
+      },
+      {
+        "title": "MLB LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50033,
+    "title": "Colorado Rockies",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Rockies",
+      "teamB": "Orioles",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3628/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3652/image",
+      "eventName": "Colorado Rockies vs Baltimore Orioles",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/02 00:40:00 +0000",
+      "endTime": "2026/09/02 03:40:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "MLB LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "MLB LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "id": 50034,
     "title": "New York Yankees",
     "image": "o",
@@ -737,19 +808,19 @@
   },
   {
     "id": 50059,
-    "title": "Pakistan W vs Thailand W",
+    "title": "Sri Lanka W vs Indonesia W",
     "image": "o",
     "cat": "Asia Cup",
     "eventInfo": {
-      "teamA": "PAK-W",
-      "teamB": "THA-W",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187808/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/446070/image",
-      "eventName": "Pakistan Women vs Thailand Women",
+      "teamA": "SL-W",
+      "teamB": "INA-W",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/187806/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/454472/image",
+      "eventName": "Sri Lanka Women vs Indonesia Women",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/01 14:30:00 +0000",
-      "endTime": "2026/09/01 18:15:00 +0000"
+      "startTime": "2026/09/02 14:30:00 +0000",
+      "endTime": "2026/09/02 18:15:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -806,29 +877,29 @@
       "eventName": "European T20 Premier League",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/01 13:30:00 +0000",
-      "endTime": "2026/09/01 17:30:00 +0000"
+      "startTime": "2026/09/02 09:30:00 +0000",
+      "endTime": "2026/09/02 17:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TNT SPORTS FHD",
       "WILLOW - FHD",
-      "TNT SPORTS",
       "WILLOW - ALT",
       "TAPMAD - FHD"
     ],
     "formatsNew": [
       {
-        "title": "WILLOW - FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+        "title": "TNT SPORTS FHD",
+        "logo": ""
       },
       {
-        "title": "TNT SPORTS",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+        "title": "WILLOW - FHD",
+        "logo": ""
       },
       {
         "title": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+        "logo": ""
       },
       {
         "title": "TAPMAD - FHD",
@@ -838,34 +909,29 @@
   },
   {
     "id": 50062,
-    "title": "Zimbabwe vs South Africa",
+    "title": "Namibia vs Zimbabwe",
     "image": "o",
     "cat": "Cricket",
     "eventInfo": {
-      "teamA": "ZIM",
-      "teamB": "SA",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187745/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187747/image",
-      "eventName": "Zimbabwe vs South Africa",
+      "teamA": "NAM",
+      "teamB": "ZIM",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/199275/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/187745/image",
+      "eventName": "Namibia vs Zimbabwe",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/01 12:00:00 +0000",
-      "endTime": "2026/09/01 15:45:00 +0000"
+      "startTime": "2026/09/03 12:00:00 +0000",
+      "endTime": "2026/09/03 15:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "ICC TV - FHD",
       "FANCODE - FHD"
     ],
     "formatsNew": [
       {
-        "title": "ICC TV - FHD",
-        "logo": "https://m.media-amazon.com/images/I/31F7ropt9OL.png"
-      },
-      {
         "title": "FANCODE - FHD",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+        "logo": ""
       }
     ]
   },
@@ -888,10 +954,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -921,10 +992,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -954,10 +1030,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -987,10 +1068,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1020,10 +1106,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1053,10 +1144,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1086,10 +1182,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1119,10 +1220,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1152,10 +1258,53 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "MLB LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50084,
+    "title": "Texas Rangers vs Athletics",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Rangers",
+      "teamB": "Athletics",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3647/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3645/image",
+      "eventName": "Texas Rangers vs Athletics",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/02 00:05:00 +0000",
+      "endTime": "2026/09/02 03:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv MLB",
+      "DUDE Tv Live",
+      "MLB LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1185,14 +1334,19 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "WILLOW - FHD",
       "TNT SPORTS FHD",
       "TAPMAD FHD",
       "WILLOW HD"
     ],
     "formatsNew": [
       {
+        "title": "WILLOW - FHD",
+        "logo": ""
+      },
+      {
         "title": "TNT SPORTS FHD",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+        "logo": ""
       },
       {
         "title": "TAPMAD FHD",
@@ -1200,7 +1354,7 @@
       },
       {
         "title": "WILLOW HD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+        "logo": ""
       }
     ]
   },
@@ -1272,357 +1426,292 @@
   },
   {
     "id": 50095,
-    "title": "Torino vs Monza",
+    "title": "Osnabrück vs Bayern München",
     "image": "o",
-    "cat": "Coppa Italia 🇮🇹",
+    "cat": "DFB Pokal",
     "eventInfo": {
-      "teamA": "Torino",
-      "teamB": "Monza",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2696/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2729/image",
-      "eventName": "Torino vs Monza",
+      "teamA": "Osnabrück",
+      "teamB": "Bayern",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2581/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2672/image",
+      "eventName": "Osnabrück vs Bayern München",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/01 19:00:00 +0000",
-      "endTime": "2026/09/01 21:05:00 +0000"
+      "startTime": "2026/09/02 18:45:00 +0000",
+      "endTime": "2026/09/02 20:50:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "PREMIER SPORTS",
-      "ITALIA 1 FHD",
-      "SPORT 1 CZ",
-      "DUDE Tv Live",
-      "LOW SERVER"
+      "PREMIER SPORTS"
     ],
     "formatsNew": [
       {
         "title": "PREMIER SPORTS",
-        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
-      },
-      {
-        "title": "ITALIA 1 FHD",
-        "logo": ""
-      },
-      {
-        "title": "SPORT 1 CZ",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
         "logo": ""
       }
     ]
   },
   {
     "id": 50096,
-    "title": "Parma vs Cremonese",
+    "title": "Burnley vs Middlesbrough",
     "image": "o",
-    "cat": "Coppa Italia 🇮🇹",
+    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
     "eventInfo": {
-      "teamA": "Parma",
-      "teamB": "Cremonese",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2690/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2761/image",
-      "eventName": "Parma vs Cremonese",
+      "teamA": "Burnley",
+      "teamB": "Middlesbrough",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/6/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/36/image",
+      "eventName": "Burnley vs Middlesbrough",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/01 16:00:00 +0000",
-      "endTime": "2026/09/01 18:05:00 +0000"
+      "startTime": "2026/09/02 19:00:00 +0000",
+      "endTime": "2026/09/02 21:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "PREMIER SPORTS",
-      "FUBO SPORTS",
-      "ITALIA 1 FHD",
-      "CBS NETWORK",
-      "D SPORTS FHD",
-      "PARAMOUNT+ HD",
-      "SPORT TV HD",
-      "LOW SERVER"
+      "beIN ENGLISH",
+      "CBS NETWORK"
     ],
     "formatsNew": [
       {
-        "title": "PREMIER SPORTS",
-        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
-      },
-      {
-        "title": "FUBO SPORTS",
-        "logo": ""
-      },
-      {
-        "title": "ITALIA 1 FHD",
+        "title": "beIN ENGLISH",
         "logo": ""
       },
       {
         "title": "CBS NETWORK",
-        "logo": ""
-      },
-      {
-        "title": "D SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "PARAMOUNT+ HD",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "SPORT TV HD",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
         "logo": ""
       }
     ]
   },
   {
     "id": 50097,
-    "title": "Hamburg vs Borussia Dortmund",
+    "title": "Millwall vs Wrexham",
     "image": "o",
-    "cat": "DFB Pokal",
+    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
     "eventInfo": {
-      "teamA": "HEBC Hamburg",
-      "teamB": "Dortmund",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/291525/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2673/image",
-      "eventName": "Hamburg Eimsbütteler vs Borussia Dortmund",
+      "teamA": "Millwall",
+      "teamB": "Wrexham",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/25/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/64/image",
+      "eventName": "Millwall vs Wrexham",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/01 18:45:00 +0000",
-      "endTime": "2026/09/01 20:50:00 +0000"
+      "startTime": "2026/09/02 18:45:00 +0000",
+      "endTime": "2026/09/02 20:50:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "ELEVEN SPORTS HD",
-      "ARENA PREMIUM HD",
-      "ZIGGO SPORTS HD",
-      "beIN SPORTS HD",
-      "TVP SPORT HD",
-      "DUDE Tv Live",
-      "LOW SERVER"
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
-        "title": "ELEVEN SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "ARENA PREMIUM HD",
-        "logo": ""
-      },
-      {
-        "title": "ZIGGO SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "beIN SPORTS HD",
-        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
-      },
-      {
-        "title": "TVP SPORT HD",
-        "logo": ""
-      },
-      {
         "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
         "logo": ""
       }
     ]
   },
   {
     "id": 50098,
-    "title": "Stoke City vs Norwich City",
+    "title": "QPR vs Cardiff City",
     "image": "o",
     "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
     "eventInfo": {
-      "teamA": "Stoke",
-      "teamB": "Norwich",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/29/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/263/image",
-      "eventName": "Stoke City vs Norwich City",
+      "teamA": "QPR",
+      "teamB": "Cardiff",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/61/image",
+      "eventName": "Queens Park Rangers vs Cardiff City",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/01 19:00:00 +0000",
-      "endTime": "2026/09/01 21:05:00 +0000"
+      "startTime": "2026/09/02 18:45:00 +0000",
+      "endTime": "2026/09/02 20:50:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN ENGLISH FHD",
-      "LOW SERVER"
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
-        "title": "beIN ENGLISH FHD",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
   },
   {
     "id": 50099,
-    "title": "West Ham vs Wolverhampton",
+    "title": "West Brom vs Charlton",
     "image": "o",
     "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
     "eventInfo": {
-      "teamA": "West Ham",
-      "teamB": "Wolves",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/37/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3/image",
-      "eventName": "West Ham United vs Wolverhampton",
+      "teamA": "West Brom",
+      "teamB": "Charlton",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/8/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/47/image",
+      "eventName": "West Bromwich Albion vs Charlton Athletic",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/01 18:45:00 +0000",
-      "endTime": "2026/09/01 20:50:00 +0000"
+      "startTime": "2026/09/02 18:45:00 +0000",
+      "endTime": "2026/09/02 20:50:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "CBS NETWORK"
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
-        "title": "CBS NETWORK",
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
   },
   {
     "id": 50100,
-    "title": "Birmingham vs Southampton",
+    "title": "Falkirk FC vs Rangers",
     "image": "o",
-    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "cat": "Scottish Premiership",
     "eventInfo": {
-      "teamA": "Birmingham",
-      "teamB": "Southampton",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/9/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/45/image",
-      "eventName": "Birmingham City vs Southampton",
+      "teamA": "Falkirk",
+      "teamB": "Rangers",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2363/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2351/image",
+      "eventName": "Falkirk FC vs Rangers",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/01 19:00:00 +0000",
-      "endTime": "2026/09/01 21:00:00 +0000"
+      "startTime": "2026/09/02 19:00:00 +0000",
+      "endTime": "2026/09/02 21:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "beIN ENGLISH",
+      "SportDigital Fussball"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "beIN ENGLISH",
+        "logo": ""
+      },
+      {
+        "title": "SportDigital Fussball",
         "logo": ""
       }
     ]
   },
   {
     "id": 50101,
-    "title": "Sheffield United vs Bolton",
+    "title": "Celtic vs Aberdeen",
     "image": "o",
-    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "cat": "Scottish Premiership",
     "eventInfo": {
-      "teamA": "Sheffield Utd",
-      "teamB": "Bolton",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/15/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/5/image",
-      "eventName": "Sheffield United vs Bolton Wanderers",
+      "teamA": "Celtic",
+      "teamB": "Aberdeen",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2352/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2355/image",
+      "eventName": "Celtic vs Aberdeen",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/01 18:45:00 +0000",
-      "endTime": "2026/09/01 20:45:00 +0000"
+      "startTime": "2026/09/02 18:45:00 +0000",
+      "endTime": "2026/09/02 20:50:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live",
-      "LOW SERVER"
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
         "logo": ""
       }
     ]
   },
   {
     "id": 50102,
-    "title": "Al-Hilal vs Al-Ahli",
+    "title": "Udinese vs Venezia",
     "image": "o",
-    "cat": "Pro League 🇸🇦",
+    "cat": "Coppa Italia 🇮🇹",
     "eventInfo": {
-      "teamA": "Al-Hilal",
-      "teamB": "Al-Ahli",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/21895/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/34469/image",
-      "eventName": "Al-Hilal vs Al-Ahli",
+      "teamA": "Udinese",
+      "teamB": "Venezia",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2695/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2688/image",
+      "eventName": "Udinese vs Venezia",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/01 18:00:00 +0000",
-      "endTime": "2026/09/01 20:05:00 +0000"
+      "startTime": "2026/09/02 16:00:00 +0000",
+      "endTime": "2026/09/02 18:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "FOX SPORTS FHD",
-      "FOX DEPORTES",
-      "DUDE Tv Live"
+      "PREMIER SPORTS",
+      "FUBO SPORTS",
+      "CBS NETWORK",
+      "D Sports FHD",
+      "ITALIA 1 FHD"
     ],
     "formatsNew": [
       {
-        "title": "FOX SPORTS FHD",
+        "title": "PREMIER SPORTS",
         "logo": ""
       },
       {
-        "title": "FOX DEPORTES",
+        "title": "FUBO SPORTS",
         "logo": ""
       },
       {
-        "title": "DUDE Tv Live",
+        "title": "CBS NETWORK",
+        "logo": ""
+      },
+      {
+        "title": "D Sports FHD",
+        "logo": ""
+      },
+      {
+        "title": "ITALIA 1 FHD",
         "logo": ""
       }
     ]
   },
   {
     "id": 50103,
-    "title": "Leicester City vs Plymouth Argyle",
+    "title": "Sassuolo vs Frosinone",
     "image": "o",
-    "cat": "League One 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "cat": "Coppa Italia 🇮🇹",
     "eventInfo": {
-      "teamA": "Leicester City",
-      "teamB": "Plymouth Argyle",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/31/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/71/image",
-      "eventName": "Leicester City vs Plymouth Argyle",
+      "teamA": "Sassuolo",
+      "teamB": "Frosinone",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2793/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2801/image",
+      "eventName": "Sassuolo vs Frosinone",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/01 18:45:00 +0000",
-      "endTime": "2026/09/01 20:50:00 +0000"
+      "startTime": "2026/09/02 13:00:00 +0000",
+      "endTime": "2026/09/02 15:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "LOW SERVER "
+      "PREMIER SPORTS",
+      "D Sports FHD",
+      "ITALIA 1 FHD"
     ],
     "formatsNew": [
       {
-        "title": "LOW SERVER ",
+        "title": "PREMIER SPORTS",
+        "logo": ""
+      },
+      {
+        "title": "D Sports FHD",
+        "logo": ""
+      },
+      {
+        "title": "ITALIA 1 FHD",
         "logo": ""
       }
     ]

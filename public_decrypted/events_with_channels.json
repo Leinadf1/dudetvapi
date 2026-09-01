@@ -1355,6 +1355,118 @@
     "channel_status": "live"
   },
   {
+    "id": 50032,
+    "title": "Chicago White Sox",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Astros",
+      "teamB": "White Sox",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3655/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3644/image",
+      "eventName": "Houston Astros vs Chicago White Sox",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/02 00:10:00 +0000",
+      "endTime": "2026/09/02 03:10:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv MLB",
+      "DUDE Tv LIVE",
+      "MLB LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv LIVE",
+        "logo": ""
+      },
+      {
+        "title": "MLB LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/55662/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv MLB",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://edgestream7.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "DUDE Tv LIVE",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/mlb/2026-09-01/chw-hou",
+        "logo": "",
+        "title": "MLB LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50033,
+    "title": "Colorado Rockies",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Rockies",
+      "teamB": "Orioles",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3628/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3652/image",
+      "eventName": "Colorado Rockies vs Baltimore Orioles",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/02 00:40:00 +0000",
+      "endTime": "2026/09/02 03:40:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "MLB LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "MLB LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://edgestream4.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/mlb/2026-09-01/bal-col",
+        "logo": "",
+        "title": "MLB LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
     "id": 50034,
     "title": "New York Yankees",
     "image": "o",
@@ -1389,14 +1501,14 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream7.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream6.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-08-30/phi-laa",
+        "link": "https://embedindia.st/embed/mlb/2026-09-01/nyy-laa",
         "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
@@ -1439,14 +1551,14 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream6.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream5.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-08-30/cin-chc",
+        "link": "https://embedindia.st/embed/mlb/2026-09-01/phi-ari",
         "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
@@ -1489,13 +1601,15 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream7.pro/hls/fbnjzebjhcazhjg91.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream7.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-08-29/phi-laa",
+        "link": "https://embedindia.st/embed/mlb/2026-09-01/stl-lad",
+        "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
       }
@@ -1504,19 +1618,19 @@
   },
   {
     "id": 50059,
-    "title": "Pakistan W vs Thailand W",
+    "title": "Sri Lanka W vs Indonesia W",
     "image": "o",
     "cat": "Asia Cup",
     "eventInfo": {
-      "teamA": "PAK-W",
-      "teamB": "THA-W",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187808/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/446070/image",
-      "eventName": "Pakistan Women vs Thailand Women",
+      "teamA": "SL-W",
+      "teamB": "INA-W",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/187806/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/454472/image",
+      "eventName": "Sri Lanka Women vs Indonesia Women",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/01 14:30:00 +0000",
-      "endTime": "2026/09/01 18:15:00 +0000"
+      "startTime": "2026/09/02 14:30:00 +0000",
+      "endTime": "2026/09/02 18:15:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -1597,29 +1711,29 @@
       "eventName": "European T20 Premier League",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/01 13:30:00 +0000",
-      "endTime": "2026/09/01 17:30:00 +0000"
+      "startTime": "2026/09/02 09:30:00 +0000",
+      "endTime": "2026/09/02 17:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "TNT SPORTS FHD",
       "WILLOW - FHD",
-      "TNT SPORTS",
       "WILLOW - ALT",
       "TAPMAD - FHD"
     ],
     "formatsNew": [
       {
-        "title": "WILLOW - FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+        "title": "TNT SPORTS FHD",
+        "logo": ""
       },
       {
-        "title": "TNT SPORTS",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+        "title": "WILLOW - FHD",
+        "logo": ""
       },
       {
         "title": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+        "logo": ""
       },
       {
         "title": "TAPMAD - FHD",
@@ -1628,30 +1742,26 @@
     ],
     "decoded_channels": [
       {
-        "api": "264818e6bc33cab3a8abb362a41b18f3:163ec51316a2bdbfd73c9dc6efb6a41b",
-        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jagbnl8trg/out/v1/0cb10adee08f404c9239588df0c157f6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
-        "title": "WILLOW - FHD",
+        "api": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "TNT SPORTS FHD",
         "type": "1"
       },
       {
-        "api": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
-        "title": "TNT SPORTS",
+        "api": "264818e6bc33cab3a8abb362a41b18f3:163ec51316a2bdbfd73c9dc6efb6a41b",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jagbnl8trg/out/v1/0cb10adee08f404c9239588df0c157f6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "WILLOW - FHD",
         "type": "1"
       },
       {
         "api": "264818e6bc33cab3a8abb362a41b18f3:163ec51316a2bdbfd73c9dc6efb6a41b",
         "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jagbnl8trg/out/v1/0cb10adee08f404c9239588df0c157f6/cenc.mpd",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
         "title": "WILLOW - ALT",
         "type": "1"
       },
       {
         "api": "",
         "link": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8",
-        "logo": "",
         "title": "TAPMAD - FHD",
         "type": "0"
       }
@@ -1660,48 +1770,35 @@
   },
   {
     "id": 50062,
-    "title": "Zimbabwe vs South Africa",
+    "title": "Namibia vs Zimbabwe",
     "image": "o",
     "cat": "Cricket",
     "eventInfo": {
-      "teamA": "ZIM",
-      "teamB": "SA",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187745/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187747/image",
-      "eventName": "Zimbabwe vs South Africa",
+      "teamA": "NAM",
+      "teamB": "ZIM",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/199275/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/187745/image",
+      "eventName": "Namibia vs Zimbabwe",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/01 12:00:00 +0000",
-      "endTime": "2026/09/01 15:45:00 +0000"
+      "startTime": "2026/09/03 12:00:00 +0000",
+      "endTime": "2026/09/03 15:45:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "ICC TV - FHD",
       "FANCODE - FHD"
     ],
     "formatsNew": [
       {
-        "title": "ICC TV - FHD",
-        "logo": "https://m.media-amazon.com/images/I/31F7ropt9OL.png"
-      },
-      {
         "title": "FANCODE - FHD",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+        "logo": ""
       }
     ],
     "decoded_channels": [
       {
-        "api": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-        "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1788291013~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=2ac03f6e-df86-481e-a05f-ec1015c944ac~data=hdntl~hmac=c28a7cf6ee4ff9dd4ee2c5e0ad756e9706c82e35290dc254d7920408cdf223c7/manifest.mpd?vcfilter=96bac49e-871a-4140-9d55-d6eb6a50774a&|user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64%3B%20rv%3A154.0)%20Gecko%2F20100101%20Firefox%2F154.0&Referer=https%3A%2F%2Fwww.icc-cricket.com%2F&Origin=https%3A%2F%2Fwww.icc-cricket.com",
-        "logo": "https://m.media-amazon.com/images/I/31F7ropt9OL.png",
-        "title": "ICC TV - FHD",
-        "type": "1"
-      },
-      {
         "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
         "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png",
         "title": "FANCODE - FHD",
         "type": "1"
       }
@@ -1727,10 +1824,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1743,27 +1845,27 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/55602/load-playlist?|Referer=https://gooz.aapmains.net",
+        "link": "https://chatgpt.hereisman.net/playlist/55643/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "",
         "title": "DUDE Tv MLB",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://edgestream5.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream6.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-08-31/sf-atl",
+        "link": "https://embedindia.st/embed/mlb/2026-09-01/sd-cin",
         "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50076,
@@ -1784,10 +1886,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1800,13 +1907,22 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream6.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://chatgpt.hereisman.net/playlist/55645/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv MLB",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://edgestream1.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-08-31/sd-cin",
+        "link": "https://embedindia.st/embed/mlb/2026-09-01/tor-cle",
+        "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
       }
@@ -1832,10 +1948,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1848,13 +1969,22 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream3.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://chatgpt.hereisman.net/playlist/55646/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv MLB",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://edgestream7.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-08-31/nym-tb",
+        "link": "https://embedindia.st/embed/mlb/2026-09-01/sf-pit",
+        "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
       }
@@ -1880,10 +2010,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1896,13 +2031,22 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream3.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://chatgpt.hereisman.net/playlist/55642/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv MLB",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://edgestream3.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-08-31/sea-bos",
+        "link": "https://embedindia.st/embed/mlb/2026-09-01/nym-tb",
+        "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
       }
@@ -1928,10 +2072,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1944,27 +2093,27 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/55609/load-playlist?|Referer=https://gooz.aapmains.net",
+        "link": "https://chatgpt.hereisman.net/playlist/55649/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "",
         "title": "DUDE Tv MLB",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://edgestream6.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream4.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-08-31/mia-wsh",
+        "link": "https://embedindia.st/embed/mlb/2026-09-01/sea-bos",
         "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50080,
@@ -1985,10 +2134,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2001,27 +2155,27 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/55617/load-playlist?|Referer=https://gooz.aapmains.net",
+        "link": "https://chatgpt.hereisman.net/playlist/55650/load-playlist?|Referer=https://gooz.aapmains.net",
         "logo": "",
         "title": "DUDE Tv MLB",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://edgestream5.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://edgestream7.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
         "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-08-31/mil-chc",
+        "link": "https://embedindia.st/embed/mlb/2026-09-01/atl-wsh",
         "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
       }
     ],
-    "channel_status": "cached"
+    "channel_status": "live"
   },
   {
     "id": 50081,
@@ -2042,10 +2196,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2058,13 +2217,22 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream6.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://chatgpt.hereisman.net/playlist/55655/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv MLB",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://edgestream5.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-08-31/det-min",
+        "link": "https://embedindia.st/embed/mlb/2026-09-01/mil-chc",
+        "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
       }
@@ -2090,10 +2258,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2106,13 +2279,22 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream7.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://chatgpt.hereisman.net/playlist/55656/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv MLB",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://edgestream5.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-08-31/ath-tex",
+        "link": "https://embedindia.st/embed/mlb/2026-09-01/mia-kc",
+        "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
       }
@@ -2138,10 +2320,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -2154,13 +2341,84 @@
     "decoded_channels": [
       {
         "api": "",
-        "link": "https://edgestream7.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "link": "https://chatgpt.hereisman.net/playlist/55659/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv MLB",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://edgestream6.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
         "title": "DUDE Tv Live",
         "type": "0"
       },
       {
         "api": "",
-        "link": "https://embedindia.st/embed/mlb/2026-08-31/chw-hou",
+        "link": "https://embedindia.st/embed/mlb/2026-09-01/det-min",
+        "logo": "",
+        "title": "MLB LIVE [FHD]",
+        "type": "2"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50084,
+    "title": "Texas Rangers vs Athletics",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Rangers",
+      "teamB": "Athletics",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3647/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3645/image",
+      "eventName": "Texas Rangers vs Athletics",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/02 00:05:00 +0000",
+      "endTime": "2026/09/02 03:05:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv MLB",
+      "DUDE Tv Live",
+      "MLB LIVE [FHD]"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "MLB LIVE [FHD]",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://chatgpt.hereisman.net/playlist/55660/load-playlist?|Referer=https://gooz.aapmains.net",
+        "logo": "",
+        "title": "DUDE Tv MLB",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://edgestream4.pro/hls/fskjanach24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+        "logo": "",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      },
+      {
+        "api": "",
+        "link": "https://embedindia.st/embed/mlb/2026-09-01/ath-tex",
+        "logo": "",
         "title": "MLB LIVE [FHD]",
         "type": "2"
       }
@@ -2186,14 +2444,19 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "WILLOW - FHD",
       "TNT SPORTS FHD",
       "TAPMAD FHD",
       "WILLOW HD"
     ],
     "formatsNew": [
       {
+        "title": "WILLOW - FHD",
+        "logo": ""
+      },
+      {
         "title": "TNT SPORTS FHD",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
+        "logo": ""
       },
       {
         "title": "TAPMAD FHD",
@@ -2201,14 +2464,21 @@
       },
       {
         "title": "WILLOW HD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+        "logo": ""
       }
     ],
     "decoded_channels": [
       {
+        "api": "15f078063a726ca350a7ad9724fe5ee8:1c8f5dc2dd9aebae2e2a9ebebd6a98c7",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o69zxr6ksk/out/v1/587933a2e00e449da60c57f65832656b/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "logo": "",
+        "title": "WILLOW - FHD",
+        "type": "1"
+      },
+      {
         "api": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10",
+        "logo": "",
         "title": "TNT SPORTS FHD",
         "type": "1"
       },
@@ -2222,7 +2492,7 @@
       {
         "api": "",
         "link": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png",
+        "logo": "",
         "title": "WILLOW HD",
         "type": "1"
       }
@@ -2327,48 +2597,28 @@
   },
   {
     "id": 50095,
-    "title": "Torino vs Monza",
+    "title": "Osnabrück vs Bayern München",
     "image": "o",
-    "cat": "Coppa Italia 🇮🇹",
+    "cat": "DFB Pokal",
     "eventInfo": {
-      "teamA": "Torino",
-      "teamB": "Monza",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2696/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2729/image",
-      "eventName": "Torino vs Monza",
+      "teamA": "Osnabrück",
+      "teamB": "Bayern",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2581/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2672/image",
+      "eventName": "Osnabrück vs Bayern München",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/01 19:00:00 +0000",
-      "endTime": "2026/09/01 21:05:00 +0000"
+      "startTime": "2026/09/02 18:45:00 +0000",
+      "endTime": "2026/09/02 20:50:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "PREMIER SPORTS",
-      "ITALIA 1 FHD",
-      "SPORT 1 CZ",
-      "DUDE Tv Live",
-      "LOW SERVER"
+      "PREMIER SPORTS"
     ],
     "formatsNew": [
       {
         "title": "PREMIER SPORTS",
-        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
-      },
-      {
-        "title": "ITALIA 1 FHD",
-        "logo": ""
-      },
-      {
-        "title": "SPORT 1 CZ",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
         "logo": ""
       }
     ],
@@ -2409,184 +2659,80 @@
         "type": "0"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
     "id": 50096,
-    "title": "Parma vs Cremonese",
+    "title": "Burnley vs Middlesbrough",
     "image": "o",
-    "cat": "Coppa Italia 🇮🇹",
+    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
     "eventInfo": {
-      "teamA": "Parma",
-      "teamB": "Cremonese",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2690/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2761/image",
-      "eventName": "Parma vs Cremonese",
+      "teamA": "Burnley",
+      "teamB": "Middlesbrough",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/6/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/36/image",
+      "eventName": "Burnley vs Middlesbrough",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/01 16:00:00 +0000",
-      "endTime": "2026/09/01 18:05:00 +0000"
+      "startTime": "2026/09/02 19:00:00 +0000",
+      "endTime": "2026/09/02 21:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "PREMIER SPORTS",
-      "FUBO SPORTS",
-      "ITALIA 1 FHD",
-      "CBS NETWORK",
-      "D SPORTS FHD",
-      "PARAMOUNT+ HD",
-      "SPORT TV HD",
-      "LOW SERVER"
+      "beIN ENGLISH",
+      "CBS NETWORK"
     ],
     "formatsNew": [
       {
-        "title": "PREMIER SPORTS",
-        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
-      },
-      {
-        "title": "FUBO SPORTS",
-        "logo": ""
-      },
-      {
-        "title": "ITALIA 1 FHD",
+        "title": "beIN ENGLISH",
         "logo": ""
       },
       {
         "title": "CBS NETWORK",
-        "logo": ""
-      },
-      {
-        "title": "D SPORTS FHD",
-        "logo": ""
-      },
-      {
-        "title": "PARAMOUNT+ HD",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
-      },
-      {
-        "title": "SPORT TV HD",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
-        "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI",
-        "title": "PREMIER SPORTS",
-        "type": "1"
-      },
-      {
-        "api": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "FUBO SPORTS",
-        "type": "1"
-      },
-      {
-        "api": "00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587",
-        "link": "https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd",
-        "logo": "",
-        "title": "ITALIA 1 FHD",
+        "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "beIN ENGLISH",
         "type": "1"
       },
       {
         "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
         "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
         "title": "CBS NETWORK",
         "type": "1"
-      },
-      {
-        "api": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
-        "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "D SPORTS FHD",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "https://messi.damitv.st/live-hls/channel/coppa-italia/2026-09-01/par-cre/playlist.m3u8?tk=yN1E5bJ-pTPx68XkNyubWg&e=1788320061|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36 Edg/152.0.0.0",
-        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw",
-        "title": "PARAMOUNT+ HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "https://tmaxapp.site/pt658svs/sporttv2.m3u8",
-        "logo": "",
-        "title": "SPORT TV HD",
-        "type": "0"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.41/hls/KBBBAAAAAAQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "LOW SERVER",
-        "type": "0"
       }
     ],
     "channel_status": "live"
   },
   {
     "id": 50097,
-    "title": "Hamburg vs Borussia Dortmund",
+    "title": "Millwall vs Wrexham",
     "image": "o",
-    "cat": "DFB Pokal",
+    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
     "eventInfo": {
-      "teamA": "HEBC Hamburg",
-      "teamB": "Dortmund",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/291525/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2673/image",
-      "eventName": "Hamburg Eimsbütteler vs Borussia Dortmund",
+      "teamA": "Millwall",
+      "teamB": "Wrexham",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/25/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/64/image",
+      "eventName": "Millwall vs Wrexham",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/01 18:45:00 +0000",
-      "endTime": "2026/09/01 20:50:00 +0000"
+      "startTime": "2026/09/02 18:45:00 +0000",
+      "endTime": "2026/09/02 20:50:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "ELEVEN SPORTS HD",
-      "ARENA PREMIUM HD",
-      "ZIGGO SPORTS HD",
-      "beIN SPORTS HD",
-      "TVP SPORT HD",
-      "DUDE Tv Live",
-      "LOW SERVER"
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
-        "title": "ELEVEN SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "ARENA PREMIUM HD",
-        "logo": ""
-      },
-      {
-        "title": "ZIGGO SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "beIN SPORTS HD",
-        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
-      },
-      {
-        "title": "TVP SPORT HD",
-        "logo": ""
-      },
-      {
         "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
         "logo": ""
       }
     ],
@@ -2641,110 +2787,23 @@
         "type": "0"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
     "id": 50098,
-    "title": "Stoke City vs Norwich City",
+    "title": "QPR vs Cardiff City",
     "image": "o",
     "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
     "eventInfo": {
-      "teamA": "Stoke",
-      "teamB": "Norwich",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/29/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/263/image",
-      "eventName": "Stoke City vs Norwich City",
+      "teamA": "QPR",
+      "teamB": "Cardiff",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/61/image",
+      "eventName": "Queens Park Rangers vs Cardiff City",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/01 19:00:00 +0000",
-      "endTime": "2026/09/01 21:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "beIN ENGLISH FHD",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "beIN ENGLISH FHD",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "beIN ENGLISH FHD",
-        "type": "1"
-      },
-      {
-        "api": "",
-        "link": "http://193.47.62.55/hls/SIIIQQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "LOW SERVER",
-        "type": "0"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50099,
-    "title": "West Ham vs Wolverhampton",
-    "image": "o",
-    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "West Ham",
-      "teamB": "Wolves",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/37/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3/image",
-      "eventName": "West Ham United vs Wolverhampton",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/01 18:45:00 +0000",
-      "endTime": "2026/09/01 20:50:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "CBS NETWORK"
-    ],
-    "formatsNew": [
-      {
-        "title": "CBS NETWORK",
-        "logo": ""
-      }
-    ],
-    "decoded_channels": [
-      {
-        "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "title": "CBS NETWORK",
-        "type": "1"
-      }
-    ],
-    "channel_status": "live"
-  },
-  {
-    "id": 50100,
-    "title": "Birmingham vs Southampton",
-    "image": "o",
-    "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-    "eventInfo": {
-      "teamA": "Birmingham",
-      "teamB": "Southampton",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/9/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/45/image",
-      "eventName": "Birmingham City vs Southampton",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/01 19:00:00 +0000",
-      "endTime": "2026/09/01 21:00:00 +0000"
+      "startTime": "2026/09/02 18:45:00 +0000",
+      "endTime": "2026/09/02 20:50:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -2768,34 +2827,114 @@
     "channel_status": "live"
   },
   {
-    "id": 50101,
-    "title": "Sheffield United vs Bolton",
+    "id": 50099,
+    "title": "West Brom vs Charlton",
     "image": "o",
     "cat": "Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
     "eventInfo": {
-      "teamA": "Sheffield Utd",
-      "teamB": "Bolton",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/15/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/5/image",
-      "eventName": "Sheffield United vs Bolton Wanderers",
+      "teamA": "West Brom",
+      "teamB": "Charlton",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/8/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/47/image",
+      "eventName": "West Bromwich Albion vs Charlton Athletic",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/01 18:45:00 +0000",
-      "endTime": "2026/09/01 20:45:00 +0000"
+      "startTime": "2026/09/02 18:45:00 +0000",
+      "endTime": "2026/09/02 20:50:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live",
-      "LOW SERVER"
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
         "title": "DUDE Tv Live",
         "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "",
+        "link": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14",
+        "title": "DUDE Tv Live",
+        "type": "0"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50100,
+    "title": "Falkirk FC vs Rangers",
+    "image": "o",
+    "cat": "Scottish Premiership",
+    "eventInfo": {
+      "teamA": "Falkirk",
+      "teamB": "Rangers",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2363/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2351/image",
+      "eventName": "Falkirk FC vs Rangers",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/02 19:00:00 +0000",
+      "endTime": "2026/09/02 21:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "beIN ENGLISH",
+      "SportDigital Fussball"
+    ],
+    "formatsNew": [
+      {
+        "title": "beIN ENGLISH",
+        "logo": ""
       },
       {
-        "title": "LOW SERVER",
+        "title": "SportDigital Fussball",
+        "logo": ""
+      }
+    ],
+    "decoded_channels": [
+      {
+        "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "beIN ENGLISH",
+        "type": "1"
+      },
+      {
+        "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "SportDigital Fussball",
+        "type": "1"
+      }
+    ],
+    "channel_status": "live"
+  },
+  {
+    "id": 50101,
+    "title": "Celtic vs Aberdeen",
+    "image": "o",
+    "cat": "Scottish Premiership",
+    "eventInfo": {
+      "teamA": "Celtic",
+      "teamB": "Aberdeen",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2352/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2355/image",
+      "eventName": "Celtic vs Aberdeen",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/02 18:45:00 +0000",
+      "endTime": "2026/09/02 20:50:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ],
@@ -2815,104 +2954,144 @@
         "type": "0"
       }
     ],
-    "channel_status": "live"
+    "channel_status": "cached"
   },
   {
     "id": 50102,
-    "title": "Al-Hilal vs Al-Ahli",
+    "title": "Udinese vs Venezia",
     "image": "o",
-    "cat": "Pro League 🇸🇦",
+    "cat": "Coppa Italia 🇮🇹",
     "eventInfo": {
-      "teamA": "Al-Hilal",
-      "teamB": "Al-Ahli",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/21895/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/34469/image",
-      "eventName": "Al-Hilal vs Al-Ahli",
+      "teamA": "Udinese",
+      "teamB": "Venezia",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2695/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2688/image",
+      "eventName": "Udinese vs Venezia",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/01 18:00:00 +0000",
-      "endTime": "2026/09/01 20:05:00 +0000"
+      "startTime": "2026/09/02 16:00:00 +0000",
+      "endTime": "2026/09/02 18:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "FOX SPORTS FHD",
-      "FOX DEPORTES",
-      "DUDE Tv Live"
+      "PREMIER SPORTS",
+      "FUBO SPORTS",
+      "CBS NETWORK",
+      "D Sports FHD",
+      "ITALIA 1 FHD"
     ],
     "formatsNew": [
       {
-        "title": "FOX SPORTS FHD",
+        "title": "PREMIER SPORTS",
         "logo": ""
       },
       {
-        "title": "FOX DEPORTES",
+        "title": "FUBO SPORTS",
         "logo": ""
       },
       {
-        "title": "DUDE Tv Live",
+        "title": "CBS NETWORK",
+        "logo": ""
+      },
+      {
+        "title": "D Sports FHD",
+        "logo": ""
+      },
+      {
+        "title": "ITALIA 1 FHD",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
-        "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "FOX SPORTS FHD",
+        "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "PREMIER SPORTS",
         "type": "1"
       },
       {
-        "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-        "logo": "",
-        "title": "FOX DEPORTES",
+        "api": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "FUBO SPORTS",
         "type": "1"
       },
       {
-        "api": "",
-        "link": "https://chatgpt.hereisman.net/playlist/55603/load-playlist?|Referer=https://gooz.aapmains.net",
-        "logo": "",
-        "title": "DUDE Tv Live",
-        "type": "0"
+        "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "CBS NETWORK",
+        "type": "1"
+      },
+      {
+        "api": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
+        "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "D Sports FHD",
+        "type": "1"
+      },
+      {
+        "api": "00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587",
+        "link": "https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd",
+        "title": "ITALIA 1 FHD",
+        "type": "1"
       }
     ],
     "channel_status": "live"
   },
   {
     "id": 50103,
-    "title": "Leicester City vs Plymouth Argyle",
+    "title": "Sassuolo vs Frosinone",
     "image": "o",
-    "cat": "League One 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "cat": "Coppa Italia 🇮🇹",
     "eventInfo": {
-      "teamA": "Leicester City",
-      "teamB": "Plymouth Argyle",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/31/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/71/image",
-      "eventName": "Leicester City vs Plymouth Argyle",
+      "teamA": "Sassuolo",
+      "teamB": "Frosinone",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2793/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2801/image",
+      "eventName": "Sassuolo vs Frosinone",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/01 18:45:00 +0000",
-      "endTime": "2026/09/01 20:50:00 +0000"
+      "startTime": "2026/09/02 13:00:00 +0000",
+      "endTime": "2026/09/02 15:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "LOW SERVER "
+      "PREMIER SPORTS",
+      "D Sports FHD",
+      "ITALIA 1 FHD"
     ],
     "formatsNew": [
       {
-        "title": "LOW SERVER ",
+        "title": "PREMIER SPORTS",
+        "logo": ""
+      },
+      {
+        "title": "D Sports FHD",
+        "logo": ""
+      },
+      {
+        "title": "ITALIA 1 FHD",
         "logo": ""
       }
     ],
     "decoded_channels": [
       {
-        "api": "",
-        "link": "http://193.47.62.57/hls/CIIIQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-        "logo": "",
-        "title": "LOW SERVER ",
-        "type": "0"
+        "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+        "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "PREMIER SPORTS",
+        "type": "1"
+      },
+      {
+        "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
+        "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+        "title": "D Sports FHD",
+        "type": "1"
+      },
+      {
+        "api": "00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587",
+        "link": "https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd",
+        "title": "ITALIA 1 FHD",
+        "type": "1"
       }
     ],
     "channel_status": "live"
