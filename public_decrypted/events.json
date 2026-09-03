@@ -718,11 +718,26 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv Live"
+      "WILLOW - FHD",
+      "SKY CRICKET - AQ",
+      "FOX CRICKET HD",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv Live",
+        "title": "WILLOW - FHD",
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
+      },
+      {
+        "title": "SKY CRICKET - AQ",
+        "logo": ""
+      },
+      {
+        "title": "FOX CRICKET HD",
+        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
