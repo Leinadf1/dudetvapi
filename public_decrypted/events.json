@@ -586,8 +586,8 @@
       "eventType": "null",
       "eventBanner": "https://wsrv.nl/?url=https://iili.io/n9UupwX.png",
       "isHot": "0",
-      "startTime": "2026/09/02 15:00:00 +0000",
-      "endTime": "2026/09/03 03:00:00 +0000"
+      "startTime": "2026/09/03 15:00:00 +0000",
+      "endTime": "2026/09/04 03:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -637,153 +637,6 @@
     ]
   },
   {
-    "id": 50032,
-    "title": "Miami Marlins",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Royals",
-      "teamB": "Marlins",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3651/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3639/image",
-      "eventName": "Kansas City Royals vs Miami Marlins",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/02 23:40:00 +0000",
-      "endTime": "2026/09/03 02:40:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv MLB",
-      "DUDE Tv LIVE",
-      "MLB LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv LIVE",
-        "logo": ""
-      },
-      {
-        "title": "MLB LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50033,
-    "title": "Minnesota Twins",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Twins",
-      "teamB": "Tigers",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3649/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3648/image",
-      "eventName": "Minnesota Twins vs Detroit Tigers",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/02 23:40:00 +0000",
-      "endTime": "2026/09/03 02:40:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv MLB",
-      "DUDE Tv Live",
-      "MLB LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "MLB LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50034,
-    "title": "Chicago White Sox",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Astros",
-      "teamB": "White Sox",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3655/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3644/image",
-      "eventName": "Houston Astros vs Chicago White Sox",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/03 00:10:00 +0000",
-      "endTime": "2026/09/03 03:10:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv MLB",
-      "DUDE Tv Live",
-      "MLB LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "MLB LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50052,
-    "title": "New York Yankees",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Angels",
-      "teamB": "Yankees",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/5929/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3654/image",
-      "eventName": "Los Angeles Angels vs New York Yankees",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/03 01:38:00 +0000",
-      "endTime": "2026/09/03 04:38:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "MLB LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "MLB LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50053,
     "title": "Los Angeles Dodgers",
     "image": "o",
@@ -802,10 +655,15 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
+      {
+        "title": "DUDE Tv MLB",
+        "logo": ""
+      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -818,19 +676,19 @@
   },
   {
     "id": 50059,
-    "title": "Sri Lanka W vs Indonesia W",
+    "title": "India W vs Hong Kong W",
     "image": "o",
     "cat": "Asia Cup",
     "eventInfo": {
-      "teamA": "SL-W",
-      "teamB": "INA-W",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/187806/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/454472/image",
-      "eventName": "Sri Lanka Women vs Indonesia Women",
+      "teamA": "IND-W",
+      "teamB": "HK-W",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/213119/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/187796/image",
+      "eventName": "India Women vs Hong Kong C.",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/02 14:30:00 +0000",
-      "endTime": "2026/09/02 18:15:00 +0000"
+      "startTime": "2026/09/03 14:30:00 +0000",
+      "endTime": "2026/09/03 18:15:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -920,8 +778,8 @@
       "eventName": "European T20 Premier League",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/02 09:30:00 +0000",
-      "endTime": "2026/09/02 17:30:00 +0000"
+      "startTime": "2026/09/03 13:15:00 +0000",
+      "endTime": "2026/09/03 17:30:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -984,45 +842,7 @@
     ]
   },
   {
-    "id": 50081,
-    "title": "Guardians vs Blue Jays",
-    "image": "o",
-    "cat": "MLB",
-    "eventInfo": {
-      "teamA": "Guardians",
-      "teamB": "Blue Jays",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3650/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3642/image",
-      "eventName": "Cleveland Guardians vs Blue Jays",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/02 22:40:00 +0000",
-      "endTime": "2026/09/03 01:40:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv MLB",
-      "DUDE Tv Live",
-      "MLB LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "MLB LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50082,
+    "id": 50075,
     "title": "Pittsburgh Pirates vs Giants",
     "image": "o",
     "cat": "MLB",
@@ -1034,21 +854,16 @@
       "eventName": "Pittsburgh Pirates vs San Francisco Giants",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/02 22:40:00 +0000",
-      "endTime": "2026/09/03 01:40:00 +0000"
+      "startTime": "2026/09/03 16:35:00 +0000",
+      "endTime": "2026/09/03 19:35:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1060,33 +875,28 @@
     ]
   },
   {
-    "id": 50083,
-    "title": "Rays vs New York Mets",
+    "id": 50076,
+    "title": "Guardians vs Toronto Blue Jays",
     "image": "o",
     "cat": "MLB",
     "eventInfo": {
-      "teamA": "Rays",
-      "teamB": "Mets",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3653/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3629/image",
-      "eventName": "Tampa Bay Rays vs New York Mets",
+      "teamA": "Guardians",
+      "teamB": "Blue Jays",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3650/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3642/image",
+      "eventName": "Cleveland Guardians vs Toronto Blue Jays",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/02 22:40:00 +0000",
-      "endTime": "2026/09/03 01:40:00 +0000"
+      "startTime": "2026/09/03 17:10:00 +0000",
+      "endTime": "2026/09/03 20:10:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
-      {
-        "title": "DUDE Tv MLB",
-        "logo": ""
-      },
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1098,33 +908,61 @@
     ]
   },
   {
-    "id": 50084,
-    "title": "Chicago Cubs vs Brewers",
+    "id": 50077,
+    "title": "Houston Astros vs White Sox",
     "image": "o",
     "cat": "MLB",
     "eventInfo": {
-      "teamA": "Cubs",
-      "teamB": "Brewers",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/3627/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/3630/image",
-      "eventName": "Chicago Cubs vs Milwaukee Brewers",
+      "teamA": "Astros",
+      "teamB": "White Sox",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3655/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3644/image",
+      "eventName": "Houston Astros vs Chicago White Sox",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/02 23:40:00 +0000",
-      "endTime": "2026/09/03 02:40:00 +0000"
+      "startTime": "2026/09/03 18:10:00 +0000",
+      "endTime": "2026/09/03 21:10:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "DUDE Tv MLB",
       "DUDE Tv Live",
       "MLB LIVE [FHD]"
     ],
     "formatsNew": [
       {
-        "title": "DUDE Tv MLB",
+        "title": "DUDE Tv Live",
         "logo": ""
       },
+      {
+        "title": "MLB LIVE [FHD]",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50078,
+    "title": "Baltimore Orioles vs Red Sox",
+    "image": "o",
+    "cat": "MLB",
+    "eventInfo": {
+      "teamA": "Orioles",
+      "teamB": "Red Sox",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/3652/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/3646/image",
+      "eventName": "Baltimore Orioles vs Boston Red Sox",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/03 23:15:00 +0000",
+      "endTime": "2026/09/04 02:15:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live",
+      "MLB LIVE [FHD]"
+    ],
+    "formatsNew": [
       {
         "title": "DUDE Tv Live",
         "logo": ""
@@ -1179,34 +1017,6 @@
     ]
   },
   {
-    "id": 50087,
-    "title": "Toluca vs Club León",
-    "image": "o",
-    "cat": "Leagues Cup",
-    "eventInfo": {
-      "teamA": "Toluca",
-      "teamB": "León",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1931/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/36534/image",
-      "eventName": "CD Toluca vs Club León",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/03 01:00:00 +0000",
-      "endTime": "2026/09/03 03:05:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "SPX LIVE [FHD]"
-    ],
-    "formatsNew": [
-      {
-        "title": "SPX LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50088,
     "title": "Club América vs Monterrey",
     "image": "o",
@@ -1225,82 +1035,16 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "DUDE Tv Live",
       "SPX LIVE [FHD]"
     ],
     "formatsNew": [
       {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
         "title": "SPX LIVE [FHD]",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50089,
-    "title": "Santos vs Palmeiras",
-    "image": "o",
-    "cat": "Copa do Brasil",
-    "eventInfo": {
-      "teamA": "Santos",
-      "teamB": "Palmeiras",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1968/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1963/image",
-      "eventName": "Santos vs Palmeiras",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/03 00:30:00 +0000",
-      "endTime": "2026/09/03 02:35:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PREMIER SPORTS",
-      "PREMIERER BR",
-      "SporTV BR",
-      "D Sports FHD"
-    ],
-    "formatsNew": [
-      {
-        "title": "PREMIER SPORTS",
-        "logo": ""
-      },
-      {
-        "title": "PREMIERER BR",
-        "logo": ""
-      },
-      {
-        "title": "SporTV BR",
-        "logo": ""
-      },
-      {
-        "title": "D Sports FHD",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50090,
-    "title": "Vitória vs Vasco",
-    "image": "o",
-    "cat": "Copa do Brasil",
-    "eventInfo": {
-      "teamA": "Vitória",
-      "teamB": "Vasco",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1962/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1974/image",
-      "eventName": "Vitória vs Vasco da Gama",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/03 00:30:00 +0000",
-      "endTime": "2026/09/03 02:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PREMIERER BR"
-    ],
-    "formatsNew": [
-      {
-        "title": "PREMIERER BR",
         "logo": ""
       }
     ]
@@ -1373,28 +1117,229 @@
   },
   {
     "id": 50095,
-    "title": "Flamengo vs Mirassol",
+    "title": "Real Sociedad vs Celta Vigo",
     "image": "o",
-    "cat": "Brasileirão",
+    "cat": "LaLiga 🇪🇸",
     "eventInfo": {
-      "teamA": "Flamengo",
-      "teamB": "Mirassol",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/5981/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/21982/image",
-      "eventName": "Flamengo vs Mirassol",
+      "teamA": "Real Sociedad",
+      "teamB": "Celta",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2824/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2821/image",
+      "eventName": "Real Sociedad vs Celta Vigo",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/02 22:30:00 +0000",
-      "endTime": "2026/09/03 00:35:00 +0000"
+      "startTime": "2026/09/03 19:00:00 +0000",
+      "endTime": "2026/09/03 21:05:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "PREMIERER BR"
+      "DUDE Tv Live"
     ],
     "formatsNew": [
       {
-        "title": "PREMIERER BR",
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50096,
+    "title": "Toulouse vs Lille",
+    "image": "o",
+    "cat": "Serie A 🇮🇹",
+    "eventInfo": {
+      "teamA": "Toulouse",
+      "teamB": "Lille",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1681/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1643/image",
+      "eventName": "Toulouse vs Lille",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/03 18:45:00 +0000",
+      "endTime": "2026/09/03 20:45:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50097,
+    "title": "Hibernian vs Hearts",
+    "image": "o",
+    "cat": "Scottish Premiership",
+    "eventInfo": {
+      "teamA": "Hibernian",
+      "teamB": "Hearts",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2354/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2353/image",
+      "eventName": "Hibernian vs Heart of Midlothian",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/03 18:45:00 +0000",
+      "endTime": "2026/09/03 20:45:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50098,
+    "title": "Cagliari vs Hellas Verona",
+    "image": "o",
+    "cat": "Coppa Italia 🇮🇹",
+    "eventInfo": {
+      "teamA": "Cagliari",
+      "teamB": "Verona",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2719/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2701/image",
+      "eventName": "Cagliari vs Hellas Verona",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/03 19:00:00 +0000",
+      "endTime": "2026/09/03 21:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50099,
+    "title": "Al Diriyah vs Al-Qadsiah",
+    "image": "o",
+    "cat": "Pro League 🇸🇦",
+    "eventInfo": {
+      "teamA": "Al Diriyah",
+      "teamB": "Al-Qadsiah",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/853574/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/56027/image",
+      "eventName": "Al Diriyah vs Al-Qadsiah",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/03 18:00:00 +0000",
+      "endTime": "2026/09/03 20:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "FOX DEPORTES",
+      "SporTV BR"
+    ],
+    "formatsNew": [
+      {
+        "title": "FOX DEPORTES",
+        "logo": ""
+      },
+      {
+        "title": "SporTV BR",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50100,
+    "title": "Neom SC vs Al-Khaleej",
+    "image": "o",
+    "cat": "Pro League 🇸🇦",
+    "eventInfo": {
+      "teamA": "Neom",
+      "teamB": "Al-Khaleej",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/530631/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/167228/image",
+      "eventName": "Neom SC vs Al-Khaleej",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/03 16:30:00 +0000",
+      "endTime": "2026/09/03 18:30:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50101,
+    "title": "Al-Fayha vs Al-Kholood",
+    "image": "o",
+    "cat": "Pro League 🇸🇦",
+    "eventInfo": {
+      "teamA": "Al-Fayha",
+      "teamB": "Al-Kholood",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/168094/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/269199/image",
+      "eventName": "Al-Fayha vs Al-Kholood",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/03 15:55:00 +0000",
+      "endTime": "2026/09/03 17:55:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "id": 50102,
+    "title": "Palermo vs Mantova",
+    "image": "o",
+    "cat": "Coppa Italia 🇮🇹",
+    "eventInfo": {
+      "teamA": "Palermo",
+      "teamB": "Mantova",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/2715/image",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/2770/image",
+      "eventName": "Palermo vs Mantova",
+      "eventType": "null",
+      "isHot": "0",
+      "startTime": "2026/09/03 16:00:00 +0000",
+      "endTime": "2026/09/03 18:00:00 +0000"
+    },
+    "adsLimit": "0",
+    "publish": "1",
+    "formats": [
+      "DUDE Tv Live"
+    ],
+    "formatsNew": [
+      {
+        "title": "DUDE Tv Live",
         "logo": ""
       }
     ]
