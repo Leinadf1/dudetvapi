@@ -371,8 +371,8 @@
       "eventName": "AEW Dynamite",
       "eventType": "null",
       "isHot": "0",
-      "startTime": "2026/09/03 00:00:00 +0000",
-      "endTime": "2026/09/03 02:00:00 +0000"
+      "startTime": "2026/09/10 00:00:00 +0000",
+      "endTime": "2026/09/10 02:00:00 +0000"
     },
     "adsLimit": "0",
     "publish": "1",
@@ -802,112 +802,6 @@
     ]
   },
   {
-    "id": 50059,
-    "title": "India W vs Hong Kong W",
-    "image": "o",
-    "cat": "Asia Cup",
-    "eventInfo": {
-      "teamA": "IND-W",
-      "teamB": "HK-W",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/213119/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187796/image",
-      "eventName": "India Women vs Hong Kong C.",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/03 14:30:00 +0000",
-      "endTime": "2026/09/03 18:15:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "WILLOW - FHD",
-      "WILLOW - ALT",
-      "T SPORTS HD",
-      "SonyLiv - English",
-      "SonyLiv - Hindi",
-      "SonyLiv - Tamil",
-      "SonyLiv - Telugu",
-      "SonyLiv - Kannada"
-    ],
-    "formatsNew": [
-      {
-        "title": "WILLOW - FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "WILLOW - ALT",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "T SPORTS HD",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv - English",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv - Hindi",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv - Tamil",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv - Telugu",
-        "logo": ""
-      },
-      {
-        "title": "SonyLiv - Kannada",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50060,
-    "title": "England W vs Ireland W",
-    "image": "o",
-    "cat": "Cricket",
-    "eventInfo": {
-      "teamA": "ENG-W",
-      "teamB": "IRE-W",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/213121/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/213116/image",
-      "eventName": "England Women vs Ireland Women",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/03 12:00:00 +0000",
-      "endTime": "2026/09/03 18:40:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "WILLOW - FHD",
-      "SKY CRICKET - AQ",
-      "FOX CRICKET HD",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "WILLOW - FHD",
-        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      },
-      {
-        "title": "SKY CRICKET - AQ",
-        "logo": ""
-      },
-      {
-        "title": "FOX CRICKET HD",
-        "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mMJL3P-vcTLif2h4V_S17ksNozzOICQKXMMmfdowlx9Q=s900-c-k-c0x00ffffff-no-rj"
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "id": 50061,
     "title": "ETPL",
     "image": "o",
@@ -952,34 +846,6 @@
       {
         "title": "WILLOW HD",
         "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
-      }
-    ]
-  },
-  {
-    "id": 50062,
-    "title": "Namibia vs Zimbabwe",
-    "image": "o",
-    "cat": "Cricket",
-    "eventInfo": {
-      "teamA": "NAM",
-      "teamB": "ZIM",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/199275/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/187745/image",
-      "eventName": "Namibia vs Zimbabwe",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/03 12:00:00 +0000",
-      "endTime": "2026/09/03 15:45:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "FANCODE - FHD"
-    ],
-    "formatsNew": [
-      {
-        "title": "FANCODE - FHD",
-        "logo": ""
       }
     ]
   },
@@ -1149,19 +1015,14 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "WILLOW - FHD",
       "TNT SPORTS FHD",
       "TAPMAD FHD",
       "WILLOW HD"
     ],
     "formatsNew": [
       {
-        "title": "WILLOW - FHD",
-        "logo": ""
-      },
-      {
         "title": "TNT SPORTS FHD",
-        "logo": ""
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10"
       },
       {
         "title": "TAPMAD FHD",
@@ -1169,7 +1030,7 @@
       },
       {
         "title": "WILLOW HD",
-        "logo": ""
+        "logo": "https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png"
       }
     ]
   },
@@ -1194,12 +1055,16 @@
     "formats": [
       "PREMIER SPORTS",
       "beIN ENGLISH",
-      "FANCODE FHD"
+      "FANCODE FHD",
+      "D Sports FHD",
+      "ESPN DEPORTES HD",
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
       {
         "title": "PREMIER SPORTS",
-        "logo": ""
+        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
       },
       {
         "title": "beIN ENGLISH",
@@ -1207,6 +1072,22 @@
       },
       {
         "title": "FANCODE FHD",
+        "logo": "https://m.media-amazon.com/images/I/21K+HipHr6L.png"
+      },
+      {
+        "title": "D Sports FHD",
+        "logo": ""
+      },
+      {
+        "title": "ESPN DEPORTES HD",
+        "logo": ""
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1258,11 +1139,56 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
-      "beIN SPORTS HD"
+      "beIN Sports FHD",
+      "DUDE Tv Live",
+      "ARENA SPORTS HD",
+      "beIN SPORTS HD",
+      "DAZN SPORTS HD",
+      "SPORT TV HD",
+      "LIGUE1+ HD",
+      "beiN SPORTS USA",
+      "beiN SPORTS ES",
+      "HD SERVER"
     ],
     "formatsNew": [
       {
+        "title": "beIN Sports FHD",
+        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "ARENA SPORTS HD",
+        "logo": ""
+      },
+      {
         "title": "beIN SPORTS HD",
+        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
+      },
+      {
+        "title": "DAZN SPORTS HD",
+        "logo": ""
+      },
+      {
+        "title": "SPORT TV HD",
+        "logo": ""
+      },
+      {
+        "title": "LIGUE1+ HD",
+        "logo": ""
+      },
+      {
+        "title": "beiN SPORTS USA",
+        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
+      },
+      {
+        "title": "beiN SPORTS ES",
+        "logo": "https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg"
+      },
+      {
+        "title": "HD SERVER",
         "logo": ""
       }
     ]
@@ -1286,11 +1212,17 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PARAMOUNT+ FHD",
       "PREMIER SPORTS",
       "beIN ENGLISH",
-      "SportDigital Fussball"
+      "SportDigital Fussball",
+      "Premier Sports HD"
     ],
     "formatsNew": [
+      {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
       {
         "title": "PREMIER SPORTS",
         "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
@@ -1302,6 +1234,10 @@
       {
         "title": "SportDigital Fussball",
         "logo": ""
+      },
+      {
+        "title": "Premier Sports HD",
+        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
       }
     ]
   },
@@ -1324,12 +1260,20 @@
     "adsLimit": "0",
     "publish": "1",
     "formats": [
+      "PARAMOUNT+ FHD",
       "FUBO SPORTS",
       "CBS NETWORK",
       "ITALIA 1",
-      "D Sports FHD"
+      "D Sports FHD",
+      "CBS SPORTS",
+      "DUDE Tv Live",
+      "LOW SERVER"
     ],
     "formatsNew": [
+      {
+        "title": "PARAMOUNT+ FHD",
+        "logo": "https://play-lh.googleusercontent.com/uGA0LQgKgpxcG8Dz8haVYKs1KZTUnPu5hGhcGmXyaVXFLS-yn1LLnECUG6lb4aZVMw"
+      },
       {
         "title": "FUBO SPORTS",
         "logo": ""
@@ -1344,6 +1288,18 @@
       },
       {
         "title": "D Sports FHD",
+        "logo": ""
+      },
+      {
+        "title": "CBS SPORTS",
+        "logo": "https://iili.io/BtCdabj.png"
+      },
+      {
+        "title": "DUDE Tv Live",
+        "logo": ""
+      },
+      {
+        "title": "LOW SERVER",
         "logo": ""
       }
     ]
@@ -1394,125 +1350,6 @@
       {
         "title": "beiN ARABIC HD",
         "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50100,
-    "title": "Neom SC vs Al-Khaleej",
-    "image": "o",
-    "cat": "Pro League 🇸🇦",
-    "eventInfo": {
-      "teamA": "Neom",
-      "teamB": "Al-Khaleej",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/530631/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/167228/image",
-      "eventName": "Neom SC vs Al-Khaleej",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/03 16:30:00 +0000",
-      "endTime": "2026/09/03 18:30:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "Sport Live",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "Sport Live",
-        "logo": ""
-      },
-      {
-        "title": "LOW SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50101,
-    "title": "Al-Fayha vs Al-Kholood",
-    "image": "o",
-    "cat": "Pro League 🇸🇦",
-    "eventInfo": {
-      "teamA": "Al-Fayha",
-      "teamB": "Al-Kholood",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/168094/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/269199/image",
-      "eventName": "Al-Fayha vs Al-Kholood",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/03 15:55:00 +0000",
-      "endTime": "2026/09/03 17:55:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "DUDE Tv Live",
-      "SD SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "DUDE Tv Live",
-        "logo": ""
-      },
-      {
-        "title": "SD SERVER",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "id": 50102,
-    "title": "Palermo vs Mantova",
-    "image": "o",
-    "cat": "Coppa Italia 🇮🇹",
-    "eventInfo": {
-      "teamA": "Palermo",
-      "teamB": "Mantova",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/2715/image",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/2770/image",
-      "eventName": "Palermo vs Mantova",
-      "eventType": "null",
-      "isHot": "0",
-      "startTime": "2026/09/03 16:00:00 +0000",
-      "endTime": "2026/09/03 18:00:00 +0000"
-    },
-    "adsLimit": "0",
-    "publish": "1",
-    "formats": [
-      "PREMIER SPORTS",
-      "CBS NETWORK",
-      "D Sports FHD",
-      "ITALIA 1",
-      "PREMIER SPORTS HD",
-      "LOW SERVER"
-    ],
-    "formatsNew": [
-      {
-        "title": "PREMIER SPORTS",
-        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
-      },
-      {
-        "title": "CBS NETWORK",
-        "logo": ""
-      },
-      {
-        "title": "D Sports FHD",
-        "logo": ""
-      },
-      {
-        "title": "ITALIA 1",
-        "logo": ""
-      },
-      {
-        "title": "PREMIER SPORTS HD",
-        "logo": "https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI"
       },
       {
         "title": "LOW SERVER",
