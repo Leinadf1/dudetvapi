@@ -1,9 +1,7 @@
-name: Run Feed Processor
+name: Run Feed Processor (Manuale)
 
 on:
-  schedule:
-    - cron: '0 * * * *'   # ogni ora
-  workflow_dispatch:      # manuale
+  workflow_dispatch:      # Solo esecuzione manuale
 
 jobs:
   run-processor:
@@ -27,7 +25,7 @@ jobs:
     - name: Install Dependencies
       run: |
         pip install -r requirements.txt
-        pip install pycryptodome requests   # aggiungi requests se non c'è
+        pip install pycryptodome requests   # necessario per update_gist.py
 
     - name: Enable KVM group perms
       run: |
@@ -59,7 +57,7 @@ jobs:
       run: |
         python update_gist.py
       env:
-        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}   # <-- il tuo secret
+        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}   # il tuo PAT con scope gist
 
     - name: Commit and Push Decrypted Files
       run: |
