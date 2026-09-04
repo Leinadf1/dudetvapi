@@ -2,8 +2,8 @@ name: Run Feed Processor
 
 on:
   schedule:
-    - cron: '0 * * * *'   # Runs every 1 hour
-  workflow_dispatch:      # Allows manual trigger
+    - cron: '0 * * * *'   # ogni ora
+  workflow_dispatch:      # manuale
 
 jobs:
   run-processor:
@@ -27,6 +27,7 @@ jobs:
     - name: Install Dependencies
       run: |
         pip install -r requirements.txt
+        pip install pycryptodome requests   # aggiungi requests se non c'è
 
     - name: Enable KVM group perms
       run: |
@@ -34,7 +35,7 @@ jobs:
         sudo udevadm control --reload-rules
         sudo udevadm trigger --name-match=kvm
 
-    - name: Run Emulator and Decrypt
+    - name: Run Emulator and Decrypt (solo 50002)
       uses: reactivecircus/android-emulator-runner@v2
       with:
         api-level: 33
@@ -47,19 +48,23 @@ jobs:
           # Unlock emulator screen
           adb shell wm dismiss-keyguard
           
-          # 1. Install official SportzX v3.2 APK (renamed to dudetv_3.2v.apk) granting all permissions
+          # Install APK
           adb install -g dudetv_3.2v.apk
-          
-          # Explicitly grant POST_NOTIFICATIONS for Android 13+ safety
           adb shell pm grant com.sportzx.live android.permission.POST_NOTIFICATIONS || true
           
-          # 2. Run the decryption and scraper script
+          # Esegui lo script modificato (solo 50002)
           python fetch_and_decrypt.py
+
+    - name: Convert JSON to M3U and Update Gist
+      run: |
+        python update_gist.py
+      env:
+        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}   # <-- il tuo secret
 
     - name: Commit and Push Decrypted Files
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git add -f public_decrypted/ config.json
-        git commit -m "chore: update decrypted data feeds [skip ci]" || exit 0
+        git add -f public_decrypted/channels/50002.json
+        git commit -m "chore: update 50002.json [skip ci]" || exit 0
         git push
